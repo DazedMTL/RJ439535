@@ -4898,7 +4898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Forest road> I don't hear many good rumors about you,\nyou know? What kind of favor do you want from me?"
+                                "\\N<Forest road> I don't hear many good rumors about you, you\nknow? What kind of favor do you want from me?"
                             ]
                         },
                         {
@@ -5268,7 +5268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Forest road> I don't have a reason to cooperate with\nyou."
+                                "\\N<Forest road> I don't have a reason to cooperate with you."
                             ]
                         },
                         {
@@ -5336,7 +5336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> You haven't heard any good rumors either...\nForest road."
+                                "\\N<Omura> You haven't heard any good rumors either... Forest\nroad."
                             ]
                         },
                         {
@@ -5370,7 +5370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> I've been turning a blind eye for times like\nthis."
+                                "\\N<Omura> I've been turning a blind eye for times like this."
                             ]
                         },
                         {
@@ -5472,7 +5472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> You're a good student who understands things\nwell. I'm grateful."
+                                "\\N<Omura> You're a good student who understands things well.\nI'm grateful."
                             ]
                         },
                         {

@@ -7279,7 +7279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Beautiful police officer> You should go home before it\ngets dark, okay? Otherwise, big sister might eat you up\n<K♥>"
+                                "\\N<Beautiful police officer> You should go home before it\ngets dark, okay? Otherwise, big sister might eat you up <K♥>"
                             ]
                         },
                         {
@@ -7965,8 +7965,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8072,7 +8072,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female> I'm not good at memorizing~ It feels like it\ngoes in one ear and out the other!"
+                                "\\N<Female> I'm not good at memorizing~ It feels like it goes\nin one ear and out the other!"
                             ]
                         },
                         {
@@ -8349,8 +8349,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8927,7 +8927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Somehow... I ended up doing something incredible in the\nheat of the moment."
+                                "Somehow... I ended up doing something incredible in the heat\nof the moment."
                             ]
                         },
                         {
@@ -9132,7 +9132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's Friend B> We still have time, so how about going\nto karaoke?"
+                                "\\N<Aki's Friend B> We still have time, so how about going to\nkaraoke?"
                             ]
                         },
                         {

@@ -2452,8 +2452,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "何言ってんだ？もう夏休みだろ？",
-                                    "起こしてくれてありがとう"
+                                    "What are you talking about? It's already summer vacation, right?",
+                                    "Thank you for waking me up"
                                 ],
                                 1,
                                 0,
@@ -2657,7 +2657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...Anyway! Hurry up and get ready or we'll\nbe late for school!"
+                                "\\N<Hinata Aki> ...Anyway! Hurry up and get ready or we'll be\nlate for school!"
                             ]
                         },
                         {
@@ -2708,7 +2708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Don't be too late, okay? If you're late,\nI'll go ahead without you."
+                                "\\N<Hinata Aki> Don't be too late, okay? If you're late, I'll\ngo ahead without you."
                             ]
                         },
                         {
@@ -3313,7 +3313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> If you do your best on today's test, it'll\nbe summer vacation!"
+                                "\\N<Hinata Aki> If you do your best on today's test, it'll be\nsummer vacation!"
                             ]
                         },
                         {
@@ -5888,8 +5888,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 1,
@@ -6175,8 +6175,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 1,
@@ -6456,8 +6456,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 1,
@@ -8114,7 +8114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> We go together every year... What's the\nmatter? Inviting me so formally..."
+                                "<Hinata Aki> We go together every year... What's the matter?\nInviting me so formally..."
                             ]
                         },
                         {
@@ -9651,8 +9651,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月2日",
-                                    "閉じる"
+                                    "82nd of the month",
+                                    "Close"
                                 ],
                                 1,
                                 0,
@@ -9799,9 +9799,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月2日",
-                                    "8月5日",
-                                    "閉じる"
+                                    "82nd of the month",
+                                    "85th of the month",
+                                    "Close"
                                 ],
                                 2,
                                 0,
@@ -10026,10 +10026,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月2日",
-                                    "8月5日",
-                                    "8月8日",
-                                    "閉じる"
+                                    "82nd of the month",
+                                    "85th of the month",
+                                    "88th of the month",
+                                    "Close"
                                 ],
                                 3,
                                 0,
@@ -10323,11 +10323,11 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月2日",
-                                    "8月5日",
-                                    "8月8日",
-                                    "8月12日",
-                                    "閉じる"
+                                    "82nd of the month",
+                                    "85th of the month",
+                                    "88th of the month",
+                                    "812th of the month",
+                                    "Close"
                                 ],
                                 4,
                                 0,
@@ -10708,12 +10708,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月2日",
-                                    "8月5日",
-                                    "8月8日",
-                                    "8月12日",
-                                    "8月16日",
-                                    "とじる"
+                                    "82nd of the month",
+                                    "85th of the month",
+                                    "88th of the month",
+                                    "812th of the month",
+                                    "816th of the month",
+                                    "Close"
                                 ],
                                 5,
                                 0,
@@ -11172,12 +11172,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月2日",
-                                    "8月5日",
-                                    "8月8日",
-                                    "8月12日",
-                                    "8月16日",
-                                    "次へ"
+                                    "82nd of the month",
+                                    "85th of the month",
+                                    "88th of the month",
+                                    "812th of the month",
+                                    "816th of the month",
+                                    "Next"
                                 ],
                                 -1,
                                 0,
@@ -11588,8 +11588,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "8月20日",
-                                    "閉じる"
+                                    "820th of the month",
+                                    "Close"
                                 ],
                                 1,
                                 0,
@@ -11826,8 +11826,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月1日",
-                                    "閉じる"
+                                    "81st of the month",
+                                    "Close"
                                 ],
                                 1,
                                 0,
@@ -11981,9 +11981,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月1日",
-                                    "8月5日",
-                                    "閉じる"
+                                    "81st of the month",
+                                    "85th of the month",
+                                    "Close"
                                 ],
                                 2,
                                 0,
@@ -12233,10 +12233,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月1日",
-                                    "8月5日",
-                                    "8月8日",
-                                    "閉じる"
+                                    "81st of the month",
+                                    "85th of the month",
+                                    "88th of the month",
+                                    "Close"
                                 ],
                                 3,
                                 0,
@@ -12573,11 +12573,11 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月1日",
-                                    "8月5日",
-                                    "8月8日",
-                                    "8月13日",
-                                    "閉じる"
+                                    "81st of the month",
+                                    "85th of the month",
+                                    "88th of the month",
+                                    "813th of the month",
+                                    "Close"
                                 ],
                                 4,
                                 0,
@@ -13001,12 +13001,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月1日",
-                                    "8月5日",
-                                    "8月8日",
-                                    "8月13日",
-                                    "8月17日",
-                                    "閉じる"
+                                    "81st of the month",
+                                    "85th of the month",
+                                    "88th of the month",
+                                    "813th of the month",
+                                    "817th of the month",
+                                    "Close"
                                 ],
                                 5,
                                 0,
@@ -13508,12 +13508,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "8月1日",
-                                    "8月5日",
-                                    "8月8日",
-                                    "8月13日",
-                                    "8月17日",
-                                    "次へ"
+                                    "81st of the month",
+                                    "85th of the month",
+                                    "88th of the month",
+                                    "813th of the month",
+                                    "817th of the month",
+                                    "Next"
                                 ],
                                 -1,
                                 0,
@@ -13976,8 +13976,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月21日",
-                                    "閉じる"
+                                    "821st of the month",
+                                    "Close"
                                 ],
                                 1,
                                 0,
@@ -14213,8 +14213,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月2日",
-                                    "閉じる"
+                                    "82nd of the month",
+                                    "Close"
                                 ],
                                 1,
                                 0,
@@ -14359,9 +14359,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月2日",
-                                    "8月5日",
-                                    "閉じる"
+                                    "82nd of the month",
+                                    "85th of the month",
+                                    "Close"
                                 ],
                                 2,
                                 0,
@@ -14582,10 +14582,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月2日",
-                                    "8月5日",
-                                    "8月8日",
-                                    "閉じる"
+                                    "82nd of the month",
+                                    "85th of the month",
+                                    "88th of the month",
+                                    "Close"
                                 ],
                                 3,
                                 0,
@@ -14882,11 +14882,11 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月2日",
-                                    "8月5日",
-                                    "8月8日",
-                                    "8月12日",
-                                    "閉じる"
+                                    "82nd of the month",
+                                    "85th of the month",
+                                    "88th of the month",
+                                    "812th of the month",
+                                    "Close"
                                 ],
                                 4,
                                 0,
@@ -15259,12 +15259,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月2日",
-                                    "8月5日",
-                                    "8月8日",
-                                    "8月12日",
-                                    "8月15日",
-                                    "閉じる"
+                                    "82nd of the month",
+                                    "85th of the month",
+                                    "88th of the month",
+                                    "812th of the month",
+                                    "815th of the month",
+                                    "Close"
                                 ],
                                 5,
                                 0,
@@ -15694,12 +15694,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月2日",
-                                    "8月5日",
-                                    "8月8日",
-                                    "8月12日",
-                                    "8月15日",
-                                    "次へ"
+                                    "82nd of the month",
+                                    "85th of the month",
+                                    "88th of the month",
+                                    "812th of the month",
+                                    "815th of the month",
+                                    "Next"
                                 ],
                                 -1,
                                 0,
@@ -16100,8 +16100,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "8月18日",
-                                    "閉じる"
+                                    "818th of the month",
+                                    "Close"
                                 ],
                                 -1,
                                 0,
@@ -16336,8 +16336,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月2日",
-                                    "閉じる"
+                                    "82nd of the month",
+                                    "Close"
                                 ],
                                 1,
                                 0,
@@ -16482,9 +16482,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月2日",
-                                    "8月6日",
-                                    "閉じる"
+                                    "82nd of the month",
+                                    "86th of the month",
+                                    "Close"
                                 ],
                                 2,
                                 0,
@@ -16705,10 +16705,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月2日",
-                                    "8月6日",
-                                    "8月9日",
-                                    "閉じる"
+                                    "82nd of the month",
+                                    "86th of the month",
+                                    "8September 9th",
+                                    "Close"
                                 ],
                                 3,
                                 0,
@@ -17005,11 +17005,11 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月2日",
-                                    "8月6日",
-                                    "8月9日",
-                                    "8月11日",
-                                    "閉じる"
+                                    "82nd of the month",
+                                    "86th of the month",
+                                    "8September 9th",
+                                    "811th of the month",
+                                    "Close"
                                 ],
                                 4,
                                 0,
@@ -17382,12 +17382,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月2日",
-                                    "8月6日",
-                                    "8月9日",
-                                    "8月11日",
-                                    "8月14日",
-                                    "閉じる"
+                                    "82nd of the month",
+                                    "86th of the month",
+                                    "8September 9th",
+                                    "811th of the month",
+                                    "814th of the month",
+                                    "Close"
                                 ],
                                 5,
                                 0,
@@ -17827,12 +17827,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "8月2日",
-                                    "8月6日",
-                                    "8月9日",
-                                    "8月11日",
-                                    "8月14日",
-                                    "次へ"
+                                    "82nd of the month",
+                                    "86th of the month",
+                                    "8September 9th",
+                                    "811th of the month",
+                                    "814th of the month",
+                                    "Next"
                                 ],
                                 -1,
                                 0,
@@ -18233,8 +18233,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月17日",
-                                    "閉じる"
+                                    "817th of the month",
+                                    "Close"
                                 ],
                                 1,
                                 0,
@@ -18459,8 +18459,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月1日",
-                                    "閉じる"
+                                    "81st of the month",
+                                    "Close"
                                 ],
                                 1,
                                 0,
@@ -18605,9 +18605,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月1日",
-                                    "8月4日",
-                                    "閉じる"
+                                    "81st of the month",
+                                    "84th of the month",
+                                    "Close"
                                 ],
                                 2,
                                 0,
@@ -18828,10 +18828,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月1日",
-                                    "8月4日",
-                                    "8月7日",
-                                    "閉じる"
+                                    "81st of the month",
+                                    "84th of the month",
+                                    "87th of the month",
+                                    "Close"
                                 ],
                                 3,
                                 0,
@@ -19128,11 +19128,11 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月1日",
-                                    "8月4日",
-                                    "8月7日",
-                                    "8月10日",
-                                    "閉じる"
+                                    "81st of the month",
+                                    "84th of the month",
+                                    "87th of the month",
+                                    "8October 10th",
+                                    "Close"
                                 ],
                                 4,
                                 0,
@@ -19505,12 +19505,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月1日",
-                                    "8月4日",
-                                    "8月7日",
-                                    "8月10日",
-                                    "8月13日",
-                                    "閉じる"
+                                    "81st of the month",
+                                    "84th of the month",
+                                    "87th of the month",
+                                    "8October 10th",
+                                    "813th of the month",
+                                    "Close"
                                 ],
                                 5,
                                 0,
@@ -19950,12 +19950,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "8月1日",
-                                    "8月4日",
-                                    "8月7日",
-                                    "8月10日",
-                                    "8月13日",
-                                    "次へ"
+                                    "81st of the month",
+                                    "84th of the month",
+                                    "87th of the month",
+                                    "8October 10th",
+                                    "813th of the month",
+                                    "Next"
                                 ],
                                 -1,
                                 0,
@@ -20356,8 +20356,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "8月16日",
-                                    "閉じる"
+                                    "816th of the month",
+                                    "Close"
                                 ],
                                 -1,
                                 0,
@@ -21608,7 +21608,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい"
+                                    "Yes"
                                 ],
                                 -1,
                                 0,
@@ -22406,7 +22406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Bright student> I asked various people, and it turns out\nthat <K Aki> and a boy from the neighborhood will be\ncoming."
+                                "\\N<Bright student> I asked various people, and it turns out\nthat <K Aki> and a boy from the neighborhood will be coming."
                             ]
                         },
                         {
@@ -22449,7 +22449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Bright student> Seriously! Thank you! ...Then let's go\nto the shrine right away!"
+                                "\\N<Bright student> Seriously! Thank you! ...Then let's go to\nthe shrine right away!"
                             ]
                         },
                         {

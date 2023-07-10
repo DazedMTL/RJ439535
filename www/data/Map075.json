@@ -5832,8 +5832,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,
@@ -5877,7 +5877,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N <???> Nakano-san, your back is bad, so you shouldn't\npush yourself too hard."
+                                "\\N <???> Nakano-san, your back is bad, so you shouldn't push\nyourself too hard."
                             ]
                         },
                         {
@@ -6116,8 +6116,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,
@@ -6422,8 +6422,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,
@@ -6722,8 +6722,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,

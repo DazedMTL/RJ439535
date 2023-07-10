@@ -4132,7 +4132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Hey Sota! Were you playing here again\ntoday?"
+                                "\\N<Hinata Aki> Hey Sota! Were you playing here again today?"
                             ]
                         },
                         {
@@ -4350,7 +4350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Sorry~ I have to go home and study with\nTaro~"
+                                "\\N<Hinata Aki> Sorry~ I have to go home and study with Taro~"
                             ]
                         },
                         {
@@ -4780,7 +4780,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "付き合ってない"
+                                    "Not dating"
                                 ],
                                 -1,
                                 0,
@@ -5057,7 +5057,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> If we keep talking for too long, I won't\nhave time to study, so I should go home soon."
+                                "\\N<Hinata Aki> If we keep talking for too long, I won't have\ntime to study, so I should go home soon."
                             ]
                         },
                         {
@@ -5529,7 +5529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Happy-looking child> Swings are definitely the most\nfun!"
+                                "\\N<Happy-looking child> Swings are definitely the most fun!"
                             ]
                         },
                         {
@@ -6235,7 +6235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota's friend> There's a festival at the shrine\ntomorrow, you know!"
+                                "\\N<Sota's friend> There's a festival at the shrine tomorrow,\nyou know!"
                             ]
                         },
                         {
@@ -6831,7 +6831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muddy child> I'm going to work hard and learn how to do\na backflip!"
+                                "\\N<Muddy child> I'm going to work hard and learn how to do a\nbackflip!"
                             ]
                         },
                         {
@@ -7001,7 +7001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muddy child> I want to be able to do a reverse\nsomersault by the end of summer vacation."
+                                "\\N<Muddy child> I want to be able to do a reverse somersault\nby the end of summer vacation."
                             ]
                         },
                         {
@@ -7580,7 +7580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shall I start a conversation? (Souta's event will\nprogress)"
+                                "Shall I start a conversation? (Souta's event will progress)"
                             ]
                         },
                         {
@@ -7588,8 +7588,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8617,7 +8617,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> By the way, Taro couldn't do a backflip\nsince he was little, right?"
+                                "\\N<Hinata Aki> By the way, Taro couldn't do a backflip since\nhe was little, right?"
                             ]
                         },
                         {
@@ -10111,7 +10111,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "知らない"
+                                    "I don't know"
                                 ],
                                 -1,
                                 0,
@@ -10159,7 +10159,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "心当たりは？"
+                                    "Any idea?"
                                 ],
                                 -1,
                                 0,
@@ -10241,7 +10241,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "一緒に探すよ"
+                                    "Let's search together"
                                 ],
                                 -1,
                                 0,
@@ -10314,7 +10314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Alrighty! I'll do my best to search for\nit~!!"
+                                "\\N<Hinata Aki> Alrighty! I'll do my best to search for it~!!"
                             ]
                         },
                         {
@@ -11827,7 +11827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Mmm~♪ Ice cream after exercise is the\nbest~♪"
+                                "\\N<Hinata Aki> Mmm~♪ Ice cream after exercise is the best~♪"
                             ]
                         },
                         {
@@ -12618,7 +12618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Shouldn't you stop in front of those\nkids...?"
+                                "\\N<Hinata Aki> Shouldn't you stop in front of those kids...?"
                             ]
                         },
                         {
@@ -12881,7 +12881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Shouldn't you stop in front of those\nkids...?"
+                                "\\N<Hinata Aki> Shouldn't you stop in front of those kids...?"
                             ]
                         },
                         {

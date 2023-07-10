@@ -2678,7 +2678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Happy-looking child> Swings are definitely the most\nfun!"
+                                "\\N<Happy-looking child> Swings are definitely the most fun!"
                             ]
                         },
                         {
@@ -2909,7 +2909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muddy child> I'm going to work hard and learn how to do\na backflip!"
+                                "\\N<Muddy child> I'm going to work hard and learn how to do a\nbackflip!"
                             ]
                         },
                         {
@@ -3233,7 +3233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shall I start a conversation? (Souta's event will\nprogress)"
+                                "Shall I start a conversation? (Souta's event will progress)"
                             ]
                         },
                         {
@@ -3241,8 +3241,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5408,7 +5408,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "知らない"
+                                    "I don't know"
                                 ],
                                 -1,
                                 0,
@@ -5456,7 +5456,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "心当たりは？"
+                                    "Any idea?"
                                 ],
                                 -1,
                                 0,
@@ -5538,7 +5538,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "一緒に探すよ"
+                                    "Let's search together"
                                 ],
                                 -1,
                                 0,
@@ -5611,7 +5611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Alrighty! I'll do my best to search for\nit~!!"
+                                "\\N<Hinata Aki> Alrighty! I'll do my best to search for it~!!"
                             ]
                         },
                         {
@@ -6345,7 +6345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Souta~!! Today, we're going to play a\nlot~!!"
+                                "\\N<Hinata Aki> Souta~!! Today, we're going to play a lot~!!"
                             ]
                         },
                         {

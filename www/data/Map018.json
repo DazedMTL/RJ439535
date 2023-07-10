@@ -2401,8 +2401,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2611,7 +2611,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female> It would be bad if someone saw me, so I'll go\nout first and check."
+                                "\\N<Female> It would be bad if someone saw me, so I'll go out\nfirst and check."
                             ]
                         },
                         {
@@ -2713,8 +2713,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3313,7 +3313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's so amazing... Sex is... "
+                                "It's so amazing... Sex is..."
                             ]
                         },
                         {
@@ -3837,7 +3837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah... it's getting strange... it's getting strange\nthere..."
+                                "Ah... it's getting strange... it's getting strange there..."
                             ]
                         },
                         {
@@ -4214,7 +4214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Souta! This is the girls' restroom, you\nknow!"
+                                "\\N<Hinata Aki> Souta! This is the girls' restroom, you know!"
                             ]
                         },
                         {

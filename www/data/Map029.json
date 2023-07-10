@@ -3450,7 +3450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Taro caught too many goldfish and got\nscolded by Taro's mother."
+                                "\\N<Hinata Aki> Taro caught too many goldfish and got scolded\nby Taro's mother."
                             ]
                         },
                         {
@@ -3467,7 +3467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> So we decided to keep a few at my house\ntoo."
+                                "\\N<Hinata Aki> So we decided to keep a few at my house too."
                             ]
                         },
                         {
@@ -3697,7 +3697,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "一口食べてみる？"
+                                    "Want to take a bite?"
                                 ],
                                 -1,
                                 0,
@@ -4140,7 +4140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> I really do love the atmosphere of\nfestivals~"
+                                "\\N<Hinata Aki> I really do love the atmosphere of festivals~"
                             ]
                         },
                         {
@@ -4165,7 +4165,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "楽しかったよ"
+                                    "It was fun"
                                 ],
                                 -1,
                                 0,
@@ -4230,7 +4230,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話したい事がある"
+                                    "I have something to talk about"
                                 ],
                                 -1,
                                 0,
@@ -4329,7 +4329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Is it something that's difficult to say\nhere?"
+                                "\\N<Hinata Aki> Is it something that's difficult to say here?"
                             ]
                         },
                         {
@@ -4337,7 +4337,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "うん"
+                                    "Yeah"
                                 ],
                                 -1,
                                 0,

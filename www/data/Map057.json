@@ -3023,7 +3023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> I'm not good with this kind of thing...\nAhaha"
+                                "\\N<Hinata Aki> I'm not good with this kind of thing... Ahaha"
                             ]
                         },
                         {
@@ -3980,8 +3980,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

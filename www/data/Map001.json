@@ -4105,7 +4105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Every time I pass by this street, the homeless man with\nlewd eyes looks at Aki. Until now, he has only been looking,\nbut..."
+                                "Every time I pass by this street, the homeless man with lewd\neyes looks at Aki. Until now, he has only been looking,\nbut..."
                             ]
                         },
                         {
@@ -4190,7 +4190,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "無視しよう"
+                                    "Ignore it"
                                 ],
                                 -1,
                                 0,
@@ -5928,8 +5928,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 1,
@@ -6837,8 +6837,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,
@@ -7930,7 +7930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shall we observe the situation? (Saya's event will\nprogress)"
+                                "Shall we observe the situation? (Saya's event will progress)"
                             ]
                         },
                         {
@@ -7938,8 +7938,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 1,
@@ -8285,7 +8285,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "見ていない"
+                                    "I haven't seen it"
                                 ],
                                 -1,
                                 0,
@@ -8432,8 +8432,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,
@@ -10233,7 +10233,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Sayama>\\{ Hey!! Does anyone know where my cell phone\nis?!"
+                                "\\N<Sayama>\\{ Hey!! Does anyone know where my cell phone is?!"
                             ]
                         },
                         {
@@ -14027,7 +14027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...I wonder if it would be a bother if I\nwent today."
+                                "\\N<Hinata Aki> ...I wonder if it would be a bother if I went\ntoday."
                             ]
                         },
                         {

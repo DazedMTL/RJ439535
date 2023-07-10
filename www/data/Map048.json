@@ -3581,7 +3581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hayamichi's Friend B> She's quite a good-looking\nwoman... Hayamichi, let's have some fun on the forest road\nsoon, okay?"
+                                "\\N<Hayamichi's Friend B> She's quite a good-looking woman...\nHayamichi, let's have some fun on the forest road soon,\nokay?"
                             ]
                         },
                         {
@@ -4696,7 +4696,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "早く終わる筈と伝える"
+                                    "I told them it should finish early"
                                 ],
                                 -2,
                                 0,
@@ -4800,7 +4800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Omura> You might not understand since you're not in a\nclub."
+                                "<Omura> You might not understand since you're not in a club."
                             ]
                         },
                         {
@@ -4817,7 +4817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Omura> Everyone is working hard for the tournament, so\nclub activities can sometimes take longer."
+                                "<Omura> Everyone is working hard for the tournament, so club\nactivities can sometimes take longer."
                             ]
                         },
                         {

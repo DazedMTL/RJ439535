@@ -7279,7 +7279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Beautiful police officer> You should go home before it\ngets dark, okay? Otherwise, big sister might eat you up\n<K♥>"
+                                "\\N<Beautiful police officer> You should go home before it\ngets dark, okay? Otherwise, big sister might eat you up <K♥>"
                             ]
                         },
                         {
@@ -7965,8 +7965,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8072,7 +8072,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female> I'm not good at memorizing~ It feels like it\ngoes in one ear and out the other!"
+                                "\\N<Female> I'm not good at memorizing~ It feels like it goes\nin one ear and out the other!"
                             ]
                         },
                         {
@@ -8349,8 +8349,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9744,7 +9744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> Of course it'll be fine, right? I'm a\nresponsible adult, you know?"
+                                "\\N<Sayama> Of course it'll be fine, right? I'm a responsible\nadult, you know?"
                             ]
                         },
                         {
@@ -10021,7 +10021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "For this old man, there's really no one else but me\nleft..."
+                                "For this old man, there's really no one else but me left..."
                             ]
                         },
                         {

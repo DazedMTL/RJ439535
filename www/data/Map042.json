@@ -4821,8 +4821,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 1,
@@ -5001,7 +5001,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Scented vagrant> Is he monopolizing that busty\ngirl...??"
+                                "\\N<Scented vagrant> Is he monopolizing that busty girl...??"
                             ]
                         },
                         {
@@ -5730,8 +5730,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,
@@ -8026,7 +8026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female> Hey... this is no good... something like\nthis..."
+                                "\\N<Female> Hey... this is no good... something like this..."
                             ]
                         },
                         {
@@ -8128,7 +8128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female> Um... but I didn't know about things like\nthis..."
+                                "\\N<Female> Um... but I didn't know about things like this..."
                             ]
                         },
                         {

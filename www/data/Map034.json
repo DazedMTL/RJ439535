@@ -2186,7 +2186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female student> It feels like Aki has grown up and it's\na bit lonely."
+                                "\\N<Female student> It feels like Aki has grown up and it's a\nbit lonely."
                             ]
                         },
                         {
@@ -2270,7 +2270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female student> I thought you were dating Taro, you\nknow."
+                                "\\N<Female student> I thought you were dating Taro, you know."
                             ]
                         },
                         {

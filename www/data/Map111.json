@@ -5597,7 +5597,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "違うよ"
+                                    "No"
                                 ],
                                 -1,
                                 0,
@@ -5688,7 +5688,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "付き合ってないよ"
+                                    "We're not dating"
                                 ],
                                 -1,
                                 0,
@@ -5753,7 +5753,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "花栗との事を説明する"
+                                    "Explain about Hanaguri"
                                 ],
                                 -1,
                                 0,
@@ -5891,7 +5891,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "告白する"
+                                    "Confess"
                                 ],
                                 -1,
                                 0,
@@ -6146,7 +6146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> That person... is even considering\nmarriage."
+                                "\\N<Hinata Aki> That person... is even considering marriage."
                             ]
                         },
                         {

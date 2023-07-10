@@ -4162,8 +4162,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4355,7 +4355,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "何かあった？"
+                                    "What happened?"
                                 ],
                                 -1,
                                 0,
@@ -4453,7 +4453,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Hinata Aki> Ugh... I regret not saving up my allowance\nin the past..."
+                                "\\N<Hinata Aki> Ugh... I regret not saving up my allowance in\nthe past..."
                             ]
                         },
                         {
@@ -4546,8 +4546,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,
@@ -4869,7 +4869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Taro, why did you come to school if you\ndon't have supplementary lessons?"
+                                "\\N<Hinata Aki> Taro, why did you come to school if you don't\nhave supplementary lessons?"
                             ]
                         },
                         {
@@ -5973,8 +5973,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "教えない",
-                                    "教える"
+                                    "Not telling",
+                                    "Teach"
                                 ],
                                 1,
                                 0,
@@ -6151,7 +6151,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> As expected, my childhood friend is the one\nI should rely on!"
+                                "\\N<Hinata Aki> As expected, my childhood friend is the one I\nshould rely on!"
                             ]
                         },
                         {
@@ -6566,7 +6566,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いいよ"
+                                    "It's fine"
                                 ],
                                 -1,
                                 0,
@@ -6949,7 +6949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Hanaguri-san, your grades are good, so I\nthought you would naturally have notes on the test\nmaterial."
+                                "\\N<Hinata Aki> Hanaguri-san, your grades are good, so I\nthought you would naturally have notes on the test material."
                             ]
                         },
                         {
@@ -7075,7 +7075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> Is that so! I was spacing out and\nforgot to take notes."
+                                "\\N<Hanaguri Shiori> Is that so! I was spacing out and forgot\nto take notes."
                             ]
                         },
                         {
@@ -7830,7 +7830,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いいよ"
+                                    "It's fine"
                                 ],
                                 -1,
                                 0,
@@ -8104,7 +8104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> Oh... Yeah! I was spacing out and\nforgot to take notes."
+                                "\\N<Hanaguri Shiori> Oh... Yeah! I was spacing out and forgot\nto take notes."
                             ]
                         },
                         {
@@ -8329,7 +8329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> See you tomorrow, Hanaguri-san! Let's both\ndo our best in studying!!"
+                                "\\N<Hinata Aki> See you tomorrow, Hanaguri-san! Let's both do\nour best in studying!!"
                             ]
                         },
                         {
@@ -8872,7 +8872,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "テストどうだった？"
+                                    "How was the test?"
                                 ],
                                 -1,
                                 0,
@@ -9071,7 +9071,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> ...There's no point in dwelling on the\npast!"
+                                "\\N<Hinata Aki> ...There's no point in dwelling on the past!"
                             ]
                         },
                         {
@@ -10705,7 +10705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Bright student> Let's compete to see who can get a\nbetter score."
+                                "\\N<Bright student> Let's compete to see who can get a better\nscore."
                             ]
                         },
                         {
@@ -11002,8 +11002,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,
@@ -11242,8 +11242,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,
@@ -11307,7 +11307,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<Bright student> I'll contact you later with the details,\nso please rely on me!"
+                                "<Bright student> I'll contact you later with the details, so\nplease rely on me!"
                             ]
                         },
                         {
@@ -11371,7 +11371,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<Bright student> I'll wait until 7 p.m., so please take\nyour time."
+                                "<Bright student> I'll wait until 7 p.m., so please take your\ntime."
                             ]
                         },
                         {
@@ -12063,7 +12063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Serious-looking student> I can't believe Aki is\nabsent..."
+                                "\\N<Serious-looking student> I can't believe Aki is absent..."
                             ]
                         },
                         {
@@ -12370,7 +12370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Committee Chairperson> Me? I'm here for club\nactivities."
+                                "\\N<Committee Chairperson> Me? I'm here for club activities."
                             ]
                         },
                         {
@@ -12668,7 +12668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<A student with a loose moral compass> But Taro, you\ndon't have any supplementary lessons, right?"
+                                "\\N<A student with a loose moral compass> But Taro, you don't\nhave any supplementary lessons, right?"
                             ]
                         },
                         {
@@ -12949,7 +12949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Perverted student> Summer uniforms really emphasize\nAki's chest, don't they?"
+                                "\\N<Perverted student> Summer uniforms really emphasize Aki's\nchest, don't they?"
                             ]
                         },
                         {
@@ -13034,7 +13034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Perverted student> Sigh... supplementary lessons are\nsuch a hassle..."
+                                "\\N<Perverted student> Sigh... supplementary lessons are such\na hassle..."
                             ]
                         },
                         {
@@ -13213,7 +13213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Introverted student> Phew... both Hanaguri and Hinata\nare too stimulating..."
+                                "\\N<Introverted student> Phew... both Hanaguri and Hinata are\ntoo stimulating..."
                             ]
                         },
                         {
@@ -13298,7 +13298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Introverted student> Sigh... Spending the summer\nvacation alone, consoling myself... life can be tough."
+                                "\\N<Introverted student> Sigh... Spending the summer vacation\nalone, consoling myself... life can be tough."
                             ]
                         },
                         {
@@ -13664,7 +13664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Unserious student> I heard a rumor that Aki and Taro\nwere having sex on the school grounds at night..."
+                                "\\N<Unserious student> I heard a rumor that Aki and Taro were\nhaving sex on the school grounds at night..."
                             ]
                         },
                         {
@@ -13826,7 +13826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Serious-looking student> I can't believe Aki is\nabsent..."
+                                "\\N<Serious-looking student> I can't believe Aki is absent..."
                             ]
                         },
                         {

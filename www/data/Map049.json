@@ -7279,7 +7279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Beautiful police officer> You should go home before it\ngets dark, okay? Otherwise, big sister might eat you up\n<K♥>"
+                                "\\N<Beautiful police officer> You should go home before it\ngets dark, okay? Otherwise, big sister might eat you up <K♥>"
                             ]
                         },
                         {
@@ -7965,8 +7965,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8072,7 +8072,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female> I'm not good at memorizing~ It feels like it\ngoes in one ear and out the other!"
+                                "\\N<Female> I'm not good at memorizing~ It feels like it goes\nin one ear and out the other!"
                             ]
                         },
                         {
@@ -8349,8 +8349,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8883,7 +8883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Oh, is it not possible? I really wanted to see\nAki in a bunny outfit."
+                                "\\N<Omura> Oh, is it not possible? I really wanted to see Aki\nin a bunny outfit."
                             ]
                         },
                         {
@@ -12010,7 +12010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> No... I thought no one would come... so I\nwas happy."
+                                "\\N<Hinata Aki> No... I thought no one would come... so I was\nhappy."
                             ]
                         },
                         {
@@ -12330,7 +12330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> ...I helped Aki not as a teacher, but as a\nman..."
+                                "\\N<Omura> ...I helped Aki not as a teacher, but as a man..."
                             ]
                         },
                         {
@@ -13239,7 +13239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm seeking something that can fulfill this desire even\nmore than a kiss..."
+                                "I'm seeking something that can fulfill this desire even more\nthan a kiss..."
                             ]
                         },
                         {
@@ -13563,7 +13563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> I... I have too much muscle... I might not\nbe able to get excited..."
+                                "\\N<Hinata Aki> I... I have too much muscle... I might not be\nable to get excited..."
                             ]
                         },
                         {
@@ -13631,7 +13631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You said I'm sexy. Was that just flattery...? It's not\ntrue, right...?"
+                                "You said I'm sexy. Was that just flattery...? It's not true,\nright...?"
                             ]
                         },
                         {
@@ -14288,7 +14288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I wonder if it was really okay to do something like\nthis..."
+                                "I wonder if it was really okay to do something like this..."
                             ]
                         },
                         {
@@ -15037,7 +15037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I became one with the teacher I was not good with,\nembracing each other naked..."
+                                "I became one with the teacher I was not good with, embracing\neach other naked..."
                             ]
                         },
                         {

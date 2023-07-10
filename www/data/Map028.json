@@ -2520,7 +2520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Festivals are fun, but... they always give\nme a feeling of the end of summer, and it makes me feel a\nlittle lonely."
+                                "\\N<Hinata Aki> Festivals are fun, but... they always give me\na feeling of the end of summer, and it makes me feel a\nlittle lonely."
                             ]
                         },
                         {
@@ -2707,7 +2707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> I wonder if Taro-kun enjoyed it\ntoo...?"
+                                "\\N<Hanaguri Shiori> I wonder if Taro-kun enjoyed it too...?"
                             ]
                         },
                         {
@@ -2715,7 +2715,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい"
+                                    "Yes"
                                 ],
                                 -1,
                                 0,
@@ -2779,7 +2779,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> ...Are you dating Hinata-san, Taro-\nkun?"
+                                "\\N<Hanaguri Shiori> ...Are you dating Hinata-san, Taro- kun?"
                             ]
                         },
                         {
@@ -2990,7 +2990,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ごめん"
+                                    "Sorry"
                                 ],
                                 -1,
                                 0,
@@ -3414,7 +3414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> Taro-kun's... pants are getting\ntight... <K♥>"
+                                "\\N<Hanaguri Shiori> Taro-kun's... pants are getting tight...\n<K♥>"
                             ]
                         },
                         {

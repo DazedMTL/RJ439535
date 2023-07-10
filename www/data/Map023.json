@@ -7279,7 +7279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Beautiful police officer> You should go home before it\ngets dark, okay? Otherwise, big sister might eat you up\n<K♥>"
+                                "\\N<Beautiful police officer> You should go home before it\ngets dark, okay? Otherwise, big sister might eat you up <K♥>"
                             ]
                         },
                         {
@@ -7965,8 +7965,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8072,7 +8072,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female> I'm not good at memorizing~ It feels like it\njust goes in one ear and out the other!"
+                                "\\N<Female> I'm not good at memorizing~ It feels like it just\ngoes in one ear and out the other!"
                             ]
                         },
                         {
@@ -8349,8 +8349,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8884,7 +8884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Student of the Homecoming Club> I don't have anyone to\ngo with to tomorrow's festival, huh..."
+                                "\\N<Student of the Homecoming Club> I don't have anyone to go\nwith to tomorrow's festival, huh..."
                             ]
                         },
                         {
@@ -11350,8 +11350,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -11504,7 +11504,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "何か悩んでいるの？"
+                                    "Are you troubled about something?"
                                 ],
                                 -1,
                                 0,
@@ -11601,7 +11601,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> I think since I lost it in this town,\nit wouldn't be anywhere else..."
+                                "\\N<Hanaguri Shiori> I think since I lost it in this town, it\nwouldn't be anywhere else..."
                             ]
                         },
                         {
@@ -11626,7 +11626,7 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "わかった"
+                                    "Understood"
                                 ],
                                 -1,
                                 0,
@@ -12796,7 +12796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> I must have misunderstood Hinata-\nsan..."
+                                "\\N<Hanaguri Shiori> I must have misunderstood Hinata- san..."
                             ]
                         },
                         {
@@ -12868,8 +12868,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,
@@ -13387,8 +13387,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 1,
@@ -13599,7 +13599,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Sayama> Are you being bothered by strange men because\nyou have such noticeable breasts?"
+                                "\\N<Sayama> Are you being bothered by strange men because you\nhave such noticeable breasts?"
                             ]
                         },
                         {
@@ -13616,7 +13616,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Daughter of Saya> Geez... It's always been like this,\nbut <N Dad> always makes inappropriate jokes towards <I\nDaughter>."
+                                "\\N<Daughter of Saya> Geez... It's always been like this, but\n<N Dad> always makes inappropriate jokes towards <I\nDaughter>."
                             ]
                         },
                         {
@@ -13761,7 +13761,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Sayama> You know... It was when you passed by in front\nof my tent."
+                                "\\N<Sayama> You know... It was when you passed by in front of\nmy tent."
                             ]
                         },
                         {
@@ -13982,7 +13982,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<Daughter of Saya> Apologize properly for sexually\nharassing that <I girl who looks like me>."
+                                "<Daughter of Saya> Apologize properly for sexually harassing\nthat <I girl who looks like me>."
                             ]
                         },
                         {
@@ -14136,8 +14136,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,
@@ -16310,7 +16310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Part-time job recruitment... Daily\npayment..."
+                                "\\N<Hinata Aki> Part-time job recruitment... Daily payment..."
                             ]
                         },
                         {
@@ -17304,7 +17304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Do you stop and look around? (Advancing on the Omura\nroute)"
+                                "Do you stop and look around? (Advancing on the Omura route)"
                             ]
                         },
                         {
@@ -17312,8 +17312,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17809,8 +17809,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -19899,7 +19899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> But... this one looks quite delicious\ntoo..."
+                                "\\N<Hinata Aki> But... this one looks quite delicious too..."
                             ]
                         },
                         {
@@ -19949,7 +19949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> They're having a sweet potato fair right\nnow, you know."
+                                "\\N<Hinata Aki> They're having a sweet potato fair right now,\nyou know."
                             ]
                         },
                         {
@@ -20008,8 +20008,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "プリン",
-                                    "ロールケーキ"
+                                    "Pudding",
+                                    "Roll cake"
                                 ],
                                 -1,
                                 0,
@@ -20055,7 +20055,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> Pudding, huh...! Should I go for the\npudding!"
+                                "\\N<Hinata Aki> Pudding, huh...! Should I go for the pudding!"
                             ]
                         },
                         {
@@ -21621,7 +21621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male> Haa... haa... Even through the condom... I can\nfeel the heat..."
+                                "\\N<Male> Haa... haa... Even through the condom... I can feel\nthe heat..."
                             ]
                         },
                         {
@@ -21881,8 +21881,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -22273,7 +22273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aged vagrant> Ugh... my stomach hurts... is it because\nof the bento I picked up...?"
+                                "\\N<Aged vagrant> Ugh... my stomach hurts... is it because of\nthe bento I picked up...?"
                             ]
                         },
                         {
@@ -23161,7 +23161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you walk around town wearing something like this, it\nwill become a rumor."
+                                "If you walk around town wearing something like this, it will\nbecome a rumor."
                             ]
                         },
                         {
@@ -23707,7 +23707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is having sex while being watched outside really that\ngood?"
+                                "Is having sex while being watched outside really that good?"
                             ]
                         },
                         {
@@ -23855,8 +23855,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

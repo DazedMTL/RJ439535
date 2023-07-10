@@ -1665,7 +1665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sweet-toothed old man> The cheesecake that I eat\nsecretly from my wife is exceptional."
+                                "\\N<Sweet-toothed old man> The cheesecake that I eat secretly\nfrom my wife is exceptional."
                             ]
                         },
                         {
@@ -2066,7 +2066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Perverted middle-aged man> Oh... this actress has quite\na nice chest. Mmm...! It's hard to resist this actress\ntoo..."
+                                "\\N<Perverted middle-aged man> Oh... this actress has quite a\nnice chest. Mmm...! It's hard to resist this actress too..."
                             ]
                         },
                         {
@@ -2143,7 +2143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Friendly shop assistant> Welcome! Please take your\ntime~"
+                                "\\N<Friendly shop assistant> Welcome! Please take your time~"
                             ]
                         },
                         {
@@ -2399,7 +2399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Friendly shop assistant> Welcome! Please take your\ntime~"
+                                "\\N<Friendly shop assistant> Welcome! Please take your time~"
                             ]
                         },
                         {
@@ -2612,8 +2612,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 1,
@@ -3877,8 +3877,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,
@@ -4733,7 +4733,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Forest road> If we still have time, there's another\nplace I recommend."
+                                "\\N<Forest road> If we still have time, there's another place\nI recommend."
                             ]
                         },
                         {
@@ -7993,7 +7993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Friend of Aki> It's great that Aki can eat as much as\nshe wants without gaining weight... unlike me..."
+                                "\\N<Friend of Aki> It's great that Aki can eat as much as she\nwants without gaining weight... unlike me..."
                             ]
                         },
                         {
@@ -8376,7 +8376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Friend of Aki> It's great that Aki can eat as much as\nshe wants without gaining weight... unlike me..."
+                                "\\N<Friend of Aki> It's great that Aki can eat as much as she\nwants without gaining weight... unlike me..."
                             ]
                         },
                         {
@@ -9013,7 +9013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Pick-up Guy A> Are you interested? Then shall we go?\nIt's a nice place to take a break."
+                                "\\N<Pick-up Guy A> Are you interested? Then shall we go? It's\na nice place to take a break."
                             ]
                         },
                         {
@@ -9318,7 +9318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Pick-up Guy A> Are you interested? Then shall we go?\nIt's a nice place to take a break."
+                                "\\N<Pick-up Guy A> Are you interested? Then shall we go? It's\na nice place to take a break."
                             ]
                         },
                         {

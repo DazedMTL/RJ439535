@@ -1309,7 +1309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...  Note: The translation of ...\nrepresents a pause or silence in the dialogue."
+                                "\\N<Hinata Aki> ...  Note: The translation of ... represents\na pause or silence in the dialogue."
                             ]
                         },
                         {
@@ -1664,7 +1664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I can't believe I'm doing something like this with a\nmiddle-aged man I just met..."
+                                "I can't believe I'm doing something like this with a middle-\naged man I just met..."
                             ]
                         },
                         {
@@ -2240,7 +2240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A secret just between the old man and me, just for\ntoday..."
+                                "A secret just between the old man and me, just for today..."
                             ]
                         },
                         {
@@ -2274,7 +2274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> Chupa chupa... It's something we used to do a\nlot before our daughter was born..."
+                                "\\N<Sayama> Chupa chupa... It's something we used to do a lot\nbefore our daughter was born..."
                             ]
                         },
                         {
@@ -2804,7 +2804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> I'll forget about it for now... so let's\nstop this, okay?"
+                                "\\N<Hinata Aki> I'll forget about it for now... so let's stop\nthis, okay?"
                             ]
                         },
                         {

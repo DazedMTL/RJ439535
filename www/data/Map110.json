@@ -4054,7 +4054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nakano-san, who lives in the neighborhood, is an elderly\nman who lives alone and has a weak back."
+                                "Nakano-san, who lives in the neighborhood, is an elderly man\nwho lives alone and has a weak back."
                             ]
                         },
                         {
@@ -4071,7 +4071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sometimes I feel like he's giving me a lewd gaze, but he's\na friendly and kind old man. It's probably just my\nimagination."
+                                "Sometimes I feel like he's giving me a lewd gaze, but he's a\nfriendly and kind old man. It's probably just my\nimagination."
                             ]
                         },
                         {
@@ -4320,7 +4320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> You should be grateful to your cute\nchildhood friend, you know. Geez..."
+                                "\\N<Hinata Aki> You should be grateful to your cute childhood\nfriend, you know. Geez..."
                             ]
                         },
                         {
@@ -4429,7 +4429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> ...Oh, it's already this time. I should hurry\nand leave or I'll be late..."
+                                "\\N<Nakano> ...Oh, it's already this time. I should hurry and\nleave or I'll be late..."
                             ]
                         },
                         {
@@ -7401,7 +7401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Neighborhood uncle> Taro, don't go out too much at\nnight, okay?"
+                                "\\N<Neighborhood uncle> Taro, don't go out too much at night,\nokay?"
                             ]
                         },
                         {
@@ -8749,7 +8749,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "祭に誘う"
+                                    "Invite to the festival"
                                 ],
                                 -1,
                                 0,
@@ -9079,7 +9079,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> But... "
+                                "\\N<Hinata Aki> But..."
                             ]
                         },
                         {

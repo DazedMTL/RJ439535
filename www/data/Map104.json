@@ -2739,7 +2739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That summer... At that time, I realized that I <liked\nhim>."
+                                "That summer... At that time, I realized that I <liked him>."
                             ]
                         },
                         {
@@ -3073,7 +3073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> Hehe... Saying 'soothe me' and all... You just\nwant that, right?"
+                                "\\N<Sota> Hehe... Saying 'soothe me' and all... You just want\nthat, right?"
                             ]
                         },
                         {
@@ -3274,7 +3274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> You're more demanding than usual today, aren't\nyou? <K♥>"
+                                "\\N<Sota> You're more demanding than usual today, aren't you?\n<K♥>"
                             ]
                         },
                         {
@@ -5269,8 +5269,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

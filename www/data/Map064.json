@@ -2771,7 +2771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<National Language Teacher> That's the end of the report,\nso hurry up and prepare your textbooks~"
+                                "<National Language Teacher> That's the end of the report, so\nhurry up and prepare your textbooks~"
                             ]
                         },
                         {
@@ -3532,7 +3532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Bright student> Let's compete to see who can get a\nbetter score."
+                                "\\N<Bright student> Let's compete to see who can get a better\nscore."
                             ]
                         },
                         {

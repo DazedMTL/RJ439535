@@ -1441,7 +1441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Forest Road's Friend B> You're desperately resisting,\nbut you're scared, huh? Hehehe..."
+                                "\\N<Forest Road's Friend B> You're desperately resisting, but\nyou're scared, huh? Hehehe..."
                             ]
                         },
                         {
@@ -1643,7 +1643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Forest road> That guy is completely heartless...\nhehe..."
+                                "\\N<Forest road> That guy is completely heartless... hehe..."
                             ]
                         },
                         {

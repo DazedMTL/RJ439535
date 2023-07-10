@@ -5270,7 +5270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Come on, be more aware of the camera and move\nyour hips more vigorously."
+                                "\\N<Omura> Come on, be more aware of the camera and move your\nhips more vigorously."
                             ]
                         },
                         {
@@ -5372,7 +5372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I started feeling excited whenever I was being filmed with\na smartphone."
+                                "I started feeling excited whenever I was being filmed with a\nsmartphone."
                             ]
                         },
                         {
@@ -5440,7 +5440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> When Aki starts to become aware of the camera,\nthe tightness increases... <K♥>"
+                                "\\N<Omura> When Aki starts to become aware of the camera, the\ntightness increases... <K♥>"
                             ]
                         },
                         {
@@ -5508,7 +5508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Nguu...!? Naa... ah... there... no...\nstop..."
+                                "\\N<Hinata Aki> Nguu...!? Naa... ah... there... no... stop..."
                             ]
                         },
                         {
@@ -5525,7 +5525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> My thing is hitting Aki's womb... Can't you\ntell?"
+                                "\\N<Omura> My thing is hitting Aki's womb... Can't you tell?"
                             ]
                         },
                         {
@@ -5714,7 +5714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> What should we do? We can't just end it like\nthis, right?"
+                                "\\N<Omura> What should we do? We can't just end it like this,\nright?"
                             ]
                         },
                         {
@@ -5983,7 +5983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Don't worry, it's too dark to see anything\nclearly <K♥>"
+                                "\\N<Omura> Don't worry, it's too dark to see anything clearly\n<K♥>"
                             ]
                         },
                         {
@@ -6221,7 +6221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I can't go back anymore... I've become a girl who likes\nsex."
+                                "I can't go back anymore... I've become a girl who likes sex."
                             ]
                         },
                         {
@@ -6340,7 +6340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Yes... Teacher... Please release a lot\ninside me <K♥>"
+                                "\\N<Hinata Aki> Yes... Teacher... Please release a lot inside\nme <K♥>"
                             ]
                         },
                         {
@@ -6425,7 +6425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Ah <K♥> Right there <K♥> Right there <K♥>\nI'm coming <K♥>"
+                                "\\N<Hinata Aki> Ah <K♥> Right there <K♥> Right there <K♥> I'm\ncoming <K♥>"
                             ]
                         },
                         {
@@ -7648,8 +7648,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,
@@ -7903,8 +7903,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,

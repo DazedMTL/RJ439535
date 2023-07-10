@@ -4173,8 +4173,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,
@@ -4428,8 +4428,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,
@@ -5089,7 +5089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male student> Is this really your first time? This\ntitjob feels so good, it's my first time experiencing\nsomething like this."
+                                "\\N<Male student> Is this really your first time? This titjob\nfeels so good, it's my first time experiencing something\nlike this."
                             ]
                         },
                         {
@@ -5750,7 +5750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Stoic student> You're always here, but why don't you\njoin the track and field club?"
+                                "\\N<Stoic student> You're always here, but why don't you join\nthe track and field club?"
                             ]
                         },
                         {
@@ -6066,7 +6066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Stoic student> The club members can't concentrate\nbecause of strange rumors..."
+                                "\\N<Stoic student> The club members can't concentrate because\nof strange rumors..."
                             ]
                         },
                         {
@@ -6083,7 +6083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Stoic student> We have to do our best especially at\ntimes like this."
+                                "\\N<Stoic student> We have to do our best especially at times\nlike this."
                             ]
                         },
                         {
@@ -6646,7 +6646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Unmotivated student> Please update with more\nH-scenes..."
+                                "\\N<Unmotivated student> Please update with more H-scenes..."
                             ]
                         },
                         {
@@ -6774,7 +6774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Troubled student> I wonder why my time isn't\nextending..."
+                                "\\N<Troubled student> I wonder why my time isn't extending..."
                             ]
                         },
                         {
@@ -7510,7 +7510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Timid student> If I keep getting looked at with such\nlewd eyes, maybe I should quit the track and field club..."
+                                "\\N<Timid student> If I keep getting looked at with such lewd\neyes, maybe I should quit the track and field club..."
                             ]
                         },
                         {
@@ -8644,8 +8644,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,
@@ -8798,7 +8798,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "後ろにいるの花栗さん？"
+                                    "Is that Hanaguri-san behind us?"
                                 ],
                                 -1,
                                 0,
@@ -9101,8 +9101,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,
@@ -9514,7 +9514,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> I'm not good at socializing and it's\nnot interesting to talk privately..."
+                                "\\N<Hanaguri Shiori> I'm not good at socializing and it's not\ninteresting to talk privately..."
                             ]
                         },
                         {
@@ -9717,7 +9717,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Forest road> Well... but it would be impossible for me\nto date someone Hanaguri likes."
+                                "\\N<Forest road> Well... but it would be impossible for me to\ndate someone Hanaguri likes."
                             ]
                         },
                         {
@@ -9869,7 +9869,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Forest road> So, how about going on a date with me to\nget used to being with a guy?"
+                                "\\N<Forest road> So, how about going on a date with me to get\nused to being with a guy?"
                             ]
                         },
                         {
@@ -10123,7 +10123,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Forest road> That's the first time I've heard that\nname."
+                                "\\N<Forest road> That's the first time I've heard that name."
                             ]
                         },
                         {
@@ -11279,7 +11279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Taro~! Did you come all the way here to\nwatch the club activities?"
+                                "\\N<Hinata Aki> Taro~! Did you come all the way here to watch\nthe club activities?"
                             ]
                         },
                         {
@@ -11528,7 +11528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> I'll be late today, so you can go home\nfirst!"
+                                "\\N<Hinata Aki> I'll be late today, so you can go home first!"
                             ]
                         },
                         {
@@ -12750,7 +12750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Suspicious-looking student> Are you having fun\ninside...? I wish I could join too."
+                                "\\N<Suspicious-looking student> Are you having fun inside...?\nI wish I could join too."
                             ]
                         },
                         {
@@ -12878,7 +12878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Light-looking student> Aki and Taro are alone in the\nclub room again..."
+                                "\\N<Light-looking student> Aki and Taro are alone in the club\nroom again..."
                             ]
                         },
                         {
