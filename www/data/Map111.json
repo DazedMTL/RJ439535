@@ -5828,7 +5828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> So, can you tell me...?"
+                                "\\N<Hinata Aki> So, can you tell me...?"
                             ]
                         },
                         {
@@ -6095,7 +6095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> ......I'm sorry"
+                                "\\N<Hinata Aki> ......I'm sorry"
                             ]
                         },
                         {
@@ -6112,7 +6112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> I..."
+                                "\\N<Hinata Aki> I..."
                             ]
                         },
                         {
@@ -6307,7 +6307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N Hinata Aki: Today was fun."
+                                "\\N<Hinata Aki> Today was fun."
                             ]
                         },
                         {

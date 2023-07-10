@@ -2431,7 +2431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<National Language Teacher> Could you please be quiet?"
+                                "\\N<National Language Teacher> Could you please be quiet?"
                             ]
                         },
                         {
@@ -2635,7 +2635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<National Language Teacher> It's due to family\ncircumstances."
+                                "\\N<National Language Teacher> It's due to family\ncircumstances."
                             ]
                         },
                         {
@@ -2754,7 +2754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<National Language Teacher> You all, be quiet."
+                                "\\N<National Language Teacher> You all, be quiet."
                             ]
                         },
                         {
@@ -2771,7 +2771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<National Language Teacher> That's the end of the report, so\nhurry up and prepare your textbooks~"
+                                "\\N<National Language Teacher> That's the end of the report, so\nhurry up and prepare your textbooks~"
                             ]
                         },
                         {

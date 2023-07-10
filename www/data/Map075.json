@@ -7089,7 +7089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Nakano> It's tough to bear it all alone..."
+                                "\\N<Nakano> It's tough to bear it all alone..."
                             ]
                         },
                         {
@@ -7188,7 +7188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N Nakano: Hmm, I wonder if I should stay until tonight."
+                                "\\N<Nakano> Hmm, I wonder if I should stay until tonight."
                             ]
                         },
                         {
@@ -7321,7 +7321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N Nakano: Hmm, I wonder if I should stay until tonight."
+                                "\\N<Nakano> Hmm, I wonder if I should stay until tonight."
                             ]
                         },
                         {

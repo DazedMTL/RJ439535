@@ -6932,7 +6932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> But it's surprising, isn't it~"
+                                "\\N<Hinata Aki> But it's surprising, isn't it~"
                             ]
                         },
                         {
@@ -6966,7 +6966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> Could it be that you're absent-minded?"
+                                "\\N<Hinata Aki> Could it be that you're absent-minded?"
                             ]
                         },
                         {
@@ -7250,7 +7250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki>(What is he thinking...!)"
+                                "\\N<Hinata Aki>(What is he thinking...!)"
                             ]
                         },
                         {
@@ -7995,7 +7995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> Could it be that you're absent-minded?"
+                                "\\N<Hinata Aki> Could it be that you're absent-minded?"
                             ]
                         },
                         {
@@ -8296,7 +8296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> Sh-Shall we... start heading home soon, \\P[0001]?"
+                                "\\N<Hinata Aki> Sh-Shall we... start heading home soon, \\P[0001]?"
                             ]
                         },
                         {
@@ -11131,7 +11131,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N Bright student: I'll wait until 7 p.m., so please come."
+                                "\\N<Bright student> I'll wait until 7 p.m., so please come."
                             ]
                         },
                         {
@@ -11307,7 +11307,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<Bright student> I'll contact you later with the details, so\nplease rely on me!"
+                                "\\N<Bright student> I'll contact you later with the details, so\nplease rely on me!"
                             ]
                         },
                         {
@@ -11371,7 +11371,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<Bright student> I'll wait until 7 p.m., so please take your\ntime."
+                                "\\N<Bright student> I'll wait until 7 p.m., so please take your\ntime."
                             ]
                         },
                         {

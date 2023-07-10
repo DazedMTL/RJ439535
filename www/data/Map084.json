@@ -9429,7 +9429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Daughter of Saya> ...I want this to be the last time I see\nyou, Dad."
+                                "\\N<Daughter of Saya> ...I want this to be the last time I see\nyou, Dad."
                             ]
                         },
                         {
@@ -9523,7 +9523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Sayama> That's so selfish..."
+                                "\\N<Sayama> That's so selfish..."
                             ]
                         },
                         {
@@ -9540,7 +9540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Daughter of Saya> Besides, it's become a rumor at school\nthat I'm always hanging out there..."
+                                "\\N<Daughter of Saya> Besides, it's become a rumor at school\nthat I'm always hanging out there..."
                             ]
                         },
                         {
@@ -9557,7 +9557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Daughter of Saya> It's a bit uncomfortable for me at\nschool..."
+                                "\\N<Daughter of Saya> It's a bit uncomfortable for me at\nschool..."
                             ]
                         },
                         {
@@ -9727,7 +9727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Daughter of Saya> After all... I..."
+                                "\\N<Daughter of Saya> After all... I..."
                             ]
                         },
                         {

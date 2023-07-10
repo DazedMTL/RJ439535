@@ -2925,7 +2925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> There's nothing pathetic about it."
+                                "\\N<Hinata Aki> There's nothing pathetic about it."
                             ]
                         },
                         {
@@ -3025,7 +3025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> Ugh..."
+                                "\\N<Hinata Aki> Ugh..."
                             ]
                         },
                         {
@@ -3759,7 +3759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> If it's fun for Nakano-san, then it's okay!"
+                                "\\N<Hinata Aki> If it's fun for Nakano-san, then it's okay!"
                             ]
                         },
                         {
@@ -3809,7 +3809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> Huh, really~?"
+                                "\\N<Hinata Aki> Huh, really~?"
                             ]
                         },
                         {
@@ -3826,7 +3826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N Nakano: Yeah, yeah, I had it around there..."
+                                "\\N<Nakano> Yeah, yeah, I had it around there..."
                             ]
                         },
                         {
@@ -3935,7 +3935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> Hmm, books... books..."
+                                "\\N<Hinata Aki> Hmm, books... books..."
                             ]
                         },
                         {
@@ -4003,7 +4003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> No, don't worry about it."
+                                "\\N<Hinata Aki> No, don't worry about it."
                             ]
                         },
                         {
@@ -4020,7 +4020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N Hinata Aki: I'm curious about the book you recommend for\nme."
+                                "\\N<Hinata Aki> I'm curious about the book you recommend for\nme."
                             ]
                         },
                         {

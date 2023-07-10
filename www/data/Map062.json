@@ -2997,7 +2997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<K Festival Day>"
+                                "\\N<K Festival Day>"
                             ]
                         },
                         {
@@ -3779,7 +3779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Aki>~ The yakitori over there looks delicious."
+                                "\\N<Aki>~ The yakitori over there looks delicious."
                             ]
                         },
                         {
