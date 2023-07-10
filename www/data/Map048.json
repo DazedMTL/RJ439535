@@ -4688,7 +4688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Aki said that the club activities might take longer\nthan expected, so you can go home first if you want."
+                                "<Omura> Aki said that the club activities might take longer\nthan expected, so you can go home first if you want."
                             ]
                         },
                         {
@@ -4749,7 +4749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Huh? Did she say it would end early?"
+                                "<Omura> Huh? Did she say it would end early?"
                             ]
                         },
                         {
@@ -4766,7 +4766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> ...Tch (So annoying)"
+                                "<Omura> ...Tch (So annoying)"
                             ]
                         },
                         {
@@ -4783,7 +4783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> The situation has changed, and the tournament is\ncoming up soon."
+                                "<Omura> The situation has changed, and the tournament is\ncoming up soon."
                             ]
                         },
                         {
@@ -4800,7 +4800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> You might not understand since you're not in a club."
+                                "<Omura> You might not understand since you're not in a club."
                             ]
                         },
                         {
@@ -4817,7 +4817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Everyone is working hard for the tournament, so club\nactivities can sometimes take longer."
+                                "<Omura> Everyone is working hard for the tournament, so club\nactivities can sometimes take longer."
                             ]
                         },
                         {
@@ -4834,7 +4834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> If you understand, then go home quickly."
+                                "<Omura> If you understand, then go home quickly."
                             ]
                         },
                         {

@@ -1710,7 +1710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> That kind of excuse won't work!"
+                                "<Hinata Aki> That kind of excuse won't work!"
                             ]
                         },
                         {
@@ -3158,7 +3158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> There's no way I would do something like\nthat..."
+                                "<Hinata Aki> There's no way I would do something like\nthat..."
                             ]
                         },
                         {

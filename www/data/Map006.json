@@ -2300,7 +2300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Wa-ke! U-p!"
+                                "\\N Hinata Aki: Oh! Ki! Ro!"
                             ]
                         },
                         {
@@ -2427,7 +2427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> It's already this late, you know?"
+                                "<Hinata Aki> It's already this late, you know?"
                             ]
                         },
                         {
@@ -2508,7 +2508,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> I'm so exasperated... \\P[0001] really can't\nfunction without me, huh~"
+                                "<Hinata Aki> I'm so exasperated... \\P[0001] really can't\nfunction without me, huh~"
                             ]
                         },
                         {
@@ -8114,7 +8114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> We go together every year... What's the matter?\nInviting me so formally..."
+                                "<Hinata Aki> We go together every year... What's the matter?\nInviting me so formally..."
                             ]
                         },
                         {

@@ -4270,7 +4270,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> By the way, \\P[0001] couldn't do a backflip since\nhe was little, right?"
+                                "<Hinata Aki> By the way, \\P[0001] couldn't do a backflip since\nhe was little, right?"
                             ]
                         },
                         {
@@ -4287,7 +4287,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> Sota surpassed me~"
+                                "<Hinata Aki> Sota surpassed me~"
                             ]
                         },
                         {
@@ -4338,7 +4338,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> Ahaha~ I'm being talked about~"
+                                "<Hinata Aki> Ahaha~ I'm being talked about~"
                             ]
                         },
                         {
@@ -6631,7 +6631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...Today? Hmm... It's fine, but I should check\nwith my mom just in case."
+                                "<Hinata Aki> ...Today? Hmm... It's fine, but I should check\nwith my mom just in case."
                             ]
                         },
                         {
@@ -6665,7 +6665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Is that so? Since when..."
+                                "<Hinata Aki> Is that so? Since when..."
                             ]
                         },
                         {
@@ -7230,7 +7230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Alright... then let's get started..."
+                                "\\N Hinata Aki: Alright... then let's get started..."
                             ]
                         },
                         {

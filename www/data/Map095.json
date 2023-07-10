@@ -3259,7 +3259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...huh"
+                                "<Hinata Aki> ...huh"
                             ]
                         },
                         {
@@ -4048,7 +4048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Huh...? No... It's not like that with \\P[0001]..."
+                                "<Hinata Aki> Huh...? No... It's not like that with \\P[0001]..."
                             ]
                         },
                         {

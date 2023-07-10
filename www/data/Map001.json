@@ -7473,7 +7473,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Hinata Aki> What's that... No way..."
+                                "<Hinata Aki> What's that... No way..."
                             ]
                         },
                         {
@@ -7524,7 +7524,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Hinata Aki> ...Ah"
+                                "<Hinata Aki> ...Ah"
                             ]
                         },
                         {
@@ -8260,7 +8260,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Sayama> Did you happen to see a cellphone around here?"
+                                "<Sayama> Did you happen to see a cellphone around here?"
                             ]
                         },
                         {
@@ -11743,7 +11743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>(I guess I have no choice but to ask the people\naround me)"
+                                "<Hinata Aki>(I guess I have no choice but to ask the people\naround me)"
                             ]
                         },
                         {
@@ -11928,7 +11928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>(I just asked where the owner of the cellphone\nis...)"
+                                "<Hinata Aki>(I just asked where the owner of the cellphone\nis...)"
                             ]
                         },
                         {
@@ -11962,7 +11962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Rough-looking vagrant> Who cares about that? <K♥>"
+                                "<Rough-looking vagrant> Who cares about that? <K♥>"
                             ]
                         },
                         {
@@ -12094,7 +12094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Hey! Stop it!"
+                                "<Hinata Aki> Hey! Stop it!"
                             ]
                         },
                         {
@@ -12176,7 +12176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Hmm..."
+                                "\\N Hinata Aki: Hmm..."
                             ]
                         },
                         {
@@ -12476,7 +12476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Pervert! Idiot!"
+                                "<Hinata Aki> Pervert! Idiot!"
                             ]
                         },
                         {
@@ -12493,7 +12493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Next time, it won't end with just this, you\nknow?!"
+                                "\\N Hinata Aki: Next time, it won't end with just this, you\nknow?!"
                             ]
                         },
                         {

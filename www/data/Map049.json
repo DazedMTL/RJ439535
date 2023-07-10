@@ -11993,7 +11993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> I'm glad... Sorry for being late."
+                                "<Omura> I'm glad... Sorry for being late."
                             ]
                         },
                         {
@@ -14834,7 +14834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> I'm going to insert it..."
+                                "<Omura> I'm going to insert it..."
                             ]
                         },
                         {

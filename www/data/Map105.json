@@ -2157,7 +2157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Mother> Did you two have a fight?"
+                                "<Mother> Did you two have a fight?"
                             ]
                         },
                         {
@@ -2224,7 +2224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Mother> Even if you're going to be late, go to school,\nokay?"
+                                "<Mother> Even if you're going to be late, go to school,\nokay?"
                             ]
                         },
                         {

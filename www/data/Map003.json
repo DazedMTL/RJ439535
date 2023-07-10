@@ -4914,7 +4914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Oh no! It's true!"
+                                "<Hinata Aki> Oh no! It's true!"
                             ]
                         },
                         {
@@ -8778,7 +8778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> It's tough to bear it all alone..."
+                                "<Nakano> It's tough to bear it all alone..."
                             ]
                         },
                         {
@@ -8877,7 +8877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> Hmm, I wonder if I'll stay until tonight."
+                                "\\N Nakano: Hmm, I wonder if I'll stay until tonight."
                             ]
                         },
                         {
@@ -9010,7 +9010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> Hmm, I wonder if I should stay until tonight."
+                                "\\N Nakano: Hmm, I wonder if I should stay until tonight."
                             ]
                         },
                         {
@@ -11916,7 +11916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> That's why I won't date you!"
+                                "<Hinata Aki> That's why I won't date you!"
                             ]
                         },
                         {
@@ -16355,7 +16355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...I'm sorry."
+                                "<Hinata Aki> ...I'm sorry."
                             ]
                         },
                         {
@@ -16885,7 +16885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...I'm sorry."
+                                "<Hinata Aki> ...I'm sorry."
                             ]
                         },
                         {
@@ -20477,7 +20477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Is there someone outside~?"
+                                "\\N Hinata Aki: Is there someone outside~?"
                             ]
                         },
                         {

@@ -3276,7 +3276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<That person> dislikes it..."
+                                "<That person> dislikes it..."
                             ]
                         },
                         {

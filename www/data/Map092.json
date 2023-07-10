@@ -4044,7 +4044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's mother> Aki has already gone out, you know?"
+                                "<Aki's mother> Aki has already gone out, you know?"
                             ]
                         },
                         {
@@ -4104,7 +4104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's mother> Is that so..."
+                                "<Aki's mother> Is that so..."
                             ]
                         },
                         {
@@ -4327,7 +4327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's mother> Oh... we still haven't met?"
+                                "<Aki's mother> Oh... we still haven't met?"
                             ]
                         },
                         {

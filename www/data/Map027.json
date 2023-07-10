@@ -2713,7 +2713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> Recording... You're kidding, right?"
+                                "<Hanaguri Shiori> Recording... You're kidding, right?"
                             ]
                         },
                         {
@@ -2730,7 +2730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> Please leave!"
+                                "<Hanaguri Shiori> Please leave!"
                             ]
                         },
                         {
@@ -2747,7 +2747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> I'll be making a loud voice..."
+                                "<Hanaguri Shiori> I'll be making a loud voice..."
                             ]
                         },
                         {
