@@ -1939,7 +1939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Taro>... I'm really happy."
+                                "<\\P[0001]>... I'm really happy."
                             ]
                         },
                         {
@@ -2065,7 +2065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Taro, you don't understand either!?"
+                                "...\\P[0001], you don't understand either!?"
                             ]
                         },
                         {

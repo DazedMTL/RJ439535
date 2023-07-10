@@ -5980,7 +5980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I... I <liked> Taro..."
+                                "I... I <liked> \\P[0001]..."
                             ]
                         },
                         {
@@ -6116,7 +6116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm scared that my relationship with Taro, which was always\ntaken for granted, will be broken."
+                                "I'm scared that my relationship with \\P[0001], which was always\ntaken for granted, will be broken."
                             ]
                         },
                         {
@@ -6369,7 +6369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I wonder if it was Taro who was embracing me now..."
+                                "I wonder if it was \\P[0001] who was embracing me now..."
                             ]
                         },
                         {

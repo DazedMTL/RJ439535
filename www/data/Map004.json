@@ -4347,7 +4347,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> ...! Oh, Taro!"
+                                "\\N<Hinata Aki> ...! Oh, \\P[0001]!"
                             ]
                         },
                         {
@@ -4869,7 +4869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Taro, why did you come to school if you don't\nhave supplementary lessons?"
+                                "\\N<Hinata Aki> \\P[0001], why did you come to school if you don't\nhave supplementary lessons?"
                             ]
                         },
                         {
@@ -5965,7 +5965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Oh no~ Taro~ Where was the test material for\nthis time?"
+                                "\\N<Hinata Aki> Oh no~ \\P[0001]~ Where was the test material for\nthis time?"
                             ]
                         },
                         {
@@ -6558,7 +6558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> Is it... no good, Taro-kun...?"
+                                "\\N<Hanaguri Shiori> Is it... no good, \\P[0001]-kun...?"
                             ]
                         },
                         {
@@ -6797,7 +6797,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> Taro-kun is really kind... right?"
+                                "\\N<Hanaguri Shiori> \\P[0001]-kun is really kind... right?"
                             ]
                         },
                         {
@@ -7108,7 +7108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> That's why I'm really grateful, Taro-\nkun. Thank you so much."
+                                "\\N<Hanaguri Shiori> That's why I'm really grateful, \\P[0001]-\nkun. Thank you so much."
                             ]
                         },
                         {
@@ -7200,7 +7200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>(Taro... why is your face turning red...)"
+                                "\\N<Hinata Aki>(\\P[0001]... why is your face turning red...)"
                             ]
                         },
                         {
@@ -7267,7 +7267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Sh-Shall we... Shall we go home soon, Taro?"
+                                "\\N<Hinata Aki> Sh-Shall we... Shall we go home soon, \\P[0001]?"
                             ]
                         },
                         {
@@ -7392,7 +7392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> Yeah, see you tomorrow, Hinata-san,\nTaro- kun."
+                                "\\N<Hanaguri Shiori> Yeah, see you tomorrow, Hinata-san,\n\\P[0001]- kun."
                             ]
                         },
                         {
@@ -7822,7 +7822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> Is it... no good, Taro-kun...?"
+                                "\\N<Hanaguri Shiori> Is it... no good, \\P[0001]-kun...?"
                             ]
                         },
                         {
@@ -7877,7 +7877,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> Taro-kun is really kind... isn't he?"
+                                "\\N<Hanaguri Shiori> \\P[0001]-kun is really kind... isn't he?"
                             ]
                         },
                         {
@@ -8137,7 +8137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> That's why I'm really grateful, Taro-\nkun. Thank you so much."
+                                "\\N<Hanaguri Shiori> That's why I'm really grateful, \\P[0001]-\nkun. Thank you so much."
                             ]
                         },
                         {
@@ -8229,7 +8229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>(Taro... why are you blushing...)"
+                                "\\N<Hinata Aki>(\\P[0001]... why are you blushing...)"
                             ]
                         },
                         {
@@ -8296,7 +8296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> Sh-Shall we... start heading home soon, Taro?"
+                                "<Hinata Aki> Sh-Shall we... start heading home soon, \\P[0001]?"
                             ]
                         },
                         {
@@ -8421,7 +8421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> Yeah, see you tomorrow, Hinata-san,\nTaro- kun."
+                                "\\N<Hanaguri Shiori> Yeah, see you tomorrow, Hinata-san,\n\\P[0001]- kun."
                             ]
                         },
                         {
@@ -10858,7 +10858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Bright student> Hey... Taro"
+                                "\\N<Bright student> Hey... \\P[0001]"
                             ]
                         },
                         {
@@ -12353,7 +12353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Committee Chairperson> Is it Taro's supplementary\nlessons?"
+                                "\\N<Committee Chairperson> Is it \\P[0001]'s supplementary\nlessons?"
                             ]
                         },
                         {
@@ -12438,7 +12438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Committee Chairperson> Taro..."
+                                "\\N<Committee Chairperson> \\P[0001]..."
                             ]
                         },
                         {
@@ -12549,7 +12549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<A student with a loose moral compass> Hey Taro~ Can you\nteach me how to study?"
+                                "\\N<A student with a loose moral compass> Hey \\P[0001]~ Can you\nteach me how to study?"
                             ]
                         },
                         {
@@ -12668,7 +12668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<A student with a loose moral compass> But Taro, you don't\nhave any supplementary lessons, right?"
+                                "\\N<A student with a loose moral compass> But \\P[0001], you don't\nhave any supplementary lessons, right?"
                             ]
                         },
                         {
@@ -12770,7 +12770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<A student with a loose moral compass> I heard that Aki\nand Taro are dating."
+                                "\\N<A student with a loose moral compass> I heard that Aki\nand \\P[0001] are dating."
                             ]
                         },
                         {
@@ -12787,7 +12787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<A student with a loose moral compass> I thought Aki...\nliked Taro, though."
+                                "\\N<A student with a loose moral compass> I thought Aki...\nliked \\P[0001], though."
                             ]
                         },
                         {
@@ -13102,7 +13102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Perverted student> Hey~ Taro~..."
+                                "\\N<Perverted student> Hey~ \\P[0001]~..."
                             ]
                         },
                         {
@@ -13136,7 +13136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Perverted student> Well... I don't believe it... that\nHinata Aki and Taro are dating."
+                                "\\N<Perverted student> Well... I don't believe it... that\nHinata Aki and \\P[0001] are dating."
                             ]
                         },
                         {
@@ -13383,7 +13383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Introverted student> I saw it... That's definitely Aki\nHinata and Taro Omura..."
+                                "\\N<Introverted student> I saw it... That's definitely Aki\nHinata and \\P[0001] Omura..."
                             ]
                         },
                         {
@@ -13647,7 +13647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Unserious student> I heard a rumor that Aki and Taro are\ndating."
+                                "\\N<Unserious student> I heard a rumor that Aki and \\P[0001] are\ndating."
                             ]
                         },
                         {
@@ -13664,7 +13664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Unserious student> I heard a rumor that Aki and Taro were\nhaving sex on the school grounds at night..."
+                                "\\N<Unserious student> I heard a rumor that Aki and \\P[0001] were\nhaving sex on the school grounds at night..."
                             ]
                         },
                         {
@@ -16057,7 +16057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<A student with a loose moral compass> Hey Aki, are you\nstill not dating Taro?"
+                                "\\N<A student with a loose moral compass> Hey Aki, are you\nstill not dating \\P[0001]?"
                             ]
                         },
                         {
@@ -16125,7 +16125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<A student with a loose moral compass> Hmm... then, can I\ngo after him? ...Taro <K♥>"
+                                "\\N<A student with a loose moral compass> Hmm... then, can I\ngo after him? ...\\P[0001] <K♥>"
                             ]
                         },
                         {
@@ -16176,7 +16176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<A student with a loose moral compass> ...But Taro is\nhere, right!"
+                                "\\N<A student with a loose moral compass> ...But \\P[0001] is\nhere, right!"
                             ]
                         },
                         {
@@ -16328,7 +16328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<A student with a loose moral compass> Hey Aki, are you\nstill not dating Taro?"
+                                "\\N<A student with a loose moral compass> Hey Aki, are you\nstill not dating \\P[0001]?"
                             ]
                         },
                         {
@@ -16396,7 +16396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<A student with a loose moral compass> Hmm... then, can I\ngo after him? ...Taro <K♥>"
+                                "\\N<A student with a loose moral compass> Hmm... then, can I\ngo after him? ...\\P[0001] <K♥>"
                             ]
                         },
                         {
@@ -16447,7 +16447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<A student with a loose moral compass> ...But Taro is\nhere, right!"
+                                "\\N<A student with a loose moral compass> ...But \\P[0001] is\nhere, right!"
                             ]
                         },
                         {

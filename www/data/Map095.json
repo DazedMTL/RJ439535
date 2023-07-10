@@ -3995,7 +3995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> Have you already shown this side to Taro-niichan?\nLike, in this outfit..."
+                                "\\N<Sota> Have you already shown this side to \\P[0001]-niichan?\nLike, in this outfit..."
                             ]
                         },
                         {
@@ -4048,7 +4048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> Huh...? No... It's not like that with Taro..."
+                                "<Hinata Aki> Huh...? No... It's not like that with \\P[0001]..."
                             ]
                         },
                         {

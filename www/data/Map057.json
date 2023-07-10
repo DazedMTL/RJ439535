@@ -3057,7 +3057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...<Taro>"
+                                "\\N<Hinata Aki> ...<\\P[0001]>"
                             ]
                         },
                         {
@@ -3091,7 +3091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> It took a lot of time, but... I was able to\nbe with <N>Taro."
+                                "\\N<Hinata Aki> It took a lot of time, but... I was able to\nbe with <N>\\P[0001]."
                             ]
                         },
                         {
@@ -3142,7 +3142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...<N>Taro."
+                                "\\N<Hinata Aki> ...<N>\\P[0001]."
                             ]
                         },
                         {
@@ -3362,7 +3362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>\\{ Hey, Taro!"
+                                "\\N<Hinata Aki>\\{ Hey, \\P[0001]!"
                             ]
                         },
                         {
@@ -3396,7 +3396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Taro, how long are you going to sleep?"
+                                "\\N<Hinata Aki> \\P[0001], how long are you going to sleep?"
                             ]
                         },
                         {

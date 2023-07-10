@@ -5583,7 +5583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Neighborhood uncle> Taro, you seem a bit down."
+                                "\\N<Neighborhood uncle> \\P[0001], you seem a bit down."
                             ]
                         },
                         {
@@ -5651,7 +5651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Neighborhood uncle> Taro, don't go out too much at night,\nokay?"
+                                "\\N<Neighborhood uncle> \\P[0001], don't go out too much at night,\nokay?"
                             ]
                         },
                         {
@@ -6999,7 +6999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...Taro"
+                                "\\N<Hinata Aki> ...\\P[0001]"
                             ]
                         },
                         {
@@ -7513,7 +7513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Taro..."
+                                "\\N<Omura> \\P[0001]..."
                             ]
                         },
                         {
@@ -7787,7 +7787,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Omura> Too bad, Taro."
+                                "\\N<Omura> Too bad, \\P[0001]."
                             ]
                         },
                         {

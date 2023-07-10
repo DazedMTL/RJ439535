@@ -4301,7 +4301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Ah, Taro, you finally came."
+                                "\\N<Hinata Aki> Ah, \\P[0001], you finally came."
                             ]
                         },
                         {
@@ -4444,7 +4444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> Oh, Taro-kun, good morning."
+                                "\\N<Nakano> Oh, \\P[0001]-kun, good morning."
                             ]
                         },
                         {
@@ -4461,7 +4461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> You shouldn't trouble your cute childhood friend\ntoo much, Taro-kun~"
+                                "\\N<Nakano> You shouldn't trouble your cute childhood friend\ntoo much, \\P[0001]-kun~"
                             ]
                         },
                         {
@@ -4579,7 +4579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>「.....」"
+                                "\\N<\\P[0001]>「.....」"
                             ]
                         },
                         {
@@ -4605,7 +4605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>「...？」"
+                                "\\N<\\P[0001]>「...？」"
                             ]
                         },
                         {
@@ -4931,7 +4931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Hurry up, Taro!"
+                                "\\N<Hinata Aki> Hurry up, \\P[0001]!"
                             ]
                         },
                         {
@@ -11363,7 +11363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Forest road> I think... his name was Taro, right?"
+                                "\\N<Forest road> I think... his name was \\P[0001], right?"
                             ]
                         },
                         {
@@ -12422,7 +12422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>\\{ Taro!"
+                                "\\N<Hinata Aki>\\{ \\P[0001]!"
                             ]
                         },
                         {
@@ -13450,7 +13450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Neighborhood uncle> Taro, you seem a bit down."
+                                "\\N<Neighborhood uncle> \\P[0001], you seem a bit down."
                             ]
                         },
                         {
@@ -13518,7 +13518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Neighborhood uncle> Taro, don't go out too much at night,\nokay?"
+                                "\\N<Neighborhood uncle> \\P[0001], don't go out too much at night,\nokay?"
                             ]
                         },
                         {
@@ -14810,7 +14810,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Sota> What's wrong, Taro-niichan?"
+                                "\\N<Sota> What's wrong, \\P[0001]-niichan?"
                             ]
                         },
                         {
@@ -14844,7 +14844,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Sota> Ah~ It's something that doesn't concern you, Taro-\nniichan."
+                                "\\N<Sota> Ah~ It's something that doesn't concern you, \\P[0001]-\nniichan."
                             ]
                         },
                         {
@@ -16254,7 +16254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Ah... Taro..."
+                                "\\N<Hinata Aki> Ah... \\P[0001]..."
                             ]
                         },
                         {
@@ -16338,7 +16338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> Taro, could you please leave the seat? It seems\nlike Aki isn't feeling well."
+                                "\\N<Nakano> \\P[0001], could you please leave the seat? It seems\nlike Aki isn't feeling well."
                             ]
                         },
                         {
@@ -16784,7 +16784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Ah... Taro..."
+                                "\\N<Hinata Aki> Ah... \\P[0001]..."
                             ]
                         },
                         {
@@ -16868,7 +16868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> Taro, could you step out for a moment? It seems\nlike Aki isn't feeling well."
+                                "\\N<Nakano> \\P[0001], could you step out for a moment? It seems\nlike Aki isn't feeling well."
                             ]
                         },
                         {
@@ -18591,7 +18591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Taro..."
+                                "\\N<Hinata Aki> \\P[0001]..."
                             ]
                         },
                         {
@@ -18798,7 +18798,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nakano> Oh~ Taro-kun, is this an invitation for a date?"
+                                "\\N<Nakano> Oh~ \\P[0001]-kun, is this an invitation for a date?"
                             ]
                         },
                         {
@@ -19031,7 +19031,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nakano> Taro-kun is mustering up the courage to invite\nyou."
+                                "\\N<Nakano> \\P[0001]-kun is mustering up the courage to invite\nyou."
                             ]
                         },
                         {
@@ -20428,7 +20428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...Taro"
+                                "\\N<Hinata Aki> ...\\P[0001]"
                             ]
                         },
                         {
@@ -20942,7 +20942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Taro..."
+                                "\\N<Omura> \\P[0001]..."
                             ]
                         },
                         {
@@ -21216,7 +21216,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Omura> Too bad, Taro."
+                                "\\N<Omura> Too bad, \\P[0001]."
                             ]
                         },
                         {
@@ -23206,7 +23206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Here you go, Taro... Shake hands..."
+                                "\\N<Hinata Aki> Here you go, \\P[0001]... Shake hands..."
                             ]
                         },
                         {
@@ -23503,7 +23503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...Oh, Taro."
+                                "\\N<Hinata Aki> ...Oh, \\P[0001]."
                             ]
                         },
                         {

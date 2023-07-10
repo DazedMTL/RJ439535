@@ -1509,7 +1509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Forest road> Come to think of it... that person who's\nalways with you... is it Taro?"
+                                "\\N<Forest road> Come to think of it... that person who's\nalways with you... is it \\P[0001]?"
                             ]
                         },
                         {
@@ -1576,7 +1576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Taro..."
+                                "\\N<Hinata Aki> \\P[0001]..."
                             ]
                         },
                         {
@@ -1762,7 +1762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>(......Taro...)"
+                                "\\N<Hinata Aki>(......\\P[0001]...)"
                             ]
                         },
                         {
@@ -2091,7 +2091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...Taro?"
+                                "\\N<Hinata Aki> ...\\P[0001]?"
                             ]
                         },
                         {

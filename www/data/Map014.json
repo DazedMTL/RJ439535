@@ -1899,7 +1899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> I'm sorry, Taro-kun, but I'm busy today."
+                                "\\N<Nakano> I'm sorry, \\P[0001]-kun, but I'm busy today."
                             ]
                         },
                         {
@@ -2493,7 +2493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> Hey hey, Aki, Taro-kun is here right now, you\nknow?"
+                                "\\N<Nakano> Hey hey, Aki, \\P[0001]-kun is here right now, you\nknow?"
                             ]
                         },
                         {
@@ -2543,7 +2543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...Taro... Is something wrong? Do you have\nsomething to talk to Nakano-san about?"
+                                "\\N<Hinata Aki> ...\\P[0001]... Is something wrong? Do you have\nsomething to talk to Nakano-san about?"
                             ]
                         },
                         {
@@ -7001,7 +7001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> Hey, hey Aki, Taro-kun is here right now, you\nknow?"
+                                "\\N<Nakano> Hey, hey Aki, \\P[0001]-kun is here right now, you\nknow?"
                             ]
                         },
                         {
@@ -7051,7 +7051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...Taro... Is something wrong? Do you have\nsomething to talk to Nakano-san about?"
+                                "\\N<Hinata Aki> ...\\P[0001]... Is something wrong? Do you have\nsomething to talk to Nakano-san about?"
                             ]
                         },
                         {

@@ -3904,7 +3904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I wonder how I should interact with Taro from now on..."
+                                "I wonder how I should interact with \\P[0001] from now on..."
                             ]
                         },
                         {
@@ -4035,7 +4035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> Oh, I see... Taro-kun got himself a girlfriend,\nhuh?"
+                                "\\N<Nakano> Oh, I see... \\P[0001]-kun got himself a girlfriend,\nhuh?"
                             ]
                         },
                         {
@@ -4603,7 +4603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Maybe it's because I saw that side of Hanaguri-san and Taro."
+                                "Maybe it's because I saw that side of Hanaguri-san and \\P[0001]."
                             ]
                         },
                         {
@@ -5665,7 +5665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano>(I'm grateful to Taro... I never thought I would\nhave such an opportunity)"
+                                "\\N<Nakano>(I'm grateful to \\P[0001]... I never thought I would\nhave such an opportunity)"
                             ]
                         },
                         {
@@ -6330,7 +6330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "While hoping that maybe I can go back to how things were\nwith Taro..."
+                                "While hoping that maybe I can go back to how things were\nwith \\P[0001]..."
                             ]
                         },
                         {
@@ -6347,7 +6347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro is trying to protect a place where he can feel secure\neven if he were to separate like this."
+                                "\\P[0001] is trying to protect a place where he can feel secure\neven if he were to separate like this."
                             ]
                         },
                         {
@@ -15858,7 +15858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> By the way, it seems Taro-kun has returned."
+                                "\\N<Nakano> By the way, it seems \\P[0001]-kun has returned."
                             ]
                         },
                         {
@@ -16079,7 +16079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> You knew, right? Taro's feelings..."
+                                "\\N<Hinata Aki> You knew, right? \\P[0001]'s feelings..."
                             ]
                         },
                         {
@@ -16113,7 +16113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> Taro-kun's pride must be completely crushed,\nright?"
+                                "\\N<Nakano> \\P[0001]-kun's pride must be completely crushed,\nright?"
                             ]
                         },
                         {

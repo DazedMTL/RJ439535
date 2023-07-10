@@ -3195,7 +3195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Were the man and woman from that day really Aki and Taro?"
+                                "Were the man and woman from that day really Aki and \\P[0001]?"
                             ]
                         },
                         {
@@ -4051,7 +4051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well! It should be fine since Taro is here!"
+                                "Well! It should be fine since \\P[0001] is here!"
                             ]
                         },
                         {
@@ -4068,7 +4068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If something happens, I can use Taro as a decoy and escape!"
+                                "If something happens, I can use \\P[0001] as a decoy and escape!"
                             ]
                         },
                         {

@@ -3927,7 +3927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<A student with a loose moral compass> Hey Taro~ Can you\nteach me how to study?"
+                                "\\N<A student with a loose moral compass> Hey \\P[0001]~ Can you\nteach me how to study?"
                             ]
                         },
                         {

@@ -4380,7 +4380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...Taro?"
+                                "\\N<Hinata Aki> ...\\P[0001]?"
                             ]
                         },
                         {
@@ -4499,7 +4499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...Taro, you left this town right after\ngraduating."
+                                "\\N<Hinata Aki> ...\\P[0001], you left this town right after\ngraduating."
                             ]
                         },
                         {
@@ -4597,7 +4597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Taro has always been bad at cleaning, so I\nalways..."
+                                "\\N<Hinata Aki> \\P[0001] has always been bad at cleaning, so I\nalways..."
                             ]
                         },
                         {

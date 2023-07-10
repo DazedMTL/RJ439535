@@ -2393,7 +2393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> I have to teach Taro-niichan the taste of nipples,\ndon't I?"
+                                "\\N<Sota> I have to teach \\P[0001]-niichan the taste of nipples,\ndon't I?"
                             ]
                         },
                         {
@@ -2910,7 +2910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> What are you saying now? Can I tell Taro about\nthis?"
+                                "\\N<Sota> What are you saying now? Can I tell \\P[0001] about\nthis?"
                             ]
                         },
                         {

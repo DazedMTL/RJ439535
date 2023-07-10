@@ -2282,7 +2282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro-kun... <K♥>ngh... Taro-kun <K♥>"
+                                "\\P[0001]-kun... <K♥>ngh... \\P[0001]-kun <K♥>"
                             ]
                         },
                         {
@@ -2323,7 +2323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There... <K♥> harder... <K♥> be more intense, Taro-kun <K♥>"
+                                "There... <K♥> harder... <K♥> be more intense, \\P[0001]-kun <K♥>"
                             ]
                         },
                         {
@@ -2357,7 +2357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro-kun, I'm coming... <K♥>!"
+                                "\\P[0001]-kun, I'm coming... <K♥>!"
                             ]
                         },
                         {
@@ -3003,7 +3003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori>(...If someone from school or Taro-kun\nsees that)"
+                                "\\N<Hanaguri Shiori>(...If someone from school or \\P[0001]-kun\nsees that)"
                             ]
                         },
                         {

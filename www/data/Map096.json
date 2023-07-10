@@ -5400,7 +5400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> ...Alright then... I'll talk to Taro-niichan about\nthe photos and today's events."
+                                "\\N<Sota> ...Alright then... I'll talk to \\P[0001]-niichan about\nthe photos and today's events."
                             ]
                         },
                         {
@@ -5433,7 +5433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Why is Taro appearing?"
+                                "\\N<Hinata Aki> Why is \\P[0001] appearing?"
                             ]
                         },
                         {
@@ -5450,7 +5450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> But Taro-niichan is older than me... He might be\nable to teach me a lot of things about women!"
+                                "\\N<Sota> But \\P[0001]-niichan is older than me... He might be\nable to teach me a lot of things about women!"
                             ]
                         },
                         {
@@ -5535,7 +5535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> I'll keep it a secret from Taro-niichan, okay..."
+                                "\\N<Sota> I'll keep it a secret from \\P[0001]-niichan, okay..."
                             ]
                         },
                         {
@@ -6193,7 +6193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> ...Is it okay? Should I ask Taro-niichan for\nadvice?"
+                                "\\N<Sota> ...Is it okay? Should I ask \\P[0001]-niichan for\nadvice?"
                             ]
                         },
                         {

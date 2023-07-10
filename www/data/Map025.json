@@ -5370,7 +5370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Taro... Is this person...? Ahh... I just met\nhim earlier."
+                                "\\N<Hinata Aki> \\P[0001]... Is this person...? Ahh... I just met\nhim earlier."
                             ]
                         },
                         {
@@ -9622,7 +9622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Taro... Is this person...? Ahh... I just met\nhim earlier."
+                                "\\N<Hinata Aki> \\P[0001]... Is this person...? Ahh... I just met\nhim earlier."
                             ]
                         },
                         {

@@ -1560,7 +1560,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Do you want to be bound with <K Hinata Aki> this summer?"
+                                "Do you want to be bound with <Hinata Aki> this summer?"
                             ]
                         },
                         {
@@ -2062,7 +2062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Hey Taro"
+                                "\\N<Hinata Aki> Hey \\P[0001]"
                             ]
                         },
                         {
@@ -2079,7 +2079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> Um... about Taro..."
+                                "\\N<Hinata Aki> Um... about \\P[0001]..."
                             ]
                         },
                         {
@@ -2147,7 +2147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Taro!"
+                                "\\N<Hinata Aki>「\\P[0001]!」"
                             ]
                         },
                         {
@@ -2164,7 +2164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Taro!"
+                                "\\N<Hinata Aki>\\{「\\P[0001]!」"
                             ]
                         },
                         {

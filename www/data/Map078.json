@@ -1553,7 +1553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Colleague> I see... Well then, see you later, Taro-kun."
+                                "\\N<Colleague> I see... Well then, see you later, \\P[0001]-kun."
                             ]
                         },
                         {

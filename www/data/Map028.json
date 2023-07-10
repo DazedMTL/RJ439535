@@ -2707,7 +2707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> I wonder if Taro-kun enjoyed it too...?"
+                                "\\N<Hanaguri Shiori> I wonder if \\P[0001]-kun enjoyed it too...?"
                             ]
                         },
                         {
@@ -2779,7 +2779,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> ...Are you dating Hinata-san, Taro- kun?"
+                                "\\N<Hanaguri Shiori> ...Are you dating Hinata-san, \\P[0001]- kun?"
                             ]
                         },
                         {
@@ -2931,7 +2931,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> I've always liked you, Taro-kun..."
+                                "\\N<Hanaguri Shiori> I've always liked you, \\P[0001]-kun..."
                             ]
                         },
                         {
@@ -3330,7 +3330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> Taro-kun looks cute when he swims...\n<K♥>"
+                                "\\N<Hanaguri Shiori> \\P[0001]-kun looks cute when he swims...\n<K♥>"
                             ]
                         },
                         {
@@ -3380,7 +3380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> It's my first time, but if it's for\nTaro- kun... I can do anything..."
+                                "\\N<Hanaguri Shiori> It's my first time, but if it's for\n\\P[0001]- kun... I can do anything..."
                             ]
                         },
                         {
@@ -3414,7 +3414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> Taro-kun's... pants are getting tight...\n<K♥>"
+                                "\\N<Hanaguri Shiori> \\P[0001]-kun's... pants are getting tight...\n<K♥>"
                             ]
                         },
                         {

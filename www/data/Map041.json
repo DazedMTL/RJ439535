@@ -5662,7 +5662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Mmm... Ahh... Taro..."
+                                "\\N<Hinata Aki> Mmm... Ahh... \\P[0001]..."
                             ]
                         },
                         {
@@ -6511,7 +6511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Nn... Ah... Taro..."
+                                "\\N<Hinata Aki> Nn... Ah... \\P[0001]..."
                             ]
                         },
                         {

@@ -2982,7 +2982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Forest road> You've slept with that guy Taro you're\nalways hanging out with, right?"
+                                "\\N<Forest road> You've slept with that guy \\P[0001] you're\nalways hanging out with, right?"
                             ]
                         },
                         {
@@ -3200,7 +3200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...Taro just doesn't show it openly."
+                                "\\N<Hinata Aki> ...\\P[0001] just doesn't show it openly."
                             ]
                         },
                         {
@@ -3234,7 +3234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...I wonder if Taro isn't interested in me."
+                                "\\N<Hinata Aki> ...I wonder if \\P[0001] isn't interested in me."
                             ]
                         },
                         {

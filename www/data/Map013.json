@@ -2724,7 +2724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>(...I wonder if Taro isn't interested in me)"
+                                "\\N<Hinata Aki>(...I wonder if \\P[0001] isn't interested in me)"
                             ]
                         },
                         {
@@ -2741,7 +2741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>(No, no! Taro doesn't show his feelings like\nthat, so it's no good to get down about something like\nthis!)"
+                                "\\N<Hinata Aki>(No, no! \\P[0001] doesn't show his feelings like\nthat, so it's no good to get down about something like\nthis!)"
                             ]
                         },
                         {
@@ -2774,7 +2774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Taro~ Are you thirsty~ Do you want something\nto drink?"
+                                "\\N<Hinata Aki> \\P[0001]~ Are you thirsty~ Do you want something\nto drink?"
                             ]
                         },
                         {
@@ -4149,7 +4149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Oh... Taro was here..."
+                                "\\N<Hinata Aki> Oh... \\P[0001] was here..."
                             ]
                         },
                         {
@@ -5077,7 +5077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's mother> Oh Taro~ Did you come to see Aki?"
+                                "\\N<Aki's mother> Oh \\P[0001]~ Did you come to see Aki?"
                             ]
                         },
                         {
@@ -5247,7 +5247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's mother> Taro~ Just because it's summer vacation\ndoesn't mean you can be lazy."
+                                "\\N<Aki's mother> \\P[0001]~ Just because it's summer vacation\ndoesn't mean you can be lazy."
                             ]
                         },
                         {
@@ -5315,7 +5315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's mother> Oh Taro, are you going to eat?"
+                                "\\N<Aki's mother> Oh \\P[0001], are you going to eat?"
                             ]
                         },
                         {
@@ -5604,7 +5604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's mother> Oh, Taro~"
+                                "\\N<Aki's mother> Oh, \\P[0001]~"
                             ]
                         },
                         {
@@ -7897,7 +7897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Taro~ It's rare to see you here at this time."
+                                "\\N<Hinata Aki> \\P[0001]~ It's rare to see you here at this time."
                             ]
                         },
                         {
@@ -8750,7 +8750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Huh? Taro?"
+                                "\\N<Hinata Aki> Huh? \\P[0001]?"
                             ]
                         },
                         {
@@ -10094,7 +10094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Wait, Taro!?"
+                                "\\N<Hinata Aki> Wait, \\P[0001]!?"
                             ]
                         },
                         {
@@ -10534,7 +10534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Taro!?"
+                                "\\N<Hinata Aki> \\P[0001]!?"
                             ]
                         },
                         {
@@ -10712,7 +10712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Oh, Taro~! Taro also wants to play with\nSouta, right?"
+                                "\\N<Hinata Aki> Oh, \\P[0001]~! \\P[0001] also wants to play with\nSouta, right?"
                             ]
                         },
                         {
@@ -10856,7 +10856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Taro~ You came~♪"
+                                "\\N<Hinata Aki> \\P[0001]~ You came~♪"
                             ]
                         },
                         {
@@ -11065,7 +11065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Taro~ How are your studies going?"
+                                "\\N<Hinata Aki> \\P[0001]~ How are your studies going?"
                             ]
                         },
                         {
@@ -11547,7 +11547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...Ah... Taro, you were here."
+                                "\\N<Hinata Aki> ...Ah... \\P[0001], you were here."
                             ]
                         },
                         {
@@ -12240,7 +12240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Huh? Taro?"
+                                "\\N<Hinata Aki> Huh? \\P[0001]?"
                             ]
                         },
                         {

@@ -8723,7 +8723,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> Oh, it's Taro!"
+                                "\\N<Hinata Aki> Oh, it's \\P[0001]!"
                             ]
                         },
                         {
@@ -8790,7 +8790,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> It's tough, you know~ Our club activities!\nTaro, who lacks exercise, might end up with muscle soreness\nall over his body and not be able to move after the first\nday!"
+                                "\\N<Hinata Aki> It's tough, you know~ Our club activities!\n\\P[0001], who lacks exercise, might end up with muscle soreness\nall over his body and not be able to move after the first\nday!"
                             ]
                         },
                         {
@@ -10055,7 +10055,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> ...It's <Taro> kun, who is in the same\nclass as me."
+                                "\\N<Hanaguri Shiori> ...It's <\\P[0001]> kun, who is in the same\nclass as me."
                             ]
                         },
                         {
@@ -10140,7 +10140,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> Since Taro-kun isn't in any club\nactivities, the upperclassmen might not know him."
+                                "\\N<Hanaguri Shiori> Since \\P[0001]-kun isn't in any club\nactivities, the upperclassmen might not know him."
                             ]
                         },
                         {
@@ -10424,7 +10424,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Forest road> Taro-kun again, huh..."
+                                "\\N<Forest road> \\P[0001]-kun again, huh..."
                             ]
                         },
                         {
@@ -10475,7 +10475,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Forest road> I'm looking forward to it... Showing off to\nTaro..."
+                                "\\N<Forest road> I'm looking forward to it... Showing off to\n\\P[0001]..."
                             ]
                         },
                         {
@@ -11279,7 +11279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Taro~! Did you come all the way here to watch\nthe club activities?"
+                                "\\N<Hinata Aki> \\P[0001]~! Did you come all the way here to watch\nthe club activities?"
                             ]
                         },
                         {
@@ -11511,7 +11511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Huh... haa... It's Taro... haa"
+                                "\\N<Hinata Aki> Huh... haa... It's \\P[0001]... haa"
                             ]
                         },
                         {
@@ -11903,7 +11903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Haa... haa... Oh, it's Taro."
+                                "\\N<Hinata Aki> Haa... haa... Oh, it's \\P[0001]."
                             ]
                         },
                         {
@@ -11920,7 +11920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Taro, do you want to run together?"
+                                "\\N<Hinata Aki> \\P[0001], do you want to run together?"
                             ]
                         },
                         {
@@ -12878,7 +12878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Light-looking student> Aki and Taro are alone in the club\nroom again..."
+                                "\\N<Light-looking student> Aki and \\P[0001] are alone in the club\nroom again..."
                             ]
                         },
                         {
@@ -12895,7 +12895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Light-looking student> If I peek now, I might be able to\nsee Aki and Taro having sex."
+                                "\\N<Light-looking student> If I peek now, I might be able to\nsee Aki and \\P[0001] having sex."
                             ]
                         },
                         {
@@ -13023,7 +13023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Suspicious-looking student> Hmm... Lately, Taro has been\nhanging out with Aki a lot."
+                                "\\N<Suspicious-looking student> Hmm... Lately, \\P[0001] has been\nhanging out with Aki a lot."
                             ]
                         },
                         {
@@ -13040,7 +13040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Troublesome student> I wonder if Aki has also become one\nof Taro's girls in the end."
+                                "\\N<Troublesome student> I wonder if Aki has also become one\nof \\P[0001]'s girls in the end."
                             ]
                         },
                         {

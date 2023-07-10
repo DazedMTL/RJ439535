@@ -3450,7 +3450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Taro caught too many goldfish and got scolded\nby Taro's mother."
+                                "\\N<Hinata Aki> \\P[0001] caught too many goldfish and got scolded\nby \\P[0001]'s mother."
                             ]
                         },
                         {
@@ -3689,7 +3689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> By the way, Taro used to prefer salt,\nright... Even though sauce is definitely more delicious."
+                                "\\N<Hinata Aki> By the way, \\P[0001] used to prefer salt,\nright... Even though sauce is definitely more delicious."
                             ]
                         },
                         {
@@ -4157,7 +4157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Did Taro have fun?"
+                                "\\N<Hinata Aki> Did \\P[0001] have fun?"
                             ]
                         },
                         {

@@ -5749,7 +5749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Forest road> I wonder what <N Taro> would think if he saw\nthis?"
+                                "\\N<Forest road> I wonder what <N \\P[0001]> would think if he saw\nthis?"
                             ]
                         },
                         {
@@ -5800,7 +5800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Forest road> Hey, you guys... Who do you want to have sex\nwith, <N Taro> or me?"
+                                "\\N<Forest road> Hey, you guys... Who do you want to have sex\nwith, <N \\P[0001]> or me?"
                             ]
                         },
                         {
@@ -6376,7 +6376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro, who has always been together..."
+                                "\\P[0001], who has always been together..."
                             ]
                         },
                         {

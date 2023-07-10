@@ -2304,7 +2304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Taro...?"
+                                "\\N<Hinata Aki> \\P[0001]...?"
                             ]
                         },
                         {
@@ -2475,7 +2475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Taro... don't look... <K♥>"
+                                "\\N<Hinata Aki> \\P[0001]... don't look... <K♥>"
                             ]
                         },
                         {
@@ -2646,7 +2646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Just go... Taro... don't look..."
+                                "\\N<Hinata Aki> Just go... \\P[0001]... don't look..."
                             ]
                         },
                         {
@@ -2697,7 +2697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Taro..."
+                                "\\N<Hinata Aki> \\P[0001]..."
                             ]
                         },
                         {

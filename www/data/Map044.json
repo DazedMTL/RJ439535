@@ -4219,7 +4219,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> Oh, it's Taro! I didn't realize you were\nhere."
+                                "\\N<Hinata Aki> Oh, it's \\P[0001]! I didn't realize you were\nhere."
                             ]
                         },
                         {
@@ -4270,7 +4270,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<Hinata Aki> By the way, Taro couldn't do a backflip since\nhe was little, right?"
+                                "<Hinata Aki> By the way, \\P[0001] couldn't do a backflip since\nhe was little, right?"
                             ]
                         },
                         {
@@ -4304,7 +4304,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Sota> Oh~ Taro-niichan can't do it, huh?"
+                                "\\N<Sota> Oh~ \\P[0001]-niichan can't do it, huh?"
                             ]
                         },
                         {
@@ -5383,7 +5383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Taro~! Do you know where my phone is?"
+                                "\\N<Hinata Aki> \\P[0001]~! Do you know where my phone is?"
                             ]
                         },
                         {

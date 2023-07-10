@@ -3033,7 +3033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> I can't wait to see Taro's frustrated face..."
+                                "\\N<Sota> I can't wait to see \\P[0001]'s frustrated face..."
                             ]
                         },
                         {
@@ -3314,7 +3314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Ah... Taro..."
+                                "\\N<Hinata Aki> Ah... \\P[0001]..."
                             ]
                         },
                         {
@@ -4023,7 +4023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota>\\} And... Taro-niichan"
+                                "\\N<Sota>\\} And... \\P[0001]-niichan"
                             ]
                         },
                         {
@@ -4350,7 +4350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Sorry~ I have to go home and study with Taro~"
+                                "\\N<Hinata Aki> Sorry~ I have to go home and study with \\P[0001]~"
                             ]
                         },
                         {
@@ -4620,7 +4620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Th...that is...um...Taro, right?"
+                                "\\N<Hinata Aki> Th...that is...um...\\P[0001], right?"
                             ]
                         },
                         {
@@ -4646,7 +4646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>「...」"
+                                "\\N<\\P[0001]>「...」"
                             ]
                         },
                         {
@@ -4738,7 +4738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> What's the deal, Taro-niichan!"
+                                "\\N<Sota> What's the deal, \\P[0001]-niichan!"
                             ]
                         },
                         {
@@ -4755,7 +4755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>「......」"
+                                "\\N<\\P[0001]>「......」"
                             ]
                         },
                         {
@@ -5040,7 +5040,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> Hmph... (Taro is such an idiot)"
+                                "\\N<Hinata Aki> Hmph... (\\P[0001] is such an idiot)"
                             ]
                         },
                         {
@@ -8566,7 +8566,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> Oh, it's Taro! I didn't realize you were\nhere."
+                                "\\N<Hinata Aki> Oh, it's \\P[0001]! I didn't realize you were\nhere."
                             ]
                         },
                         {
@@ -8617,7 +8617,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> By the way, Taro couldn't do a backflip since\nhe was little, right?"
+                                "\\N<Hinata Aki> By the way, \\P[0001] couldn't do a backflip since\nhe was little, right?"
                             ]
                         },
                         {
@@ -8651,7 +8651,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Sota> Oh~ Taro-niichan can't do it, huh?"
+                                "\\N<Sota> Oh~ \\P[0001]-niichan can't do it, huh?"
                             ]
                         },
                         {
@@ -10086,7 +10086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Taro~! Do you know where my phone is?"
+                                "\\N<Hinata Aki> \\P[0001]~! Do you know where my phone is?"
                             ]
                         },
                         {

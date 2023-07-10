@@ -3232,7 +3232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Taro..."
+                                "\\P[0001]..."
                             ]
                         },
                         {
@@ -3389,7 +3389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm really... happy to be with you, Taro."
+                                "I'm really... happy to be with you, \\P[0001]."
                             ]
                         },
                         {
@@ -3646,7 +3646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "......Taro?"
+                                "......\\P[0001]?"
                             ]
                         },
                         {

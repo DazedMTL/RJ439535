@@ -2238,7 +2238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>\\{ Hey, Taro!"
+                                "\\N<Hinata Aki>\\{ Hey, \\P[0001]!"
                             ]
                         },
                         {
@@ -2255,7 +2255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>..."
+                                "\\N<\\P[0001]>..."
                             ]
                         },
                         {
@@ -2326,7 +2326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Taro>「.....！」"
+                                "\\N<\\P[0001]>「.....！」"
                             ]
                         },
                         {
@@ -2343,7 +2343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Taro, how long are you going to sleep?"
+                                "\\N<Hinata Aki> \\P[0001], how long are you going to sleep?"
                             ]
                         },
                         {
@@ -2508,7 +2508,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<Hinata Aki> I'm so exasperated... Taro really can't\nfunction without me, huh~"
+                                "<Hinata Aki> I'm so exasperated... \\P[0001] really can't\nfunction without me, huh~"
                             ]
                         },
                         {
@@ -3296,7 +3296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Good morning, Taro~!"
+                                "\\N<Hinata Aki> Good morning, \\P[0001]~!"
                             ]
                         },
                         {
@@ -8131,7 +8131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...<N Taro>?"
+                                "\\N<Hinata Aki> ...<N \\P[0001]>?"
                             ]
                         },
                         {
@@ -22273,7 +22273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Bright student> Heeey... Taro~ are you there?"
+                                "\\N<Bright student> Heeey... \\P[0001]~ are you there?"
                             ]
                         },
                         {
@@ -22389,7 +22389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Bright student> Suddenly, one of the other part-time\nworkers couldn't make it... So... I was wondering if I could\nask Taro for a favor..."
+                                "\\N<Bright student> Suddenly, one of the other part-time\nworkers couldn't make it... So... I was wondering if I could\nask \\P[0001] for a favor..."
                             ]
                         },
                         {

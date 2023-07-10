@@ -2888,7 +2888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's mother> Oh, Taro~ Did you come to see Aki?"
+                                "\\N<Aki's mother> Oh, \\P[0001]~ Did you come to see Aki?"
                             ]
                         },
                         {
@@ -3058,7 +3058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's mother> Taro~ Just because it's summer vacation\ndoesn't mean you can be lazy."
+                                "\\N<Aki's mother> \\P[0001]~ Just because it's summer vacation\ndoesn't mean you can be lazy."
                             ]
                         },
                         {
@@ -3126,7 +3126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's mother> Oh Taro, are you going to eat?"
+                                "\\N<Aki's mother> Oh \\P[0001], are you going to eat?"
                             ]
                         },
                         {
@@ -3415,7 +3415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's mother> Oh, Taro~"
+                                "\\N<Aki's mother> Oh, \\P[0001]~"
                             ]
                         },
                         {
@@ -4916,7 +4916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Huh? Taro?"
+                                "\\N<Hinata Aki> Huh? \\P[0001]?"
                             ]
                         },
                         {
@@ -5719,7 +5719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Huh? Taro?"
+                                "\\N<Hinata Aki> Huh? \\P[0001]?"
                             ]
                         },
                         {

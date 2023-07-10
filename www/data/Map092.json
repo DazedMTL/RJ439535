@@ -4027,7 +4027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's mother> Oh, it's Taro."
+                                "\\N<Aki's mother> Oh, it's \\P[0001]."
                             ]
                         },
                         {
@@ -4078,7 +4078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's mother> I wonder if Taro knows something..."
+                                "\\N<Aki's mother> I wonder if \\P[0001] knows something..."
                             ]
                         },
                         {
