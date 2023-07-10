@@ -1149,7 +1149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Uncle...?"
+                                "Hinata Aki: Uncle...?"
                             ]
                         },
                         {
@@ -1166,7 +1166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> I found Uncle's cellphone near here, you\nknow..."
+                                "Hinata Aki: I found Uncle's cellphone near here, you know..."
                             ]
                         },
                         {
@@ -1183,7 +1183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> I thought I should return it to you..."
+                                "Hinata Aki: I thought I should return it to you..."
                             ]
                         },
                         {
@@ -1200,7 +1200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...Can I come in?"
+                                "Hinata Aki: ...Can I come in?"
                             ]
                         },
                         {
@@ -1241,7 +1241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...!?"
+                                "Hinata Aki: ...!?"
                             ]
                         },
                         {
@@ -1294,7 +1294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Ah... Ah... U-uncle... U... U... You..."
+                                "Hinata Aki: Ah... Ah... U-uncle... U... U... You..."
                             ]
                         },
                         {
@@ -1311,7 +1311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama>「Zzz...Zzz...」"
+                                "Sayama: 「Zzz...Zzz...」"
                             ]
                         },
                         {
@@ -1328,7 +1328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> Hmm...?"
+                                "Sayama: Hmm...?"
                             ]
                         },
                         {
@@ -1345,7 +1345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama>「......！？」"
+                                "Sayama: 「......！？」"
                             ]
                         },
                         {
@@ -1362,7 +1362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> W-Wait a minute!!"
+                                "Sayama: W-Wait a minute!!"
                             ]
                         },
                         {
@@ -1379,7 +1379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> F-Fall... Fall... Falling..."
+                                "Hinata Aki: F-Fall... Fall... Falling..."
                             ]
                         },
                         {
@@ -1396,7 +1396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> Wait, wait!! I'm putting on my pants!! Don't\nshout so loudly!!"
+                                "Sayama: Wait, wait!! I'm putting on my pants!! Don't shout so\nloudly!!"
                             ]
                         },
                         {
@@ -1413,7 +1413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> Uwaaaahhhhh?!?!"
+                                "Hinata Aki: Uwaaaahhhhh?!?!"
                             ]
                         },
                         {
@@ -1440,7 +1440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama>「......」"
+                                "Sayama: 「......」"
                             ]
                         },
                         {
@@ -1658,7 +1658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> ...I'm sorry for everything."
+                                "Sayama: ...I'm sorry for everything."
                             ]
                         },
                         {
@@ -1709,7 +1709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Ahaha... Don't worry about it..."
+                                "Hinata Aki: Ahaha... Don't worry about it..."
                             ]
                         },
                         {
@@ -1835,7 +1835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「...」"
+                                "Hinata Aki: 「...」"
                             ]
                         },
                         {
@@ -1886,7 +1886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama>「...」"
+                                "Sayama: 「...」"
                             ]
                         },
                         {
@@ -1919,7 +1919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...Ah, there!"
+                                "Hinata Aki: ...Ah, there!"
                             ]
                         },
                         {
@@ -1936,7 +1936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> This cellphone... it's the one that the old\nman dropped, right?"
+                                "Hinata Aki: This cellphone... it's the one that the old man\ndropped, right?"
                             ]
                         },
                         {
@@ -1953,7 +1953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama>「...！」"
+                                "Sayama: 「...！」"
                             ]
                         },
                         {
@@ -1970,7 +1970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> My cellphone...! Did my sister find it for me?"
+                                "Sayama: My cellphone...! Did my sister find it for me?"
                             ]
                         },
                         {
@@ -1987,7 +1987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> Thank goodness...! I was in trouble because I\ncouldn't find it no matter where I looked."
+                                "Sayama: Thank goodness...! I was in trouble because I couldn't\nfind it no matter where I looked."
                             ]
                         },
                         {
@@ -2020,7 +2020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Oh, I see~ That's good then!"
+                                "Hinata Aki: Oh, I see~ That's good then!"
                             ]
                         },
                         {
@@ -2037,7 +2037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> This cellphone has a lot of old photos in it, you\nknow~"
+                                "Sayama: This cellphone has a lot of old photos in it, you know~"
                             ]
                         },
                         {
@@ -2070,7 +2070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「...」"
+                                "Hinata Aki: 「...」"
                             ]
                         },
                         {
@@ -2179,7 +2179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> The person on the screen... looks just like\nme, doesn't it?"
+                                "Hinata Aki: The person on the screen... looks just like me,\ndoesn't it?"
                             ]
                         },
                         {
@@ -2196,7 +2196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> Ah... this child... is my daughter."
+                                "Sayama: Ah... this child... is my daughter."
                             ]
                         },
                         {
@@ -2213,7 +2213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Daughter...!? Uncle, are you married!?"
+                                "Hinata Aki: Daughter...!? Uncle, are you married!?"
                             ]
                         },
                         {
@@ -2230,7 +2230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> It was a long time ago..."
+                                "Sayama: It was a long time ago..."
                             ]
                         },
                         {
@@ -2247,7 +2247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> My daughter occasionally comes to check on me."
+                                "Sayama: My daughter occasionally comes to check on me."
                             ]
                         },
                         {
@@ -2264,7 +2264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> Well... the frequency has been decreasing\nthough..."
+                                "Sayama: Well... the frequency has been decreasing though..."
                             ]
                         },
                         {
@@ -2281,7 +2281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Is that so..."
+                                "Hinata Aki: Is that so..."
                             ]
                         },
                         {
@@ -2298,7 +2298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> So when I met my sister, I thought she brought a\nman with her and that my daughter came to check on me..."
+                                "Sayama: So when I met my sister, I thought she brought a man\nwith her and that my daughter came to check on me..."
                             ]
                         },
                         {
@@ -2315,7 +2315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> I... accidentally teased you... I'm sorry..."
+                                "Sayama: I... accidentally teased you... I'm sorry..."
                             ]
                         },
                         {
@@ -2332,7 +2332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> I mistook my daughter's face... and ended up\nsexually harassing my sister. I'm really pathetic..."
+                                "Sayama: I mistook my daughter's face... and ended up sexually\nharassing my sister. I'm really pathetic..."
                             ]
                         },
                         {
@@ -2401,7 +2401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...Huh?"
+                                "Hinata Aki: ...Huh?"
                             ]
                         },
                         {
@@ -2495,7 +2495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> You thought I was your daughter and said\nsomething like sexual harassment to me!?"
+                                "Hinata Aki: You thought I was your daughter and said something\nlike sexual harassment to me!?"
                             ]
                         },
                         {
@@ -2546,7 +2546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> Ah... Am I really weird after all?"
+                                "Sayama: Ah... Am I really weird after all?"
                             ]
                         },
                         {
@@ -2579,7 +2579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> ...Uncle, you're going to be disliked."
+                                "Hinata Aki: ...Uncle, you're going to be disliked."
                             ]
                         },
                         {
@@ -2596,7 +2596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> Ugh... I was scolded by my daughter too... I'll\nbe more careful..."
+                                "Sayama: Ugh... I was scolded by my daughter too... I'll be more\ncareful..."
                             ]
                         },
                         {
@@ -2613,7 +2613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...It's better not to sleep naked!"
+                                "Hinata Aki: ...It's better not to sleep naked!"
                             ]
                         },
                         {
@@ -2630,7 +2630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> I understand..."
+                                "Sayama: I understand..."
                             ]
                         },
                         {
@@ -2663,7 +2663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Because it's a promise...!"
+                                "Hinata Aki: Because it's a promise...!"
                             ]
                         },
                         {
@@ -2696,7 +2696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...Alright! I've given you my phone, so I'll\nbe heading home soon."
+                                "Hinata Aki: ...Alright! I've given you my phone, so I'll be\nheading home soon."
                             ]
                         },
                         {
@@ -2713,7 +2713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> Are you already leaving...? You should take your\ntime and relax a bit more, you know?"
+                                "Sayama: Are you already leaving...? You should take your time\nand relax a bit more, you know?"
                             ]
                         },
                         {
@@ -2730,7 +2730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> Well, come again... It feels like I'm talking to\nmy daughter, so it's nice."
+                                "Sayama: Well, come again... It feels like I'm talking to my\ndaughter, so it's nice."
                             ]
                         },
                         {
@@ -2763,7 +2763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> Ahaha~ Whenever I feel like it!"
+                                "Hinata Aki: Ahaha~ Whenever I feel like it!"
                             ]
                         },
                         {

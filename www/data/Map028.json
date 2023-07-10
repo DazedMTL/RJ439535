@@ -2486,7 +2486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Summer vacation is coming soon, huh~"
+                                "Hinata Aki: Summer vacation is coming soon, huh~"
                             ]
                         },
                         {
@@ -2503,7 +2503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> I wonder if they'll have a festival at this\nshrine during this year's summer vacation."
+                                "Hinata Aki: I wonder if they'll have a festival at this shrine\nduring this year's summer vacation."
                             ]
                         },
                         {
@@ -2520,7 +2520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Festivals are fun, but... they always give me\na feeling of the end of summer, and it makes me feel a\nlittle lonely."
+                                "Hinata Aki: Festivals are fun, but... they always give me a\nfeeling of the end of summer, and it makes me feel a little\nlonely."
                             ]
                         },
                         {
@@ -2673,7 +2673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> Thank you for going out with me today."
+                                "Hanaguri Shiori: Thank you for going out with me today."
                             ]
                         },
                         {
@@ -2690,7 +2690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> I had intended to thank you, but before\nI knew it, I was the one who enjoyed it the most."
+                                "Hanaguri Shiori: I had intended to thank you, but before I knew\nit, I was the one who enjoyed it the most."
                             ]
                         },
                         {
@@ -2707,7 +2707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> I wonder if \\P[0001]-kun enjoyed it too...?"
+                                "Hanaguri Shiori: I wonder if \\P[0001]-kun enjoyed it too...?"
                             ]
                         },
                         {
@@ -2745,7 +2745,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hanaguri Shiori>「...」"
+                                "Hanaguri Shiori: 「...」"
                             ]
                         },
                         {
@@ -2762,7 +2762,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hanaguri Shiori>「......」"
+                                "Hanaguri Shiori: 「......」"
                             ]
                         },
                         {
@@ -2779,7 +2779,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> ...Are you dating Hinata-san, \\P[0001]- kun?"
+                                "Hanaguri Shiori: ...Are you dating Hinata-san, \\P[0001]- kun?"
                             ]
                         },
                         {
@@ -2864,7 +2864,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> From the looks of it, I guess it's safe\nto say that you're not dating Hinata-san, right?"
+                                "Hanaguri Shiori: From the looks of it, I guess it's safe to say\nthat you're not dating Hinata-san, right?"
                             ]
                         },
                         {
@@ -2881,7 +2881,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hanaguri Shiori>「...」"
+                                "Hanaguri Shiori: 「...」"
                             ]
                         },
                         {
@@ -2898,7 +2898,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hanaguri Shiori>「......」"
+                                "Hanaguri Shiori: 「......」"
                             ]
                         },
                         {
@@ -2931,7 +2931,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> I've always liked you, \\P[0001]-kun..."
+                                "Hanaguri Shiori: I've always liked you, \\P[0001]-kun..."
                             ]
                         },
                         {
@@ -2948,7 +2948,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> If it's okay with you... I want to go\nout with me..."
+                                "Hanaguri Shiori: If it's okay with you... I want to go out with\nme..."
                             ]
                         },
                         {
@@ -2965,7 +2965,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hanaguri Shiori>「...」"
+                                "Hanaguri Shiori: 「...」"
                             ]
                         },
                         {
@@ -2982,7 +2982,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> I'm serious... Is it not possible?"
+                                "Hanaguri Shiori: I'm serious... Is it not possible?"
                             ]
                         },
                         {
@@ -3020,7 +3020,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Hanaguri Shiori>「...」"
+                                "Hanaguri Shiori: 「...」"
                             ]
                         },
                         {
@@ -3037,7 +3037,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Hanaguri Shiori>「......」"
+                                "Hanaguri Shiori: 「......」"
                             ]
                         },
                         {
@@ -3054,7 +3054,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> ...I can do things for you that Hinata-\nsan wouldn't do."
+                                "Hanaguri Shiori: ...I can do things for you that Hinata- san\nwouldn't do."
                             ]
                         },
                         {
@@ -3296,7 +3296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> ...Will Hinata-san do something like\nthis?"
+                                "Hanaguri Shiori: ...Will Hinata-san do something like this?"
                             ]
                         },
                         {
@@ -3313,7 +3313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> You won't do it, right?"
+                                "Hanaguri Shiori: You won't do it, right?"
                             ]
                         },
                         {
@@ -3330,7 +3330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> \\P[0001]-kun looks cute when he swims...\n<K♥>"
+                                "Hanaguri Shiori: \\P[0001]-kun looks cute when he swims... <K♥>"
                             ]
                         },
                         {
@@ -3363,7 +3363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> If you're willing to date me, I can do\nit for you right now."
+                                "Hanaguri Shiori: If you're willing to date me, I can do it for\nyou right now."
                             ]
                         },
                         {
@@ -3380,7 +3380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> It's my first time, but if it's for\n\\P[0001]- kun... I can do anything..."
+                                "Hanaguri Shiori: It's my first time, but if it's for \\P[0001]-\nkun... I can do anything..."
                             ]
                         },
                         {
@@ -3397,7 +3397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> ...Ah <K♥>"
+                                "Hanaguri Shiori: ...Ah <K♥>"
                             ]
                         },
                         {
@@ -3414,7 +3414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> \\P[0001]-kun's... pants are getting tight...\n<K♥>"
+                                "Hanaguri Shiori: \\P[0001]-kun's... pants are getting tight...\n<K♥>"
                             ]
                         },
                         {
@@ -3431,7 +3431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> I'm happy... It means you're getting\nexcited because of me, right...?"
+                                "Hanaguri Shiori: I'm happy... It means you're getting excited\nbecause of me, right...?"
                             ]
                         },
                         {
@@ -3448,7 +3448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> You don't have to hold back... If you\ndate me, we can do lots of pleasurable things, you know...?"
+                                "Hanaguri Shiori: You don't have to hold back... If you date me,\nwe can do lots of pleasurable things, you know...?"
                             ]
                         },
                         {
@@ -3525,7 +3525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hanaguri Shiori: I conveyed that I couldn't respond to\nShiori's feelings and left the scene."
+                                "Hanaguri Shiori: I conveyed that I couldn't respond to Shiori's\nfeelings and left the scene."
                             ]
                         },
                         {
@@ -3886,7 +3886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Is this one a female rhinoceros beetle...?"
+                                "Hinata Aki: Is this one a female rhinoceros beetle...?"
                             ]
                         },
                         {
@@ -3903,7 +3903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> It's rare to find something like this in a\nplace like this~♪"
+                                "Hinata Aki: It's rare to find something like this in a place\nlike this~♪"
                             ]
                         },
                         {
@@ -3920,7 +3920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Were you taking a break in the shade? It\ncan't be helped, it's hot, right? There, there~ I'll let it\nslide today♪"
+                                "Hinata Aki: Were you taking a break in the shade? It can't be\nhelped, it's hot, right? There, there~ I'll let it slide today♪"
                             ]
                         },
                         {
@@ -3937,7 +3937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...Huh?"
+                                "Hinata Aki: ...Huh?"
                             ]
                         },
                         {
@@ -3970,7 +3970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> This is a cockroach, isn't it!"
+                                "Hinata Aki: This is a cockroach, isn't it!"
                             ]
                         },
                         {
@@ -4513,7 +4513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Foreman> Alright... You've gathered well."
+                                "Foreman: Alright... You've gathered well."
                             ]
                         },
                         {
@@ -4530,7 +4530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Foreman> Well, it's not a difficult job as long as it's\njust physical labor, so don't worry."
+                                "Foreman: Well, it's not a difficult job as long as it's just\nphysical labor, so don't worry."
                             ]
                         },
                         {
@@ -4547,7 +4547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Foreman> Then, Aki-chan and Souta, you two will prepare\nthe portable shrine together!"
+                                "Foreman: Then, Aki-chan and Souta, you two will prepare the\nportable shrine together!"
                             ]
                         },
                         {
@@ -4564,7 +4564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Foreman> You, the unimpressive guy over there, come with\nme and help set up."
+                                "Foreman: You, the unimpressive guy over there, come with me and\nhelp set up."
                             ]
                         },
                         {
@@ -4581,7 +4581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Foreman> Can you handle it alone, Glasses?"
+                                "Foreman: Can you handle it alone, Glasses?"
                             ]
                         },
                         {
@@ -4598,7 +4598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Bright student> Glasses... well, I'll do it..."
+                                "Bright student: Glasses... well, I'll do it..."
                             ]
                         },
                         {
@@ -4615,7 +4615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Foreman> Alright, let's get started right away!"
+                                "Foreman: Alright, let's get started right away!"
                             ]
                         },
                         {
@@ -4803,7 +4803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Nyan-chan~... meow... meow..."
+                                "Hinata Aki: Nyan-chan~... meow... meow..."
                             ]
                         },
                         {
@@ -4820,7 +4820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Stray cat> Meow~"
+                                "Stray cat: Meow~"
                             ]
                         },
                         {
@@ -4837,7 +4837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Oh... did it respond...?"
+                                "Hinata Aki: Oh... did it respond...?"
                             ]
                         },
                         {
@@ -4854,7 +4854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> There, there... you're so cute, meow~♪"
+                                "Hinata Aki: There, there... you're so cute, meow~♪"
                             ]
                         },
                         {

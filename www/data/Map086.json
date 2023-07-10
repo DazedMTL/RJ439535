@@ -7279,7 +7279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Beautiful police officer> You should go home before it\ngets dark, okay? Otherwise, big sister might eat you up <K♥>"
+                                "Beautiful police officer: You should go home before it gets\ndark, okay? Otherwise, big sister might eat you up <K♥>"
                             ]
                         },
                         {
@@ -7296,7 +7296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Beautiful police officer> ...just kidding."
+                                "Beautiful police officer: ...just kidding."
                             ]
                         },
                         {
@@ -7364,7 +7364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Beautiful police officer> Summer vacation~? <K♥> You\nshouldn't go too wild and let loose."
+                                "Beautiful police officer: Summer vacation~? <K♥> You shouldn't\ngo too wild and let loose."
                             ]
                         },
                         {
@@ -8021,7 +8021,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male> You got this question wrong again, didn't you?"
+                                "Male: You got this question wrong again, didn't you?"
                             ]
                         },
                         {
@@ -8038,7 +8038,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female> Huh... that's strange..."
+                                "Female: Huh... that's strange..."
                             ]
                         },
                         {
@@ -8055,7 +8055,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male> It's a subject that you can score points on if you\nmemorize it, you know?"
+                                "Male: It's a subject that you can score points on if you\nmemorize it, you know?"
                             ]
                         },
                         {
@@ -8072,7 +8072,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female> I'm not good at memorizing~ It feels like it goes\nin one ear and out the other!"
+                                "Female: I'm not good at memorizing~ It feels like it goes in one\near and out the other!"
                             ]
                         },
                         {
@@ -8089,7 +8089,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male> It's all mistakes that I'm bad at..."
+                                "Male: It's all mistakes that I'm bad at..."
                             ]
                         },
                         {
@@ -8106,7 +8106,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female> Ahahaha... you really hit where it hurts~..."
+                                "Female: Ahahaha... you really hit where it hurts~..."
                             ]
                         },
                         {
@@ -8219,7 +8219,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Friend> I happened to come across this girl... doesn't\nshe look like Aki-chan?"
+                                "Friend: I happened to come across this girl... doesn't she look\nlike Aki-chan?"
                             ]
                         },
                         {
@@ -8654,7 +8654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sharp-eyed middle-aged person> If you're just here to\nmess around, then please leave."
+                                "Sharp-eyed middle-aged person: If you're just here to mess\naround, then please leave."
                             ]
                         },
                         {
@@ -8927,7 +8927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Somehow... I ended up doing something incredible in the heat\nof the moment."
+                                "Somehow... I ended up doing something incredible in the heat of\nthe moment."
                             ]
                         },
                         {
@@ -8961,7 +8961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "In a small tent where a cool breeze enters through the\ngaps..."
+                                "In a small tent where a cool breeze enters through the gaps..."
                             ]
                         },
                         {
@@ -9047,7 +9047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's Friend A> Hey Aki, you've been distant lately~"
+                                "Aki's Friend A:\n Hey Aki, you've been distant lately~"
                             ]
                         },
                         {
@@ -9098,7 +9098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Is that so...?"
+                                "Hinata Aki: Is that so...?"
                             ]
                         },
                         {
@@ -9115,7 +9115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's Friend B> That's right~!"
+                                "Aki's Friend B:\n That's right~!"
                             ]
                         },
                         {
@@ -9132,7 +9132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's Friend B> We still have time, so how about going to\nkaraoke?"
+                                "Aki's Friend B:\n We still have time, so how about going to\nkaraoke?"
                             ]
                         },
                         {
@@ -9149,7 +9149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's Friend A> Sounds great! Let's go to karaoke!"
+                                "Aki's Friend A:\n Sounds great! Let's go to karaoke!"
                             ]
                         },
                         {
@@ -9398,7 +9398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> Ah...! Aki-chan!"
+                                "Sayama: Ah...! Aki-chan!"
                             ]
                         },
                         {
@@ -9415,7 +9415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> Are you with your friends today?"
+                                "Sayama: Are you with your friends today?"
                             ]
                         },
                         {
@@ -9560,7 +9560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Ah..."
+                                "Hinata Aki: Ah..."
                             ]
                         },
                         {
@@ -9577,7 +9577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's Friend B> Huh? Did that person just call Aki's\nname?"
+                                "Aki's Friend B:\n Huh? Did that person just call Aki's name?"
                             ]
                         },
                         {
@@ -9594,7 +9594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's Friend A> Aki's acquaintance...?"
+                                "Aki's Friend A:\n Aki's acquaintance...?"
                             ]
                         },
                         {
@@ -9611,7 +9611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's Friend A> Isn't that person the one who lives in a\nplace with lots of tents?"
+                                "Aki's Friend A:\n Isn't that person the one who lives in a place\nwith lots of tents?"
                             ]
                         },
                         {
@@ -9628,7 +9628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's Friend B> Hey, let's go? It's kind of scary when\nyou're grinning like that..."
+                                "Aki's Friend B:\n Hey, let's go? It's kind of scary when you're\ngrinning like that..."
                             ]
                         },
                         {
@@ -9983,7 +9983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Eh... ah..."
+                                "Hinata Aki: Eh... ah..."
                             ]
                         },
                         {
@@ -10000,7 +10000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「...」"
+                                "Hinata Aki: 「...」"
                             ]
                         },
                         {
@@ -10017,7 +10017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「......」"
+                                "Hinata Aki: 「......」"
                             ]
                         },
                         {

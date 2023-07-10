@@ -2359,7 +2359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Impudent child> Hehe~! Big brother doesn't have a\ngirlfriend!"
+                                "Impudent child: Hehe~! Big brother doesn't have a girlfriend!"
                             ]
                         },
                         {
@@ -2376,7 +2376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Impudent child> I came with my girlfriend, you know!"
+                                "Impudent child: I came with my girlfriend, you know!"
                             ]
                         },
                         {
@@ -2462,7 +2462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Neighborhood child> Huh? Aren't you with Aki-neechan,\nAkihiko?"
+                                "Neighborhood child: Huh? Aren't you with Aki-neechan, Akihiko?"
                             ]
                         },
                         {
@@ -2539,7 +2539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Beautiful police officer> You seem lonely by yourself."
+                                "Beautiful police officer: You seem lonely by yourself."
                             ]
                         },
                         {
@@ -2556,7 +2556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Beautiful police officer> Shall I accompany you, big\nsister?"
+                                "Beautiful police officer: Shall I accompany you, big sister?"
                             ]
                         },
                         {
@@ -2573,7 +2573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Beautiful police officer> Did you... take it seriously?"
+                                "Beautiful police officer: Did you... take it seriously?"
                             ]
                         },
                         {
@@ -2997,7 +2997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<K Festival Day>"
+                                "K Festival Day:"
                             ]
                         },
                         {
@@ -3779,7 +3779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Aki>~ The yakitori over there looks delicious."
+                                "Aki: ~ The yakitori over there looks delicious."
                             ]
                         },
                         {
@@ -4656,7 +4656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Strong man> I'm glad we were able to hold the festival\nsuccessfully this year."
+                                "Strong man: I'm glad we were able to hold the festival\nsuccessfully this year."
                             ]
                         },
                         {
@@ -4853,7 +4853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female from another school> This chick mask is so cute~♪"
+                                "Female from another school: This chick mask is so cute~♪"
                             ]
                         },
                         {
@@ -4930,7 +4930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Friendly woman> Wow! That's a really big fall!"
+                                "Friendly woman: Wow! That's a really big fall!"
                             ]
                         },
                         {
@@ -4947,7 +4947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Unfriendly man> Well, I'm not surprised."
+                                "Unfriendly man: Well, I'm not surprised."
                             ]
                         },
                         {
@@ -4964,7 +4964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Unfriendly man> Do you want me to take something else for\nyou?"
+                                "Unfriendly man: Do you want me to take something else for you?"
                             ]
                         },
                         {
@@ -5072,7 +5072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goldfish Scooping Shop Clerk> What's wrong? Feeling\nlonely being here all by yourself, huh~"
+                                "Goldfish Scooping Shop Clerk: What's wrong? Feeling lonely being\nhere all by yourself, huh~"
                             ]
                         },
                         {
@@ -5089,7 +5089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goldfish Scooping Shop Clerk> Well, since you're here\nanyway..."
+                                "Goldfish Scooping Shop Clerk: Well, since you're here anyway..."
                             ]
                         },
                         {
@@ -5106,7 +5106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Goldfish Scooping Shop Clerk> Enjoy yourself, okay?"
+                                "Goldfish Scooping Shop Clerk: Enjoy yourself, okay?"
                             ]
                         },
                         {
@@ -5443,7 +5443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shooting Range Attendant> Since you're alone, there's no\ncouple discount for you, bro!"
+                                "Shooting Range Attendant: Since you're alone, there's no couple\ndiscount for you, bro!"
                             ]
                         },
                         {
@@ -5780,7 +5780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shop assistant at the mask shop> Hide that gloomy face\nwith a mask, will ya?"
+                                "Shop assistant at the mask shop: Hide that gloomy face with a\nmask, will ya?"
                             ]
                         },
                         {
@@ -5797,7 +5797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shop assistant at the mask shop> Hey, how about this\nrabbit mask?"
+                                "Shop assistant at the mask shop: Hey, how about this rabbit\nmask?"
                             ]
                         },
                         {
@@ -6117,7 +6117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Auntie from the Yakitori Shop> Oh, \\P[0001]!"
+                                "Auntie from the Yakitori Shop: Oh, \\P[0001]!"
                             ]
                         },
                         {
@@ -6134,7 +6134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Auntie from the Yakitori Shop> You came again this year,\nhuh~ I'm so happy~"
+                                "Auntie from the Yakitori Shop: You came again this year, huh~\nI'm so happy~"
                             ]
                         },
                         {
@@ -6151,7 +6151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Auntie from the Yakitori Shop> By the way... Where is\nAki- chan?"
+                                "Auntie from the Yakitori Shop: By the way... Where is Aki- chan?"
                             ]
                         },
                         {
@@ -6168,7 +6168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Auntie from the Yakitori Shop> Oh... Are you alone today?"
+                                "Auntie from the Yakitori Shop: Oh... Are you alone today?"
                             ]
                         },
                         {
@@ -6185,7 +6185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Auntie from the Yakitori Shop> Did you have a fight? You\nhave to get along, you know~?"
+                                "Auntie from the Yakitori Shop: Did you have a fight? You have to\nget along, you know~?"
                             ]
                         },
                         {
@@ -6202,7 +6202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Auntie from the Yakitori Shop> Have some yakitori and\ncheer up."
+                                "Auntie from the Yakitori Shop: Have some yakitori and cheer up."
                             ]
                         },
                         {
@@ -6219,7 +6219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Auntie from the Yakitori Shop> Would you like just one\nMomo Shio as usual?"
+                                "Auntie from the Yakitori Shop: Would you like just one Momo Shio\nas usual?"
                             ]
                         },
                         {
@@ -6236,7 +6236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Auntie from the Yakitori Shop> Oh, today you want\nsauce... I see..."
+                                "Auntie from the Yakitori Shop: Oh, today you want sauce... I\nsee..."
                             ]
                         },
                         {
@@ -6542,7 +6542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Friendly woman> Wow! That's a really big fall!"
+                                "Friendly woman: Wow! That's a really big fall!"
                             ]
                         },
                         {
@@ -6559,7 +6559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Unfriendly man> Well, I'm not surprised."
+                                "Unfriendly man: Well, I'm not surprised."
                             ]
                         },
                         {
@@ -6576,7 +6576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Unfriendly man> Do you want me to take something else for\nyou?"
+                                "Unfriendly man: Do you want me to take something else for you?"
                             ]
                         },
                         {

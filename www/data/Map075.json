@@ -5044,7 +5044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Stray cat> Meow~"
+                                "Stray cat: Meow~"
                             ]
                         },
                         {
@@ -5894,7 +5894,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nakano> I'm sorry... I've shown you such a pathetic\nsight."
+                                "Nakano: I'm sorry... I've shown you such a pathetic sight."
                             ]
                         },
                         {
@@ -5928,7 +5928,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N <???> That's right! If Nakano-san has any troubles,\nplease tell me anything."
+                                "\\N <???> That's right! If Nakano-san has any troubles, please\ntell me anything."
                             ]
                         },
                         {
@@ -5962,7 +5962,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nakano> It's not that bad... Besides, you must be busy\nwith your studies, right?"
+                                "Nakano: It's not that bad... Besides, you must be busy with your\nstudies, right?"
                             ]
                         },
                         {
@@ -5996,7 +5996,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N <???> I-I'm... I'm fine! I'll manage somehow!...\nProbably."
+                                "\\N <???> I-I'm... I'm fine! I'll manage somehow!... Probably."
                             ]
                         },
                         {
@@ -6013,7 +6013,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nakano> I see... Well, I guess I'll rely on you when I'm\nin trouble."
+                                "Nakano: I see... Well, I guess I'll rely on you when I'm in\ntrouble."
                             ]
                         },
                         {
@@ -6484,7 +6484,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nakano> I wonder if there are any good books... I really\nwanted to give a book as a present."
+                                "Nakano: I wonder if there are any good books... I really wanted\nto give a book as a present."
                             ]
                         },
                         {
@@ -6501,7 +6501,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nakano> Sorry, it would be better if I could find it\nmyself..."
+                                "Nakano: Sorry, it would be better if I could find it myself..."
                             ]
                         },
                         {
@@ -6518,7 +6518,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nakano> My back hurts and I can't bend down."
+                                "Nakano: My back hurts and I can't bend down."
                             ]
                         },
                         {
@@ -6637,7 +6637,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nakano> Yes, yes! That's it!"
+                                "Nakano: Yes, yes! That's it!"
                             ]
                         },
                         {
@@ -6678,7 +6678,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "By the way, I feel like I've heard this woman's voice\nbefore..."
+                                "By the way, I feel like I've heard this woman's voice before..."
                             ]
                         },
                         {
@@ -7038,7 +7038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano>「...」"
+                                "Nakano: 「...」"
                             ]
                         },
                         {
@@ -7055,7 +7055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano>「......」"
+                                "Nakano: 「......」"
                             ]
                         },
                         {
@@ -7072,7 +7072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> It's okay to be honest in front of me, Uncle."
+                                "Nakano: It's okay to be honest in front of me, Uncle."
                             ]
                         },
                         {
@@ -7089,7 +7089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Nakano> It's tough to bear it all alone..."
+                                "Nakano: It's tough to bear it all alone..."
                             ]
                         },
                         {
@@ -7171,7 +7171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> I wonder how long you'll stay today..."
+                                "Nakano: I wonder how long you'll stay today..."
                             ]
                         },
                         {
@@ -7188,7 +7188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N Nakano: Hmm, I wonder if I should stay until tonight."
+                                "Nakano: Hmm, I wonder if I should stay until tonight."
                             ]
                         },
                         {
@@ -7205,7 +7205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> Oh my, how delightful!"
+                                "Nakano: Oh my, how delightful!"
                             ]
                         },
                         {
@@ -7304,7 +7304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> I wonder how long you'll stay today..."
+                                "Nakano: I wonder how long you'll stay today..."
                             ]
                         },
                         {
@@ -7321,7 +7321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N Nakano: Hmm, I wonder if I should stay until tonight."
+                                "Nakano: Hmm, I wonder if I should stay until tonight."
                             ]
                         },
                         {
@@ -7338,7 +7338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> Oh my, how delightful!"
+                                "Nakano: Oh my, how delightful!"
                             ]
                         },
                         {
@@ -7466,7 +7466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> Hehe... You moan with such a nice voice... <K♥>"
+                                "Nakano: Hehe... You moan with such a nice voice... <K♥>"
                             ]
                         },
                         {
@@ -7500,7 +7500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> Your pussy won't let go of me <K♥> Hehe... feels\nso good~ <K♥>"
+                                "Nakano: Your pussy won't let go of me <K♥> Hehe... feels so\ngood~ <K♥>"
                             ]
                         },
                         {
@@ -7517,7 +7517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> Don't you want to let go of Uncle's penis~?"
+                                "Nakano: Don't you want to let go of Uncle's penis~?"
                             ]
                         },
                         {
@@ -7635,7 +7635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> Just let yourself be taken by the flow and\nviolated... If you don't become obedient, I won't be able to\nget excited..."
+                                "Nakano: Just let yourself be taken by the flow and violated...\nIf you don't become obedient, I won't be able to get excited..."
                             ]
                         },
                         {
@@ -7669,7 +7669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> Say that you'll become mine... <K♥>"
+                                "Nakano: Say that you'll become mine... <K♥>"
                             ]
                         },
                         {
@@ -7686,7 +7686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> Because sex with me feels good, will you become\nmy woman... huh?"
+                                "Nakano: Because sex with me feels good, will you become my\nwoman... huh?"
                             ]
                         },
                         {
@@ -7838,7 +7838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> It wouldn't be strange if it's already done,\nright, <K♥>?"
+                                "Nakano: It wouldn't be strange if it's already done, right,\n<K♥>?"
                             ]
                         },
                         {
@@ -7906,7 +7906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> If we have a child, those huge breasts of yours\nwill become even bigger, <K♥>"
+                                "Nakano: If we have a child, those huge breasts of yours will\nbecome even bigger, <K♥>"
                             ]
                         },
                         {

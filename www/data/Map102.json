@@ -3055,7 +3055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「...!」"
+                                "Hinata Aki: 「...!」"
                             ]
                         },
                         {
@@ -3072,7 +3072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Oh, you... It's our first time meeting,\nright?"
+                                "Hinata Aki: Oh, you... It's our first time meeting, right?"
                             ]
                         },
                         {
@@ -3123,7 +3123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> ...Ah, yeah."
+                                "Sota: ...Ah, yeah."
                             ]
                         },
                         {
@@ -3140,7 +3140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> I'm Aki Hinata. And you are?"
+                                "Hinata Aki: I'm Aki Hinata. And you are?"
                             ]
                         },
                         {
@@ -3157,7 +3157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> I... Sota"
+                                "Sota: I... Sota"
                             ]
                         },
                         {
@@ -3174,7 +3174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> So you're Sota! I always come here to play!\nSo, when you're free, do you want to play together?"
+                                "Hinata Aki: So you're Sota! I always come here to play! So, when\nyou're free, do you want to play together?"
                             ]
                         },
                         {
@@ -3191,7 +3191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> ...Yeah!... Let's play!"
+                                "Sota: ...Yeah!... Let's play!"
                             ]
                         },
                         {
@@ -3208,7 +3208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The first time I met Aki in the park, I fell in love at\nfirst sight."
+                                "The first time I met Aki in the park, I fell in love at first\nsight."
                             ]
                         },
                         {
@@ -3225,7 +3225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Her chest, her face, her personality, everything was my\ntype."
+                                "Her chest, her face, her personality, everything was my type."
                             ]
                         },
                         {
@@ -3242,7 +3242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> So, the person next to me is my childhood\nfriend..."
+                                "Hinata Aki: So, the person next to me is my childhood friend..."
                             ]
                         },
                         {
@@ -3259,7 +3259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And yet... just because we're childhood friends, I'm always\nby Aki's side..."
+                                "And yet... just because we're childhood friends, I'm always by\nAki's side..."
                             ]
                         },
                         {
@@ -3276,7 +3276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<That person> dislikes it..."
+                                "That person: dislikes it..."
                             ]
                         },
                         {
@@ -3293,7 +3293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The age difference and the length of our relationship are\nsuch that I am treated like a child..."
+                                "The age difference and the length of our relationship are such\nthat I am treated like a child..."
                             ]
                         },
                         {
@@ -3310,7 +3310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's frustrating that I can't compete with <that person> who\nis just lucky..."
+                                "It's frustrating that I can't compete with <that person> who is\njust lucky..."
                             ]
                         },
                         {
@@ -3713,7 +3713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Happy-looking child> Swings are definitely the most fun!"
+                                "Happy-looking child: Swings are definitely the most fun!"
                             ]
                         },
                         {
@@ -3790,7 +3790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota's friend> I found a stag beetle earlier! Isn't it\ncool!"
+                                "Sota's friend:\n I found a stag beetle earlier! Isn't it cool!"
                             ]
                         },
                         {
@@ -3867,7 +3867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Calm child> Big brother, you seem unlucky."
+                                "Calm child: Big brother, you seem unlucky."
                             ]
                         },
                         {
@@ -3944,7 +3944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muddy child> I'm going to work hard and learn how to do a\nbackflip!"
+                                "Muddy child: I'm going to work hard and learn how to do a\nbackflip!"
                             ]
                         },
                         {

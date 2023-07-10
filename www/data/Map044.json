@@ -2678,7 +2678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Happy-looking child> Swings are definitely the most fun!"
+                                "Happy-looking child: Swings are definitely the most fun!"
                             ]
                         },
                         {
@@ -2755,7 +2755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota's friend> I found a stag beetle earlier! Isn't it\ncool!"
+                                "Sota's friend:\n I found a stag beetle earlier! Isn't it cool!"
                             ]
                         },
                         {
@@ -2832,7 +2832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Calm child> Big brother, you seem unlucky."
+                                "Calm child: Big brother, you seem unlucky."
                             ]
                         },
                         {
@@ -2909,7 +2909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Muddy child> I'm going to work hard and learn how to do a\nbackflip!"
+                                "Muddy child: I'm going to work hard and learn how to do a\nbackflip!"
                             ]
                         },
                         {
@@ -3329,7 +3329,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> Doing a backflip is so easy!"
+                                "Hinata Aki: Doing a backflip is so easy!"
                             ]
                         },
                         {
@@ -3616,7 +3616,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> Like this, like this!"
+                                "Hinata Aki: Like this, like this!"
                             ]
                         },
                         {
@@ -3633,7 +3633,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> How about this? It's easy, right!"
+                                "Hinata Aki: How about this? It's easy, right!"
                             ]
                         },
                         {
@@ -3693,7 +3693,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Souta> Hmm!"
+                                "Souta: Hmm!"
                             ]
                         },
                         {
@@ -4030,7 +4030,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Souta> I did it...!"
+                                "Souta: I did it...!"
                             ]
                         },
                         {
@@ -4081,7 +4081,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> Oh~ It's delicious!"
+                                "Hinata Aki: Oh~ It's delicious!"
                             ]
                         },
                         {
@@ -4114,7 +4114,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> You can do it if you try!"
+                                "Hinata Aki: You can do it if you try!"
                             ]
                         },
                         {
@@ -4131,7 +4131,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Souta> Thanks to Aki-neechan!"
+                                "Souta: Thanks to Aki-neechan!"
                             ]
                         },
                         {
@@ -4148,7 +4148,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> Hehe~ Well, you know~ I'm a genius at\nteaching!"
+                                "Hinata Aki: Hehe~ Well, you know~ I'm a genius at teaching!"
                             ]
                         },
                         {
@@ -4219,7 +4219,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> Oh, it's \\P[0001]! I didn't realize you were\nhere."
+                                "Hinata Aki: Oh, it's \\P[0001]! I didn't realize you were here."
                             ]
                         },
                         {
@@ -4236,7 +4236,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Sota>「...」"
+                                "Sota: 「...」"
                             ]
                         },
                         {
@@ -4253,7 +4253,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> I was teaching Sota how to do a backflip~"
+                                "Hinata Aki: I was teaching Sota how to do a backflip~"
                             ]
                         },
                         {
@@ -4270,7 +4270,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<Hinata Aki> By the way, \\P[0001] couldn't do a backflip since\nhe was little, right?"
+                                "Hinata Aki: By the way, \\P[0001] couldn't do a backflip since he\nwas little, right?"
                             ]
                         },
                         {
@@ -4287,7 +4287,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<Hinata Aki> Sota surpassed me~"
+                                "Hinata Aki: Sota surpassed me~"
                             ]
                         },
                         {
@@ -4304,7 +4304,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Sota> Oh~ \\P[0001]-niichan can't do it, huh?"
+                                "Sota: Oh~ \\P[0001]-niichan can't do it, huh?"
                             ]
                         },
                         {
@@ -4321,7 +4321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Sota> I could do it right away if I tried a little\nharder."
+                                "Sota: I could do it right away if I tried a little harder."
                             ]
                         },
                         {
@@ -4338,7 +4338,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<Hinata Aki> Ahaha~ I'm being talked about~"
+                                "Hinata Aki: Ahaha~ I'm being talked about~"
                             ]
                         },
                         {
@@ -5299,7 +5299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Huh... It's not here either, huh~"
+                                "Hinata Aki: Huh... It's not here either, huh~"
                             ]
                         },
                         {
@@ -5316,7 +5316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Hmm..."
+                                "Hinata Aki: Hmm..."
                             ]
                         },
                         {
@@ -5333,7 +5333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「...」"
+                                "Hinata Aki: 「...」"
                             ]
                         },
                         {
@@ -5350,7 +5350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「...！」"
+                                "Hinata Aki: 「...！」"
                             ]
                         },
                         {
@@ -5383,7 +5383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> \\P[0001]~! Do you know where my phone is?"
+                                "Hinata Aki: \\P[0001]~! Do you know where my phone is?"
                             ]
                         },
                         {
@@ -5400,7 +5400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> I noticed that it was gone."
+                                "Hinata Aki: I noticed that it was gone."
                             ]
                         },
                         {
@@ -5448,7 +5448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> I see... That's right, huh~..."
+                                "Hinata Aki: I see... That's right, huh~..."
                             ]
                         },
                         {
@@ -5496,7 +5496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> I don't have any idea..."
+                                "Hinata Aki: I don't have any idea..."
                             ]
                         },
                         {
@@ -5513,7 +5513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> You took supplementary lessons in the\nclassroom, right~? And then you went to club activities,\nright~?"
+                                "Hinata Aki: You took supplementary lessons in the classroom,\nright~? And then you went to club activities, right~?"
                             ]
                         },
                         {
@@ -5530,7 +5530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> We played at the park last, so I think it's\nsomewhere among these three."
+                                "Hinata Aki: We played at the park last, so I think it's\nsomewhere among these three."
                             ]
                         },
                         {
@@ -5594,7 +5594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> It's okay, it's okay! Since I'm the one who\nlost it, I'll be the one to look for it!"
+                                "Hinata Aki: It's okay, it's okay! Since I'm the one who lost it,\nI'll be the one to look for it!"
                             ]
                         },
                         {
@@ -5611,7 +5611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Alrighty! I'll do my best to search for it~!!"
+                                "Hinata Aki: Alrighty! I'll do my best to search for it~!!"
                             ]
                         },
                         {
@@ -5818,7 +5818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Huh... It's not here either, huh~"
+                                "Hinata Aki: Huh... It's not here either, huh~"
                             ]
                         },
                         {
@@ -5835,7 +5835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Hmm..."
+                                "Hinata Aki: Hmm..."
                             ]
                         },
                         {
@@ -6345,7 +6345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Souta~!! Today, we're going to play a lot~!!"
+                                "Hinata Aki: Souta~!! Today, we're going to play a lot~!!"
                             ]
                         },
                         {
@@ -6396,7 +6396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> Is it okay...!? Yay!"
+                                "Sota: Is it okay...!? Yay!"
                             ]
                         },
                         {
@@ -6413,7 +6413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> ...But, wasn't it Hinata-neechan who wanted to go\nstargazing?"
+                                "Sota: ...But, wasn't it Hinata-neechan who wanted to go\nstargazing?"
                             ]
                         },
                         {
@@ -6530,7 +6530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Ugh... I've already taken my supplementary\nlessons!"
+                                "Hinata Aki: Ugh... I've already taken my supplementary lessons!"
                             ]
                         },
                         {
@@ -6547,7 +6547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> I thought we could play today since we don't\nhave club activities, but you're not being cute at all~"
+                                "Hinata Aki: I thought we could play today since we don't have\nclub activities, but you're not being cute at all~"
                             ]
                         },
                         {
@@ -6598,7 +6598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> Hmm, then is it okay if I stay over at Aki-\nneechan's house today?"
+                                "Sota: Hmm, then is it okay if I stay over at Aki- neechan's\nhouse today?"
                             ]
                         },
                         {
@@ -6631,7 +6631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> ...Today? Hmm... It's fine, but I should check\nwith my mom just in case."
+                                "Hinata Aki: ...Today? Hmm... It's fine, but I should check with\nmy mom just in case."
                             ]
                         },
                         {
@@ -6648,7 +6648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> If that's the case, it's fine! Aki-neechan's mom\nsaid it's okay!"
+                                "Sota: If that's the case, it's fine! Aki-neechan's mom said it's\nokay!"
                             ]
                         },
                         {
@@ -6665,7 +6665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> Is that so? Since when..."
+                                "Hinata Aki: Is that so? Since when..."
                             ]
                         },
                         {
@@ -6682,7 +6682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Then, how about playing soccer until it gets\ndark? We haven't been able to do it together because of\nstudying for tests."
+                                "Hinata Aki: Then, how about playing soccer until it gets dark?\nWe haven't been able to do it together because of studying for\ntests."
                             ]
                         },
                         {
@@ -6699,7 +6699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> Yay~!"
+                                "Sota: Yay~!"
                             ]
                         },
                         {
@@ -7045,7 +7045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> I seriously got better, you know?"
+                                "Sota: I seriously got better, you know?"
                             ]
                         },
                         {
@@ -7062,7 +7062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> I won't lose to Aki-neechan anymore!"
+                                "Sota: I won't lose to Aki-neechan anymore!"
                             ]
                         },
                         {
@@ -7113,7 +7113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> You've become quite cheeky, Sota!"
+                                "Hinata Aki: You've become quite cheeky, Sota!"
                             ]
                         },
                         {
@@ -7130,7 +7130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> The difference in skill between me and Sota\nis like the sun and a turtle!"
+                                "Hinata Aki: The difference in skill between me and Sota is like\nthe sun and a turtle!"
                             ]
                         },
                         {
@@ -7147,7 +7147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> If you say that, Aki-neechan, then it's like the\nmoon and a turtle..."
+                                "Sota: If you say that, Aki-neechan, then it's like the moon and\na turtle..."
                             ]
                         },
                         {
@@ -7180,7 +7180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> S-Stop it! It's not that different!"
+                                "Hinata Aki: S-Stop it! It's not that different!"
                             ]
                         },
                         {
@@ -7197,7 +7197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> If you get too cheeky, I won't go easy on\nyou, you know?"
+                                "Hinata Aki: If you get too cheeky, I won't go easy on you, you\nknow?"
                             ]
                         },
                         {
@@ -7230,7 +7230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N Hinata Aki: Alright... then let's get started..."
+                                "Hinata Aki: Alright... then let's get started..."
                             ]
                         },
                         {
@@ -7247,7 +7247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> Hey~ Aki-neechan, there's sand on your skirt."
+                                "Sota: Hey~ Aki-neechan, there's sand on your skirt."
                             ]
                         },
                         {
@@ -7380,7 +7380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Huh? Is that so?"
+                                "Hinata Aki: Huh? Is that so?"
                             ]
                         },
                         {
@@ -7397,7 +7397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> Yeah~ Look here!"
+                                "Sota: Yeah~ Look here!"
                             ]
                         },
                         {
@@ -7495,7 +7495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Ah...!"
+                                "Hinata Aki: Ah...!"
                             ]
                         },
                         {
@@ -7512,7 +7512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> Hmm... I can't seem to get it right..."
+                                "Sota: Hmm... I can't seem to get it right..."
                             ]
                         },
                         {
@@ -7529,7 +7529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota>(Aki-neechan's butt is big~<K♥>)"
+                                "Sota: (Aki-neechan's butt is big~<K♥>)"
                             ]
                         },
                         {
@@ -7546,7 +7546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> I wish I could see it live~<K♥>"
+                                "Sota: I wish I could see it live~<K♥>"
                             ]
                         },
                         {
@@ -7563,7 +7563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Hmm... Did I get it?"
+                                "Hinata Aki: Hmm... Did I get it?"
                             ]
                         },
                         {
@@ -7599,7 +7599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> Hmm... just a little more... <K♥>"
+                                "Sota: Hmm... just a little more... <K♥>"
                             ]
                         },
                         {
@@ -7616,7 +7616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Ugh..."
+                                "Hinata Aki: Ugh..."
                             ]
                         },
                         {
@@ -7633,7 +7633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> Hehe... <K♥> I got it, I got it! <K♥>"
+                                "Sota: Hehe... <K♥> I got it, I got it! <K♥>"
                             ]
                         },
                         {
@@ -7709,7 +7709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Hmm... Ah, thank you."
+                                "Hinata Aki: Hmm... Ah, thank you."
                             ]
                         },
                         {
@@ -7760,7 +7760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sota> Shall we play soccer? <K♥>"
+                                "Sota: Shall we play soccer? <K♥>"
                             ]
                         },
                         {

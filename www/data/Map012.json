@@ -2511,7 +2511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> You know that part-time jobs are prohibited at our\nschool, right?"
+                                "Omura: You know that part-time jobs are prohibited at our\nschool, right?"
                             ]
                         },
                         {
@@ -2587,7 +2587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...Yes"
+                                "Hinata Aki: ...Yes"
                             ]
                         },
                         {
@@ -2604,7 +2604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>(Why did it have to be Omura who found out...)"
+                                "Hinata Aki: (Why did it have to be Omura who found out...)"
                             ]
                         },
                         {
@@ -2680,7 +2680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Besides, your grades aren't exactly good either.\nIf you were to get a failing grade, it would be a violation\nof school rules along with the part-time job."
+                                "Omura: Besides, your grades aren't exactly good either. If you\nwere to get a failing grade, it would be a violation of school\nrules along with the part-time job."
                             ]
                         },
                         {
@@ -2697,7 +2697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> The worst case scenario is suspension... no, even\nexpulsion is possible... And it would also cause trouble for\nthe club."
+                                "Omura: The worst case scenario is suspension... no, even\nexpulsion is possible... And it would also cause trouble for the\nclub."
                             ]
                         },
                         {
@@ -2782,7 +2782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Ugh..."
+                                "Hinata Aki: Ugh..."
                             ]
                         },
                         {
@@ -2799,7 +2799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Suspension!? Expulsion!?"
+                                "Hinata Aki: Suspension!? Expulsion!?"
                             ]
                         },
                         {
@@ -2816,7 +2816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> No way..."
+                                "Hinata Aki: No way..."
                             ]
                         },
                         {
@@ -2892,7 +2892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Sigh... It's only natural..."
+                                "Omura: Sigh... It's only natural..."
                             ]
                         },
                         {
@@ -2909,7 +2909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Geez... Such a troublesome student..."
+                                "Omura: Geez... Such a troublesome student..."
                             ]
                         },
                         {
@@ -2926,7 +2926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> By the way, why did you need money, Aki?"
+                                "Omura: By the way, why did you need money, Aki?"
                             ]
                         },
                         {
@@ -3002,7 +3002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> The shoes I use for club activities have\nreached their limit, so when I went to buy new ones at the\nstore, I found myself a little short on money..."
+                                "Hinata Aki: The shoes I use for club activities have reached\ntheir limit, so when I went to buy new ones at the store, I found\nmyself a little short on money..."
                             ]
                         },
                         {
@@ -3078,7 +3078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> I see... So that's what it was."
+                                "Omura: I see... So that's what it was."
                             ]
                         },
                         {
@@ -3095,7 +3095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> The teacher knows that you're passionate about the\nclub activities, so if you had any problems, I wish you\nwould have consulted the adults around you."
+                                "Omura: The teacher knows that you're passionate about the club\nactivities, so if you had any problems, I wish you would have\nconsulted the adults around you."
                             ]
                         },
                         {
@@ -3112,7 +3112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura>..."
+                                "Omura: ..."
                             ]
                         },
                         {
@@ -3129,7 +3129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura>......"
+                                "Omura: ......"
                             ]
                         },
                         {
@@ -3146,7 +3146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Alright, I understand! I'll pretend I didn't see\nwhat happened this time."
+                                "Omura: Alright, I understand! I'll pretend I didn't see what\nhappened this time."
                             ]
                         },
                         {
@@ -3222,7 +3222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Huh..."
+                                "Hinata Aki: Huh..."
                             ]
                         },
                         {
@@ -3239,7 +3239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Is it really okay...?"
+                                "Hinata Aki: Is it really okay...?"
                             ]
                         },
                         {
@@ -3315,7 +3315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Ah... but I'm quitting my part-time job."
+                                "Omura: Ah... but I'm quitting my part-time job."
                             ]
                         },
                         {
@@ -3332,7 +3332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> If there were reports from other students or\nteachers, the teacher wouldn't be able to turn a blind eye."
+                                "Omura: If there were reports from other students or teachers,\nthe teacher wouldn't be able to turn a blind eye."
                             ]
                         },
                         {
@@ -3349,7 +3349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> ...That being said, Aki's academic and financial\nissues are still unresolved, aren't they?"
+                                "Omura: ...That being said, Aki's academic and financial issues\nare still unresolved, aren't they?"
                             ]
                         },
                         {
@@ -3366,7 +3366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\NOmura: So, I have a suggestion from the teacher... Aki,\nyou..."
+                                "\\NOmura: So, I have a suggestion from the teacher... Aki, you..."
                             ]
                         },
                         {
@@ -3383,7 +3383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> How about coming to the teacher's house to study?"
+                                "Omura: How about coming to the teacher's house to study?"
                             ]
                         },
                         {
@@ -3400,7 +3400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> And if you're willing to listen to a simple\nrequest from the teacher, I'll even pay you for your part-\ntime job."
+                                "Omura: And if you're willing to listen to a simple request from\nthe teacher, I'll even pay you for your part- time job."
                             ]
                         },
                         {
@@ -3476,7 +3476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> (Eh... studying, huh...)"
+                                "Hinata Aki: (Eh... studying, huh...)"
                             ]
                         },
                         {
@@ -3493,7 +3493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>(But... this is actually a pretty good deal,\nisn't it...)"
+                                "Hinata Aki: (But... this is actually a pretty good deal, isn't\nit...)"
                             ]
                         },
                         {
@@ -3510,7 +3510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>(Not only did they overlook my part-time job,\nbut this will also solve both my study and financial\nissues...)"
+                                "Hinata Aki: (Not only did they overlook my part-time job, but\nthis will also solve both my study and financial issues...)"
                             ]
                         },
                         {
@@ -3527,7 +3527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>(...)"
+                                "Hinata Aki: (...)"
                             ]
                         },
                         {
@@ -3560,7 +3560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>(... Alright)"
+                                "Hinata Aki: (... Alright)"
                             ]
                         },
                         {
@@ -3577,7 +3577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> I'll do it, Sensei!"
+                                "Hinata Aki: I'll do it, Sensei!"
                             ]
                         },
                         {
@@ -3653,7 +3653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Is that true?! Hinata Aki studying?!"
+                                "Omura: Is that true?! Hinata Aki studying?!"
                             ]
                         },
                         {
@@ -3670,7 +3670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Alright! Good deeds must be done quickly. Let's\nimmediately assess the areas you're weak in with a small\ntest!"
+                                "Omura: Alright! Good deeds must be done quickly. Let's\nimmediately assess the areas you're weak in with a small test!"
                             ]
                         },
                         {
@@ -3755,7 +3755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>\\{(Right now?!?)"
+                                "Hinata Aki: \\{(Right now?!?)"
                             ]
                         },
                         {
@@ -3772,7 +3772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>(Maybe I should have just quit after all...)"
+                                "Hinata Aki: (Maybe I should have just quit after all...)"
                             ]
                         },
                         {
@@ -3924,7 +3924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Haa~!"
+                                "Hinata Aki: Haa~!"
                             ]
                         },
                         {
@@ -3941,7 +3941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Finally finished~!"
+                                "Hinata Aki: Finally finished~!"
                             ]
                         },
                         {
@@ -3958,7 +3958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> I've never studied this much before~ I'll\nprobably forget everything by tomorrow~!"
+                                "Hinata Aki: I've never studied this much before~ I'll probably\nforget everything by tomorrow~!"
                             ]
                         },
                         {
@@ -4034,7 +4034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Hey hey..."
+                                "Omura: Hey hey..."
                             ]
                         },
                         {
@@ -4110,7 +4110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Wow, turns out the teacher is actually a nice\nperson~ I thought they would be a mean teacher!"
+                                "Hinata Aki: Wow, turns out the teacher is actually a nice\nperson~ I thought they would be a mean teacher!"
                             ]
                         },
                         {
@@ -4186,7 +4186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Hey, you know..."
+                                "Omura: Hey, you know..."
                             ]
                         },
                         {
@@ -4203,7 +4203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> What a rude student. There's no other teacher who\ncares about the students as much as this one, right?"
+                                "Omura: What a rude student. There's no other teacher who cares\nabout the students as much as this one, right?"
                             ]
                         },
                         {
@@ -4279,7 +4279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Ahaha~ I'm sorry~"
+                                "Hinata Aki: Ahaha~ I'm sorry~"
                             ]
                         },
                         {
@@ -4296,7 +4296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> By the way, what is the simple request you\nmentioned?"
+                                "Hinata Aki: By the way, what is the simple request you\nmentioned?"
                             ]
                         },
                         {
@@ -4372,7 +4372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Oh, by the way, the teacher has a friend who is a\npainter."
+                                "Omura: Oh, by the way, the teacher has a friend who is a\npainter."
                             ]
                         },
                         {
@@ -4389,7 +4389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> The teacher really likes the works that their\nfriend paints."
+                                "Omura: The teacher really likes the works that their friend\npaints."
                             ]
                         },
                         {
@@ -4406,7 +4406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> But recently, that friend has been lamenting about\nnot having a good subject to paint..."
+                                "Omura: But recently, that friend has been lamenting about not\nhaving a good subject to paint..."
                             ]
                         },
                         {
@@ -4423,7 +4423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> It's sad that even as a teacher, they can't see\nhis works..."
+                                "Omura: It's sad that even as a teacher, they can't see his\nworks..."
                             ]
                         },
                         {
@@ -4440,7 +4440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> So... when I asked if there was anything I could\ndo to help, they said they wanted me to send them a photo of\na good subject, preferably a female."
+                                "Omura: So... when I asked if there was anything I could do to\nhelp, they said they wanted me to send them a photo of a good\nsubject, preferably a female."
                             ]
                         },
                         {
@@ -4457,7 +4457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> So I thought, how about using Aki? You're active\nin sports, so you have a slim figure."
+                                "Omura: So I thought, how about using Aki? You're active in\nsports, so you have a slim figure."
                             ]
                         },
                         {
@@ -4533,7 +4533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Speaking of subjects for paintings... could\nit be..."
+                                "Hinata Aki: Speaking of subjects for paintings... could it be..."
                             ]
                         },
                         {
@@ -4550,7 +4550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> N-Nude...!?"
+                                "Hinata Aki: N-Nude...!?"
                             ]
                         },
                         {
@@ -4626,7 +4626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Hahaha! No, no!"
+                                "Omura: Hahaha! No, no!"
                             ]
                         },
                         {
@@ -4643,7 +4643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> There's no way I would tell my student to get\nnaked, right?"
+                                "Omura: There's no way I would tell my student to get naked,\nright?"
                             ]
                         },
                         {
@@ -4719,7 +4719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> So, what kind of photo is it?"
+                                "Hinata Aki: So, what kind of photo is it?"
                             ]
                         },
                         {
@@ -4766,7 +4766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N Omura: It's easy, just lick the vegetables a little."
+                                "Omura: It's easy, just lick the vegetables a little."
                             ]
                         },
                         {
@@ -4783,7 +4783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Lick the vegetables...? Are you going to make\na painting out of that?"
+                                "Hinata Aki: Lick the vegetables...? Are you going to make a\npainting out of that?"
                             ]
                         },
                         {
@@ -4800,7 +4800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Oh yeah, artists tend to be eccentric, you know~"
+                                "Omura: Oh yeah, artists tend to be eccentric, you know~"
                             ]
                         },
                         {
@@ -4817,7 +4817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> There are things that us ordinary people can't\nunderstand."
+                                "Omura: There are things that us ordinary people can't\nunderstand."
                             ]
                         },
                         {
@@ -4834,7 +4834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Hmm... so that's how it is."
+                                "Hinata Aki: Hmm... so that's how it is."
                             ]
                         },
                         {
@@ -4927,7 +4927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Is this camera position okay...?"
+                                "Omura: Is this camera position okay...?"
                             ]
                         },
                         {
@@ -4944,7 +4944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>(I'm getting nervous for some reason)"
+                                "Hinata Aki: (I'm getting nervous for some reason)"
                             ]
                         },
                         {
@@ -4961,7 +4961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> By the way, why the blindfold...?"
+                                "Hinata Aki: By the way, why the blindfold...?"
                             ]
                         },
                         {
@@ -4978,7 +4978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> He said that by hiding a part of the face, it\nstimulates the imagination."
+                                "Omura: He said that by hiding a part of the face, it stimulates\nthe imagination."
                             ]
                         },
                         {
@@ -4995,7 +4995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> He said that he wants the subject's eyes to be\nhidden as much as possible."
+                                "Omura: He said that he wants the subject's eyes to be hidden as\nmuch as possible."
                             ]
                         },
                         {
@@ -5012,7 +5012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Wow... I don't really understand, but he's\nreally particular about it..."
+                                "Hinata Aki: Wow... I don't really understand, but he's really\nparticular about it..."
                             ]
                         },
                         {
@@ -5029,7 +5029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Is this okay?"
+                                "Hinata Aki: Is this okay?"
                             ]
                         },
                         {
@@ -5046,7 +5046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> You're doing great."
+                                "Omura: You're doing great."
                             ]
                         },
                         {
@@ -5063,7 +5063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Then, let's have you lick the cucumber right away."
+                                "Omura: Then, let's have you lick the cucumber right away."
                             ]
                         },
                         {
@@ -5080,7 +5080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>(I don't really understand what's going on)"
+                                "Hinata Aki: (I don't really understand what's going on)"
                             ]
                         },
                         {
@@ -5097,7 +5097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki>(If I can get money from this, I guess it's\nfine)"
+                                "Hinata Aki: (If I can get money from this, I guess it's fine)"
                             ]
                         },
                         {
@@ -5114,7 +5114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>(It's not like it's a nude drawing or\nanything)"
+                                "Hinata Aki: (It's not like it's a nude drawing or anything)"
                             ]
                         },
                         {
@@ -5131,7 +5131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Haaai!"
+                                "Hinata Aki: Haaai!"
                             ]
                         },
                         {
@@ -5196,7 +5196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Mmm...chu..."
+                                "Hinata Aki: Mmm...chu..."
                             ]
                         },
                         {
@@ -5213,7 +5213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Is this... mmm... the right feeling?"
+                                "Hinata Aki: Is this... mmm... the right feeling?"
                             ]
                         },
                         {
@@ -5230,7 +5230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Ah, that's good... It feels nice..."
+                                "Omura: Ah, that's good... It feels nice..."
                             ]
                         },
                         {
@@ -5247,7 +5247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Come on, go deeper..."
+                                "Omura: Come on, go deeper..."
                             ]
                         },
                         {
@@ -5264,7 +5264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Mmm..."
+                                "Hinata Aki: Mmm..."
                             ]
                         },
                         {
@@ -5324,7 +5324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> It's... difficult... ngh..."
+                                "Hinata Aki: It's... difficult... ngh..."
                             ]
                         },
                         {
@@ -5341,7 +5341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura>(I can't believe I can capture Hinata Aki in this\nstate...)"
+                                "Omura: (I can't believe I can capture Hinata Aki in this\nstate...)"
                             ]
                         },
                         {
@@ -5358,7 +5358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura>(If this goes well...)"
+                                "Omura: (If this goes well...)"
                             ]
                         },
                         {
@@ -5670,7 +5670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> You got this question wrong again, didn't you?"
+                                "Omura: You got this question wrong again, didn't you?"
                             ]
                         },
                         {
@@ -5755,7 +5755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Huh... that's strange..."
+                                "Hinata Aki: Huh... that's strange..."
                             ]
                         },
                         {
@@ -5806,7 +5806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> It's a subject that requires memorization, so if\nyou remember it, you can get points, you know?"
+                                "Omura: It's a subject that requires memorization, so if you\nremember it, you can get points, you know?"
                             ]
                         },
                         {
@@ -5839,7 +5839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> I'm not good at memorizing~ It feels like\neverything just goes in one ear and out the other!"
+                                "Hinata Aki: I'm not good at memorizing~ It feels like everything\njust goes in one ear and out the other!"
                             ]
                         },
                         {
@@ -5856,7 +5856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> It's all just mistakes because you're not good at\nit..."
+                                "Omura: It's all just mistakes because you're not good at it..."
                             ]
                         },
                         {
@@ -5889,7 +5889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> Ahahaha... you really know how to hit where it\nhurts, don't you~..."
+                                "Hinata Aki: Ahahaha... you really know how to hit where it\nhurts, don't you~..."
                             ]
                         },
                         {
@@ -5906,7 +5906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> But but! Thanks to Mr. Omura's teachings, my\nscores on the past exams have been improving!"
+                                "Hinata Aki: But but! Thanks to Mr. Omura's teachings, my scores\non the past exams have been improving!"
                             ]
                         },
                         {
@@ -5923,7 +5923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Indeed, your scores have been gradually improving.\nBut really... if you put in the effort, you can do it, so\nmake sure to study regularly."
+                                "Omura: Indeed, your scores have been gradually improving. But\nreally... if you put in the effort, you can do it, so make sure\nto study regularly."
                             ]
                         },
                         {
@@ -5940,7 +5940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> Please go easy on me in my daily life..."
+                                "Hinata Aki: Please go easy on me in my daily life..."
                             ]
                         },
                         {
@@ -5973,7 +5973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> That's right...! Thanks to Mr. Omura, I was\nable to buy new shoes!"
+                                "Hinata Aki: That's right...! Thanks to Mr. Omura, I was able to\nbuy new shoes!"
                             ]
                         },
                         {
@@ -5990,7 +5990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Oh, that's great! My artist friend was really\nhappy about it too."
+                                "Omura: Oh, that's great! My artist friend was really happy about\nit too."
                             ]
                         },
                         {
@@ -6007,7 +6007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> By the way... I was asked to be a subject again."
+                                "Omura: By the way... I was asked to be a subject again."
                             ]
                         },
                         {
@@ -6024,7 +6024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> If it's okay with you, Hinata Aki... what do you\nthink?"
+                                "Omura: If it's okay with you, Hinata Aki... what do you think?"
                             ]
                         },
                         {
@@ -6057,7 +6057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Hmm~ It's totally fine~ It ended quickly last\ntime too~"
+                                "Hinata Aki: Hmm~ It's totally fine~ It ended quickly last time\ntoo~"
                             ]
                         },
                         {
@@ -6074,7 +6074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Hehe, then... let's get started right away..."
+                                "Omura: Hehe, then... let's get started right away..."
                             ]
                         },
                         {
@@ -6165,7 +6165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N Hinata Aki: Hmm~... Mmm... <S♥>"
+                                "Hinata Aki: Hmm~... Mmm... <S♥>"
                             ]
                         },
                         {
@@ -6182,7 +6182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> If I were to upload this image to the internet, I\ncould earn some money... And Aki is slowly starting to open\nup to me as well..."
+                                "Omura: If I were to upload this image to the internet, I could\nearn some money... And Aki is slowly starting to open up to me as\nwell..."
                             ]
                         },
                         {
@@ -6199,7 +6199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> (Don't rush, little by little... I'll make you\nfall...)"
+                                "Omura: (Don't rush, little by little... I'll make you fall...)"
                             ]
                         },
                         {

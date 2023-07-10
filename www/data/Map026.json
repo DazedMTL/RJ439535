@@ -2789,7 +2789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Landlady> Please clean this place."
+                                "Landlady: Please clean this place."
                             ]
                         },
                         {
@@ -2806,7 +2806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Landlady> Just clean the dirty areas with a brush."
+                                "Landlady: Just clean the dirty areas with a brush."
                             ]
                         },
                         {
@@ -2823,7 +2823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Landlady> I don't think it's that difficult, but are you\nokay?"
+                                "Landlady: I don't think it's that difficult, but are you okay?"
                             ]
                         },
                         {
@@ -2840,7 +2840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Landlady> After you're done, take your time and relax in\nyour room."
+                                "Landlady: After you're done, take your time and relax in your\nroom."
                             ]
                         },
                         {
@@ -2857,7 +2857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Landlady> As a token of appreciation, I'll bring you some\nfood."
+                                "Landlady: As a token of appreciation, I'll bring you some food."
                             ]
                         },
                         {
@@ -2874,7 +2874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Landlady> Our food is delicious~!"
+                                "Landlady: Our food is delicious~!"
                             ]
                         },
                         {
@@ -2891,7 +2891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Landlady> Well, I guess it's not a big deal..."
+                                "Landlady: Well, I guess it's not a big deal..."
                             ]
                         },
                         {

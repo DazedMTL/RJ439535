@@ -4087,7 +4087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Stray cat> Meow~"
+                                "Stray cat: Meow~"
                             ]
                         },
                         {
@@ -5183,7 +5183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Neighborhood uncle> \\P[0001], you seem a bit down."
+                                "Neighborhood uncle: \\P[0001], you seem a bit down."
                             ]
                         },
                         {
@@ -5251,7 +5251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Neighborhood uncle> \\P[0001], don't go out too much at night,\nokay?"
+                                "Neighborhood uncle: \\P[0001], don't go out too much at night,\nokay?"
                             ]
                         },
                         {
@@ -5319,7 +5319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Neighborhood uncle> Have you found someone to go to the\nfestival with?"
+                                "Neighborhood uncle: Have you found someone to go to the festival\nwith?"
                             ]
                         },
                         {
@@ -5781,7 +5781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Man from the neighboring town> I want to go back to my\nyounger days."
+                                "Man from the neighboring town: I want to go back to my younger\ndays."
                             ]
                         },
                         {
@@ -5900,7 +5900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Man from the neighboring town> That short-haired girl\nearlier, her breasts were bouncing around..."
+                                "Man from the neighboring town: That short-haired girl earlier,\nher breasts were bouncing around..."
                             ]
                         },
                         {
@@ -6019,7 +6019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Man from the neighboring town> Come to think of it,\ntomorrow is the festival..."
+                                "Man from the neighboring town: Come to think of it, tomorrow is\nthe festival..."
                             ]
                         },
                         {

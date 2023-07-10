@@ -4027,7 +4027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's mother> Oh, it's \\P[0001]."
+                                "Aki's mother:\n Oh, it's \\P[0001]."
                             ]
                         },
                         {
@@ -4044,7 +4044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Aki's mother> Aki has already gone out, you know?"
+                                "Aki's mother:\n Aki has already gone out, you know?"
                             ]
                         },
                         {
@@ -4061,7 +4061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's mother> Lately, you've been coming home late at\nnight and even staying over without any notice, you know?"
+                                "Aki's mother:\n Lately, you've been coming home late at night\nand even staying over without any notice, you know?"
                             ]
                         },
                         {
@@ -4078,7 +4078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's mother> I wonder if \\P[0001] knows something..."
+                                "Aki's mother:\n I wonder if \\P[0001] knows something..."
                             ]
                         },
                         {
@@ -4104,7 +4104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Aki's mother> Is that so..."
+                                "Aki's mother:\n Is that so..."
                             ]
                         },
                         {
@@ -4327,7 +4327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Aki's mother> Oh... we still haven't met?"
+                                "Aki's mother:\n Oh... we still haven't met?"
                             ]
                         },
                         {
@@ -4344,7 +4344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's mother> Just when I thought you came back in the\nevening, you went out again?"
+                                "Aki's mother:\n Just when I thought you came back in the\nevening, you went out again?"
                             ]
                         },
                         {
@@ -4361,7 +4361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's mother> If you run now, maybe you can catch up with\nthem."
+                                "Aki's mother:\n If you run now, maybe you can catch up with\nthem."
                             ]
                         },
                         {
@@ -4378,7 +4378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's mother> I wonder what that child has been up to\nlately..."
+                                "Aki's mother:\n I wonder what that child has been up to\nlately..."
                             ]
                         },
                         {
@@ -4758,7 +4758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Stray cat> Meow~"
+                                "Stray cat: Meow~"
                             ]
                         },
                         {

@@ -2062,7 +2062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Hey \\P[0001]"
+                                "Hinata Aki: Hey \\P[0001]"
                             ]
                         },
                         {
@@ -2079,7 +2079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Um... about \\P[0001]..."
+                                "Hinata Aki: Um... about \\P[0001]..."
                             ]
                         },
                         {
@@ -2096,7 +2096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「...」"
+                                "Hinata Aki: 「...」"
                             ]
                         },
                         {
@@ -2113,7 +2113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「......」"
+                                "Hinata Aki: 「......」"
                             ]
                         },
                         {
@@ -2130,7 +2130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> ...Are you listening?"
+                                "Hinata Aki: ...Are you listening?"
                             ]
                         },
                         {
@@ -2147,7 +2147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「\\P[0001]!」"
+                                "Hinata Aki: 「\\P[0001]!」"
                             ]
                         },
                         {
@@ -2164,7 +2164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>\\{「\\P[0001]!」"
+                                "Hinata Aki: \\{「\\P[0001]!」"
                             ]
                         },
                         {

@@ -1639,7 +1639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I have no particular reason to go into my parents'\nbedroom..."
+                                "I have no particular reason to go into my parents' bedroom..."
                             ]
                         },
                         {
@@ -1747,7 +1747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I have no particular reason to go into my parents'\nbedroom..."
+                                "I have no particular reason to go into my parents' bedroom..."
                             ]
                         },
                         {
@@ -2238,7 +2238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>\\{ Hey, \\P[0001]!"
+                                "Hinata Aki: \\{ Hey, \\P[0001]!"
                             ]
                         },
                         {
@@ -2255,7 +2255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\P[0001]>..."
+                                "\\P[0001]: ..."
                             ]
                         },
                         {
@@ -2300,7 +2300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N Hinata Aki: Oh! Ki! Ro!"
+                                "Hinata Aki: Wa-ke! U-p!"
                             ]
                         },
                         {
@@ -2326,7 +2326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\P[0001]>「.....！」"
+                                "\\P[0001]: 「.....！」"
                             ]
                         },
                         {
@@ -2343,7 +2343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> \\P[0001], how long are you going to sleep?"
+                                "Hinata Aki: \\P[0001], how long are you going to sleep?"
                             ]
                         },
                         {
@@ -2360,7 +2360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "'Hinata Aki' A tomboyish childhood friend who is not good at\nstudying but excels in physical abilities. She is popular\namong both boys and girls at school."
+                                "'Hinata Aki' A tomboyish childhood friend who is not good at\nstudying but excels in physical abilities. She is popular among\nboth boys and girls at school."
                             ]
                         },
                         {
@@ -2394,7 +2394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I have had a one-sided crush on Aki since we were little,\nbut I haven't been able to confess my feelings until today."
+                                "I have had a one-sided crush on Aki since we were little, but I\nhaven't been able to confess my feelings until today."
                             ]
                         },
                         {
@@ -2427,7 +2427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> It's already this late, you know?"
+                                "Hinata Aki: It's already this late, you know?"
                             ]
                         },
                         {
@@ -2444,7 +2444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Don't you already feel like it's summer\nvacation because it's almost here?"
+                                "Hinata Aki: Don't you already feel like it's summer vacation\nbecause it's almost here?"
                             ]
                         },
                         {
@@ -2508,7 +2508,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "<Hinata Aki> I'm so exasperated... \\P[0001] really can't\nfunction without me, huh~"
+                                "Hinata Aki: I'm so exasperated... \\P[0001] really can't function\nwithout me, huh~"
                             ]
                         },
                         {
@@ -2563,7 +2563,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> Eh... Ah... Yeah..."
+                                "Hinata Aki: Eh... Ah... Yeah..."
                             ]
                         },
                         {
@@ -2580,7 +2580,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> You're unusually honest today..."
+                                "Hinata Aki: You're unusually honest today..."
                             ]
                         },
                         {
@@ -2597,7 +2597,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki>「...」"
+                                "Hinata Aki: 「...」"
                             ]
                         },
                         {
@@ -2614,7 +2614,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki>「.....」"
+                                "Hinata Aki: 「.....」"
                             ]
                         },
                         {
@@ -2657,7 +2657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...Anyway! Hurry up and get ready or we'll be\nlate for school!"
+                                "Hinata Aki: ...Anyway! Hurry up and get ready or we'll be late\nfor school!"
                             ]
                         },
                         {
@@ -2674,7 +2674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Hurry up and wash your face!"
+                                "Hinata Aki: Hurry up and wash your face!"
                             ]
                         },
                         {
@@ -2691,7 +2691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> I'll be waiting outside!"
+                                "Hinata Aki: I'll be waiting outside!"
                             ]
                         },
                         {
@@ -2708,7 +2708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Don't be too late, okay? If you're late, I'll\ngo ahead without you."
+                                "Hinata Aki: Don't be too late, okay? If you're late, I'll go\nahead without you."
                             ]
                         },
                         {
@@ -3296,7 +3296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Good morning, \\P[0001]~!"
+                                "Hinata Aki: Good morning, \\P[0001]~!"
                             ]
                         },
                         {
@@ -3313,7 +3313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> If you do your best on today's test, it'll be\nsummer vacation!"
+                                "Hinata Aki: If you do your best on today's test, it'll be summer\nvacation!"
                             ]
                         },
                         {
@@ -3330,7 +3330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Let's do our best to avoid failing grades~!"
+                                "Hinata Aki: Let's do our best to avoid failing grades~!"
                             ]
                         },
                         {
@@ -3347,7 +3347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Come on, let's go to school!"
+                                "Hinata Aki: Come on, let's go to school!"
                             ]
                         },
                         {
@@ -6788,7 +6788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You are free to do as you please from today until <July\n31st>."
+                                "You are free to do as you please from today until <July 31st>."
                             ]
                         },
                         {
@@ -6822,7 +6822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Before you start your free activities, let me give you a\nbrief explanation."
+                                "Before you start your free activities, let me give you a brief\nexplanation."
                             ]
                         },
                         {
@@ -6862,7 +6862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dash = '<NShift + Direction Key>' 1-hour skip = '<NT>' Text\nskip = '<NCtrl>' or '<NAlt>' Menu call = '<NRight Click>' or\n'<NESC>'"
+                                "Dash = '<NShift + Direction Key>' 1-hour skip = '<NT>' Text skip\n= '<NCtrl>' or '<NAlt>' Menu call = '<NRight Click>' or '<NESC>'"
                             ]
                         },
                         {
@@ -6969,7 +6969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "On the field map, speech bubble icons of men targeting Aki\nare displayed in each area."
+                                "On the field map, speech bubble icons of men targeting Aki are\ndisplayed in each area."
                             ]
                         },
                         {
@@ -6986,7 +6986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please be careful not to approach carelessly, as it will\ndeepen the relationship between Aki and the men."
+                                "Please be careful not to approach carelessly, as it will deepen\nthe relationship between Aki and the men."
                             ]
                         },
                         {
@@ -7609,7 +7609,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Aki, who is supposed to always come to wake me up, isn't\nhere."
+                                "Aki, who is supposed to always come to wake me up, isn't here."
                             ]
                         },
                         {
@@ -7626,7 +7626,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "These past few days, the distance between Aki and me has\nonly been growing."
+                                "These past few days, the distance between Aki and me has only\nbeen growing."
                             ]
                         },
                         {
@@ -7825,7 +7825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I've been hiding my feelings without mustering the courage\nfor many years."
+                                "I've been hiding my feelings without mustering the courage for\nmany years."
                             ]
                         },
                         {
@@ -8097,7 +8097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Huh? Y-yeah."
+                                "Hinata Aki: Huh? Y-yeah."
                             ]
                         },
                         {
@@ -8114,7 +8114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> We go together every year... What's the matter?\nInviting me so formally..."
+                                "Hinata Aki: We go together every year... What's the matter?\nInviting me so formally..."
                             ]
                         },
                         {
@@ -8131,7 +8131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...<N \\P[0001]>?"
+                                "Hinata Aki: ...<N \\P[0001]>?"
                             ]
                         },
                         {
@@ -9195,7 +9195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Let's invite Aki to the <K Festival> that will be held\ntomorrow, on the 25th."
+                                "Let's invite Aki to the <K Festival> that will be held tomorrow,\non the 25th."
                             ]
                         },
                         {
@@ -9545,7 +9545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I will write down the dream I had during summer vacation in\nthis diary."
+                                "I will write down the dream I had during summer vacation in this\ndiary."
                             ]
                         },
                         {
@@ -21600,7 +21600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Let's invite Aki to the <K Festival> that will be held\ntomorrow."
+                                "Let's invite Aki to the <K Festival> that will be held tomorrow."
                             ]
                         },
                         {
@@ -21871,7 +21871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Let's invite Aki to the <K Festival> that will be held\ntomorrow, on the 25th."
+                                "Let's invite Aki to the <K Festival> that will be held tomorrow,\non the 25th."
                             ]
                         },
                         {
@@ -22273,7 +22273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Bright student> Heeey... \\P[0001]~ are you there?"
+                                "Bright student: Heeey... \\P[0001]~ are you there?"
                             ]
                         },
                         {
@@ -22338,7 +22338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Bright student> Sorry for coming over so suddenly."
+                                "Bright student: Sorry for coming over so suddenly."
                             ]
                         },
                         {
@@ -22355,7 +22355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Bright student> Actually, I came here with a favor to\nask."
+                                "Bright student: Actually, I came here with a favor to ask."
                             ]
                         },
                         {
@@ -22372,7 +22372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Bright student> There's a festival at the shrine soon,\nright? I'm planning to do part-time work for the setup."
+                                "Bright student: There's a festival at the shrine soon, right?\nI'm planning to do part-time work for the setup."
                             ]
                         },
                         {
@@ -22389,7 +22389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Bright student> Suddenly, one of the other part-time\nworkers couldn't make it... So... I was wondering if I could\nask \\P[0001] for a favor..."
+                                "Bright student: Suddenly, one of the other part-time workers\ncouldn't make it... So... I was wondering if I could ask \\P[0001]\nfor a favor..."
                             ]
                         },
                         {
@@ -22406,7 +22406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Bright student> I asked various people, and it turns out\nthat <K Aki> and a boy from the neighborhood will be coming."
+                                "Bright student: I asked various people, and it turns out that <K\nAki> and a boy from the neighborhood will be coming."
                             ]
                         },
                         {
@@ -22423,7 +22423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Bright student> I need one more person... right?\nPlease...!"
+                                "Bright student: I need one more person... right? Please...!"
                             ]
                         },
                         {
@@ -22449,7 +22449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Bright student> Seriously! Thank you! ...Then let's go to\nthe shrine right away!"
+                                "Bright student: Seriously! Thank you! ...Then let's go to the\nshrine right away!"
                             ]
                         },
                         {

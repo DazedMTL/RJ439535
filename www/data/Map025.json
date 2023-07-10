@@ -1665,7 +1665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sweet-toothed old man> The cheesecake that I eat secretly\nfrom my wife is exceptional."
+                                "Sweet-toothed old man: The cheesecake that I eat secretly from\nmy wife is exceptional."
                             ]
                         },
                         {
@@ -1793,7 +1793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old lady who seems bored> I wonder if something exciting\nwill happen..."
+                                "Old lady who seems bored: I wonder if something exciting will\nhappen..."
                             ]
                         },
                         {
@@ -1912,7 +1912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Old lady who seems bored> I wonder if something exciting\nwill happen..."
+                                "Old lady who seems bored: I wonder if something exciting will\nhappen..."
                             ]
                         },
                         {
@@ -1989,7 +1989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Consciousness-oriented young man> Do you need something?\nIf you have something to ask, please do it quickly."
+                                "Consciousness-oriented young man: Do you need something? If you\nhave something to ask, please do it quickly."
                             ]
                         },
                         {
@@ -2066,7 +2066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Perverted middle-aged man> Oh... this actress has quite a\nnice chest. Mmm...! It's hard to resist this actress too..."
+                                "Perverted middle-aged man: Oh... this actress has quite a nice\nchest. Mmm...! It's hard to resist this actress too..."
                             ]
                         },
                         {
@@ -2143,7 +2143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Friendly shop assistant> Welcome! Please take your time~"
+                                "Friendly shop assistant: Welcome! Please take your time~"
                             ]
                         },
                         {
@@ -2271,7 +2271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Unfriendly clerk> Welcome... take your time..."
+                                "Unfriendly clerk: Welcome... take your time..."
                             ]
                         },
                         {
@@ -2399,7 +2399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Friendly shop assistant> Welcome! Please take your time~"
+                                "Friendly shop assistant: Welcome! Please take your time~"
                             ]
                         },
                         {
@@ -2476,7 +2476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Unfriendly clerk> Welcome... take your time..."
+                                "Unfriendly clerk: Welcome... take your time..."
                             ]
                         },
                         {
@@ -3374,7 +3374,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Forest road> I know you understand, but don't think you\ncan escape, Hanaguri."
+                                "Hayashi Michi: I know you understand, but don't think you can\nescape, Hanaguri."
                             ]
                         },
                         {
@@ -3450,7 +3450,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> ...Yes"
+                                "Hanaguri Shiori: ...Yes"
                             ]
                         },
                         {
@@ -4096,7 +4096,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Forest road> After all, it's the cafe after the movie,\nright?"
+                                "Hayashi Michi: After all, it's the cafe after the movie, right?"
                             ]
                         },
                         {
@@ -4113,7 +4113,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Forest road> Seriously, it's a sure thing, so you should\nremember Hanaguri too."
+                                "Hayashi Michi: Seriously, it's a sure thing, so you should\nremember Hanaguri too."
                             ]
                         },
                         {
@@ -4164,7 +4164,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> It will be a learning experience."
+                                "Hanaguri Shiori: It will be a learning experience."
                             ]
                         },
                         {
@@ -4181,7 +4181,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Hanaguri Shiori>(I thought you were a scary person, but\nsurprisingly...)"
+                                "Hanaguri Shiori: (I thought you were a scary person, but\nsurprisingly...)"
                             ]
                         },
                         {
@@ -4198,7 +4198,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Forest road> Hey~ This cafe is seriously amazing and all\nof their recommendations are great."
+                                "Hayashi Michi: Hey~ This cafe is seriously amazing and all of\ntheir recommendations are great."
                             ]
                         },
                         {
@@ -4215,7 +4215,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Forest road> It's also comfortable because it's a\nfamiliar store, you know."
+                                "Hayashi Michi: It's also comfortable because it's a familiar\nstore, you know."
                             ]
                         },
                         {
@@ -4232,7 +4232,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Forest road> I've been coming here about twice a week\nrecently."
+                                "Hayashi Michi: I've been coming here about twice a week\nrecently."
                             ]
                         },
                         {
@@ -4265,7 +4265,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Hanaguri Shiori>(It doesn't suit me, huh)"
+                                "Hanaguri Shiori: (It doesn't suit me, huh)"
                             ]
                         },
                         {
@@ -4282,7 +4282,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Forest road> Well, go ahead and drink it. It's seriously\ndelicious, you know."
+                                "Hayashi Michi: Well, go ahead and drink it. It's seriously\ndelicious, you know."
                             ]
                         },
                         {
@@ -4299,7 +4299,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> Well then... here I go."
+                                "Hanaguri Shiori: Well then... here I go."
                             ]
                         },
                         {
@@ -4428,7 +4428,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> Ah... it's delicious."
+                                "Hanaguri Shiori: Ah... it's delicious."
                             ]
                         },
                         {
@@ -4479,7 +4479,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Forest road> Right?"
+                                "Hayashi Michi: Right?"
                             ]
                         },
                         {
@@ -4496,7 +4496,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Forest road> So, about that movie earlier..."
+                                "Hayashi Michi: So, about that movie earlier..."
                             ]
                         },
                         {
@@ -4614,7 +4614,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Forest road> Yeah, yeah, that director's zombie movie is\nreally gory, you know."
+                                "Hayashi Michi: Yeah, yeah, that director's zombie movie is\nreally gory, you know."
                             ]
                         },
                         {
@@ -4631,7 +4631,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Forest road> Even for someone like me who's used to it,\nthere are some intense scenes."
+                                "Hayashi Michi: Even for someone like me who's used to it, there\nare some intense scenes."
                             ]
                         },
                         {
@@ -4682,7 +4682,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "<Hanaguri Shiori> Is that so?"
+                                "Hanaguri Shiori: Is that so?"
                             ]
                         },
                         {
@@ -4699,7 +4699,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Hanaguri Shiori>(It feels hot... Maybe I caught a cold)"
+                                "Hanaguri Shiori: (It feels hot... Maybe I caught a cold)"
                             ]
                         },
                         {
@@ -4716,7 +4716,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Forest road> So, what are we going to do after this?"
+                                "Hayashi Michi: So, what are we going to do after this?"
                             ]
                         },
                         {
@@ -4733,7 +4733,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Forest road> If we still have time, there's another place\nI recommend."
+                                "Hayashi Michi: If we still have time, there's another place I\nrecommend."
                             ]
                         },
                         {
@@ -4750,7 +4750,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Hanaguri Shiori>(Huh... I'm starting to feel aroused...)"
+                                "Hanaguri Shiori: (Huh... I'm starting to feel aroused...)"
                             ]
                         },
                         {
@@ -4767,7 +4767,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Forest road> Are you listening, Hanaguri?"
+                                "Hayashi Michi: Are you listening, Hanaguri?"
                             ]
                         },
                         {
@@ -4784,7 +4784,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Hanaguri Shiori>(This is strange... I can't resist...)"
+                                "Hanaguri Shiori: (This is strange... I can't resist...)"
                             ]
                         },
                         {
@@ -4801,7 +4801,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Forest road> You don't look well... How about going to\nthe restroom?"
+                                "Hayashi Michi: You don't look well... How about going to the\nrestroom?"
                             ]
                         },
                         {
@@ -4818,7 +4818,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Hanaguri Shiori>(If I go to the restroom... and let off a\nlittle steam... maybe it'll calm down)"
+                                "Hanaguri Shiori: (If I go to the restroom... and let off a little\nsteam... maybe it'll calm down)"
                             ]
                         },
                         {
@@ -4835,7 +4835,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Hanaguri Shiori> Yes... I see... I'll go to the restroom\nfor a bit."
+                                "Hanaguri Shiori: Yes... I see... I'll go to the restroom for a\nbit."
                             ]
                         },
                         {
@@ -4852,7 +4852,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Forest road> Ah, I'll be waiting."
+                                "Hayashi Michi: Ah, I'll be waiting."
                             ]
                         },
                         {
@@ -5269,7 +5269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Eh~!! No way~!! So my ex-girlfriend was that\nkind of person?"
+                                "Hinata Aki: Eh~!! No way~!! So my ex-girlfriend was that kind of\nperson?"
                             ]
                         },
                         {
@@ -5286,7 +5286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Blue-haired man> Yeah, that's right. That's why I\nseriously want a girlfriend like Aki-chan."
+                                "Blue-haired man: Yeah, that's right. That's why I seriously want\na girlfriend like Aki-chan."
                             ]
                         },
                         {
@@ -5303,7 +5303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Me? Ahaha~ Girls like me can be found\nanywhere, you know~"
+                                "Hinata Aki: Me? Ahaha~ Girls like me can be found anywhere, you\nknow~"
                             ]
                         },
                         {
@@ -5320,7 +5320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Blue-haired man> Not here! Not here!"
+                                "Blue-haired man: Not here! Not here!"
                             ]
                         },
                         {
@@ -5337,7 +5337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Blue-haired man> ...Huh...? ...Who are you?"
+                                "Blue-haired man: ...Huh...? ...Who are you?"
                             ]
                         },
                         {
@@ -5370,7 +5370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> \\P[0001]... Is this person...? Ahh... I just met\nhim earlier."
+                                "Hinata Aki: \\P[0001]... Is this person...? Ahh... I just met him\nearlier."
                             ]
                         },
                         {
@@ -5387,7 +5387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> We were having tea together because we get\nalong."
+                                "Hinata Aki: We were having tea together because we get along."
                             ]
                         },
                         {
@@ -5404,7 +5404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...Huh?... Why do you have such a gloomy\nexpression?"
+                                "Hinata Aki: ...Huh?... Why do you have such a gloomy expression?"
                             ]
                         },
                         {
@@ -5421,7 +5421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Blue-haired man> Hey hey, but more importantly~!!"
+                                "Blue-haired man: Hey hey, but more importantly~!!"
                             ]
                         },
                         {
@@ -7313,7 +7313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Aki, you..."
+                                "Omura: Aki, you..."
                             ]
                         },
                         {
@@ -7330,7 +7330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Sigh..."
+                                "Omura: Sigh..."
                             ]
                         },
                         {
@@ -7347,7 +7347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> I have something to talk about after we're done."
+                                "Omura: I have something to talk about after we're done."
                             ]
                         },
                         {
@@ -7364,7 +7364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Do you understand...?"
+                                "Omura: Do you understand...?"
                             ]
                         },
                         {
@@ -7700,7 +7700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Mmm~♪ This cake is delicious~♪"
+                                "Hinata Aki: Mmm~♪ This cake is delicious~♪"
                             ]
                         },
                         {
@@ -7717,7 +7717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> When it comes to cake, cheesecake is the\nbest, right?"
+                                "Hinata Aki: When it comes to cake, cheesecake is the best,\nright?"
                             ]
                         },
                         {
@@ -7734,7 +7734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Should I try challenging a whole cake next\ntime...?"
+                                "Hinata Aki: Should I try challenging a whole cake next time...?"
                             ]
                         },
                         {
@@ -7751,7 +7751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...I might get fat after all."
+                                "Hinata Aki: ...I might get fat after all."
                             ]
                         },
                         {
@@ -7942,7 +7942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Mmm!! Delicious♪"
+                                "Hinata Aki: Mmm!! Delicious♪"
                             ]
                         },
                         {
@@ -7959,7 +7959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Friend of Aki> The cakes here are really delicious,\naren't they?"
+                                "Friend of Aki: The cakes here are really delicious, aren't they?"
                             ]
                         },
                         {
@@ -7976,7 +7976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Mmm, yeah♪ The cakes after supplementary\nlessons are the best, you know~♪"
+                                "Hinata Aki: Mmm, yeah♪ The cakes after supplementary lessons are\nthe best, you know~♪"
                             ]
                         },
                         {
@@ -7993,7 +7993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Friend of Aki> It's great that Aki can eat as much as she\nwants without gaining weight... unlike me..."
+                                "Friend of Aki: It's great that Aki can eat as much as she wants\nwithout gaining weight... unlike me..."
                             ]
                         },
                         {
@@ -8010,7 +8010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Friend of Aki> ...I think I'll pass on getting seconds."
+                                "Friend of Aki: ...I think I'll pass on getting seconds."
                             ]
                         },
                         {
@@ -8027,7 +8027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Ahaha..."
+                                "Hinata Aki: Ahaha..."
                             ]
                         },
                         {
@@ -8325,7 +8325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Mmm!! Delicious♪"
+                                "Hinata Aki: Mmm!! Delicious♪"
                             ]
                         },
                         {
@@ -8342,7 +8342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Friend of Aki> The cakes here are really delicious,\naren't they?"
+                                "Friend of Aki: The cakes here are really delicious, aren't they?"
                             ]
                         },
                         {
@@ -8359,7 +8359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Mmm, yeah♪ The cakes after supplementary\nlessons are the best, you know~♪"
+                                "Hinata Aki: Mmm, yeah♪ The cakes after supplementary lessons are\nthe best, you know~♪"
                             ]
                         },
                         {
@@ -8376,7 +8376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Friend of Aki> It's great that Aki can eat as much as she\nwants without gaining weight... unlike me..."
+                                "Friend of Aki: It's great that Aki can eat as much as she wants\nwithout gaining weight... unlike me..."
                             ]
                         },
                         {
@@ -8393,7 +8393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Friend of Aki> ...I think I'll pass on getting seconds."
+                                "Friend of Aki: ...I think I'll pass on getting seconds."
                             ]
                         },
                         {
@@ -8410,7 +8410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Ahaha..."
+                                "Hinata Aki: Ahaha..."
                             ]
                         },
                         {
@@ -8606,7 +8606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Pick-up Guy A> Are you alone right now, miss?"
+                                "Pick-up Guy A: Are you alone right now, miss?"
                             ]
                         },
                         {
@@ -8623,7 +8623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Pick-up Guy B> You have good taste, coming to this cafe\nalone, miss."
+                                "Pick-up Guy B: You have good taste, coming to this cafe alone,\nmiss."
                             ]
                         },
                         {
@@ -8640,7 +8640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> I-Is that so? Ahaha~"
+                                "Hinata Aki: I-Is that so? Ahaha~"
                             ]
                         },
                         {
@@ -8657,7 +8657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Pick-up Guy A> But you know, I know an even more stylish\nplace..."
+                                "Pick-up Guy A: But you know, I know an even more stylish\nplace..."
                             ]
                         },
                         {
@@ -8674,7 +8674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Pick-up Guy B> Ah~ That place, you might not know it...\nit's really something."
+                                "Pick-up Guy B: Ah~ That place, you might not know it... it's\nreally something."
                             ]
                         },
                         {
@@ -8691,7 +8691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Eh? Where, where?"
+                                "Hinata Aki: Eh? Where, where?"
                             ]
                         },
                         {
@@ -8708,7 +8708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Pick-up Guy A> Are you interested? Shall we go? It's a\nnice place to take a break."
+                                "Pick-up Guy A: Are you interested? Shall we go? It's a nice\nplace to take a break."
                             ]
                         },
                         {
@@ -8725,7 +8725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Pick-up Guy B> Nice, nice...! Let's take a break\ntogether, the three of us <K♥>."
+                                "Pick-up Guy B: Nice, nice...! Let's take a break together, the\nthree of us <K♥>."
                             ]
                         },
                         {
@@ -8758,7 +8758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「...?.........!!!!」"
+                                "Hinata Aki: 「...?.........!!!!」"
                             ]
                         },
                         {
@@ -8775,7 +8775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Y-You're not serious!! I'm not going!!"
+                                "Hinata Aki: Y-You're not serious!! I'm not going!!"
                             ]
                         },
                         {
@@ -8911,7 +8911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Pick-up Guy A> Are you alone right now, miss?"
+                                "Pick-up Guy A: Are you alone right now, miss?"
                             ]
                         },
                         {
@@ -8928,7 +8928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Pick-up Guy B> You have good taste, coming to this cafe\nalone, miss."
+                                "Pick-up Guy B: You have good taste, coming to this cafe alone,\nmiss."
                             ]
                         },
                         {
@@ -8945,7 +8945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> R-Really? Ahaha~"
+                                "Hinata Aki: R-Really? Ahaha~"
                             ]
                         },
                         {
@@ -8962,7 +8962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Pick-up Guy A> But you know, I know an even more stylish\nplace..."
+                                "Pick-up Guy A: But you know, I know an even more stylish\nplace..."
                             ]
                         },
                         {
@@ -8979,7 +8979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Pick-up Guy B> Ah~ That place, you might not know it...\nit's really something."
+                                "Pick-up Guy B: Ah~ That place, you might not know it... it's\nreally something."
                             ]
                         },
                         {
@@ -8996,7 +8996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Eh? Where, where?"
+                                "Hinata Aki: Eh? Where, where?"
                             ]
                         },
                         {
@@ -9013,7 +9013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Pick-up Guy A> Are you interested? Then shall we go? It's\na nice place to take a break."
+                                "Pick-up Guy A: Are you interested? Then shall we go? It's a nice\nplace to take a break."
                             ]
                         },
                         {
@@ -9030,7 +9030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Pick-up Guy B> Nice, nice...! Let's take a break\ntogether, the three of us <K♥>."
+                                "Pick-up Guy B: Nice, nice...! Let's take a break together, the\nthree of us <K♥>."
                             ]
                         },
                         {
@@ -9063,7 +9063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「...?.........!!!!」"
+                                "Hinata Aki: 「...?.........!!!!」"
                             ]
                         },
                         {
@@ -9080,7 +9080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> Y-You're not serious!! I'm not going!!"
+                                "Hinata Aki: Y-You're not serious!! I'm not going!!"
                             ]
                         },
                         {
@@ -9216,7 +9216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Pick-up Guy A> Are you alone right now, miss?"
+                                "Pick-up Guy A: Are you alone right now, miss?"
                             ]
                         },
                         {
@@ -9233,7 +9233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Pick-up Guy B> You have good taste, coming to this cafe\nalone, miss."
+                                "Pick-up Guy B: You have good taste, coming to this cafe alone,\nmiss."
                             ]
                         },
                         {
@@ -9250,7 +9250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> R-Really? Ahaha~"
+                                "Hinata Aki: R-Really? Ahaha~"
                             ]
                         },
                         {
@@ -9267,7 +9267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Pick-up Guy A> But you know, I know an even more stylish\nplace..."
+                                "Pick-up Guy A: But you know, I know an even more stylish\nplace..."
                             ]
                         },
                         {
@@ -9284,7 +9284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Pick-up Guy B> Ah~ That place, you might not know it...\nit's really something."
+                                "Pick-up Guy B: Ah~ That place, you might not know it... it's\nreally something."
                             ]
                         },
                         {
@@ -9301,7 +9301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Eh? Where, where?"
+                                "Hinata Aki: Eh? Where, where?"
                             ]
                         },
                         {
@@ -9318,7 +9318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Pick-up Guy A> Are you interested? Then shall we go? It's\na nice place to take a break."
+                                "Pick-up Guy A: Are you interested? Then shall we go? It's a nice\nplace to take a break."
                             ]
                         },
                         {
@@ -9335,7 +9335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Pick-up Guy B> Nice, nice...! Let's take a break\ntogether, the three of us <K♥>."
+                                "Pick-up Guy B: Nice, nice...! Let's take a break together, the\nthree of us <K♥>."
                             ]
                         },
                         {
@@ -9368,7 +9368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「...?.........!!!!」"
+                                "Hinata Aki: 「...?.........!!!!」"
                             ]
                         },
                         {
@@ -9385,7 +9385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> Y-You're not serious!! I'm not going!!"
+                                "Hinata Aki: Y-You're not serious!! I'm not going!!"
                             ]
                         },
                         {
@@ -9521,7 +9521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Eh~!! No way~!! So my ex-girlfriend was that\nkind of person?"
+                                "Hinata Aki: Eh~!! No way~!! So my ex-girlfriend was that kind of\nperson?"
                             ]
                         },
                         {
@@ -9538,7 +9538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Blue-haired man> Yeah, that's right. That's why I\nseriously want a girlfriend like Aki-chan."
+                                "Blue-haired man: Yeah, that's right. That's why I seriously want\na girlfriend like Aki-chan."
                             ]
                         },
                         {
@@ -9555,7 +9555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Me? Ahaha~ Girls like me can be found\nanywhere, you know~"
+                                "Hinata Aki: Me? Ahaha~ Girls like me can be found anywhere, you\nknow~"
                             ]
                         },
                         {
@@ -9572,7 +9572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Blue-haired man> Not here! Not here!"
+                                "Blue-haired man: Not here! Not here!"
                             ]
                         },
                         {
@@ -9589,7 +9589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Blue-haired man> ...Huh...? ...Who are you?"
+                                "Blue-haired man: ...Huh...? ...Who are you?"
                             ]
                         },
                         {
@@ -9622,7 +9622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> \\P[0001]... Is this person...? Ahh... I just met\nhim earlier."
+                                "Hinata Aki: \\P[0001]... Is this person...? Ahh... I just met him\nearlier."
                             ]
                         },
                         {
@@ -9639,7 +9639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> We were having tea together because we get\nalong."
+                                "Hinata Aki: We were having tea together because we get along."
                             ]
                         },
                         {
@@ -9656,7 +9656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...Huh?... Why do you have such a gloomy\nface?"
+                                "Hinata Aki: ...Huh?... Why do you have such a gloomy face?"
                             ]
                         },
                         {
@@ -9673,7 +9673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Blue-haired man> Hey hey, but more importantly~!!"
+                                "Blue-haired man: Hey hey, but more importantly~!!"
                             ]
                         },
                         {

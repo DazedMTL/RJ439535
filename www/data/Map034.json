@@ -2101,7 +2101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female student> Eh~! If Aki graduates, will she get\nmarried to her boyfriend?"
+                                "Female student: Eh~! If Aki graduates, will she get married to\nher boyfriend?"
                             ]
                         },
                         {
@@ -2152,7 +2152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Hey, keep your voice down!"
+                                "Hinata Aki: Hey, keep your voice down!"
                             ]
                         },
                         {
@@ -2169,7 +2169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female student> Because, because... I was surprised,\nthat's why."
+                                "Female student: Because, because... I was surprised, that's why."
                             ]
                         },
                         {
@@ -2186,7 +2186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female student> It feels like Aki has grown up and it's a\nbit lonely."
+                                "Female student: It feels like Aki has grown up and it's a bit\nlonely."
                             ]
                         },
                         {
@@ -2219,7 +2219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> I haven't changed, you know~"
+                                "Hinata Aki: I haven't changed, you know~"
                             ]
                         },
                         {
@@ -2236,7 +2236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Male student> Damn it... I didn't want to hear that..."
+                                "Male student: Damn it... I didn't want to hear that..."
                             ]
                         },
                         {
@@ -2253,7 +2253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female student> But, you know~ I was surprised."
+                                "Female student: But, you know~ I was surprised."
                             ]
                         },
                         {
@@ -2270,7 +2270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female student> I thought you were dating \\P[0001], you know."
+                                "Female student: I thought you were dating \\P[0001], you know."
                             ]
                         },
                         {
@@ -2303,7 +2303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Ahaha~..."
+                                "Hinata Aki: Ahaha~..."
                             ]
                         },
                         {
@@ -2320,7 +2320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female student> What's with that expression~! So\nmysterious~!"
+                                "Female student: What's with that expression~! So mysterious~!"
                             ]
                         },
                         {
@@ -2337,7 +2337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female student> But I'm glad that Aki seems happy."
+                                "Female student: But I'm glad that Aki seems happy."
                             ]
                         },
                         {
@@ -2354,7 +2354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Female student> Make sure to keep in touch even after\ngraduation~"
+                                "Female student: Make sure to keep in touch even after\ngraduation~"
                             ]
                         },
                         {
@@ -2371,7 +2371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Of course! I'll definitely keep in touch!"
+                                "Hinata Aki: Of course! I'll definitely keep in touch!"
                             ]
                         },
                         {
@@ -2388,7 +2388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Well, as for having a boyfriend... umm..."
+                                "Hinata Aki: Well, as for having a boyfriend... umm..."
                             ]
                         },
                         {
@@ -2405,7 +2405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> My husband is waiting, so I have to go now."
+                                "Hinata Aki: My husband is waiting, so I have to go now."
                             ]
                         },
                         {
@@ -2557,7 +2557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「...」"
+                                "Hinata Aki: 「...」"
                             ]
                         },
                         {
@@ -2574,7 +2574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> Take care and stay well."
+                                "Hinata Aki: Take care and stay well."
                             ]
                         },
                         {

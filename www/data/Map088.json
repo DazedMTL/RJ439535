@@ -2888,7 +2888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's mother> Oh, \\P[0001]~ Did you come to see Aki?"
+                                "Aki's mother:\n Oh, \\P[0001]~ Did you come to see Aki?"
                             ]
                         },
                         {
@@ -3058,7 +3058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's mother> \\P[0001]~ Just because it's summer vacation\ndoesn't mean you can be lazy."
+                                "Aki's mother:\n \\P[0001]~ Just because it's summer vacation\ndoesn't mean you can be lazy."
                             ]
                         },
                         {
@@ -3126,7 +3126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's mother> Oh \\P[0001], are you going to eat?"
+                                "Aki's mother:\n Oh \\P[0001], are you going to eat?"
                             ]
                         },
                         {
@@ -3245,7 +3245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's mother> Aki said she's staying over at her friend's\nhouse today."
+                                "Aki's mother:\n Aki said she's staying over at her friend's\nhouse today."
                             ]
                         },
                         {
@@ -3415,7 +3415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's mother> Oh, \\P[0001]~"
+                                "Aki's mother:\n Oh, \\P[0001]~"
                             ]
                         },
                         {
@@ -3432,7 +3432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's mother> I'm sorry for making you come all this\nway..."
+                                "Aki's mother:\n I'm sorry for making you come all this way..."
                             ]
                         },
                         {
@@ -3449,7 +3449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aki's mother> It seems like you're locking the room and\nconcentrating because you're studying."
+                                "Aki's mother:\n It seems like you're locking the room and\nconcentrating because you're studying."
                             ]
                         },
                         {
@@ -4831,7 +4831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「Zzz...Zzz...」"
+                                "Hinata Aki: 「Zzz...Zzz...」"
                             ]
                         },
                         {
@@ -4899,7 +4899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Mmm... Nngh... Zzz..."
+                                "Hinata Aki: Mmm... Nngh... Zzz..."
                             ]
                         },
                         {
@@ -4916,7 +4916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Huh? \\P[0001]?"
+                                "Hinata Aki: Huh? \\P[0001]?"
                             ]
                         },
                         {
@@ -4933,7 +4933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> You're up early even though it's a day off..."
+                                "Hinata Aki: You're up early even though it's a day off..."
                             ]
                         },
                         {
@@ -4950,7 +4950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Me? Mmm... Just let me sleep a little\nlonger..."
+                                "Hinata Aki: Me? Mmm... Just let me sleep a little longer..."
                             ]
                         },
                         {
@@ -5069,7 +5069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「Zzz...Zzz...」"
+                                "Hinata Aki: 「Zzz...Zzz...」"
                             ]
                         },
                         {
@@ -5137,7 +5137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「Zzz...Zzz...」"
+                                "Hinata Aki: 「Zzz...Zzz...」"
                             ]
                         },
                         {
@@ -5154,7 +5154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Mmm... Zzz..."
+                                "Hinata Aki: Mmm... Zzz..."
                             ]
                         },
                         {
@@ -5171,7 +5171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> I'm going to sleep a lot during summer\nvacation... Zzz..."
+                                "Hinata Aki: I'm going to sleep a lot during summer vacation...\nZzz..."
                             ]
                         },
                         {
@@ -5566,7 +5566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「Zzz...Zzz...」"
+                                "Hinata Aki: 「Zzz...Zzz...」"
                             ]
                         },
                         {
@@ -5634,7 +5634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「Zzz...Zzz...」"
+                                "Hinata Aki: 「Zzz...Zzz...」"
                             ]
                         },
                         {
@@ -5702,7 +5702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Mmm... Nngh... Zzz..."
+                                "Hinata Aki: Mmm... Nngh... Zzz..."
                             ]
                         },
                         {
@@ -5719,7 +5719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Huh? \\P[0001]?"
+                                "Hinata Aki: Huh? \\P[0001]?"
                             ]
                         },
                         {
@@ -5736,7 +5736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> You're up early even though it's a day off..."
+                                "Hinata Aki: You're up early even though it's a day off..."
                             ]
                         },
                         {
@@ -5753,7 +5753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Me? Mmm... Just let me sleep a little\nlonger..."
+                                "Hinata Aki: Me? Mmm... Just let me sleep a little longer..."
                             ]
                         },
                         {
@@ -5821,7 +5821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「Zzz...Zzz...」"
+                                "Hinata Aki: 「Zzz...Zzz...」"
                             ]
                         },
                         {
@@ -5889,7 +5889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「Zzz...Zzz...」"
+                                "Hinata Aki: 「Zzz...Zzz...」"
                             ]
                         },
                         {
@@ -5906,7 +5906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Mmm... Zzz..."
+                                "Hinata Aki: Mmm... Zzz..."
                             ]
                         },
                         {
@@ -5923,7 +5923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> I'm going to sleep a lot during summer\nvacation... Zzz..."
+                                "Hinata Aki: I'm going to sleep a lot during summer vacation...\nZzz..."
                             ]
                         },
                         {

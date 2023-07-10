@@ -1882,7 +1882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> Huh... (Isn't Aki with us?)"
+                                "Nakano: Huh... (Isn't Aki with us?)"
                             ]
                         },
                         {
@@ -1899,7 +1899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> I'm sorry, \\P[0001]-kun, but I'm busy today."
+                                "Nakano: I'm sorry, \\P[0001]-kun, but I'm busy today."
                             ]
                         },
                         {
@@ -1916,7 +1916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> Please come again next time."
+                                "Nakano: Please come again next time."
                             ]
                         },
                         {
@@ -2043,7 +2043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> Hehe... Aki is not here."
+                                "Nakano: Hehe... Aki is not here."
                             ]
                         },
                         {
@@ -2425,7 +2425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Hey Nakano-san, are you free today...?"
+                                "Hinata Aki: Hey Nakano-san, are you free today...?"
                             ]
                         },
                         {
@@ -2442,7 +2442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...Is it not possible?"
+                                "Hinata Aki: ...Is it not possible?"
                             ]
                         },
                         {
@@ -2493,7 +2493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> Hey hey, Aki, \\P[0001]-kun is here right now, you\nknow?"
+                                "Nakano: Hey hey, Aki, \\P[0001]-kun is here right now, you know?"
                             ]
                         },
                         {
@@ -2526,7 +2526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Eh... Ah..."
+                                "Hinata Aki: Eh... Ah..."
                             ]
                         },
                         {
@@ -2543,7 +2543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...\\P[0001]... Is something wrong? Do you have\nsomething to talk to Nakano-san about?"
+                                "Hinata Aki: ...\\P[0001]... Is something wrong? Do you have\nsomething to talk to Nakano-san about?"
                             ]
                         },
                         {
@@ -2774,7 +2774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Nakano-san, I was surprised! I can't move\noutside."
+                                "Hinata Aki: Nakano-san, I was surprised! I can't move outside."
                             ]
                         },
                         {
@@ -2825,7 +2825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> I was planning to go shopping, but I can't move\nas I wanted..."
+                                "Nakano: I was planning to go shopping, but I can't move as I\nwanted..."
                             ]
                         },
                         {
@@ -2842,7 +2842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> It's difficult to live alone at this age, huh."
+                                "Nakano: It's difficult to live alone at this age, huh."
                             ]
                         },
                         {
@@ -2875,7 +2875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Nakano-san, you shouldn't push yourself if\nyour back hurts."
+                                "Hinata Aki: Nakano-san, you shouldn't push yourself if your back\nhurts."
                             ]
                         },
                         {
@@ -2892,7 +2892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> I'm sorry... I showed you such a pathetic side."
+                                "Nakano: I'm sorry... I showed you such a pathetic side."
                             ]
                         },
                         {
@@ -2925,7 +2925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> There's nothing pathetic about it."
+                                "Hinata Aki: There's nothing pathetic about it."
                             ]
                         },
                         {
@@ -2958,7 +2958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> That's right! If Nakano-san has any troubles,\nfeel free to tell me anything."
+                                "Hinata Aki: That's right! If Nakano-san has any troubles, feel\nfree to tell me anything."
                             ]
                         },
                         {
@@ -2975,7 +2975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> If there's anything I can do, I'll help you!"
+                                "Hinata Aki: If there's anything I can do, I'll help you!"
                             ]
                         },
                         {
@@ -2992,7 +2992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> It's not that bad... Besides, you must be busy\nwith your studies, right?"
+                                "Nakano: It's not that bad... Besides, you must be busy with your\nstudies, right?"
                             ]
                         },
                         {
@@ -3025,7 +3025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> Ugh..."
+                                "Hinata Aki: Ugh..."
                             ]
                         },
                         {
@@ -3042,7 +3042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> I-I'm... I'll be fine! I'll figure something\nout!... Probably"
+                                "Hinata Aki: I-I'm... I'll be fine! I'll figure something out!...\nProbably"
                             ]
                         },
                         {
@@ -3059,7 +3059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> I see... Well, then maybe I'll rely on you when\nI'm in trouble."
+                                "Nakano: I see... Well, then maybe I'll rely on you when I'm in\ntrouble."
                             ]
                         },
                         {
@@ -3092,7 +3092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Yeah! Leave it to me!"
+                                "Hinata Aki: Yeah! Leave it to me!"
                             ]
                         },
                         {
@@ -3234,7 +3234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> Hehe... Aki is coming..."
+                                "Nakano: Hehe... Aki is coming..."
                             ]
                         },
                         {
@@ -3251,7 +3251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> I can't let this opportunity slip away... <K♥>"
+                                "Nakano: I can't let this opportunity slip away... <K♥>"
                             ]
                         },
                         {
@@ -3557,7 +3557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> I'm sorry for being busy again today."
+                                "Nakano: I'm sorry for being busy again today."
                             ]
                         },
                         {
@@ -3608,7 +3608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Hmm! It's totally fine."
+                                "Hinata Aki: Hmm! It's totally fine."
                             ]
                         },
                         {
@@ -3625,7 +3625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> By the way, Nakano-san's house is full of\nbooks, isn't it?"
+                                "Hinata Aki: By the way, Nakano-san's house is full of books,\nisn't it?"
                             ]
                         },
                         {
@@ -3642,7 +3642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Are books interesting...? When there are only\nwords, I get sleepy."
+                                "Hinata Aki: Are books interesting...? When there are only words,\nI get sleepy."
                             ]
                         },
                         {
@@ -3659,7 +3659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> It's interesting~ It's like imagining and\nreliving the author's experiences through words, I guess~"
+                                "Nakano: It's interesting~ It's like imagining and reliving the\nauthor's experiences through words, I guess~"
                             ]
                         },
                         {
@@ -3676,7 +3676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> As someone who lives alone, it fills the\nloneliness."
+                                "Nakano: As someone who lives alone, it fills the loneliness."
                             ]
                         },
                         {
@@ -3693,7 +3693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> I feel like it's not an exaggeration to say that\nit's my reason for living~"
+                                "Nakano: I feel like it's not an exaggeration to say that it's my\nreason for living~"
                             ]
                         },
                         {
@@ -3726,7 +3726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Chosha...? Tsuitaiken...? It seems difficult,\nbut..."
+                                "Hinata Aki: Chosha...? Tsuitaiken...? It seems difficult, but..."
                             ]
                         },
                         {
@@ -3759,7 +3759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> If it's fun for Nakano-san, then it's okay!"
+                                "Hinata Aki: If it's fun for Nakano-san, then it's okay!"
                             ]
                         },
                         {
@@ -3776,7 +3776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> Oh, I have a book recommendation for you, Aki-\nchan."
+                                "Nakano: Oh, I have a book recommendation for you, Aki- chan."
                             ]
                         },
                         {
@@ -3809,7 +3809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> Huh, really~?"
+                                "Hinata Aki: Huh, really~?"
                             ]
                         },
                         {
@@ -3826,7 +3826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N Nakano: Yeah, yeah, I had it around there..."
+                                "Nakano: Yeah, yeah, I had it around there..."
                             ]
                         },
                         {
@@ -3843,7 +3843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Hey hey! Don't push yourself, Nakano-san.\nI'll look for it."
+                                "Hinata Aki: Hey hey! Don't push yourself, Nakano-san. I'll look\nfor it."
                             ]
                         },
                         {
@@ -3935,7 +3935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> Hmm, books... books..."
+                                "Hinata Aki: Hmm, books... books..."
                             ]
                         },
                         {
@@ -3952,7 +3952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> I wonder if there's a good book... I really\nwanted to give it as a present."
+                                "Nakano: I wonder if there's a good book... I really wanted to\ngive it as a present."
                             ]
                         },
                         {
@@ -3969,7 +3969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> Sorry, it would be great if you could find it\nyourself..."
+                                "Nakano: Sorry, it would be great if you could find it\nyourself..."
                             ]
                         },
                         {
@@ -3986,7 +3986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> My back hurts and I can't bend down."
+                                "Nakano: My back hurts and I can't bend down."
                             ]
                         },
                         {
@@ -4003,7 +4003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Hinata Aki> No, don't worry about it."
+                                "Hinata Aki: No, don't worry about it."
                             ]
                         },
                         {
@@ -4020,7 +4020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N Hinata Aki: I'm curious about the book you recommend for\nme."
+                                "Hinata Aki: I'm curious about the book you recommend for me."
                             ]
                         },
                         {
@@ -4114,7 +4114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Ah! Is this it?"
+                                "Hinata Aki: Ah! Is this it?"
                             ]
                         },
                         {
@@ -4131,7 +4131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> Yes, yes! That's it!"
+                                "Nakano: Yes, yes! That's it!"
                             ]
                         },
                         {
@@ -4182,7 +4182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> The charm of older men... Be careful around\nmen close to you...?"
+                                "Hinata Aki: The charm of older men... Be careful around men\nclose to you...?"
                             ]
                         },
                         {
@@ -4258,7 +4258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> Yeah, this is interesting."
+                                "Nakano: Yeah, this is interesting."
                             ]
                         },
                         {
@@ -4309,7 +4309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Oh... close... huh..."
+                                "Hinata Aki: Oh... close... huh..."
                             ]
                         },
                         {
@@ -4326,7 +4326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano>「...」"
+                                "Nakano: 「...」"
                             ]
                         },
                         {
@@ -4343,7 +4343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano>「......」"
+                                "Nakano: 「......」"
                             ]
                         },
                         {
@@ -4643,7 +4643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Hmm, let's see... this should go here..."
+                                "Hinata Aki: Hmm, let's see... this should go here..."
                             ]
                         },
                         {
@@ -4660,7 +4660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> And this book should go here...!"
+                                "Hinata Aki: And this book should go here...!"
                             ]
                         },
                         {
@@ -4711,7 +4711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> I'm sorry again today."
+                                "Nakano: I'm sorry again today."
                             ]
                         },
                         {
@@ -4744,7 +4744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> What are you saying? It's summer vacation, so\ndon't hesitate to rely on me."
+                                "Hinata Aki: What are you saying? It's summer vacation, so don't\nhesitate to rely on me."
                             ]
                         },
                         {
@@ -4761,7 +4761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> But Aki-chan, don't you have supplementary\nlessons...?"
+                                "Nakano: But Aki-chan, don't you have supplementary lessons...?"
                             ]
                         },
                         {
@@ -4794,7 +4794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「...」"
+                                "Hinata Aki: 「...」"
                             ]
                         },
                         {
@@ -4811,7 +4811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「......」"
+                                "Hinata Aki: 「......」"
                             ]
                         },
                         {
@@ -5110,7 +5110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Hmm, let's see... this should go here..."
+                                "Hinata Aki: Hmm, let's see... this should go here..."
                             ]
                         },
                         {
@@ -5127,7 +5127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> And this book should go here...!"
+                                "Hinata Aki: And this book should go here...!"
                             ]
                         },
                         {
@@ -5178,7 +5178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> I'm sorry again today."
+                                "Nakano: I'm sorry again today."
                             ]
                         },
                         {
@@ -5211,7 +5211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> What are you saying? It's summer vacation, so\ndon't hesitate to rely on me."
+                                "Hinata Aki: What are you saying? It's summer vacation, so don't\nhesitate to rely on me."
                             ]
                         },
                         {
@@ -5228,7 +5228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> But Aki-chan, don't you have supplementary\nlessons...?"
+                                "Nakano: But Aki-chan, don't you have supplementary lessons...?"
                             ]
                         },
                         {
@@ -5261,7 +5261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「...」"
+                                "Hinata Aki: 「...」"
                             ]
                         },
                         {
@@ -5278,7 +5278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「......」"
+                                "Hinata Aki: 「......」"
                             ]
                         },
                         {
@@ -6933,7 +6933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Hey Nakano-san, are you free today...?"
+                                "Hinata Aki: Hey Nakano-san, are you free today...?"
                             ]
                         },
                         {
@@ -6950,7 +6950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...Is it not possible?"
+                                "Hinata Aki: ...Is it not possible?"
                             ]
                         },
                         {
@@ -7001,7 +7001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nakano> Hey, hey Aki, \\P[0001]-kun is here right now, you\nknow?"
+                                "Nakano: Hey, hey Aki, \\P[0001]-kun is here right now, you know?"
                             ]
                         },
                         {
@@ -7034,7 +7034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Eh... Ah..."
+                                "Hinata Aki: Eh... Ah..."
                             ]
                         },
                         {
@@ -7051,7 +7051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...\\P[0001]... Is something wrong? Do you have\nsomething to talk to Nakano-san about?"
+                                "Hinata Aki: ...\\P[0001]... Is something wrong? Do you have\nsomething to talk to Nakano-san about?"
                             ]
                         },
                         {

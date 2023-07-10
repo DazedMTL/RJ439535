@@ -3547,7 +3547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...Huh? What's this..."
+                                "Hinata Aki: ...Huh? What's this..."
                             ]
                         },
                         {
@@ -3564,7 +3564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> So this is the woman that Hayamichi was\ntalking about..."
+                                "Hinata Aki: So this is the woman that Hayamichi was talking\nabout..."
                             ]
                         },
                         {
@@ -3581,7 +3581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hayamichi's Friend B> She's quite a good-looking woman...\nHayamichi, let's have some fun on the forest road soon,\nokay?"
+                                "Hayamichi's Friend B:\n She's quite a good-looking woman...\nHayamichi, let's have some fun on the Hayashi Michi soon, okay?"
                             ]
                         },
                         {
@@ -3632,7 +3632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Forest road> Well, calm down you guys... It looks like\nclub activities are over."
+                                "Hayashi Michi: Well, calm down you guys... It looks like club\nactivities are over."
                             ]
                         },
                         {
@@ -3649,7 +3649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Forest road> Let's have a chat with us in the club room,\nAki, shall we?"
+                                "Hayashi Michi: Let's have a chat with us in the club room, Aki,\nshall we?"
                             ]
                         },
                         {
@@ -3666,7 +3666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> What are you all talking about, suddenly\nsurrounding me like this!"
+                                "Hinata Aki: What are you all talking about, suddenly surrounding\nme like this!"
                             ]
                         },
                         {
@@ -3683,7 +3683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Forest road's Friend A> Ahh~ I love strong-willed women,\nthey're irresistible."
+                                "Hayashi Michi's Friend A:\n Ahh~ I love strong-willed women,\nthey're irresistible."
                             ]
                         },
                         {
@@ -3700,7 +3700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Forest road's Friend B> Seriously, and that chest! It's\nway too big."
+                                "Hayashi Michi's Friend B:\n Seriously, and that chest! It's way\ntoo big."
                             ]
                         },
                         {
@@ -3717,7 +3717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> H-Hey...! Forest road senpai, please stop it\nalready."
+                                "Hinata Aki: H-Hey...! Hayashi Michi senpai, please stop it\nalready."
                             ]
                         },
                         {
@@ -3734,7 +3734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Please stop following me like this."
+                                "Hinata Aki: Please stop following me like this."
                             ]
                         },
                         {
@@ -3751,7 +3751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Well then, I'll be heading home now..."
+                                "Hinata Aki: Well then, I'll be heading home now..."
                             ]
                         },
                         {
@@ -3768,7 +3768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Forest road> You're not going home, are you?"
+                                "Hayashi Michi: You're not going home, are you?"
                             ]
                         },
                         {
@@ -3814,7 +3814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Ouch..."
+                                "Hinata Aki: Ouch..."
                             ]
                         },
                         {
@@ -3831,7 +3831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Forest road> Come on... quietly follow me."
+                                "Hayashi Michi: Come on... quietly follow me."
                             ]
                         },
                         {
@@ -4654,7 +4654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Oh, there you are!"
+                                "Omura: Oh, there you are!"
                             ]
                         },
                         {
@@ -4671,7 +4671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> \\P[0001]~ Are you waiting for Aki?"
+                                "Omura: \\P[0001]~ Are you waiting for Aki?"
                             ]
                         },
                         {
@@ -4688,7 +4688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Omura> Aki said that the club activities might take longer\nthan expected, so you can go home first if you want."
+                                "Omura: Aki said that the club activities might take longer than\nexpected, so you can go home first if you want."
                             ]
                         },
                         {
@@ -4749,7 +4749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Omura> Huh? Did she say it would end early?"
+                                "Omura: Huh? Did she say it would end early?"
                             ]
                         },
                         {
@@ -4766,7 +4766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Omura> ...Tch (So annoying)"
+                                "Omura: ...Tch (So annoying)"
                             ]
                         },
                         {
@@ -4783,7 +4783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Omura> The situation has changed, and the tournament is\ncoming up soon."
+                                "Omura: The situation has changed, and the tournament is coming\nup soon."
                             ]
                         },
                         {
@@ -4800,7 +4800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Omura> You might not understand since you're not in a club."
+                                "Omura: You might not understand since you're not in a club."
                             ]
                         },
                         {
@@ -4817,7 +4817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Omura> Everyone is working hard for the tournament, so club\nactivities can sometimes take longer."
+                                "Omura: Everyone is working hard for the tournament, so club\nactivities can sometimes take longer."
                             ]
                         },
                         {
@@ -4834,7 +4834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Omura> If you understand, then go home quickly."
+                                "Omura: If you understand, then go home quickly."
                             ]
                         },
                         {
@@ -4851,7 +4851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It doesn't seem like there's much to gain by pushing too\nhard."
+                                "It doesn't seem like there's much to gain by pushing too hard."
                             ]
                         },
                         {

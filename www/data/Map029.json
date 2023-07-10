@@ -3214,7 +3214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「...」"
+                                "Hinata Aki: 「...」"
                             ]
                         },
                         {
@@ -3231,7 +3231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> There are a lot of people..."
+                                "Hinata Aki: There are a lot of people..."
                             ]
                         },
                         {
@@ -3248,7 +3248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「...」"
+                                "Hinata Aki: 「...」"
                             ]
                         },
                         {
@@ -3265,7 +3265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Shall we go see the food stalls?"
+                                "Hinata Aki: Shall we go see the food stalls?"
                             ]
                         },
                         {
@@ -3433,7 +3433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> We used to always go to the festival\ntogether, didn't we?"
+                                "Hinata Aki: We used to always go to the festival together,\ndidn't we?"
                             ]
                         },
                         {
@@ -3450,7 +3450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> \\P[0001] caught too many goldfish and got scolded\nby \\P[0001]'s mother."
+                                "Hinata Aki: \\P[0001] caught too many goldfish and got scolded by\n\\P[0001]'s mother."
                             ]
                         },
                         {
@@ -3467,7 +3467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> So we decided to keep a few at my house too."
+                                "Hinata Aki: So we decided to keep a few at my house too."
                             ]
                         },
                         {
@@ -3493,7 +3493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Ahaha... It's nostalgic, isn't it?"
+                                "Hinata Aki: Ahaha... It's nostalgic, isn't it?"
                             ]
                         },
                         {
@@ -3629,7 +3629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> The yakitori here is delicious, isn't it?"
+                                "Hinata Aki: The yakitori here is delicious, isn't it?"
                             ]
                         },
                         {
@@ -3646,7 +3646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> The old ladies at the yakitori shop are\nalways so energetic, it's amazing..."
+                                "Hinata Aki: The old ladies at the yakitori shop are always so\nenergetic, it's amazing..."
                             ]
                         },
                         {
@@ -3672,7 +3672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Yeah... it's delicious after all."
+                                "Hinata Aki: Yeah... it's delicious after all."
                             ]
                         },
                         {
@@ -3689,7 +3689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> By the way, \\P[0001] used to prefer salt,\nright... Even though sauce is definitely more delicious."
+                                "Hinata Aki: By the way, \\P[0001] used to prefer salt, right...\nEven though sauce is definitely more delicious."
                             ]
                         },
                         {
@@ -3737,7 +3737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Huh? You eat salt...?"
+                                "Hinata Aki: Huh? You eat salt...?"
                             ]
                         },
                         {
@@ -3754,7 +3754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Then, one bite..."
+                                "Hinata Aki: Then, one bite..."
                             ]
                         },
                         {
@@ -3771,7 +3771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Hmm... Oh!"
+                                "Hinata Aki: Hmm... Oh!"
                             ]
                         },
                         {
@@ -3788,7 +3788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Hmm... It might be even more delicious than\nthe sauce..."
+                                "Hinata Aki: Hmm... It might be even more delicious than the\nsauce..."
                             ]
                         },
                         {
@@ -3926,7 +3926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Masks are a staple at festivals, but I've\nnever bought one before."
+                                "Hinata Aki: Masks are a staple at festivals, but I've never\nbought one before."
                             ]
                         },
                         {
@@ -3943,7 +3943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Huh? You want to try buying one?"
+                                "Hinata Aki: Huh? You want to try buying one?"
                             ]
                         },
                         {
@@ -3960,7 +3960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Ahaha, it's a little embarrassing."
+                                "Hinata Aki: Ahaha, it's a little embarrassing."
                             ]
                         },
                         {
@@ -3977,7 +3977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「...」"
+                                "Hinata Aki: 「...」"
                             ]
                         },
                         {
@@ -3994,7 +3994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「......」"
+                                "Hinata Aki: 「......」"
                             ]
                         },
                         {
@@ -4123,7 +4123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> We've been through a lot, haven't we?"
+                                "Hinata Aki: We've been through a lot, haven't we?"
                             ]
                         },
                         {
@@ -4140,7 +4140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> I really do love the atmosphere of festivals~"
+                                "Hinata Aki: I really do love the atmosphere of festivals~"
                             ]
                         },
                         {
@@ -4157,7 +4157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Did \\P[0001] have fun?"
+                                "Hinata Aki: Did \\P[0001] have fun?"
                             ]
                         },
                         {
@@ -4205,7 +4205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> I see..."
+                                "Hinata Aki: I see..."
                             ]
                         },
                         {
@@ -4222,7 +4222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Well then, I guess it's about time for me\nto..."
+                                "Hinata Aki: Well then, I guess it's about time for me to..."
                             ]
                         },
                         {
@@ -4270,7 +4270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Huh? What?"
+                                "Hinata Aki: Huh? What?"
                             ]
                         },
                         {
@@ -4312,7 +4312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki>「...？」"
+                                "Hinata Aki: 「...？」"
                             ]
                         },
                         {
@@ -4329,7 +4329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Is it something that's difficult to say here?"
+                                "Hinata Aki: Is it something that's difficult to say here?"
                             ]
                         },
                         {
@@ -4377,7 +4377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> I see..."
+                                "Hinata Aki: I see..."
                             ]
                         },
                         {
@@ -4394,7 +4394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Yeah... I understand..."
+                                "Hinata Aki: Yeah... I understand..."
                             ]
                         },
                         {
@@ -4411,7 +4411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Shall we change locations?"
+                                "Hinata Aki: Shall we change locations?"
                             ]
                         },
                         {

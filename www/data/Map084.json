@@ -7279,7 +7279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Beautiful police officer> You should go home before it\ngets dark, okay? Otherwise, big sister might eat you up <K♥>"
+                                "Beautiful police officer: You should go home before it gets\ndark, okay? Otherwise, big sister might eat you up <K♥>"
                             ]
                         },
                         {
@@ -7296,7 +7296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Beautiful police officer> ...just kidding."
+                                "Beautiful police officer: ...just kidding."
                             ]
                         },
                         {
@@ -7364,7 +7364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Beautiful police officer> Summer vacation~? <K♥> You\nshouldn't go too wild."
+                                "Beautiful police officer: Summer vacation~? <K♥> You shouldn't\ngo too wild."
                             ]
                         },
                         {
@@ -8021,7 +8021,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male> You got this question wrong again, didn't you?"
+                                "Male: You got this question wrong again, didn't you?"
                             ]
                         },
                         {
@@ -8038,7 +8038,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female> Huh... that's strange..."
+                                "Female: Huh... that's strange..."
                             ]
                         },
                         {
@@ -8055,7 +8055,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male> It's a subject that you can score points on if you\nmemorize it, you know?"
+                                "Male: It's a subject that you can score points on if you\nmemorize it, you know?"
                             ]
                         },
                         {
@@ -8072,7 +8072,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female> I'm not good at memorizing~ It feels like it goes\nin one ear and out the other!"
+                                "Female: I'm not good at memorizing~ It feels like it goes in one\near and out the other!"
                             ]
                         },
                         {
@@ -8089,7 +8089,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male> It's all just mistakes that I'm not good at..."
+                                "Male: It's all just mistakes that I'm not good at..."
                             ]
                         },
                         {
@@ -8106,7 +8106,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female> Ahahaha... you really hit where it hurts~..."
+                                "Female: Ahahaha... you really hit where it hurts~..."
                             ]
                         },
                         {
@@ -8219,7 +8219,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Friend> I happened to come across this girl... doesn't\nshe look like Aki-chan?"
+                                "Friend: I happened to come across this girl... doesn't she look\nlike Aki-chan?"
                             ]
                         },
                         {
@@ -8654,7 +8654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sharp-eyed middle-aged person> If you're just here to\nmess around, then please leave."
+                                "Sharp-eyed middle-aged person: If you're just here to mess\naround, then please leave."
                             ]
                         },
                         {
@@ -9218,7 +9218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Huh... it's an old man..."
+                                "Hinata Aki: Huh... it's an old man..."
                             ]
                         },
                         {
@@ -9235,7 +9235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> The girl next to me... she looks just like\nme... so that's the girl..."
+                                "Hinata Aki: The girl next to me... she looks just like me... so\nthat's the girl..."
                             ]
                         },
                         {
@@ -9327,7 +9327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> What's with that serious expression?"
+                                "Sayama: What's with that serious expression?"
                             ]
                         },
                         {
@@ -9344,7 +9344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Daughter of Saya> ...Hey, Dad"
+                                "Daughter of Saya: ...Hey, Dad"
                             ]
                         },
                         {
@@ -9361,7 +9361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> What's wrong? Need some money?"
+                                "Sayama: What's wrong? Need some money?"
                             ]
                         },
                         {
@@ -9412,7 +9412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Daughter of Saya>「......」"
+                                "Daughter of Saya: 「......」"
                             ]
                         },
                         {
@@ -9429,7 +9429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Daughter of Saya> ...I want this to be the last time I see\nyou, Dad."
+                                "Daughter of Saya: ...I want this to be the last time I see you,\nDad."
                             ]
                         },
                         {
@@ -9489,7 +9489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> Eh...eh? Why?"
+                                "Sayama: Eh...eh? Why?"
                             ]
                         },
                         {
@@ -9506,7 +9506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Daughter of Saya> Mom is getting remarried soon... She\ntold me to stop seeing you because of that."
+                                "Daughter of Saya: Mom is getting remarried soon... She told me\nto stop seeing you because of that."
                             ]
                         },
                         {
@@ -9523,7 +9523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Sayama> That's so selfish..."
+                                "Sayama: That's so selfish..."
                             ]
                         },
                         {
@@ -9540,7 +9540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Daughter of Saya> Besides, it's become a rumor at school\nthat I'm always hanging out there..."
+                                "Daughter of Saya: Besides, it's become a rumor at school that\nI'm always hanging out there..."
                             ]
                         },
                         {
@@ -9557,7 +9557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Daughter of Saya> It's a bit uncomfortable for me at\nschool..."
+                                "Daughter of Saya: It's a bit uncomfortable for me at school..."
                             ]
                         },
                         {
@@ -9642,7 +9642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama>「......」"
+                                "Sayama: 「......」"
                             ]
                         },
                         {
@@ -9659,7 +9659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Daughter of Saya> That's why... um..."
+                                "Daughter of Saya: That's why... um..."
                             ]
                         },
                         {
@@ -9676,7 +9676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> I'm sorry... I caused trouble..."
+                                "Sayama: I'm sorry... I caused trouble..."
                             ]
                         },
                         {
@@ -9693,7 +9693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Daughter of Saya> ...Dad, aren't you lonely...?"
+                                "Daughter of Saya: ...Dad, aren't you lonely...?"
                             ]
                         },
                         {
@@ -9710,7 +9710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama>「......」"
+                                "Sayama: 「......」"
                             ]
                         },
                         {
@@ -9727,7 +9727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<Daughter of Saya> After all... I..."
+                                "Daughter of Saya: After all... I..."
                             ]
                         },
                         {
@@ -9744,7 +9744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> Of course it'll be fine, right? I'm a responsible\nadult, you know?"
+                                "Sayama: Of course it'll be fine, right? I'm a responsible adult,\nyou know?"
                             ]
                         },
                         {
@@ -9761,7 +9761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> Besides... I have a <K-Keitai> filled with a lot\nof your pictures, you know!"
+                                "Sayama: Besides... I have a <K-Keitai> filled with a lot of your\npictures, you know!"
                             ]
                         },
                         {
@@ -9778,7 +9778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> Don't worry about it! Seriously!"
+                                "Sayama: Don't worry about it! Seriously!"
                             ]
                         },
                         {
@@ -9795,7 +9795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Daughter of Saya> Yeah... I understand..."
+                                "Daughter of Saya: Yeah... I understand..."
                             ]
                         },
                         {
@@ -9812,7 +9812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Daughter of Saya> Well then... I have to go now..."
+                                "Daughter of Saya: Well then... I have to go now..."
                             ]
                         },
                         {
@@ -9829,7 +9829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sayama> Oh! Do your best at school!"
+                                "Sayama: Oh! Do your best at school!"
                             ]
                         },
                         {

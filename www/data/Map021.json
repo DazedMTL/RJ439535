@@ -1609,7 +1609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Are you going to unlock all of the memories?"
+                                "Hinata Aki: Are you going to unlock all of the memories?"
                             ]
                         },
                         {
@@ -1765,7 +1765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> I've opened up all of my memories."
+                                "Hinata Aki: I've opened up all of my memories."
                             ]
                         },
                         {
@@ -3326,7 +3326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Do you want to watch the forest road 'August 12th'?"
+                                "Do you want to watch the Hayashi Michi 'August 12th'?"
                             ]
                         },
                         {

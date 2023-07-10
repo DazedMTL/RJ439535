@@ -4478,7 +4478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Do you want to eavesdrop? (The forest road event will\nprogress)"
+                                "Do you want to eavesdrop? (The Hayashi Michi event will progress)"
                             ]
                         },
                         {
@@ -4554,7 +4554,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Female Student?> I mentioned it yesterday as well, but I\ncan't date you because you're not my type, senpai."
+                                "\\N<Female Student?> I mentioned it yesterday as well, but I can't\ndate you because you're not my type, senpai."
                             ]
                         },
                         {
@@ -4605,7 +4605,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Male Student?> You're probably just fooling around,\nright?"
+                                "\\N<Male Student?> You're probably just fooling around, right?"
                             ]
                         },
                         {
@@ -5803,7 +5803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I can't see her face clearly, but isn't she that girl from\nthe internet...?"
+                                "I can't see her face clearly, but isn't she that girl from the\ninternet...?"
                             ]
                         },
                         {

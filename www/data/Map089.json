@@ -2208,7 +2208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Classmate A> Hey... we've graduated, huh?"
+                                "Classmate A: Hey... we've graduated, huh?"
                             ]
                         },
                         {
@@ -2225,7 +2225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Classmate A> ..."
+                                "Classmate A: ..."
                             ]
                         },
                         {
@@ -2242,7 +2242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Classmate A> ...Are you still concerned about Aki?"
+                                "Classmate A: ...Are you still concerned about Aki?"
                             ]
                         },
                         {
@@ -2259,7 +2259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Classmate A> I wonder why <they quit N school..."
+                                "Classmate A: I wonder why <they quit N school..."
                             ]
                         },
                         {
@@ -2276,7 +2276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Classmate A> Thinking about it now won't change anything,\nright?"
+                                "Classmate A: Thinking about it now won't change anything, right?"
                             ]
                         },
                         {
@@ -2293,7 +2293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Classmate A> Are you coming to the after-party later?"
+                                "Classmate A: Are you coming to the after-party later?"
                             ]
                         },
                         {
@@ -2319,7 +2319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Classmate A> I see..."
+                                "Classmate A: I see..."
                             ]
                         },
                         {
@@ -2336,7 +2336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Classmate A> ...If you feel better, let's go out for a\nmeal again sometime."
+                                "Classmate A: ...If you feel better, let's go out for a meal\nagain sometime."
                             ]
                         },
                         {
@@ -2353,7 +2353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Classmate A> ...Well then, see you later."
+                                "Classmate A: ...Well then, see you later."
                             ]
                         },
                         {

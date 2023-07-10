@@ -4087,7 +4087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Stray cat> Meow~"
+                                "Stray cat: Meow~"
                             ]
                         },
                         {
@@ -5583,7 +5583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Neighborhood uncle> \\P[0001], you seem a bit down."
+                                "Neighborhood uncle: \\P[0001], you seem a bit down."
                             ]
                         },
                         {
@@ -5651,7 +5651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Neighborhood uncle> \\P[0001], don't go out too much at night,\nokay?"
+                                "Neighborhood uncle: \\P[0001], don't go out too much at night,\nokay?"
                             ]
                         },
                         {
@@ -5719,7 +5719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Neighborhood uncle> Have you found someone to go to the\nfestival with?"
+                                "Neighborhood uncle: Have you found someone to go to the festival\nwith?"
                             ]
                         },
                         {
@@ -6181,7 +6181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Man from the neighboring town> I want to go back to my\nyounger days."
+                                "Man from the neighboring town: I want to go back to my younger\ndays."
                             ]
                         },
                         {
@@ -6300,7 +6300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Man from the neighboring town> That short-haired girl\nfrom earlier, her breasts were bouncing around..."
+                                "Man from the neighboring town: That short-haired girl from\nearlier, her breasts were bouncing around..."
                             ]
                         },
                         {
@@ -6419,7 +6419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Man from the neighboring town> Come to think of it,\ntomorrow is the festival..."
+                                "Man from the neighboring town: Come to think of it, tomorrow is\nthe festival..."
                             ]
                         },
                         {
@@ -6999,7 +6999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> ...\\P[0001]"
+                                "Hinata Aki: ...\\P[0001]"
                             ]
                         },
                         {
@@ -7048,7 +7048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N Hinata Aki: Is there someone outside~?"
+                                "Hinata Aki: Is there someone outside~?"
                             ]
                         },
                         {
@@ -7462,7 +7462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hinata Aki> Huh...?"
+                                "Hinata Aki: Huh...?"
                             ]
                         },
                         {
@@ -7513,7 +7513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> \\P[0001]..."
+                                "Omura: \\P[0001]..."
                             ]
                         },
                         {
@@ -7530,7 +7530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> ......What's wrong? This early in the morning."
+                                "Omura: ......What's wrong? This early in the morning."
                             ]
                         },
                         {
@@ -7547,7 +7547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Omura> Do you have something to say to <K Aki>?"
+                                "Omura: Do you have something to say to <K Aki>?"
                             ]
                         },
                         {
@@ -7685,7 +7685,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> ...I'm sorry."
+                                "Hinata Aki: ...I'm sorry."
                             ]
                         },
                         {
@@ -7702,7 +7702,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> I... have plans for that day, so..."
+                                "Hinata Aki: I... have plans for that day, so..."
                             ]
                         },
                         {
@@ -7753,7 +7753,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Omura> Tsk... Damn... Hehehe."
+                                "Omura: Tsk... Damn... Hehehe."
                             ]
                         },
                         {
@@ -7770,7 +7770,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Omura> If you have plans, then there's nothing we can do\nabout it~"
+                                "Omura: If you have plans, then there's nothing we can do about\nit~"
                             ]
                         },
                         {
@@ -7787,7 +7787,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Omura> Too bad, \\P[0001]."
+                                "Omura: Too bad, \\P[0001]."
                             ]
                         },
                         {
@@ -7804,7 +7804,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> Well then..."
+                                "Hinata Aki: Well then..."
                             ]
                         },
                         {
@@ -7821,7 +7821,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hinata Aki> We'll go..."
+                                "Hinata Aki: We'll go..."
                             ]
                         },
                         {
