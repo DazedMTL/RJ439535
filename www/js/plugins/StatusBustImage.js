@@ -326,16 +326,16 @@
  *  このプラグインはもうあなたのものです。
  */
 
-(function() {
+(function () {
     'use strict';
-    var pluginName    = 'StatusBustImage';
+    var pluginName = 'StatusBustImage';
     var metaTagPrefix = 'SBI';
 
-    var getCommandName = function(command) {
+    var getCommandName = function (command) {
         return (command || '').toUpperCase();
     };
 
-    var getParamOther = function(paramNames) {
+    var getParamOther = function (paramNames) {
         if (!Array.isArray(paramNames)) paramNames = [paramNames];
         for (var i = 0; i < paramNames.length; i++) {
             var name = PluginManager.parameters(pluginName)[paramNames[i]];
@@ -344,19 +344,19 @@
         return null;
     };
 
-    var getParamNumber = function(paramNames, min, max) {
+    var getParamNumber = function (paramNames, min, max) {
         var value = getParamOther(paramNames);
         if (arguments.length < 2) min = -Infinity;
         if (arguments.length < 3) max = Infinity;
         return (parseInt(value, 10) || 0).clamp(min, max);
     };
 
-    var getMetaValue = function(object, name) {
+    var getMetaValue = function (object, name) {
         var metaTagName = metaTagPrefix + (name ? name : '');
         return object.meta.hasOwnProperty(metaTagName) ? object.meta[metaTagName] : undefined;
     };
 
-    var getMetaValues = function(object, names) {
+    var getMetaValues = function (object, names) {
         if (!Array.isArray(names)) return getMetaValue(object, names);
         for (var i = 0, n = names.length; i < n; i++) {
             var value = getMetaValue(object, names[i]);
@@ -365,24 +365,24 @@
         return undefined;
     };
 
-    var getArgNumber = function(arg, min, max) {
+    var getArgNumber = function (arg, min, max) {
         if (arguments.length < 2) min = -Infinity;
         if (arguments.length < 3) max = Infinity;
         return (parseInt(convertEscapeCharacters(arg), 10) || 0).clamp(min, max);
     };
 
-    var getArgString = function(arg, upperFlg) {
+    var getArgString = function (arg, upperFlg) {
         arg = convertEscapeCharacters(arg);
         return upperFlg ? arg.toUpperCase() : arg;
     };
 
-    var getArgArrayString = function(args, upperFlg) {
+    var getArgArrayString = function (args, upperFlg) {
         var values = getArgString(args, upperFlg).split(',');
         for (var i = 0; i < values.length; i++) values[i] = values[i].trim();
         return values;
     };
 
-    var getArgArrayEval = function(args, min, max) {
+    var getArgArrayEval = function (args, min, max) {
         var values = getArgArrayString(args, false);
         if (arguments.length < 2) min = -Infinity;
         if (arguments.length < 3) max = Infinity;
@@ -390,58 +390,58 @@
         return values;
     };
 
-    var convertEscapeCharacters = function(text) {
+    var convertEscapeCharacters = function (text) {
         if (isNotAString(text)) text = '';
         var windowLayer = SceneManager._scene._windowLayer;
         return windowLayer ? convertEscapeTags(windowLayer.children[0].convertEscapeCharacters(text)) : text;
     };
 
-    var convertEscapeTags = function(text) {
+    var convertEscapeTags = function (text) {
         if (isNotAString(text)) text = '';
         text = text.replace(/&gt;?/gi, '>');
         text = text.replace(/&lt;?/gi, '<');
         return text;
     };
 
-    var isNotAString = function(args) {
+    var isNotAString = function (args) {
         return String(args) !== args;
     };
 
     //=============================================================================
     // パラメータの取得と整形
     //=============================================================================
-    var paramBustImageX      = getParamNumber(['BustImageX', '画像X座標']);
-    var paramBustImageY      = getParamNumber(['BustImageY', '画像Y座標']);
+    var paramBustImageX = getParamNumber(['BustImageX', '画像X座標']);
+    var paramBustImageY = getParamNumber(['BustImageY', '画像Y座標']);
     var paramEquipBustImageX = getParamNumber(['EquipBustImageX', '装備_画像X座標']);
     var paramEquipBustImageY = getParamNumber(['EquipBustImageY', '装備_画像Y座標']);
     var paramSkillBustImageX = getParamNumber(['SkillBustImageX', 'スキル_画像X座標']);
     var paramSkillBustImageY = getParamNumber(['SkillBustImageY', 'スキル_画像Y座標']);
-    var paramMainBustImageX  = getParamNumber(['MainBustImageX', 'メイン_画像X座標']);
-    var paramMainBustImageY  = getParamNumber(['MainBustImageY', 'メイン_画像Y座標']);
-    var paramBustPriority    = getParamNumber(['BustPriority', '表示優先度'], 0);
+    var paramMainBustImageX = getParamNumber(['MainBustImageX', 'メイン_画像X座標']);
+    var paramMainBustImageY = getParamNumber(['MainBustImageY', 'メイン_画像Y座標']);
+    var paramBustPriority = getParamNumber(['BustPriority', '表示優先度'], 0);
     var paramBaseImageOrigin = getParamNumber(['BaseImageOrigin', 'ベース画像原点'], 0);
-    var paramAddImageOrigin  = getParamNumber(['AddImageOrigin', '追加画像原点'], 0);
+    var paramAddImageOrigin = getParamNumber(['AddImageOrigin', '追加画像原点'], 0);
 
     //=============================================================================
     // Game_Interpreter
     //  プラグインコマンドを追加定義します。
     //=============================================================================
-    var _Game_Interpreter_pluginCommand      = Game_Interpreter.prototype.pluginCommand;
-    Game_Interpreter.prototype.pluginCommand = function(command, args) {
+    var _Game_Interpreter_pluginCommand = Game_Interpreter.prototype.pluginCommand;
+    Game_Interpreter.prototype.pluginCommand = function (command, args) {
         _Game_Interpreter_pluginCommand.apply(this, arguments);
         if (!command.match(new RegExp('^' + metaTagPrefix))) return;
         this.pluginCommandBustStatus(command.replace(metaTagPrefix, ''), args);
     };
 
-    Game_Interpreter.prototype.pluginCommandBustStatus = function(command, args) {
+    Game_Interpreter.prototype.pluginCommandBustStatus = function (command, args) {
         switch (getCommandName(command)) {
-            case '_IMAGE_CHANGE' :
-            case '画像差し替え' :
+            case '_IMAGE_CHANGE':
+            case '画像差し替え':
                 var actor1 = $gameActors.actor(getArgNumber(args[0], 1));
                 actor1.setBustImageName(getArgString(args[1]));
                 break;
-            case '_ANIME_CHANGE' :
-            case '動画差し替え' :
+            case '_ANIME_CHANGE':
+            case '動画差し替え':
                 var actor2 = $gameActors.actor(getArgNumber(args[0], 1));
                 actor2.setBustAnimationId(getArgNumber(args[1]), 0);
                 break;
@@ -452,58 +452,58 @@
     // Game_Actor
     //  バスト画像を設定します。
     //=============================================================================
-    var _Game_Actor_initMembers      = Game_Actor.prototype.initMembers;
-    Game_Actor.prototype.initMembers = function() {
+    var _Game_Actor_initMembers = Game_Actor.prototype.initMembers;
+    Game_Actor.prototype.initMembers = function () {
         _Game_Actor_initMembers.apply(this, arguments);
-        this._bustImageName   = null;
+        this._bustImageName = null;
         this._bustAnimationId = null;
     };
 
-    Game_Actor.prototype.getMetaInfoForBustImage = function(names) {
+    Game_Actor.prototype.getMetaInfoForBustImage = function (names) {
         return getMetaValues(this.actor(), names);
     };
 
-    Game_Actor.prototype.setBustImageName = function(value) {
+    Game_Actor.prototype.setBustImageName = function (value) {
         this._bustImageName = value;
     };
 
-    Game_Actor.prototype.getBustImageName = function() {
+    Game_Actor.prototype.getBustImageName = function () {
         return this._bustImageName || this.getMetaInfoForBustImage(['画像', 'Image']);
     };
 
-    Game_Actor.prototype.getBustImageRect = function() {
+    Game_Actor.prototype.getBustImageRect = function () {
         var rectString = this.getMetaInfoForBustImage(['矩形', 'Rect']);
-        var rect       = rectString ? getArgArrayEval(rectString, 0) : null;
+        var rect = rectString ? getArgArrayEval(rectString, 0) : null;
         return rect ? new Rectangle(rect[0], rect[1], rect[2], rect[3]) : null;
     };
 
-    Game_Actor.prototype.setBustAnimationId = function(value) {
+    Game_Actor.prototype.setBustAnimationId = function (value) {
         this._bustAnimationId = value || null;
     };
 
-    Game_Actor.prototype.getBustAnimationId = function() {
+    Game_Actor.prototype.getBustAnimationId = function () {
         if (this._bustAnimationId) return this._bustAnimationId;
         var value = this.getMetaInfoForBustImage(['動画', 'Animation']);
         return value ? getArgNumber(value, 1) : 0;
     };
 
-    Game_Actor.prototype.getAdditionalBustImage = function(index) {
+    Game_Actor.prototype.getAdditionalBustImage = function (index) {
         var fileName = this.getMetaInfoForBustImage(['追加画像' + index, 'AddImage' + index]);
         if (!fileName) {
             return null;
         }
-        var additionalImage      = {};
+        var additionalImage = {};
         additionalImage.fileName = getArgString(fileName);
-        additionalImage.cond     = getArgString(this.getMetaInfoForBustImage(['追加条件' + index, 'AddCond' + index]));
-        additionalImage.x        = getArgNumber(this.getMetaInfoForBustImage(['追加座標X' + index, 'AddPosX' + index]));
-        additionalImage.y        = getArgNumber(this.getMetaInfoForBustImage(['追加座標Y' + index, 'AddPosY' + index]));
+        additionalImage.cond = getArgString(this.getMetaInfoForBustImage(['追加条件' + index, 'AddCond' + index]));
+        additionalImage.x = getArgNumber(this.getMetaInfoForBustImage(['追加座標X' + index, 'AddPosX' + index]));
+        additionalImage.y = getArgNumber(this.getMetaInfoForBustImage(['追加座標Y' + index, 'AddPosY' + index]));
         return additionalImage;
     };
 
-    Game_Actor.prototype.getAdditionalBustImageList = function() {
+    Game_Actor.prototype.getAdditionalBustImageList = function () {
         var bustList = [];
-        var index    = 1;
-        var image    = null;
+        var index = 1;
+        var image = null;
         do {
             image = this.getAdditionalBustImage(index);
             if (image) {
@@ -518,18 +518,18 @@
     // Window_Base
     //  バスト画像表示用スプライトを追加定義します。
     //=============================================================================
-    var _Window_Base_initialize      = Window_Base.prototype.initialize;
-    Window_Base.prototype.initialize = function() {
+    var _Window_Base_initialize = Window_Base.prototype.initialize;
+    Window_Base.prototype.initialize = function () {
         if (this.isNeedBust()) this._bustSprite = null;
         _Window_Base_initialize.apply(this, arguments);
     };
 
-    Window_Base.prototype._createAllParts = function() {
+    Window_Base.prototype._createAllParts = function () {
         Window.prototype._createAllParts.call(this);
         if (this.isNeedBust()) this.createBustSprite();
     };
 
-    Window_Base.prototype.isNeedBust = function() {
+    Window_Base.prototype.isNeedBust = function () {
         if ($gameParty.inBattle()) {
             return false;
         }
@@ -537,14 +537,14 @@
         return pos !== null && (pos[0] !== 0 || pos[1] !== 0);
     };
 
-    Window_Base.prototype.createBustSprite = function() {
+    Window_Base.prototype.createBustSprite = function () {
         this._bustContainer = new Sprite();
-        this._bustSprite    = new Sprite_Bust();
+        this._bustSprite = new Sprite_Bust();
         this._bustContainer.addChild(this._bustSprite);
         this._bustAddContainer = false;
     };
 
-    Window_Base.prototype.setBustPosition = function(x, y) {
+    Window_Base.prototype.setBustPosition = function (x, y) {
         if (this.isUnderWindow()) {
             this._bustSprite.move(x, y);
         } else {
@@ -552,11 +552,11 @@
         }
     };
 
-    Window_Base.prototype.getBustPosition = function() {
+    Window_Base.prototype.getBustPosition = function () {
         return null;
     };
 
-    Window_Base.prototype.refreshBust = function() {
+    Window_Base.prototype.refreshBust = function () {
         if (this._actor && this.isNeedBust()) {
             this.setBustPosition.apply(this, this.getBustPosition());
             this._bustSprite.refresh(this._actor);
@@ -566,7 +566,7 @@
         }
     };
 
-    Window_Base.prototype.tryAddBustContainer = function() {
+    Window_Base.prototype.tryAddBustContainer = function () {
         if (this.isUnderWindow()) {
             if (!this.parent) {
                 return;
@@ -578,7 +578,7 @@
         this._bustAddContainer = true;
     };
 
-    Window_Base.prototype.isUnderWindow = function() {
+    Window_Base.prototype.isUnderWindow = function () {
         return paramBustPriority === 0;
     };
 
@@ -586,15 +586,15 @@
     // Window_MenuStatus
     //  バスト画像表示用スプライトを追加定義します。
     //=============================================================================
-    var _Window_MenuStatus_refresh      = Window_MenuStatus.prototype.refresh;
-    Window_MenuStatus.prototype.refresh = function() {
+    var _Window_MenuStatus_refresh = Window_MenuStatus.prototype.refresh;
+    Window_MenuStatus.prototype.refresh = function () {
         _Window_MenuStatus_refresh.apply(this, arguments);
         this._actor = $gameParty.members()[0];
         this.refreshBust();
     };
 
-    var _Window_MenuStatus_setPendingIndex      = Window_MenuStatus.prototype.setPendingIndex;
-    Window_MenuStatus.prototype.setPendingIndex = function(index) {
+    var _Window_MenuStatus_setPendingIndex = Window_MenuStatus.prototype.setPendingIndex;
+    Window_MenuStatus.prototype.setPendingIndex = function (index) {
         _Window_MenuStatus_setPendingIndex.apply(this, arguments);
         var actor = $gameParty.members()[0];
         if (actor === this._actor) return;
@@ -602,7 +602,7 @@
         this.refreshBust();
     };
 
-    Window_MenuStatus.prototype.getBustPosition = function() {
+    Window_MenuStatus.prototype.getBustPosition = function () {
         return [paramMainBustImageX, paramMainBustImageY];
     };
 
@@ -610,20 +610,20 @@
     // Window_MenuActor
     //  アクター選択ウィンドウにはバストアップは表示しない
     //=============================================================================
-    Window_MenuActor.prototype.getBustPosition = function() {
+    Window_MenuActor.prototype.getBustPosition = function () {
         return null;
     };
 
     // Resolve conflict for TMSoloMenu.js
     if (typeof Window_SoloStatus !== 'undefined') {
-        var _Window_SoloStatus_refresh      = Window_SoloStatus.prototype.refresh;
-        Window_SoloStatus.prototype.refresh = function() {
+        var _Window_SoloStatus_refresh = Window_SoloStatus.prototype.refresh;
+        Window_SoloStatus.prototype.refresh = function () {
             _Window_SoloStatus_refresh.apply(this, arguments);
             this._actor = $gameParty.members()[0];
             this.refreshBust();
         };
 
-        Window_SoloStatus.prototype.getBustPosition = function() {
+        Window_SoloStatus.prototype.getBustPosition = function () {
             return [paramMainBustImageX, paramMainBustImageY];
         };
     }
@@ -632,13 +632,13 @@
     // Window_Status
     //  バスト画像表示用スプライトを追加定義します。
     //=============================================================================
-    var _Window_Status_refresh      = Window_Status.prototype.refresh;
-    Window_Status.prototype.refresh = function() {
+    var _Window_Status_refresh = Window_Status.prototype.refresh;
+    Window_Status.prototype.refresh = function () {
         _Window_Status_refresh.apply(this, arguments);
         this.refreshBust();
     };
 
-    Window_Status.prototype.getBustPosition = function() {
+    Window_Status.prototype.getBustPosition = function () {
         return [paramBustImageX, paramBustImageY];
     };
 
@@ -646,7 +646,7 @@
     // Window_EquipItem
     //  バスト画像表示用スプライトを追加定義します。
     //=============================================================================
-    Window_EquipItem.prototype.refresh = function() {
+    Window_EquipItem.prototype.refresh = function () {
         if (!this._actor) {
             return;
         }
@@ -654,7 +654,7 @@
         this.refreshBust();
     };
 
-    Window_EquipItem.prototype.getBustPosition = function() {
+    Window_EquipItem.prototype.getBustPosition = function () {
         return [paramEquipBustImageX, paramEquipBustImageY];
     };
 
@@ -662,13 +662,13 @@
     // Window_SkillList
     //  バスト画像表示用スプライトを追加定義します。
     //=============================================================================
-    var _Window_SkillList_refresh      = Window_SkillList.prototype.refresh;
-    Window_SkillList.prototype.refresh = function() {
+    var _Window_SkillList_refresh = Window_SkillList.prototype.refresh;
+    Window_SkillList.prototype.refresh = function () {
         _Window_SkillList_refresh.apply(this, arguments);
         this.refreshBust();
     };
 
-    Window_SkillList.prototype.getBustPosition = function() {
+    Window_SkillList.prototype.getBustPosition = function () {
         return [paramSkillBustImageX, paramSkillBustImageY];
     };
 
@@ -676,14 +676,14 @@
     // Scene_Equip
     //  装備変更時にバストイメージを更新します。
     //=============================================================================
-    var _Scene_Equip_commandOptimize      = Scene_Equip.prototype.commandOptimize;
-    Scene_Equip.prototype.commandOptimize = function() {
+    var _Scene_Equip_commandOptimize = Scene_Equip.prototype.commandOptimize;
+    Scene_Equip.prototype.commandOptimize = function () {
         _Scene_Equip_commandOptimize.apply(this, arguments);
         this._itemWindow.refreshBust();
     };
 
-    var _Scene_Equip_commandClear      = Scene_Equip.prototype.commandClear;
-    Scene_Equip.prototype.commandClear = function() {
+    var _Scene_Equip_commandClear = Scene_Equip.prototype.commandClear;
+    Scene_Equip.prototype.commandClear = function () {
         _Scene_Equip_commandClear.apply(this, arguments);
         this._itemWindow.refreshBust();
     };
@@ -698,20 +698,20 @@
     Sprite_Bust._anchorListX = [0.0, 0.5, 0.5];
     Sprite_Bust._anchorListY = [0.0, 0.5, 1.0];
 
-    Sprite_Bust.prototype             = Object.create(Sprite_Base.prototype);
+    Sprite_Bust.prototype = Object.create(Sprite_Base.prototype);
     Sprite_Bust.prototype.constructor = Sprite_Bust;
 
-    Sprite_Bust.prototype.initialize = function() {
+    Sprite_Bust.prototype.initialize = function () {
         Sprite_Base.prototype.initialize.call(this);
-        this.anchor.x         = Sprite_Bust._anchorListX[paramBaseImageOrigin];
-        this.anchor.y         = Sprite_Bust._anchorListY[paramBaseImageOrigin];
-        this._actor           = null;
-        this._equipSprites    = [];
+        this.anchor.x = Sprite_Bust._anchorListX[paramBaseImageOrigin];
+        this.anchor.y = Sprite_Bust._anchorListY[paramBaseImageOrigin];
+        this._actor = null;
+        this._equipSprites = [];
         this._additonalSprite = [];
-        this.z                = 0;
+        this.z = 0;
     };
 
-    Sprite_Bust.prototype.refresh = function(actor) {
+    Sprite_Bust.prototype.refresh = function (actor) {
         this._actor = actor;
         this.drawMain();
         this.drawAdditions();
@@ -719,31 +719,31 @@
         this.drawAnimation();
     };
 
-    Sprite_Bust.prototype.drawMain = function() {
+    Sprite_Bust.prototype.drawMain = function () {
         var fileName = this._actor.getBustImageName();
-        this.bitmap  = (fileName ? ImageManager.loadPicture(getArgString(fileName), 0) : null);
-        var rect     = this._actor.getBustImageRect();
+        this.bitmap = (fileName ? ImageManager.loadPicture(getArgString(fileName), 0) : null);
+        var rect = this._actor.getBustImageRect();
         if (rect) {
             this.setFrame(rect.x, rect.y, rect.width, rect.height);
         }
     };
 
-    Sprite_Bust.prototype.drawAdditions = function() {
+    Sprite_Bust.prototype.drawAdditions = function () {
         this.clearAdditions();
         var additionalList = this._actor.getAdditionalBustImageList();
-        additionalList.forEach(function(additionalImage) {
+        additionalList.forEach(function (additionalImage) {
             this.makeAdditionSprite(additionalImage);
         }, this);
     };
 
-    Sprite_Bust.prototype.clearAdditions = function() {
-        this._additonalSprite.forEach(function(sprite) {
+    Sprite_Bust.prototype.clearAdditions = function () {
+        this._additonalSprite.forEach(function (sprite) {
             this.parent.removeChild(sprite);
         }.bind(this));
         this._additonalSprite = [];
     };
 
-    Sprite_Bust.prototype.drawAnimation = function() {
+    Sprite_Bust.prototype.drawAnimation = function () {
         var animationId = this._actor.getBustAnimationId();
         if (this._animationId === animationId && this.isAnyAnimationExist()) return;
         this._animationId = animationId;
@@ -755,26 +755,26 @@
         }
     };
 
-    Sprite_Bust.prototype.drawEquips = function() {
+    Sprite_Bust.prototype.drawEquips = function () {
         this.clearEquips();
-        this._actor.equips().forEach(function(equip) {
+        this._actor.equips().forEach(function (equip) {
             if (equip) this.makeEquipSprite(equip);
         }.bind(this));
         this.sortEquips();
     };
 
-    Sprite_Bust.prototype.clearEquips = function() {
-        this._equipSprites.forEach(function(sprite) {
+    Sprite_Bust.prototype.clearEquips = function () {
+        this._equipSprites.forEach(function (sprite) {
             this.parent.removeChild(sprite);
         }.bind(this));
         this._equipSprites = [];
     };
 
-    Sprite_Bust.prototype.sortEquips = function() {
+    Sprite_Bust.prototype.sortEquips = function () {
         this.parent.children.sort(this._compareChildOrder.bind(this));
     };
 
-    Sprite_Bust.prototype._compareChildOrder = function(a, b) {
+    Sprite_Bust.prototype._compareChildOrder = function (a, b) {
         if (a.z !== b.z) {
             return a.z - b.z;
         } else if (a.y !== b.y) {
@@ -784,20 +784,20 @@
         }
     };
 
-    Sprite_Bust.prototype.makeEquipSprite = function(equip) {
+    Sprite_Bust.prototype.makeEquipSprite = function (equip) {
         var itemFileName = getMetaValues(equip, ['画像', 'Image']);
         if (itemFileName) {
-            var sprite      = new Sprite();
+            var sprite = new Sprite();
             sprite.anchor.x = Sprite_Bust._anchorListX[paramAddImageOrigin];
             sprite.anchor.y = Sprite_Bust._anchorListY[paramAddImageOrigin];
-            sprite.bitmap   = ImageManager.loadPicture(getArgString(itemFileName), 0);
-            var xStr        = getMetaValues(equip, ['PosX', '座標X']);
-            sprite.x        = this.x + (xStr ? getArgNumber(xStr) : 0);
-            var yStr        = getMetaValues(equip, ['PosY', '座標Y']);
-            sprite.y        = this.y + (yStr ? getArgNumber(yStr) : 0);
-            var zStr        = getMetaValues(equip, ['PosZ', '座標Z']);
-            sprite.z        = zStr !== undefined ? getArgNumber(zStr) : 1;
-            var rectString  = getMetaValues(equip, ['矩形', 'Rect']);
+            sprite.bitmap = ImageManager.loadPicture(getArgString(itemFileName), 0);
+            var xStr = getMetaValues(equip, ['PosX', '座標X']);
+            sprite.x = this.x + (xStr ? getArgNumber(xStr) : 0);
+            var yStr = getMetaValues(equip, ['PosY', '座標Y']);
+            sprite.y = this.y + (yStr ? getArgNumber(yStr) : 0);
+            var zStr = getMetaValues(equip, ['PosZ', '座標Z']);
+            sprite.z = zStr !== undefined ? getArgNumber(zStr) : 1;
+            var rectString = getMetaValues(equip, ['矩形', 'Rect']);
             if (rectString) {
                 var rect = getArgArrayEval(rectString, 0);
                 sprite.setFrame(rect[0], rect[1], rect[2], rect[3]);
@@ -807,42 +807,42 @@
         }
     };
 
-    Sprite_Bust.prototype.makeAdditionSprite = function(image) {
+    Sprite_Bust.prototype.makeAdditionSprite = function (image) {
         if (image.cond && !eval(image.cond)) {
             return;
         }
-        var sprite      = new Sprite();
+        var sprite = new Sprite();
         sprite.anchor.x = Sprite_Bust._anchorListX[paramAddImageOrigin];
         sprite.anchor.y = Sprite_Bust._anchorListY[paramAddImageOrigin];
-        sprite.bitmap   = ImageManager.loadPicture(image.fileName);
-        sprite.x        = this.x + image.x;
-        sprite.y        = this.y + image.y;
+        sprite.bitmap = ImageManager.loadPicture(image.fileName);
+        sprite.x = this.x + image.x;
+        sprite.y = this.y + image.y;
         this.parent.addChild(sprite);
         this._additonalSprite.push(sprite);
     };
 
-    Sprite_Bust.prototype.startAnimation = function() {
+    Sprite_Bust.prototype.startAnimation = function () {
         Sprite_Base.prototype.startAnimation.call(this, $dataAnimations[this._animationId], false, 0);
     };
 
-    Sprite_Bust.prototype.update = function() {
+    Sprite_Bust.prototype.update = function () {
         Sprite_Base.prototype.update.call(this);
         if (this.isNeedAnimation()) this.updateAnimation();
     };
 
-    Sprite_Bust.prototype.updateAnimation = function() {
+    Sprite_Bust.prototype.updateAnimation = function () {
         if (!this.isAnyAnimationExist()) {
             this.startAnimation();
         }
     };
 
-    Sprite_Bust.prototype.isNeedAnimation = function() {
+    Sprite_Bust.prototype.isNeedAnimation = function () {
         return this._animationId > 0;
     };
 
-    Sprite_Bust.prototype.isAnyAnimationExist = function() {
+    Sprite_Bust.prototype.isAnyAnimationExist = function () {
         if (this.isAnimationPlaying()) {
-            return this._animationSprites.some(function(sprite) {
+            return this._animationSprites.some(function (sprite) {
                 return sprite.isPlaying();
             });
         } else {
@@ -850,9 +850,9 @@
         }
     };
 
-    Sprite_Base.prototype.stopAnimation = function() {
+    Sprite_Base.prototype.stopAnimation = function () {
         if (this._animationSprites.length > 0) {
-            this._animationSprites.forEach(function(animation) {
+            this._animationSprites.forEach(function (animation) {
                 animation.remove();
             });
         }

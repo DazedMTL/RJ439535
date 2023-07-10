@@ -93,11 +93,11 @@
  *  このプラグインはもうあなたのものです。
  */
 
-(function() {
+(function () {
     'use strict';
     var pluginName = 'ThroughFailedToLoad';
 
-    var getParamOther = function(paramNames) {
+    var getParamOther = function (paramNames) {
         if (!Array.isArray(paramNames)) paramNames = [paramNames];
         for (var i = 0; i < paramNames.length; i++) {
             var name = PluginManager.parameters(pluginName)[paramNames[i]];
@@ -106,12 +106,12 @@
         return null;
     };
 
-    var getParamBoolean = function(paramNames) {
+    var getParamBoolean = function (paramNames) {
         var value = (getParamOther(paramNames) || '').toUpperCase();
         return value === 'ON' || value === 'TRUE';
     };
 
-    var getParamNumber = function(paramNames, min, max) {
+    var getParamNumber = function (paramNames, min, max) {
         var value = getParamOther(paramNames);
         if (arguments.length < 2) min = -Infinity;
         if (arguments.length < 3) max = Infinity;
@@ -122,8 +122,8 @@
     // パラメータの取得と整形
     //=============================================================================
     var paramInvalidIfTest = getParamBoolean(['InvalidIfTest', 'テストプレー時無効']);
-    var paramInvalidIfWeb  = getParamBoolean(['InvalidIfWeb', 'Web版で無効']);
-    var paramThroughType   = getParamNumber(['ThroughType', '無視種別'], 1, 3);
+    var paramInvalidIfWeb = getParamBoolean(['InvalidIfWeb', 'Web版で無効']);
+    var paramThroughType = getParamNumber(['ThroughType', '無視種別'], 1, 3);
 
     //=============================================================================
     // プラグイン無効条件の判定
@@ -140,7 +140,7 @@
         //  エラー発生用のフラグをキャンセルします。
         //=============================================================================
         var _Bitmap_isReady = Bitmap.prototype.isReady;
-        Bitmap.prototype.isReady = function() {
+        Bitmap.prototype.isReady = function () {
             if (this.isError()) {
                 this.eraseError();
             }
@@ -148,16 +148,16 @@
         };
 
         var _Bitmap_decode = Bitmap.prototype.decode;
-        Bitmap.prototype.decode = function(){
+        Bitmap.prototype.decode = function () {
             _Bitmap_decode.apply(this, arguments);
             if (this._loadingState === 'requesting') {
                 this._image.addEventListener('error', this._onError.bind(this));
             }
         };
 
-        Bitmap.prototype.eraseError = function() {
-            this._hasError     = false;
-            this._isLoading    = false;
+        Bitmap.prototype.eraseError = function () {
+            this._hasError = false;
+            this._isLoading = false;
             this._loadingState = 'loaded';
         };
 
@@ -166,7 +166,7 @@
         //  エラーイベントを登録します。
         //=============================================================================
         var _Graphics__playVideo = Graphics._playVideo;
-        Graphics._playVideo      = function(src) {
+        Graphics._playVideo = function (src) {
             _Graphics__playVideo.apply(this, arguments);
             this._video.onerror = this._videoLoader || this._onVideoError.bind(this);
         };
@@ -177,7 +177,7 @@
         // AudioManager
         //  エラーチェック処理を無視します。
         //=============================================================================
-        AudioManager.checkErrors = function() {};
+        AudioManager.checkErrors = function () { };
     }
 
     if (typeof ResourceHandler !== 'undefined') {
@@ -186,11 +186,11 @@
         //  リトライ機能の仕様を変更します。
         //=============================================================================
         var _ResourceHandler_createLoader = ResourceHandler.createLoader;
-        ResourceHandler.createLoader = function(url, retryMethod, resignMethod, retryInterval) {
+        ResourceHandler.createLoader = function (url, retryMethod, resignMethod, retryInterval) {
             return this.isNeedLoader(url) ? _ResourceHandler_createLoader.apply(this, arguments) : null;
         };
 
-        ResourceHandler.isNeedLoader = function(url) {
+        ResourceHandler.isNeedLoader = function (url) {
             if (paramThroughType === 1 && !url.match(/^audio\//)) {
                 return true;
             } else if (paramThroughType === 2 && (!url.match(/^img\//) && !url.match(/^movie\//))) {

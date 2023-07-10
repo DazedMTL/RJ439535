@@ -129,15 +129,15 @@
 
 (() => {
 	'use strict';
-	
+
 	// This Plugin Name
 	const pluginName = decodeURIComponent(document.currentScript.src).match(/([^\/]+)\.js$/)[1];
-	
+
 	// Parameters
 	const parameters = PluginManager.parameters(pluginName);
 	const KeyList = JSON.parse(parameters['KeyList']) || [];
 	const ColorList = JSON.parse(parameters['ColorList']) || [];
-	
+
 	// Key String for RegExp and [Key => Color] Map
 	let keyString = '';
 	let keyMap = new Map();
@@ -150,31 +150,31 @@
 			keyMap.set(k, c);
 		}
 	}
-	
+
 	// RegExp Object
 	const keyRegExp = new RegExp("<([" + keyString + "])(.+?)>", "ig");
-	
-	
+
+
 	//--------------------------------------------------
 	// Window_Base.convertEscapeCharacters
 	//  [Additional Definition]
 	//--------------------------------------------------
 	const _Window_Base_convertEscapeCharacters = Window_Base.prototype.convertEscapeCharacters;
-	Window_Base.prototype.convertEscapeCharacters = function(text) {
-		
+	Window_Base.prototype.convertEscapeCharacters = function (text) {
+
 		// Convert Keyword String to Color
-		text = text.replace(keyRegExp, function() {
+		text = text.replace(keyRegExp, function () {
 			let k = arguments[1].toUpperCase();
 			let c = keyMap.get(k) || 0;
 			return "\\C[" + c + "]" + arguments[2] + "\\C[0]";
 		}.bind(this));
-		
+
 		// Original Processing
 		text = _Window_Base_convertEscapeCharacters.call(this, text);
-		
+
 		return text;
-		
+
 	};
-	
+
 })();
 

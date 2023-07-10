@@ -28,7 +28,7 @@
  * 利用規約
  * パブリックドメインです。ご自由にお使い下さい。
  */
-(function() {
+(function () {
 
   'use strict';
   const inParams = PluginManager.parameters("SetChoiceListOffset");
@@ -39,7 +39,7 @@
   // Window_ChoiceList
   //
   const _Window_ChoiseList_updatePlacement = Window_ChoiceList.prototype.updatePlacement;
-  Window_ChoiceList.prototype.updatePlacement = function() {
+  Window_ChoiceList.prototype.updatePlacement = function () {
     _Window_ChoiseList_updatePlacement.call(this);
     this.x += offsetX;
     this.y += offsetY;

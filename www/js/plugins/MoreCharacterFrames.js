@@ -42,14 +42,14 @@
  */
 
 
-(function() {
+(function () {
 
-  ImageManager.isMultiFrameCharacter = function(filename) {
+  ImageManager.isMultiFrameCharacter = function (filename) {
     var frames = filename.match(/\[(\d+)\s+(\d+)\s+(\d+)\s+(\d+)\]/);
     return frames && frames.length === 5;
   };
 
-  ImageManager.getCharacterFrameCount = function(filename) {
+  ImageManager.getCharacterFrameCount = function (filename) {
     var frames = filename.match(/\[(\d+)\s+(\d+)\s+(\d+)\s+(\d+)\]/);
     if (!frames) {
       return [3, 3, 3, 3];
@@ -59,14 +59,14 @@
   };
 
   var _Game_CharacterBase_initMembers = Game_CharacterBase.prototype.initMembers;
-  Game_CharacterBase.initMembers = function() {
+  Game_CharacterBase.initMembers = function () {
     _Game_CharacterBase_initMembers.call(this);
     this._isMultiFrame = false;
     this._frames = [3, 3, 3, 3];
   };
 
   var _Game_CharacterBase_maxPattern = Game_CharacterBase.prototype.maxPattern;
-  Game_CharacterBase.prototype.maxPattern = function() {
+  Game_CharacterBase.prototype.maxPattern = function () {
     if (!this._isMultiFrame) {
       return _Game_CharacterBase_maxPattern.call(this);
     } else {
@@ -75,7 +75,7 @@
   };
 
   var _Game_CharacterBase_pattern = Game_CharacterBase.prototype.pattern;
-  Game_CharacterBase.prototype.pattern = function() {
+  Game_CharacterBase.prototype.pattern = function () {
     if (!this._isMultiFrame) {
       return _Game_CharacterBase_pattern.call(this);
     } else {
@@ -84,7 +84,7 @@
   };
 
   var _Game_CharacterBase_isOriginalPattern = Game_CharacterBase.prototype.isOriginalPattern;
-  Game_CharacterBase.prototype.isOriginalPattern = function() {
+  Game_CharacterBase.prototype.isOriginalPattern = function () {
     if (!this._isMultiFrame) {
       return _Game_CharacterBase_isOriginalPattern.call(this);
     } else {
@@ -93,7 +93,7 @@
   };
 
   var _Game_CharacterBase_resetPattern = Game_CharacterBase.prototype.resetPattern;
-  Game_CharacterBase.prototype.resetPattern = function() {
+  Game_CharacterBase.prototype.resetPattern = function () {
     if (!this._isMultiFrame) {
       _Game_CharacterBase_resetPattern.call(this);
     } else {
@@ -102,29 +102,29 @@
   };
 
   var _Game_CharacterBase_setImage = Game_CharacterBase.prototype.setImage;
-  Game_CharacterBase.prototype.setImage = function(characterName, characterIndex) {
+  Game_CharacterBase.prototype.setImage = function (characterName, characterIndex) {
     _Game_CharacterBase_setImage.call(this, characterName, characterIndex);
     this._isMultiFrame = ImageManager.isMultiFrameCharacter(characterName);
     this._frames = ImageManager.getCharacterFrameCount(characterName);
   };
 
   var _Game_CharacterBase_setTileImage = Game_CharacterBase.prototype.setTileImage;
-  Game_CharacterBase.prototype.setTileImage = function(tileId) {
+  Game_CharacterBase.prototype.setTileImage = function (tileId) {
     _Game_CharacterBase_setTileImage.call(this, tileId);
     this._isMultiFrame = false;
     this._frames = [3, 3, 3, 3];
   };
 
-  Game_CharacterBase.prototype.isMultiFrame = function() {
+  Game_CharacterBase.prototype.isMultiFrame = function () {
     return this._isMultiFrame;
   };
 
-  Game_CharacterBase.prototype.getDirectionFrames = function() {
+  Game_CharacterBase.prototype.getDirectionFrames = function () {
     return this._frames[this._direction / 2 - 1];
   };
 
   var _Game_Event_initMembers = Game_Event.prototype.initMembers;
-  Game_Event.prototype.initMembers = function() {
+  Game_Event.prototype.initMembers = function () {
     _Game_Event_initMembers.call(this);
     if (this._isMultiFrame) {
       this._originalPattern = 0;
@@ -132,7 +132,7 @@
   };
 
   var _Sprite_Character_patternWidth = Sprite_Character.prototype.patternWidth;
-  Sprite_Character.prototype.patternWidth = function() {
+  Sprite_Character.prototype.patternWidth = function () {
     if (!this._character.isMultiFrame()) {
       return _Sprite_Character_patternWidth.call(this);
     } else {

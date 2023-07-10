@@ -89,31 +89,31 @@
  * それ以外の制限はありません。お好きなようにどうぞ。
  */
 
-(function() {
+(function () {
 	'use strict';
 	function removeEscape(string) {
-		return +string.replace(/\\S\[(\d+)\]/gi, function() {
+		return +string.replace(/\\S\[(\d+)\]/gi, function () {
 			return arguments[1];
-		}).replace(/\\V\[(\d+)\]/gi, function() {
+		}).replace(/\\V\[(\d+)\]/gi, function () {
 			return arguments[1];
 		});
 	}
 
 	function toNumber(string) {
-		return +string.replace(/\\V\[(\d+)\]/gi, function() {
+		return +string.replace(/\\V\[(\d+)\]/gi, function () {
 			return $gameVariables.value(parseInt(arguments[1]));
 		});
 	}
 
 	function canHappen(timeEvent) {
-		var condition = timeEvent.condition.replace(/\\S\[(\d+)\]/gi, function() {
+		var condition = timeEvent.condition.replace(/\\S\[(\d+)\]/gi, function () {
 			return $gameSwitches.value(parseInt(arguments[1]));
-		}).replace(/\\V\[(\d+)\]/gi, function() {
+		}).replace(/\\V\[(\d+)\]/gi, function () {
 			return $gameVariables.value(parseInt(arguments[1]));
 		});
-		var condition2 = timeEvent.condition2.replace(/\\S\[(\d+)\]/gi, function() {
+		var condition2 = timeEvent.condition2.replace(/\\S\[(\d+)\]/gi, function () {
 			return $gameSwitches.value(parseInt(arguments[1]));
-		}).replace(/\\V\[(\d+)\]/gi, function() {
+		}).replace(/\\V\[(\d+)\]/gi, function () {
 			return $gameVariables.value(parseInt(arguments[1]));
 		});
 		return Math.random() < timeEvent.rate && eval(condition) && eval(condition2);
@@ -123,13 +123,13 @@
 		return timeEvent.command.slice(-5) === 'every';
 	}
 
-	Game_System.prototype.addTimeEvent = function(args) {
-		this._timeEvents = (this._timeEvents || []).filter(function(timeEvent) {return !!timeEvent;});
+	Game_System.prototype.addTimeEvent = function (args) {
+		this._timeEvents = (this._timeEvents || []).filter(function (timeEvent) { return !!timeEvent; });
 		var command = args[0].toLowerCase();
-		var timeEvent = {command: command, minutes: parseFloat(args[1]), rate: parseFloat(args[2]) / 100, target: args[3]};
+		var timeEvent = { command: command, minutes: parseFloat(args[1]), rate: parseFloat(args[2]) / 100, target: args[3] };
 		switch (command) {
 			case 'everystop':
-				this._timeEvents.forEach(function(timeEvent, index, timeEvents) {
+				this._timeEvents.forEach(function (timeEvent, index, timeEvents) {
 					if (isEvery(timeEvent)) delete timeEvents[index];
 				});
 				return;
@@ -142,7 +142,7 @@
 			case 'reset':
 			case 'alloff':
 				args.shift();
-				timeEvent = {command: command, list: args};
+				timeEvent = { command: command, list: args };
 				break;
 			default:
 				timeEvent.condition = args[4] || 'true';
@@ -154,8 +154,8 @@
 		this._timeEvents.push(timeEvent);
 	};
 
-	Game_System.prototype.executeTimeEvents = function() {
-		if (this._timeEvents) this._timeEvents.forEach(function(timeEvent, index, timeEvents) {
+	Game_System.prototype.executeTimeEvents = function () {
+		if (this._timeEvents) this._timeEvents.forEach(function (timeEvent, index, timeEvents) {
 			if (!(timeEvent && timeEvent.time + timeEvent.minutes * 60 * 1000 < (window.getServerTime ? window.getServerTime() : Date.now()))) return;
 			var target = removeEscape(timeEvent.target);
 			if (canHappen(timeEvent)) switch (isEvery(timeEvent) ? timeEvent.command.slice(0, -5) : timeEvent.command) {
@@ -189,17 +189,17 @@
 	};
 
 	var _Game_System_onAfterLoad = Game_System.prototype.onAfterLoad;
-	Game_System.prototype.onAfterLoad = function() {
+	Game_System.prototype.onAfterLoad = function () {
 		_Game_System_onAfterLoad.apply(this, arguments);
-		if (this._timeEvents) this._timeEvents.forEach(function(timeEvent, index, timeEvents) {
+		if (this._timeEvents) this._timeEvents.forEach(function (timeEvent, index, timeEvents) {
 			if (timeEvent && timeEvent.command === 'reset') {
-				timeEvent.list.forEach(function(variableId) {
+				timeEvent.list.forEach(function (variableId) {
 					$gameVariables.setValue(removeEscape(variableId), 0);
 				});
 				delete timeEvents[index];
 			}
 			if (timeEvent && timeEvent.command === 'alloff') {
-				timeEvent.list.forEach(function(switchId) {
+				timeEvent.list.forEach(function (switchId) {
 					$gameSwitches.setValue(removeEscape(switchId), false);
 				});
 				delete timeEvents[index];
@@ -208,30 +208,30 @@
 	};
 
 	var _Game_Temp_initialize = Game_Temp.prototype.initialize;
-	Game_Temp.prototype.initialize = function() {
+	Game_Temp.prototype.initialize = function () {
 		_Game_Temp_initialize.apply(this, arguments);
 		this._commonEventQueue = [];
 	};
 
-	Game_Temp.prototype.enqueueCommonEvent = function(commonEventId) {
+	Game_Temp.prototype.enqueueCommonEvent = function (commonEventId) {
 		this._commonEventQueue.push(commonEventId);
 	};
 
-	Game_Temp.prototype.updateCommonEventQueue = function() {
+	Game_Temp.prototype.updateCommonEventQueue = function () {
 		if (this._commonEventQueue.length !== 0 && !this.isCommonEventReserved()) {
 			this.reserveCommonEvent(this._commonEventQueue.shift());
 		}
 	};
 
 	var _Scene_Map_update = Scene_Map.prototype.update;
-	Scene_Map.prototype.update = function() {
+	Scene_Map.prototype.update = function () {
 		$gameSystem.executeTimeEvents();
 		$gameTemp.updateCommonEventQueue();
 		_Scene_Map_update.apply(this, arguments);
 	};
 
 	var _Game_Interpreter_pluginCommand = Game_Interpreter.prototype.pluginCommand;
-	Game_Interpreter.prototype.pluginCommand = function(command, args) {
+	Game_Interpreter.prototype.pluginCommand = function (command, args) {
 		_Game_Interpreter_pluginCommand.apply(this, arguments);
 		if (command.toLowerCase() === 'timeevent') {
 			$gameSystem.addTimeEvent(args);

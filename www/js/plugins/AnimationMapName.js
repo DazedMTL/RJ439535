@@ -173,7 +173,7 @@ Imported['AnimationMapName'] = 1.03;
 
 ////////////////////////////////////////////////////////////////////////////////////
 
-(function() {
+(function () {
     var parameters = PluginManager.parameters('AnimationMapName');
     var patternVariableId = Number(parameters['Pattern Variable ID']) || 0;
     var animeFontSize = Number(parameters['Anime Font Size'] || 28);
@@ -189,7 +189,7 @@ Imported['AnimationMapName'] = 1.03;
     ////////////////////////////////////////////////////////////////////////////////////
 
     var __GInterpreter_pluginCommand = Game_Interpreter.prototype.pluginCommand;
-    Game_Interpreter.prototype.pluginCommand = function(command, args) {
+    Game_Interpreter.prototype.pluginCommand = function (command, args) {
         __GInterpreter_pluginCommand.call(this, command, args);
         if (command === 'AnimationMapName' || command === 'アニメーションマップネーム') {
             var code = args.shift();
@@ -198,15 +198,15 @@ Imported['AnimationMapName'] = 1.03;
         }
     };
 
-    Game_Interpreter.prototype.setAmsSetting = function(args) {
+    Game_Interpreter.prototype.setAmsSetting = function (args) {
         var params = $gameSystem.amnParameters();
-        var amnParams = DataManager.makeAmnParams(params,args);
-        if (patternVariableId){
-            if (amnParams.pattern === 'Normal' || amnParams.pattern == 0){
+        var amnParams = DataManager.makeAmnParams(params, args);
+        if (patternVariableId) {
+            if (amnParams.pattern === 'Normal' || amnParams.pattern == 0) {
                 $gameVariables._data[patternVariableId] = 0;
-            } else if (amnParams.pattern === 'Stretch' || amnParams.pattern == -1){
+            } else if (amnParams.pattern === 'Stretch' || amnParams.pattern == -1) {
                 $gameVariables._data[patternVariableId] = -1;
-            } else if (amnParams.pattern === 'GrowUp' || amnParams.pattern == -2){
+            } else if (amnParams.pattern === 'GrowUp' || amnParams.pattern == -2) {
                 $gameVariables._data[patternVariableId] = -2;
             } else {
                 $gameVariables._data[patternVariableId] = Number(amnParams.pattern);
@@ -217,32 +217,32 @@ Imported['AnimationMapName'] = 1.03;
 
     ////////////////////////////////////////////////////////////////////////////////////
 
-    DataManager.amnMapParams = function(map) {
+    DataManager.amnMapParams = function (map) {
         if (!map) return false;
-        if (map._amsParams){ return map._amsParams }
+        if (map._amsParams) { return map._amsParams }
         var texts = map.note.split('\n');
         var params = {};
-        for (var i=0,max=texts.length;i<max;i++) {
-            if (/^<(?:AnimationMapNameSetting|アニメーションマップネーム設定)>/.exec(texts[i])){
-                for (var j=i;j<max;j++){
+        for (var i = 0, max = texts.length; i < max; i++) {
+            if (/^<(?:AnimationMapNameSetting|アニメーションマップネーム設定)>/.exec(texts[i])) {
+                for (var j = i; j < max; j++) {
                     if (/^<\/(?:AnimationMapNameSetting|アニメーションマップネーム設定)>/.exec(texts[j])) {
-                        i=j;
+                        i = j;
                         break;
                     } else {
-                        if (/(.+?):(.+)?/.exec(texts[j])){
+                        if (/(.+?):(.+)?/.exec(texts[j])) {
                             var code = RegExp.$1;
                             var value = RegExp.$2;
-                            switch(code) {
-                                case 'size':    params.size = Number(value) ; break;
-                                case 'count':   params.count = Number(value);break;
-                                case 'ox':      params.ox = Number(value)   ;break;
-                                case 'oy':      params.oy = Number(value)   ;break;
-                                case 'mx':      params.mx = Number(value)   ;break;
-                                case 'my':      params.my = Number(value)   ;break;
-                                case 'pattern': params.pattern = value      ;break;
-                                case 'color':   params.color = value        ;break;
-                                case 'picture': params.picture = value      ;break;
-                                case 'text':    params.text = value         ;break;
+                            switch (code) {
+                                case 'size': params.size = Number(value); break;
+                                case 'count': params.count = Number(value); break;
+                                case 'ox': params.ox = Number(value); break;
+                                case 'oy': params.oy = Number(value); break;
+                                case 'mx': params.mx = Number(value); break;
+                                case 'my': params.my = Number(value); break;
+                                case 'pattern': params.pattern = value; break;
+                                case 'color': params.color = value; break;
+                                case 'picture': params.picture = value; break;
+                                case 'text': params.text = value; break;
                             }
                         }
                     }
@@ -253,26 +253,28 @@ Imported['AnimationMapName'] = 1.03;
         return map._amsParams;
     };
 
-    DataManager.makeAmnParams = function(params,args) {
-        var amnParams = { size:params.size, count:params.count,
-            ox:params.ox, oy:params.oy, mx:params.mx, my:params.my,
-            pattern:params.pattern, color:params.color, picture:params.picture,
-            text:params.text };
-        args.forEach(function(a){
-            if (/(.+?):(.+)?/.exec(a)){
+    DataManager.makeAmnParams = function (params, args) {
+        var amnParams = {
+            size: params.size, count: params.count,
+            ox: params.ox, oy: params.oy, mx: params.mx, my: params.my,
+            pattern: params.pattern, color: params.color, picture: params.picture,
+            text: params.text
+        };
+        args.forEach(function (a) {
+            if (/(.+?):(.+)?/.exec(a)) {
                 var code = RegExp.$1;
                 var value = RegExp.$2;
-                switch(code){
-                    case 'size':   amnParams.size = Number(value);  break;
-                    case 'count':  amnParams.count = Number(value); break;
-                    case 'ox':     amnParams.ox = Number(value);    break;
-                    case 'oy':     amnParams.oy = Number(value);    break;
-                    case 'mx':     amnParams.mx = Number(value);    break;
-                    case 'my':     amnParams.my = Number(value);    break;
-                    case 'pattern':amnParams.pattern = value;       break;
-                    case 'color':  amnParams.color = value;         break;
-                    case 'picture':amnParams.picture = value;       break;
-                    case 'text':   amnParams.text = value;          break;
+                switch (code) {
+                    case 'size': amnParams.size = Number(value); break;
+                    case 'count': amnParams.count = Number(value); break;
+                    case 'ox': amnParams.ox = Number(value); break;
+                    case 'oy': amnParams.oy = Number(value); break;
+                    case 'mx': amnParams.mx = Number(value); break;
+                    case 'my': amnParams.my = Number(value); break;
+                    case 'pattern': amnParams.pattern = value; break;
+                    case 'color': amnParams.color = value; break;
+                    case 'picture': amnParams.picture = value; break;
+                    case 'text': amnParams.text = value; break;
                 }
             }
         }.bind(this));
@@ -281,44 +283,48 @@ Imported['AnimationMapName'] = 1.03;
 
     ////////////////////////////////////////////////////////////////////////////////////
 
-    Game_System.prototype.amnParameters = function() {
+    Game_System.prototype.amnParameters = function () {
         if (!this._amnParameters) this.initAmnParameters();
-        if (patternVariableId){
+        if (patternVariableId) {
             this._amnParameters.pattern = $gameVariables.value(patternVariableId);
         }
         var params = DataManager.amnMapParams($dataMap);
-        var amnParams = { size:this._amnParameters.size, count:this._amnParameters.count,
-                          ox:this._amnParameters.ox, oy:this._amnParameters.oy,
-                          mx:this._amnParameters.mx, my:this._amnParameters.my,
-                          pattern:this._amnParameters.pattern, color:this._amnParameters.color,
-                          picture:this._amnParameters.picture };
+        var amnParams = {
+            size: this._amnParameters.size, count: this._amnParameters.count,
+            ox: this._amnParameters.ox, oy: this._amnParameters.oy,
+            mx: this._amnParameters.mx, my: this._amnParameters.my,
+            pattern: this._amnParameters.pattern, color: this._amnParameters.color,
+            picture: this._amnParameters.picture
+        };
         for (var key in params) { amnParams[key] = params[key] }
         return amnParams;
     };
 
-    Game_System.prototype.initAmnParameters = function() {
-        this._amnParameters = { size:animeFontSize, count:animeCount, ox:animeOriginalX,
-                                oy:animeOriginalY, mx:animeMoveX, my:animeMoveY,
-                                pattern:animePattern, color:fillRectColor, picture:backPicture,
-                                text:''};
-        if (patternVariableId){
+    Game_System.prototype.initAmnParameters = function () {
+        this._amnParameters = {
+            size: animeFontSize, count: animeCount, ox: animeOriginalX,
+            oy: animeOriginalY, mx: animeMoveX, my: animeMoveY,
+            pattern: animePattern, color: fillRectColor, picture: backPicture,
+            text: ''
+        };
+        if (patternVariableId) {
             var pattern = this._amnParameters.pattern;
-            if (pattern === 'Normal'  || pattern === 0)  $gameVariables._data[patternVariableId] = 0;
+            if (pattern === 'Normal' || pattern === 0) $gameVariables._data[patternVariableId] = 0;
             if (pattern === 'Stretch' || pattern === -1) $gameVariables._data[patternVariableId] = -1;
-            if (pattern === 'GrowUp'  || pattern === -2) $gameVariables._data[patternVariableId] = -2;
+            if (pattern === 'GrowUp' || pattern === -2) $gameVariables._data[patternVariableId] = -2;
         }
     };
-    
-    Game_System.prototype.setAmnParameters = function(params) {
+
+    Game_System.prototype.setAmnParameters = function (params) {
         this._amnParameters = params;
     };
 
     ////////////////////////////////////////////////////////////////////////////////////
-    
+
     var __GInterpreter_update = Game_Interpreter.prototype.update;
-    Game_Interpreter.prototype.update = function() {
+    Game_Interpreter.prototype.update = function () {
         __GInterpreter_update.call(this);
-        if (this._refreshAmn){
+        if (this._refreshAmn) {
             if (ImageManager.isReady()) {
                 this.refreshMapName(this._amnParams);
                 this._refreshAmn = false;
@@ -326,9 +332,9 @@ Imported['AnimationMapName'] = 1.03;
             }
         }
     };
-    
-    Game_Interpreter.prototype.animationMapName = function(params) {
-        if(params.picture){
+
+    Game_Interpreter.prototype.animationMapName = function (params) {
+        if (params.picture) {
             ImageManager.loadPicture(params.picture);
             this._refreshAmn = true;
             this._amnParams = params;
@@ -337,7 +343,7 @@ Imported['AnimationMapName'] = 1.03;
         }
     };
 
-    Game_Interpreter.prototype.refreshMapName = function(params) {
+    Game_Interpreter.prototype.refreshMapName = function (params) {
         var text = (params.text ? params.text : $gameMap.displayName()) || '';
         var array = CommonPopupManager.window().convertEscapeCharacters(text).split("");
         var a2 = [];
@@ -353,11 +359,11 @@ Imported['AnimationMapName'] = 1.03;
         var afs = params.size + 8;
         var supY = 0;
         if (params.pattern === 'GrowUp' || params.pattern == -2) supY = afs;
-        for(var i=0,max=array.length;i<max;i++){
+        for (var i = 0, max = array.length; i < max; i++) {
             if (array[i] === '\x1b') {
                 var cnt = a2.length;
                 a2[cnt] = array[i];
-                for (var j=i;j<max;j++){
+                for (var j = i; j < max; j++) {
                     if (array[j] === ']') {
                         a2[cnt] += ']';
                         //a2[i] = a2[i].replace(/\x1b/,'\\');
@@ -365,7 +371,7 @@ Imported['AnimationMapName'] = 1.03;
                         i = j;
                         break;
                     } else {
-                      a2[cnt] += array[j];
+                        a2[cnt] += array[j];
                     }
                 }
             } else {
@@ -373,11 +379,11 @@ Imported['AnimationMapName'] = 1.03;
                 s1 += array[i];
             }
         }
-        
+
         CommonPopupManager.window().resetFontSettings();
         var fs = params.size;
         var fontStr = '\\FS[' + fs + ']';
-        CommonPopupManager.window().drawTextEx(fontStr,0,0);
+        CommonPopupManager.window().drawTextEx(fontStr, 0, 0);
         var textSize = CommonPopupManager.window().textWidth(s1) + params.size;
         textSize += (params.size * 1.14) * count;
         var bitmap = null;
@@ -423,72 +429,72 @@ Imported['AnimationMapName'] = 1.03;
             arg.pattern = pattern;
             arg.tag = 'AnimationMapName';
         }
-        if(arg) CommonPopupManager._tempCommonSprites.setNullPos(arg);
+        if (arg) CommonPopupManager._tempCommonSprites.setNullPos(arg);
 
-        var s = Math.floor((params.count*0.4)/s1.length);
+        var s = Math.floor((params.count * 0.4) / s1.length);
         var n = 0;
         var setColor = '';
         var ssupY = (pattern == -2 || pattern === 'GrowUp') ? 4 : 0;
         var bfs = fs;
         var cnt = 0;
         CommonPopupManager.window().contents.fontSize = fs;
-        for(var i=0;i<a2.length;i++){
+        for (var i = 0; i < a2.length; i++) {
             if (a2[i].match(/\x1bI\[(\d+)\]/i)) a2[i] = '\\I[' + RegExp.$1 + ']';
             if (a2[i].match(/\x1bC\[(\d+)\]/i)) {
                 setColor = '\\C[' + RegExp.$1 + ']';
-            }else if (a2[i].match(/\x1bFS\[(\d+)\]/i)){
+            } else if (a2[i].match(/\x1bFS\[(\d+)\]/i)) {
                 fs = Number(RegExp.$1);
                 fontStr = '\\FS[' + fs + ']';
-            }else{
+            } else {
                 var fsy = (bfs - fs) / 2;
-                if (fsy > 0 && ssupY > 0) fsy -= 8 ;
+                if (fsy > 0 && ssupY > 0) fsy -= 8;
                 var arg = CommonPopupManager.setPopup('');
-                var bitmap = new Bitmap(fs+12,fs+12);
+                var bitmap = new Bitmap(fs + 12, fs + 12);
                 var tx = fontStr + setColor + a2[i];
                 CommonPopupManager.window().contents.fontSize = fs;
                 var tw = CommonPopupManager.window().textWidth(a2[i]);
                 CommonPopupManager.window().contents = bitmap;
-                CommonPopupManager.window().drawTextEx(tx,4,0);
+                CommonPopupManager.window().drawTextEx(tx, 4, 0);
                 arg.bitmap = bitmap;
-                arg.x = params.ox + n + (bw - textSize)/ 2 + 10;
+                arg.x = params.ox + n + (bw - textSize) / 2 + 10;
                 arg.y = params.oy + supY + ssupY + fsy;
                 arg.moveX = params.mx;
                 arg.moveY = params.my;
                 arg.anchorX = aX;
                 arg.anchorY = aY;
                 arg.delay = s * (cnt + 1);
-                arg.count = Math.floor((params.count-20) - (cnt * s));
-                arg.extend = [arg.count*0.2,arg.count*0.8];
+                arg.count = Math.floor((params.count - 20) - (cnt * s));
+                arg.extend = [arg.count * 0.2, arg.count * 0.8];
                 arg.fixed = false;
                 arg.pattern = pattern;
                 arg.tag = 'AnimationMapName';
-                if (a2[i].match(/\\I\[\d+\]/i)){
+                if (a2[i].match(/\\I\[\d+\]/i)) {
                     n += 34;
-                }else{
+                } else {
                     n += tw;
                 }
                 CommonPopupManager._tempCommonSprites.setNullPos(arg);
                 cnt++;
-            }   
+            }
         }
     };
 
-    Game_Interpreter.prototype.showAmn = function(args) {
+    Game_Interpreter.prototype.showAmn = function (args) {
         CommonPopupManager.clearPopup('AnimationMapName');
-        var amnParams = DataManager.makeAmnParams($gameSystem.amnParameters(),args);
+        var amnParams = DataManager.makeAmnParams($gameSystem.amnParameters(), args);
         this.animationMapName(amnParams);
     };
 
     ////////////////////////////////////////////////////////////////////////////////////
 
-    Game_Map.prototype.showMapName = function() {
-        if (this.displayName() !== ''){
+    Game_Map.prototype.showMapName = function () {
+        if (this.displayName() !== '') {
             this._interpreter.animationMapName($gameSystem.amnParameters());
         }
     };
-    
-    Game_Map.prototype.displayRegionAmn = function(params) {
-        if(!this.isNameDisplayEnabled()) return;
+
+    Game_Map.prototype.displayRegionAmn = function (params) {
+        if (!this.isNameDisplayEnabled()) return;
         var args = params.split(' ');
         args[0] = 'text:' + args[0];
         this._interpreter.showAmn(args);
@@ -497,31 +503,31 @@ Imported['AnimationMapName'] = 1.03;
     ////////////////////////////////////////////////////////////////////////////////////
 
     var _animeMN_GPlayer_performTransfer = Game_Player.prototype.performTransfer;
-    Game_Player.prototype.performTransfer = function() {
+    Game_Player.prototype.performTransfer = function () {
         _animeMN_GPlayer_performTransfer.call(this);
-        if($gameMap.isNameDisplayEnabled()) $gameMap.showMapName();
+        if ($gameMap.isNameDisplayEnabled()) $gameMap.showMapName();
         $gameTemp._regionAmnArray = null;
         $gameTemp._lastRegionId = null;
     };
-    
+
     var __GPlayer_update = Game_Player.prototype.update;
-    Game_Player.prototype.update = function(sceneActive) {
+    Game_Player.prototype.update = function (sceneActive) {
         __GPlayer_update.call(this, sceneActive);
         var ri = this.regionId();
         if (this.regionAmnArray(ri) && ri !== $gameTemp._lastRegionId) {
             $gameTemp._lastRegionId = ri;
-            if ($dataMap.meta['RegionName'+ri]) {
-                $gameMap.displayRegionAmn($dataMap.meta['RegionName'+ri]);
-            } else if ($dataMap.meta['リージョンネーム'+ri]){
-                $gameMap.displayRegionAmn($dataMap.meta['リージョンネーム'+ri]);
+            if ($dataMap.meta['RegionName' + ri]) {
+                $gameMap.displayRegionAmn($dataMap.meta['RegionName' + ri]);
+            } else if ($dataMap.meta['リージョンネーム' + ri]) {
+                $gameMap.displayRegionAmn($dataMap.meta['リージョンネーム' + ri]);
             }
         }
     };
 
-    Game_Player.prototype.regionAmnArray = function(ri) {
+    Game_Player.prototype.regionAmnArray = function (ri) {
         if ($gameTemp._regionAmnArray) return $gameTemp._regionAmnArray[ri];
         $gameTemp._regionAmnArray = [];
-        for (var i=1,max=255;i<max;i++){
+        for (var i = 1, max = 255; i < max; i++) {
             if ($dataMap.meta['RegionName' + i]) $gameTemp._regionAmnArray[i] = true;
             if ($dataMap.meta['リージョンネーム' + i]) $gameTemp._regionAmnArray[i] = true;
         }
@@ -531,7 +537,7 @@ Imported['AnimationMapName'] = 1.03;
     ////////////////////////////////////////////////////////////////////////////////////
 
     // 再定義　何もしなくする
-    Window_MapName.prototype.open = function() {
+    Window_MapName.prototype.open = function () {
         //this.refresh();
         this._showCount = 0;
     };

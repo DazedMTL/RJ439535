@@ -186,7 +186,7 @@
  * @type boolean
  */
 
-(function() {
+(function () {
 	'use strict';
 	var pluginName = 'AudioSource';
 	var parameters = PluginManager.parameters(pluginName);
@@ -197,25 +197,25 @@
 
 	//効果音の音量調節（マップイベントのルート設定から鳴らした時のみ）
 	var _Game_Character_processMoveCommand = Game_Character.prototype.processMoveCommand;
-	Game_Character.prototype.processMoveCommand = function(command) {
+	Game_Character.prototype.processMoveCommand = function (command) {
 		var adjust = typeof $gameSystem._adjustRouteSe === "boolean" ? $gameSystem._adjustRouteSe : !PluginManager.registerCommand;
 		if (adjust && command.code === Game_Character.ROUTE_PLAY_SE) playAdjustSe(command.parameters[0], this);
 		else _Game_Character_processMoveCommand.apply(this, arguments);
 	};
 
 	//アニメーション中の効果音を音量調節
-	Sprite_Animation.prototype.processTimingData = function(timing) {
+	Sprite_Animation.prototype.processTimingData = function (timing) {
 		var duration = timing.flashDuration * this._rate;
 		switch (timing.flashScope) {
 			case 1:
-			this.startFlash(timing.flashColor, duration);
-			break;
+				this.startFlash(timing.flashColor, duration);
+				break;
 			case 2:
-			this.startScreenFlash(timing.flashColor, duration);
-			break;
+				this.startScreenFlash(timing.flashColor, duration);
+				break;
 			case 3:
-			this.startHiding(duration);
-			break;
+				this.startHiding(duration);
+				break;
 		}
 		if (!this._duplicated && timing.se) {
 			var adjust = typeof $gameSystem._adjustAnimationSe === "boolean" ? $gameSystem._adjustAnimationSe : !PluginManager.registerCommand;
@@ -226,17 +226,17 @@
 	//戦闘終了直後、BGMとBGSの音量が初期値に戻っているので再度設定する
 	//fadeInがcancelされてしまいそうだが、実際はfadeInの処理の方が遅延するのでうまくいく
 	var _BattleManager_replayBgmAndBgs = BattleManager.replayBgmAndBgs;
-	BattleManager.replayBgmAndBgs = function() {
+	BattleManager.replayBgmAndBgs = function () {
 		_BattleManager_replayBgmAndBgs.apply(this, arguments);
 		AudioManager.updateAudioSource();
 	};
 
 	//BGM、BGSの音量調節（毎フレーム）
-	AudioManager.updateAudioSource = function() {
+	AudioManager.updateAudioSource = function () {
 		updateParameters(this._currentBgm, $gameMap.event($gameSystem._bgmSource), true);
 		if ($gameSystem._bgsSources) {
 			if (!this.iterateAllBgs) return delete $gameSystem._bgsSources;
-			this.iterateAllBgs(function() {
+			this.iterateAllBgs(function () {
 				updateParameters(this._currentBgs, $gameMap.event($gameSystem._bgsSources[this.getBgsLineIndex()]));
 			}.bind(this));
 		}
@@ -246,13 +246,13 @@
 	//BGM、BGSの音量が自動調節されている場合はイベントコマンドからのAudioBufferの調節を無効にする
 	//（同一フレームに複数回の音量変化が含まれるとノイズが発生するため）
 	var _AudioManager_updateBgmParameters = AudioManager.updateBgmParameters;
-	AudioManager.updateBgmParameters = function(bgm) {
+	AudioManager.updateBgmParameters = function (bgm) {
 		if ($gameMap && $gameMap.event($gameSystem._bgmSource)) return;
 		_AudioManager_updateBgmParameters.apply(this, arguments);
 	};
 
 	var _AudioManager_updateBgsParameters = AudioManager.updateBgsParameters;
-	AudioManager.updateBgsParameters = function(bgs) {
+	AudioManager.updateBgsParameters = function (bgs) {
 		if ($gameMap && $gameSystem) {
 			if ($gameSystem._bgsSources && this.getBgsLineIndex) {
 				if ($gameMap.event($gameSystem._bgsSources[this.getBgsLineIndex()])) return;
@@ -266,10 +266,10 @@
 	//BGM、BGSのオプション側の音量を変えた時にちゃんと音量調節されるようにする
 	var _AudioManager_bgmVolume = Object.getOwnPropertyDescriptor(AudioManager, 'bgmVolume');
 	Object.defineProperty(AudioManager, 'bgmVolume', {
-		get: function() {
+		get: function () {
 			return _AudioManager_bgmVolume.get.call(this);
 		},
-		set: function(value) {
+		set: function (value) {
 			_AudioManager_bgmVolume.set.call(this, value);
 			if ($gameMap && $gameSystem) this.updateAudioSource();
 		},
@@ -278,10 +278,10 @@
 
 	var _AudioManager_bgsVolume = Object.getOwnPropertyDescriptor(AudioManager, 'bgsVolume');
 	Object.defineProperty(AudioManager, 'bgsVolume', {
-		get: function() {
+		get: function () {
 			return _AudioManager_bgsVolume.get.call(this);
 		},
-		set: function(value) {
+		set: function (value) {
 			_AudioManager_bgsVolume.set.call(this, value);
 			if ($gameMap && $gameSystem) this.updateAudioSource();
 		},
@@ -292,7 +292,7 @@
 	var bgsOnSave = null;
 
 	var _Scene_Map_onMapLoaded = Scene_Map.prototype.onMapLoaded;
-	Scene_Map.prototype.onMapLoaded = function() {
+	Scene_Map.prototype.onMapLoaded = function () {
 		_Scene_Map_onMapLoaded.apply(this, arguments);
 		if (bgmOnSave) {
 			AudioManager.playBgm(bgmOnSave);
@@ -306,7 +306,7 @@
 	};
 
 	var _Game_System_onAfterLoad = Game_System.prototype.onAfterLoad;
-	Game_System.prototype.onAfterLoad = function() {
+	Game_System.prototype.onAfterLoad = function () {
 		bgmOnSave = this._bgmOnSave;
 		bgsOnSave = this._bgsOnSave;
 		this._bgmOnSave = this._bgsOnSave = {};
@@ -316,13 +316,13 @@
 	};
 
 	var _Game_Map_update = Game_Map.prototype.update;
-	Game_Map.prototype.update = function(sceneActive) {
+	Game_Map.prototype.update = function (sceneActive) {
 		_Game_Map_update.apply(this, arguments);
 		AudioManager.updateAudioSource();
 	};
 
 	var _Game_Interpreter_pluginCommand = Game_Interpreter.prototype.pluginCommand;
-	Game_Interpreter.prototype.pluginCommand = function(command, args) {
+	Game_Interpreter.prototype.pluginCommand = function (command, args) {
 		_Game_Interpreter_pluginCommand.apply(this, arguments);
 		if (command.toLowerCase() === 'audiosource') {
 			var eventId = +args[1] === 0 ? this._eventId : +args[1];
@@ -350,12 +350,12 @@
 	};
 
 	if (PluginManager.registerCommand) {
-        PluginManager.registerCommand(pluginName, "play", function(args) {
+		PluginManager.registerCommand(pluginName, "play", function (args) {
 			var { path, volume, pitch, source } = args;
-			var [ dir, name ] = path.split("/");
+			var [dir, name] = path.split("/");
 			var eventId = +source || this._eventId;
 			var pan = 0;
-            switch (dir) {
+			switch (dir) {
 				case "bgm": {
 					$gameSystem._bgmSource = eventId;
 					AudioManager.playBgm({ name, volume, pitch, pan });
@@ -381,26 +381,26 @@
 			}
 		});
 
-		PluginManager.registerCommand(pluginName, "listener", function(args) {
+		PluginManager.registerCommand(pluginName, "listener", function (args) {
 			$gameSystem._listenerEvent = args.listener;
 		});
 
-		PluginManager.registerCommand(pluginName, "adjustRouteSe", function(args) {
+		PluginManager.registerCommand(pluginName, "adjustRouteSe", function (args) {
 			$gameSystem._adjustRouteSe = args.value === "true";
 		});
 
-		PluginManager.registerCommand(pluginName, "adjustAnimationSe", function(args) {
+		PluginManager.registerCommand(pluginName, "adjustAnimationSe", function (args) {
 			$gameSystem._adjustAnimationSe = args.value === "true";
 		});
 
 		var _Game_Intepreter_command241 = Game_Interpreter.prototype.command241;
-		Game_Interpreter.prototype.command241 = function(params) {
+		Game_Interpreter.prototype.command241 = function (params) {
 			$gameSystem._bgmSource = NaN;
 			return _Game_Intepreter_command241.apply(this, arguments);
 		};
 
 		var _Game_Intepreter_command245 = Game_Interpreter.prototype.command245;
-		Game_Interpreter.prototype.command245 = function(params) {
+		Game_Interpreter.prototype.command245 = function (params) {
 			if ($gameSystem.getBgsLine) {
 				$gameSystem._bgsSources = $gameSystem._bgsSources || [];
 				$gameSystem._bgsSources[$gameSystem.getBgsLine()] = NaN;
@@ -408,7 +408,7 @@
 			else $gameSystem._bgsSource = NaN;
 			return _Game_Intepreter_command245.apply(this, arguments);
 		};
-    }
+	}
 
 	function toNumber(str, def) {
 		return isNaN(str) ? def : +(str || def);

@@ -43,28 +43,28 @@ Imported.TMBalloonLoop = true;
 
 if (!Imported.TMEventBase) {
   Imported.TMEventBase = true;
-  (function() {
-  
+  (function () {
+
     //-----------------------------------------------------------------------------
     // Game_Event
     //
-  
+
     var _Game_Event_setupPage = Game_Event.prototype.setupPage;
-    Game_Event.prototype.setupPage = function() {
+    Game_Event.prototype.setupPage = function () {
       _Game_Event_setupPage.call(this);
       if (this._pageIndex >= 0) {
         this.loadCommentParams();
       }
     };
 
-    Game_Event.prototype.loadCommentParams = function() {
+    Game_Event.prototype.loadCommentParams = function () {
       this._commentParams = {};
       var re = /<([^<>:]+)(:?)([^>]*)>/g;
       var list = this.list();
       for (var i = 0; i < list.length; i++) {
         var command = list[i];
         if (command && command.code == 108 || command.code == 408) {
-          for (;;) {
+          for (; ;) {
             var match = re.exec(command.parameters[0]);
             if (match) {
               if (match[2] === ':') {
@@ -82,7 +82,7 @@ if (!Imported.TMEventBase) {
       }
     };
 
-    Game_Event.prototype.loadTagParam = function(paramName) {
+    Game_Event.prototype.loadTagParam = function (paramName) {
       if (this._commentParams[paramName]) {
         return this._commentParams[paramName];
       } else if (this.event().meta[paramName]) {
@@ -95,14 +95,14 @@ if (!Imported.TMEventBase) {
   })();
 }
 
-(function() {
+(function () {
 
   //-----------------------------------------------------------------------------
   // Game_CharacterBase
   //
-  
+
   var _Game_CharacterBase_endBalloon = Game_CharacterBase.prototype.endBalloon;
-  Game_CharacterBase.prototype.endBalloon = function() {
+  Game_CharacterBase.prototype.endBalloon = function () {
     _Game_CharacterBase_endBalloon.call(this);
     var balloonLoop = this.balloonLoop();
     if (balloonLoop) {
@@ -110,20 +110,20 @@ if (!Imported.TMEventBase) {
     }
   };
 
-  Game_CharacterBase.prototype.setBalloonLoop = function(balloonLoop) {
+  Game_CharacterBase.prototype.setBalloonLoop = function (balloonLoop) {
     this._balloonLoop = balloonLoop;
   };
 
-  Game_CharacterBase.prototype.balloonLoop = function() {
+  Game_CharacterBase.prototype.balloonLoop = function () {
     return this._balloonLoop;
   };
 
   //-----------------------------------------------------------------------------
   // Game_Event
   //
-  
+
   var _Game_Event_setupPage = Game_Event.prototype.setupPage;
-  Game_Event.prototype.setupPage = function() {
+  Game_Event.prototype.setupPage = function () {
     _Game_Event_setupPage.call(this);
     if (this._pageIndex >= 0) {
       var balloonLoop = +this.loadTagParam('balloonLoop');
@@ -140,7 +140,7 @@ if (!Imported.TMEventBase) {
   //
 
   var _Game_Interpreter_pluginCommand = Game_Interpreter.prototype.pluginCommand;
-  Game_Interpreter.prototype.pluginCommand = function(command, args) {
+  Game_Interpreter.prototype.pluginCommand = function (command, args) {
     _Game_Interpreter_pluginCommand.call(this, command, args);
     if (command === 'setBalloonLoop') {
       var character = this.character(+args[0]);
@@ -149,13 +149,13 @@ if (!Imported.TMEventBase) {
       }
     }
   };
-  
+
   //-----------------------------------------------------------------------------
   // Sprite_Character
   //
 
   var _Sprite_Character_endBalloon = Sprite_Character.prototype.endBalloon;
-  Sprite_Character.prototype.endBalloon = function() {
+  Sprite_Character.prototype.endBalloon = function () {
     var balloonLoop = this._character.balloonLoop();
     if (balloonLoop) {
       this._balloonSprite.setup(balloonLoop);

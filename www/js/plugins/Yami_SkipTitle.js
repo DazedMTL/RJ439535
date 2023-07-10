@@ -8,9 +8,9 @@
  * @version 1.0
  */
 
-(function() {
+(function () {
 
-    Scene_Boot.prototype.start = function() {
+    Scene_Boot.prototype.start = function () {
         Scene_Base.prototype.start.call(this);
         SoundManager.preloadImportantSounds();
         if (DataManager.isBattleTest()) {

@@ -35,7 +35,7 @@ Imported['Patch_YMC_NameBox'] = 1.00;
  * ------------------------------------------------------
  */
 
-(function(){
+(function () {
 
     var parameters = PluginManager.parameters('Patch_YMC_NameBox');
     var standardPadding = parameters['StandardPadding'];
@@ -51,7 +51,7 @@ Imported['Patch_YMC_NameBox'] = 1.00;
     };
 
     var __WNBox_update = Window_NameBox.prototype.update;
-    Window_NameBox.prototype.update = function() {
+    Window_NameBox.prototype.update = function () {
         __WNBox_update.call(this);
         this.updateBackground();
     };

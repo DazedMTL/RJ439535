@@ -401,15 +401,15 @@
 
 (() => {
     'use strict';
-    
+
     const pluginName = 'MPP_ChoiceEX';
-    
+
     // Plugin Parameters
     const parameters = PluginManager.parameters(pluginName);
     const param_MaxPageRow = Number(parameters['Max Page Row'] || 6);
     const param_DisabledPosition = parameters['Disabled Position'] || 'none';
     const param_ChoiceHelpCommands = JSON.parse(parameters['Choice Help Commands'] || '[]');
-    
+
     // Dealing with other plugins
     const __base = (obj, prop) => {
         if (obj.hasOwnProperty(prop)) {
@@ -419,7 +419,7 @@
             return function () { return proto[prop].apply(this, arguments); };
         }
     };
-    
+
     // JsExtensions 代替
     const MathExt = (() => {
         // Number.prototype.clamp と違い、下限優先
@@ -430,18 +430,18 @@
 
     //-------------------------------------------------------------------------
     // PluginManager
-    
+
     PluginManager._commands = PluginManager._commands || {};
-    
+
     if (!PluginManager.registerCommand) {
-        PluginManager.registerCommand = function(pluginName, commandName, func) {
+        PluginManager.registerCommand = function (pluginName, commandName, func) {
             const key = pluginName + ":" + commandName;
             this._commands[key] = func;
         };
     }
 
     if (!PluginManager.callCommand) {
-        PluginManager.callCommand = function(self, pluginName, commandName, args) {
+        PluginManager.callCommand = function (self, pluginName, commandName, args) {
             const key = pluginName + ":" + commandName;
             const func = this._commands[key];
             if (typeof func === "function") {
@@ -474,11 +474,11 @@
         $gameMessage.requestChoiceInMessage();
     });
 
-    PluginManager.mppValue = function(value) {
+    PluginManager.mppValue = function (value) {
         const match = /^V\[(\d+)\]$/i.exec(value);
         return match ? $gameVariables.value(+match[1]) : +value;
     };
-    
+
     //-------------------------------------------------------------------------
     // Game_Message
 
@@ -510,7 +510,7 @@
     });
 
     const _Game_Message_clear = Game_Message.prototype.clear;
-    Game_Message.prototype.clear = function() {
+    Game_Message.prototype.clear = function () {
         _Game_Message_clear.apply(this, arguments);
         this._choiceEnables = [];
         this._choiceResults = [];
@@ -524,43 +524,43 @@
         this._choiceInMessage = false;
     };
 
-    Game_Message.prototype.choiceMaxRow = function() {
+    Game_Message.prototype.choiceMaxRow = function () {
         return this._choiceMaxRow;
     };
 
-    Game_Message.prototype.setTexts = function(texts) {
+    Game_Message.prototype.setTexts = function (texts) {
         this._texts = texts;
     };
 
-    Game_Message.prototype.setChoiceEnables = function(enables) {
+    Game_Message.prototype.setChoiceEnables = function (enables) {
         this._choiceEnables = enables;
     };
 
-    Game_Message.prototype.choiceEnables = function() {
+    Game_Message.prototype.choiceEnables = function () {
         return this._choiceEnables;
     };
 
-    Game_Message.prototype.setChoiceResults = function(results) {
+    Game_Message.prototype.setChoiceResults = function (results) {
         this._choiceResults = results;
     };
 
-    Game_Message.prototype.choiceResults = function() {
+    Game_Message.prototype.choiceResults = function () {
         return this._choiceResults;
     };
 
-    Game_Message.prototype.setChoiceHelpTexts = function(texts) {
+    Game_Message.prototype.setChoiceHelpTexts = function (texts) {
         this._helpTexts = texts;
     };
 
-    Game_Message.prototype.isChoiceHelp = function() {
+    Game_Message.prototype.isChoiceHelp = function () {
         return !this._choiceInMessage && this._helpTexts.length > 0;
     };
 
-    Game_Message.prototype.helpTexts = function() {
+    Game_Message.prototype.helpTexts = function () {
         return this._helpTexts;
     };
 
-    Game_Message.prototype.setChoicePos = function(x, y, row) {
+    Game_Message.prototype.setChoicePos = function (x, y, row) {
         this._choiceX = x;
         this._choiceY = y;
         this._choiceWidth = -1;
@@ -568,38 +568,38 @@
         this._choiceMaxRow = row;
     };
 
-    Game_Message.prototype.setChoiceRect = function(x, y, width, height) {
+    Game_Message.prototype.setChoiceRect = function (x, y, width, height) {
         this._choiceX = x;
         this._choiceY = y;
         this._choiceWidth = width;
         this._choiceHeight = height;
     };
 
-    Game_Message.prototype.setChoiceVariableId = function(id) {
+    Game_Message.prototype.setChoiceVariableId = function (id) {
         this._choiceVariableId = id;
     };
 
-    Game_Message.prototype.lowerChoiceHeight = function(height) {
+    Game_Message.prototype.lowerChoiceHeight = function (height) {
         this._choiceY += height;
         this._choiceHeight -= height;
     };
 
-    Game_Message.prototype.requestChoiceInMessage = function() {
+    Game_Message.prototype.requestChoiceInMessage = function () {
         this._choiceInMessage = true;
     };
 
-    Game_Message.prototype.choiceVariableId = function() {
+    Game_Message.prototype.choiceVariableId = function () {
         return this._choiceVariableId;
     };
 
-    Game_Message.prototype.isChoiceInMessage = function() {
+    Game_Message.prototype.isChoiceInMessage = function () {
         return this._choiceInMessage;
     };
 
     //-----------------------------------------------------------------------------
     // Game_Interpreter
 
-    Game_Interpreter.prototype.setupChoices = function(params) {
+    Game_Interpreter.prototype.setupChoices = function (params) {
         const data = {
             choices: [],
             enables: [],
@@ -631,7 +631,7 @@
         }
     };
 
-    Game_Interpreter.prototype.addChoices = function(params, index, data, d) {
+    Game_Interpreter.prototype.addChoices = function (params, index, data, d) {
         const choices = [...params[0]];
         const cancelType = params[1] < choices.length ? params[1] : -2;
         const defaultType = params[2] || 0;
@@ -648,7 +648,7 @@
         }
     };
 
-    Game_Interpreter.prototype.checkChoiceConditions = function(choices, data, d) {
+    Game_Interpreter.prototype.checkChoiceConditions = function (choices, data, d) {
         const regIf = /\s?if\((.+?)\)/;
         const regEn = /\s?en\((.+?)\)/;
         for (const [i, text] of choices.entries()) {
@@ -661,12 +661,12 @@
         };
     };
 
-    Game_Interpreter.prototype.meetsChoiceConditions = function(text, reg) {
+    Game_Interpreter.prototype.meetsChoiceConditions = function (text, reg) {
         const match = reg.exec(text);
         return !match || this.evalChoice(match[1]);
     };
 
-    Game_Interpreter.prototype.evalChoice = function(condition) {
+    Game_Interpreter.prototype.evalChoice = function (condition) {
         try {
             const s = $gameSwitches._data;
             const realCondition = condition.replace(
@@ -680,7 +680,7 @@
         }
     };
 
-    Game_Interpreter.prototype.setupHelpText = function(index, data, d) {
+    Game_Interpreter.prototype.setupHelpText = function (index, data, d) {
         for (const [i, command] of this._list.slice(index).entries()) {
             if (command.indent === this._indent) {
                 if (command.code === 402) {
@@ -694,7 +694,7 @@
         }
     };
 
-    Game_Interpreter.prototype.extractHelpTexts = function(index) {
+    Game_Interpreter.prototype.extractHelpTexts = function (index) {
         const command = this._list[index];
         if (
             command.code === 108 &&
@@ -705,7 +705,7 @@
         return null;
     };
 
-    Game_Interpreter.prototype.getCommentHelpTexts = function(index) {
+    Game_Interpreter.prototype.getCommentHelpTexts = function (index) {
         const result = [];
         for (const command of this._list.slice(index)) {
             if (command.code === 408) {
@@ -717,12 +717,12 @@
         return result;
     };
 
-    Game_Interpreter.prototype.choiceHelpTexts = function(data) {
+    Game_Interpreter.prototype.choiceHelpTexts = function (data) {
         const helpTexts = data.helpTexts;
         return helpTexts.length > 0 ? data.results.map(i => helpTexts[i]) : [];
     };
 
-    Game_Interpreter.prototype.choiceCancelType = function(data) {
+    Game_Interpreter.prototype.choiceCancelType = function (data) {
         if (data.cancelType === -1) {
             return -1;
         } else if (MathExt.mod(data.cancelType, 10) === 8) {
@@ -731,7 +731,7 @@
         return data.results.indexOf(data.cancelType);
     };
 
-    Game_Interpreter.prototype.choiceDefaultType = function(data) {
+    Game_Interpreter.prototype.choiceDefaultType = function (data) {
         const vId = $gameMessage.choiceVariableId();
         const index = vId > 0 ? $gameVariables.value(vId) : data.defaultType;
         const defaultType = data.results.indexOf(index);
@@ -741,7 +741,7 @@
         return defaultType;
     };
 
-    Game_Interpreter.prototype.nextCommandOfChoice = function(index) {
+    Game_Interpreter.prototype.nextCommandOfChoice = function (index) {
         const i = this._list.slice(index).findIndex(
             command => command.indent === this._indent && command.code === 404
         );
@@ -749,14 +749,14 @@
     };
 
     // overwrite
-    Game_Interpreter.prototype.command403 = function() {
+    Game_Interpreter.prototype.command403 = function () {
         if (this._branch[this._indent] !== -2) {
             this.skipBranch();
         }
         return true;
     };
 
-    Game_Interpreter.prototype.command404 = function() {
+    Game_Interpreter.prototype.command404 = function () {
         if (this.nextEventCode() === 102) {
             this._branch[this._indent] -= 10;
             this._index++;
@@ -778,7 +778,7 @@
     });
 
     const _Game_Interpreter_pluginCommand = Game_Interpreter.prototype.pluginCommand;
-    Game_Interpreter.prototype.pluginCommand = function(command, args) {
+    Game_Interpreter.prototype.pluginCommand = function (command, args) {
         _Game_Interpreter_pluginCommand.apply(this, arguments);
         const mzCommand = _mzCommands[command];
         if (mzCommand) {
@@ -788,12 +788,12 @@
             PluginManager.callCommand(this, pluginName, mzCommand.name, args2);
         }
     };
-    
+
     //-----------------------------------------------------------------------------
     // Window_ChoiceList
 
     const _Window_ChoiceList_select = __base(Window_ChoiceList.prototype, 'select');
-    Window_ChoiceList.prototype.select = function(index) {
+    Window_ChoiceList.prototype.select = function (index) {
         const variableId = $gameMessage.choiceVariableId();
         if (index !== this.index() && variableId > 0) {
             const results = $gameMessage.choiceResults();
@@ -803,7 +803,7 @@
     };
 
     const _Window_ChoiceList_updatePlacement = Window_ChoiceList.prototype.updatePlacement;
-    Window_ChoiceList.prototype.updatePlacement = function() {
+    Window_ChoiceList.prototype.updatePlacement = function () {
         _Window_ChoiceList_updatePlacement.apply(this, arguments);
         const {
             choiceX: x, choiceY: y, choiceWidth: width, choiceHeight: height
@@ -820,14 +820,14 @@
     };
 
     // overwrite
-    Window_ChoiceList.prototype.numVisibleRows = function() {
+    Window_ChoiceList.prototype.numVisibleRows = function () {
         const choices = $gameMessage.choices();
         const maxLines = $gameMessage.choiceMaxRow();
         return Math.min(choices.length, maxLines);
     };
 
     // overwrite
-    Window_ChoiceList.prototype.makeCommandList = function() {
+    Window_ChoiceList.prototype.makeCommandList = function () {
         const enables = $gameMessage.choiceEnables();
         for (const [i, choice] of $gameMessage.choices().entries()) {
             this.addCommand(choice, 'choice', enables[i]);
@@ -835,27 +835,27 @@
     };
 
     const _Window_ChoiceList_drawItem = Window_ChoiceList.prototype.drawItem;
-    Window_ChoiceList.prototype.drawItem = function(index) {
+    Window_ChoiceList.prototype.drawItem = function (index) {
         this.changePaintOpacity(this.isCommandEnabled(index));
         _Window_ChoiceList_drawItem.apply(this, arguments);
     };
 
     const _Window_ChoiceList_callOkHandler = Window_ChoiceList.prototype.callOkHandler;
-    Window_ChoiceList.prototype.callOkHandler = function() {
+    Window_ChoiceList.prototype.callOkHandler = function () {
         _Window_ChoiceList_callOkHandler.apply(this, arguments);
         this._messageWindow.forceClear();
         this._helpIndex = null;
     };
 
     const _Window_ChoiceList_callCancelHandler = Window_ChoiceList.prototype.callCancelHandler;
-    Window_ChoiceList.prototype.callCancelHandler = function() {
+    Window_ChoiceList.prototype.callCancelHandler = function () {
         _Window_ChoiceList_callCancelHandler.apply(this, arguments);
         this._messageWindow.forceClear();
         this._helpIndex = null;
     };
 
     const _Window_ChoiceList_processCancel = __base(Window_ChoiceList.prototype, 'processCancel');
-    Window_ChoiceList.prototype.processCancel = function() {
+    Window_ChoiceList.prototype.processCancel = function () {
         const cancelType = $gameMessage.choiceCancelType();
         if (
             cancelType >= 0 &&
@@ -868,7 +868,7 @@
         _Window_ChoiceList_processCancel.apply(this, arguments);
     };
 
-    Window_ChoiceList.prototype.callUpdateHelp = function() {
+    Window_ChoiceList.prototype.callUpdateHelp = function () {
         if (
             this.active &&
             this._messageWindow &&
@@ -880,7 +880,7 @@
         }
     };
 
-    Window_ChoiceList.prototype.updateHelp = function() {
+    Window_ChoiceList.prototype.updateHelp = function () {
         this._messageWindow.forceClear();
         const texts = $gameMessage.helpTexts()[this.index()];
         $gameMessage.setTexts(texts ? [...texts] : ['']);
@@ -891,12 +891,12 @@
     // Window_Message
 
     const _Window_Message_updatePlacement = Window_Message.prototype.updatePlacement;
-    Window_Message.prototype.updatePlacement = function() {
+    Window_Message.prototype.updatePlacement = function () {
         _Window_Message_updatePlacement.apply(this, arguments);
         this.clearInChoice();
     };
 
-    Window_Message.prototype.clearInChoice = function() {
+    Window_Message.prototype.clearInChoice = function () {
         if ($gameMessage.isChoiceInMessage()) {
             const x = this.x + this.choiceStartX();
             const y = this.y + 4;
@@ -905,7 +905,7 @@
         }
     };
 
-    Window_Message.prototype.choiceStartX = function() {
+    Window_Message.prototype.choiceStartX = function () {
         if ('left' in this._textState) {
             return this.standardPadding() + this._textState.left;
         } else {
@@ -914,7 +914,7 @@
     };
 
     const _Window_Message_processNewLine = __base(Window_Message.prototype, 'processNewLine');
-    Window_Message.prototype.processNewLine = function(textState) {
+    Window_Message.prototype.processNewLine = function (textState) {
         if ($gameMessage.isChoiceInMessage()) {
             $gameMessage.lowerChoiceHeight(textState.height);
         }
@@ -922,7 +922,7 @@
     };
 
     const _Window_Message_updateInput = Window_Message.prototype.updateInput;
-    Window_Message.prototype.updateInput = function() {
+    Window_Message.prototype.updateInput = function () {
         if ($gameMessage.isChoiceHelp() && this._textState) {
             return false;
         }
@@ -930,7 +930,7 @@
     };
 
     const _Window_Message_onEndOfText = Window_Message.prototype.onEndOfText;
-    Window_Message.prototype.onEndOfText = function() {
+    Window_Message.prototype.onEndOfText = function () {
         const choiceWindow = this._choiceWindow || this._choiceListWindow;
         if (!choiceWindow.active && $gameMessage.isChoiceHelp()) {
             this.startInput();
@@ -940,7 +940,7 @@
     };
 
     const _Window_Message_startInput = Window_Message.prototype.startInput;
-    Window_Message.prototype.startInput = function() {
+    Window_Message.prototype.startInput = function () {
         const choiceWindow = this._choiceWindow || this._choiceListWindow;
         if (choiceWindow.active) return true;
         if (this._textState && this.isLowerChoice()) {
@@ -949,7 +949,7 @@
         return _Window_Message_startInput.apply(this, arguments);
     };
 
-    Window_Message.prototype.isLowerChoice = function() {
+    Window_Message.prototype.isLowerChoice = function () {
         const textState = this._textState;
         const startX = 'left' in textState ? textState.left : textState.startX;
         return (
@@ -959,14 +959,14 @@
         );
     };
 
-    Window_Message.prototype.forceClear = function() {
+    Window_Message.prototype.forceClear = function () {
         this._textState = null;
         this.close();
         this._goldWindow.close();
     };
 
     const _Window_Message_newPage = Window_Message.prototype.newPage;
-    Window_Message.prototype.newPage = function(textState) {
+    Window_Message.prototype.newPage = function (textState) {
         _Window_Message_newPage.apply(this, arguments);
         this.clearInChoice();
     };

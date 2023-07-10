@@ -695,86 +695,86 @@
 //=============================================================================
 // ** PLUGIN PARAMETERS
 //=============================================================================
-　　var Imported = Imported || {};
-　　Imported.MOG_TitleMagicCircles = true;
-　　var Moghunter = Moghunter || {}; 
+var Imported = Imported || {};
+Imported.MOG_TitleMagicCircles = true;
+var Moghunter = Moghunter || {};
 
-  　Moghunter.parameters = PluginManager.parameters('MOG_TitleMagicCircles');
-    Moghunter.titleMcircles_M = 10
-	Moghunter.titleMcircles_V = [];	Moghunter.titleMcircles_N = [];
-	Moghunter.titleMcircles_X = [];	Moghunter.titleMcircles_Y = [];
-	Moghunter.titleMcircles_R = [];	Moghunter.titleMcircles_T = [];
-	Moghunter.titleMcircles_P = []; Moghunter.titleMcircles_Z = [];
-	Moghunter.titleMcircles_B = [];
-	for (var i = 0; i < Moghunter.titleMcircles_M; i++) {
-		Moghunter.titleMcircles_V[i] = String(Moghunter.parameters['Circle ' + String(i + 1) + " Visible"] || "true");
-		Moghunter.titleMcircles_N[i] = String(Moghunter.parameters['Circle ' + String(i + 1) + " File Name"] || "Magic_Circle"); 
-		Moghunter.titleMcircles_X[i] = Number(Moghunter.parameters['Circle ' + String(i + 1) + " X-Axis"] || 0); 
-		Moghunter.titleMcircles_Y[i] = Number(Moghunter.parameters['Circle ' + String(i + 1) + " Y-Axis"] || 0);
-		Moghunter.titleMcircles_Z[i] = Number(Moghunter.parameters['Circle ' + String(i + 1) + " Z-Index"] || 10); 
-		Moghunter.titleMcircles_R[i] = Number(Moghunter.parameters['Circle ' + String(i + 1) + " Rotation"] || 0.01);
-		Moghunter.titleMcircles_T[i] = Number(Moghunter.parameters['Circle ' + String(i + 1) + " Transition Time"] || 60);
-		Moghunter.titleMcircles_P[i] = Number(Moghunter.parameters['Circle ' + String(i + 1) + " Pulse Mode"] || 0);
-		Moghunter.titleMcircles_B[i] = Number(Moghunter.parameters['Circle ' + String(i + 1) + " Blend Mode"] || 1);
-	};	
-	
+Moghunter.parameters = PluginManager.parameters('MOG_TitleMagicCircles');
+Moghunter.titleMcircles_M = 10
+Moghunter.titleMcircles_V = []; Moghunter.titleMcircles_N = [];
+Moghunter.titleMcircles_X = []; Moghunter.titleMcircles_Y = [];
+Moghunter.titleMcircles_R = []; Moghunter.titleMcircles_T = [];
+Moghunter.titleMcircles_P = []; Moghunter.titleMcircles_Z = [];
+Moghunter.titleMcircles_B = [];
+for (var i = 0; i < Moghunter.titleMcircles_M; i++) {
+	Moghunter.titleMcircles_V[i] = String(Moghunter.parameters['Circle ' + String(i + 1) + " Visible"] || "true");
+	Moghunter.titleMcircles_N[i] = String(Moghunter.parameters['Circle ' + String(i + 1) + " File Name"] || "Magic_Circle");
+	Moghunter.titleMcircles_X[i] = Number(Moghunter.parameters['Circle ' + String(i + 1) + " X-Axis"] || 0);
+	Moghunter.titleMcircles_Y[i] = Number(Moghunter.parameters['Circle ' + String(i + 1) + " Y-Axis"] || 0);
+	Moghunter.titleMcircles_Z[i] = Number(Moghunter.parameters['Circle ' + String(i + 1) + " Z-Index"] || 10);
+	Moghunter.titleMcircles_R[i] = Number(Moghunter.parameters['Circle ' + String(i + 1) + " Rotation"] || 0.01);
+	Moghunter.titleMcircles_T[i] = Number(Moghunter.parameters['Circle ' + String(i + 1) + " Transition Time"] || 60);
+	Moghunter.titleMcircles_P[i] = Number(Moghunter.parameters['Circle ' + String(i + 1) + " Pulse Mode"] || 0);
+	Moghunter.titleMcircles_B[i] = Number(Moghunter.parameters['Circle ' + String(i + 1) + " Blend Mode"] || 1);
+};
+
 //=============================================================================
 // ** Scene Title
 //=============================================================================	
-		
+
 //==============================
 // * Create
 //==============================
 var _mog_mcirclestitles_create = Scene_Title.prototype.create;
-Scene_Title.prototype.create = function() {
+Scene_Title.prototype.create = function () {
 	_mog_mcirclestitles_create.call(this);
-	if (this._titleField) {this._titleField.children.sort(function(a, b){return a.zIndex-b.zIndex})}
-};			
-		
+	if (this._titleField) { this._titleField.children.sort(function (a, b) { return a.zIndex - b.zIndex }) }
+};
+
 //==============================
 // * Create Background
 //==============================
 var _mog_mcirclestitles_createBackground = Scene_Title.prototype.createBackground;
-Scene_Title.prototype.createBackground = function() {
-    _mog_mcirclestitles_createBackground.call(this);
-	if (!this._titleField) {this.createTitleField()};
+Scene_Title.prototype.createBackground = function () {
+	_mog_mcirclestitles_createBackground.call(this);
+	if (!this._titleField) { this.createTitleField() };
 };
-  
+
 //==============================
 // * Create Title Field
 //==============================
-Scene_Title.prototype.createTitleField = function() {
-    this._titleField = new Sprite();
+Scene_Title.prototype.createTitleField = function () {
+	this._titleField = new Sprite();
 	this.addChild(this._titleField);
-};  
-  
+};
+
 //==============================
 // * Create Background
 //==============================
 var _mog_mcirclestitles_createForeground = Scene_Title.prototype.createForeground;
-Scene_Title.prototype.createForeground = function() {
+Scene_Title.prototype.createForeground = function () {
 	this.createMcircles();
-    _mog_mcirclestitles_createForeground.call(this);
+	_mog_mcirclestitles_createForeground.call(this);
 };
-    
+
 //==============================
 // * Create M Circles
 //==============================
-Scene_Title.prototype.createMcircles = function() {
-	if (!this._titleField) {this.createTitleField()};
-	this._mcircles = [];	
-    for (var i = 0; i < Moghunter.titleMcircles_M; i++) {
-      this._mcircles[i] = new TitleMCircles(i);
-	  this._mcircles[i].zIndex = Moghunter.titleMcircles_Z[i];
-	  this._titleField.addChild(this._mcircles[i]);
-    };
+Scene_Title.prototype.createMcircles = function () {
+	if (!this._titleField) { this.createTitleField() };
+	this._mcircles = [];
+	for (var i = 0; i < Moghunter.titleMcircles_M; i++) {
+		this._mcircles[i] = new TitleMCircles(i);
+		this._mcircles[i].zIndex = Moghunter.titleMcircles_Z[i];
+		this._titleField.addChild(this._mcircles[i]);
+	};
 };
-  
+
 //=============================================================================
 // ** Title Magic Circle
 //=============================================================================
 function TitleMCircles() {
-    this.initialize.apply(this, arguments);
+	this.initialize.apply(this, arguments);
 };
 
 TitleMCircles.prototype = Object.create(Sprite.prototype);
@@ -783,17 +783,17 @@ TitleMCircles.prototype.constructor = TitleMCircles;
 //==============================
 // * Initialize
 //==============================
-TitleMCircles.prototype.initialize = function(index) {
-    Sprite.prototype.initialize.call(this);
+TitleMCircles.prototype.initialize = function (index) {
+	Sprite.prototype.initialize.call(this);
 	this._index = index;
 	this._enabled = String(Moghunter.titleMcircles_V[this._index]) === "true" ? true : false;
-    if (this._enabled) {this.create_mcircles()};
+	if (this._enabled) { this.create_mcircles() };
 };
-  
+
 //==============================
 // * Create M circles
 //==============================
-TitleMCircles.prototype.create_mcircles = function() {	
+TitleMCircles.prototype.create_mcircles = function () {
 	this.bitmap = ImageManager.loadTitle2(String(Moghunter.titleMcircles_N[this._index]));
 	this.anchor.x = 0.5;
 	this.anchor.y = 0.5;
@@ -801,73 +801,74 @@ TitleMCircles.prototype.create_mcircles = function() {
 	this.y = Number(Moghunter.titleMcircles_Y[this._index]);
 	this.r = Number(Moghunter.titleMcircles_R[this._index]);
 	this.t = Number(Moghunter.titleMcircles_T[this._index]);
-	this.p = [Number(Moghunter.titleMcircles_P[this._index]),0,0];
+	this.p = [Number(Moghunter.titleMcircles_P[this._index]), 0, 0];
 	this.blendMode = Number(Moghunter.titleMcircles_B[this._index]);
-	this.opacity = this.t > 0 && this.p[0] < 2? 0 : 255;
-};  
+	this.opacity = this.t > 0 && this.p[0] < 2 ? 0 : 255;
+};
 
 //==============================
 // * Update Mcircle Pulse 
 //==============================
-TitleMCircles.prototype.updateMcirclePulse = function() {
+TitleMCircles.prototype.updateMcirclePulse = function () {
 	if (this.p[0] === 1) {
-	    this.updateMcirclePulseM1();
-	} else {0
-	    this.updateMcirclePulseM2();
+		this.updateMcirclePulseM1();
+	} else {
+		0
+		this.updateMcirclePulseM2();
 	};
 	this.scale.y = this.scale.x;
 };
-  
+
 //==============================
 // * Update Mcircle Pulse M1
 //==============================
-TitleMCircles.prototype.updateMcirclePulseM1 = function() {
+TitleMCircles.prototype.updateMcirclePulseM1 = function () {
 	this.p[1]++;
-	if (this.p[1] < 90) { 
-	    this.scale.x += 0.002;
+	if (this.p[1] < 90) {
+		this.scale.x += 0.002;
 	} else if (this.p[1] < 180) {
 		this.scale.x -= 0.002;
 	} else {
 		this.p[1] = 0;
 		this.scale.x = 1.00;
-	};	
-};   
-  
+	};
+};
+
 //==============================
 // * Update Mcircle Pulse M2
 //==============================
-TitleMCircles.prototype.updateMcirclePulseM2 = function() {
+TitleMCircles.prototype.updateMcirclePulseM2 = function () {
 	this.scale.x += 0.003;
 	if (this.p[1] === 0) {
 		this.opacity += 4;
-		if (this.opacity >= 255) {this.p[1] = 1};
+		if (this.opacity >= 255) { this.p[1] = 1 };
 	} else {
-	    this.opacity -= 2;
+		this.opacity -= 2;
 	};
-    if (this.opacity <= 0) {
+	if (this.opacity <= 0) {
 		this.p[1] = 0;
 		this.scale.x = 1.00;
-		this.opacity = 0;	
+		this.opacity = 0;
 	};
-};     
-  
+};
+
 //==============================
 // * Update M Circles
 //==============================
-TitleMCircles.prototype.update_magic_circle = function() {
+TitleMCircles.prototype.update_magic_circle = function () {
 	this.rotation += this.r;
 	if (this.t > 0) {
 		this.t--;
 	} else {
-	if (this.p[0] < 2) {this.opacity += 2};
+		if (this.p[0] < 2) { this.opacity += 2 };
 	};
-	if (this.p[0] > 0) {this.updateMcirclePulse()};
-};    
-  
+	if (this.p[0] > 0) { this.updateMcirclePulse() };
+};
+
 //==============================
 // * Update
 //==============================
-TitleMCircles.prototype.update = function() {
-    Sprite.prototype.update.call(this);
-	if (this._enabled) {this.update_magic_circle()};
+TitleMCircles.prototype.update = function () {
+	Sprite.prototype.update.call(this);
+	if (this._enabled) { this.update_magic_circle() };
 };

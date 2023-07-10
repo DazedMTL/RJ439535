@@ -99,7 +99,7 @@
  * - Tumblr: http://himeworks.tumblr.com/
 */
 
- /*:
+/*:
 @title Window Background Colors
 @author Hime --> HimeWorks (http://himeworks.com)
 @version 1.0
@@ -148,7 +148,7 @@ This plugin overwrites the background color settings of the windowskin.
 == Change Log ==
 
 1.0 - Apr 14, 2016
- * initial release
+* initial release
 
 == Usage ==
 
@@ -193,7 +193,7 @@ where 0 is transparent and 255 is fully opaque.
 @desc Background color for your windows.
 Format is RGB as [Red, Green, Blue]
 @default [42, 37, 43]
- */
+*/
 
 var Imported = Imported || {};
 var TH = TH || {};

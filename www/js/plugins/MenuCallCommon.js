@@ -29,30 +29,30 @@
  * メニュー禁止を押してもらえればいけるはず。
  */
 
-(function() {
+(function () {
 
   var parameters = PluginManager.parameters('MenuCallCommon');
-	var Noncha_ComEvent = Number(parameters['ComEvent'] || 1);
+  var Noncha_ComEvent = Number(parameters['ComEvent'] || 1);
   var Noncha_ComCloseEvent = Number(parameters['ComCloseEvent'] || 1);
   var Noncha_ComSwitch = Number(parameters['ComSwitch'] || 1);
 
-Scene_Map.prototype.updateCallMenu = function() {
+  Scene_Map.prototype.updateCallMenu = function () {
     if (this.isMenuEnabled()) {
-        if (this.isMenuCalled()) {
-            this.menuCalling = true;
+      if (this.isMenuCalled()) {
+        this.menuCalling = true;
+      }
+      if (this.menuCalling && !$gamePlayer.isMoving()) {
+        if (!$gameSwitches._data[Noncha_ComSwitch] == true) {
+          $gameTemp.reserveCommonEvent(Noncha_ComEvent);
+          this.menuCalling = false;
+        } else if (!$gameSwitches._data[Noncha_ComSwitch] == false) {
+          $gameTemp.reserveCommonEvent(Noncha_ComCloseEvent);
+          this.menuCalling = false;
         }
-        if (this.menuCalling && !$gamePlayer.isMoving()) {
-            if(!$gameSwitches._data[Noncha_ComSwitch] == true){
-              $gameTemp.reserveCommonEvent(Noncha_ComEvent);
-              this.menuCalling = false;
-            }else if(!$gameSwitches._data[Noncha_ComSwitch] == false){
-              $gameTemp.reserveCommonEvent(Noncha_ComCloseEvent);
-              this.menuCalling = false;
-            }
-        }
+      }
     } else {
-        this.menuCalling = false;
+      this.menuCalling = false;
     }
-};
+  };
 
 })();

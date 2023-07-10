@@ -83,13 +83,13 @@
 //name space
 var utakata = utakata || (utakata = {});
 
-(function(utakata){
+(function (utakata) {
     //-----------------------------------------------------------------------------
     // class MessageSkip
     //-----------------------------------------------------------------------------
-    var MessageSkip = (function(){
+    var MessageSkip = (function () {
         //constructor
-        function MessageSkip(){
+        function MessageSkip() {
             this._skipKey = "";         //bind target key
 
             //trace
@@ -100,19 +100,19 @@ var utakata = utakata || (utakata = {});
         }
 
         //private methods
-        MessageSkip.prototype.initialize = function(){
+        MessageSkip.prototype.initialize = function () {
             var parameters = PluginManager.parameters('UTA_MessageSkip');
 
             this._skipKey = String(parameters['Skip Key']) || null;
 
             var _show_tr = (String(parameters['Show Trace']) === "true");
-            this._tr = _show_tr ? function(s){ var str = "MessageSkip: " + s; console.log(str); } : function(s){ };
+            this._tr = _show_tr ? function (s) { var str = "MessageSkip: " + s; console.log(str); } : function (s) { };
 
             this._tr("skip key bind: " + this._skipKey);
         };
 
         //protected methods
-        MessageSkip.prototype.isPressedMsgSkipButton = function(){
+        MessageSkip.prototype.isPressedMsgSkipButton = function () {
             return Input.isPressed(this._skipKey);
         };
 
@@ -122,18 +122,18 @@ var utakata = utakata || (utakata = {});
 })(utakata || (utakata = {}));
 
 
-(function(){
+(function () {
     //-----------------------------------------------------------------------------
     // PluginCommands
     //-----------------------------------------------------------------------------
-    var _Game_Interpreter_pluginCommand = 
-            Game_Interpreter.prototype.pluginCommand;
-    Game_Interpreter.prototype.pluginCommand = function(command, args){
+    var _Game_Interpreter_pluginCommand =
+        Game_Interpreter.prototype.pluginCommand;
+    Game_Interpreter.prototype.pluginCommand = function (command, args) {
         _Game_Interpreter_pluginCommand.call(this, command, args);
 
         //UT_MessageSkip don't have plugin commands.
-        if(command === 'UT_MessageSkip'){
-            switch(args[0]){
+        if (command === 'UT_MessageSkip') {
+            switch (args[0]) {
                 default:
                     break;
             }
@@ -145,10 +145,10 @@ var utakata = utakata || (utakata = {});
     //-----------------------------------------------------------------------------
     //文章表示途中にskipキーが入力された場合は即全表示
     var _Window_Message_updateShowFast = Window_Message.prototype.updateShowFast;
-    Window_Message.prototype.updateShowFast = function() {
+    Window_Message.prototype.updateShowFast = function () {
         _Window_Message_updateShowFast.call(this);
 
-        if(utakata.MessageSkip.isPressedMsgSkipButton()){
+        if (utakata.MessageSkip.isPressedMsgSkipButton()) {
             this._showFast = true;
             this._pauseSkip = true;
         }
@@ -156,10 +156,10 @@ var utakata = utakata || (utakata = {});
 
     //文章が表示されkey入力待ちの際もskipキーの入力を監視しておく
     var _Window_Message_updateInput = Window_Message.prototype.updateInput;
-    Window_Message.prototype.updateInput = function() {
+    Window_Message.prototype.updateInput = function () {
         var ret = _Window_Message_updateInput.call(this);
 
-        if(this.pause && utakata.MessageSkip.isPressedMsgSkipButton()){
+        if (this.pause && utakata.MessageSkip.isPressedMsgSkipButton()) {
             this.pause = false;
             if (!this._textState) {
                 this.terminateMessage();
@@ -175,10 +175,10 @@ var utakata = utakata || (utakata = {});
     //-----------------------------------------------------------------------------
     //スクロールメッセージは更に爆速で流れるように
     var Window_ScrollText_scrollSpeed = Window_ScrollText.prototype.scrollSpeed;
-    Window_ScrollText.prototype.scrollSpeed = function() {
+    Window_ScrollText.prototype.scrollSpeed = function () {
         var ret = Window_ScrollText_scrollSpeed.call(this);
 
-        if(utakata.MessageSkip.isPressedMsgSkipButton()){
+        if (utakata.MessageSkip.isPressedMsgSkipButton()) {
             ret *= 100;
         }
         return ret;
@@ -190,9 +190,9 @@ var utakata = utakata || (utakata = {});
     //-----------------------------------------------------------------------------
     //バトルログを超高速に
     var _Window_BattleLog_messageSpeed = Window_BattleLog.prototype.messageSpeed;
-    Window_BattleLog.prototype.messageSpeed = function() {
+    Window_BattleLog.prototype.messageSpeed = function () {
         var ret = _Window_BattleLog_messageSpeed.call(this);
-        if(utakata.MessageSkip.isPressedMsgSkipButton()){
+        if (utakata.MessageSkip.isPressedMsgSkipButton()) {
             ret = 1;
         }
         return ret;
