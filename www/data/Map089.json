@@ -2208,28 +2208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<同級生A>「よっ…卒業しちまったな俺達」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Classmate A> Hey... we've graduated, huh?"
                             ]
                         },
                         {
@@ -2246,28 +2225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<同級生A>「…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Classmate A> ..."
                             ]
                         },
                         {
@@ -2284,28 +2242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<同級生A>「……明輝の事まだ気にしてんのか？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Classmate A> ...Are you still concerned about Aki?"
                             ]
                         },
                         {
@@ -2322,28 +2259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<同級生A>「何で<N学校辞めちまった>んだろうな…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Classmate A> I wonder why <they quit N school..."
                             ]
                         },
                         {
@@ -2360,28 +2276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<同級生A>「って今更考えても意味ねえか」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Classmate A> Thinking about it now won't change\nanything, right?"
                             ]
                         },
                         {
@@ -2398,28 +2293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<同級生A>「この後の打ち上げ…来るんだよな？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Classmate A> Are you coming to the after-party later?"
                             ]
                         },
                         {
@@ -2445,28 +2319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<同級生A>「そうか……」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Classmate A> I see..."
                             ]
                         },
                         {
@@ -2483,7 +2336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<同級生A>「…元気出たらさ、また飯でも行こうぜ」"
+                                "\\N<Classmate A> ...If you feel better, let's go out for a\nmeal again sometime."
                             ]
                         },
                         {
@@ -2500,7 +2353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<同級生A>「…じゃあまたな」"
+                                "\\N<Classmate A> ...Well then, see you later."
                             ]
                         },
                         {
@@ -2529,28 +2382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -2567,28 +2399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -2612,28 +2423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -2650,28 +2440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -2695,28 +2464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -2733,28 +2481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {

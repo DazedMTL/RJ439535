@@ -4461,7 +4461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男女の話し声が聞こえる"
+                                "I can hear the voices of a man and a woman."
                             ]
                         },
                         {
@@ -4478,14 +4478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗み聞きしますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(林道イベントが進みます)"
+                                "Do you want to eavesdrop? (The forest road event will\nprogress)"
                             ]
                         },
                         {
@@ -4561,14 +4554,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<女子生徒?>「昨日も言いましたけどアタシ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "--先輩タイプじゃないので付き合えないです」"
+                                "\\N<Female Student?> I mentioned it yesterday as well, but I\ncan't date you because you're not my type, senpai."
                             ]
                         },
                         {
@@ -4585,7 +4571,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<女子生徒?>「もういいですかっ？アタシ練習したいんで！」"
+                                "\\N<Female Student?> Are you done? I want to practice!"
                             ]
                         },
                         {
@@ -4602,7 +4588,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<男子生徒?>「そんな爆乳揺らしといて今更ガードが固いアピールか？」"
+                                "\\N<Male Student?> You're shaking those huge breasts and now\nyou're acting all guarded?"
                             ]
                         },
                         {
@@ -4619,7 +4605,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<男子生徒?>「どうせ遊びまくってるんだろ？」"
+                                "\\N<Male Student?> You're probably just fooling around,\nright?"
                             ]
                         },
                         {
@@ -4636,28 +4622,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<男子生徒?>「俺のも気持ちよくしてくれよ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　"
+                                "\\N<Male Student?> Make me feel good too."
                             ]
                         },
                         {
@@ -4674,7 +4639,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<女子生徒?>「っ・・・・！」"
+                                "\\N<Female Student?> Ah...!"
                             ]
                         },
                         {
@@ -4691,7 +4656,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<女子生徒?>「アタシ遊んだりしてないっすから！！」"
+                                "\\N<Female Student?> I'm not playing around, okay?!"
                             ]
                         },
                         {
@@ -4715,7 +4680,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんだか揉めているようだ"
+                                "It seems like they're having a dispute."
                             ]
                         },
                         {
@@ -4732,7 +4697,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "巻き込まれる前に去ろう"
+                                "Let's leave before we get involved."
                             ]
                         },
                         {
@@ -4768,7 +4733,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "別視点を見ますか？"
+                                "Do you want to see a different perspective?"
                             ]
                         },
                         {
@@ -5576,7 +5541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ね…ねぇ…"
+                                "Hey... hey..."
                             ]
                         },
                         {
@@ -5593,7 +5558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ホントにこの格好で入っちゃって良いのかな"
+                                "Is it really okay to enter like this?"
                             ]
                         },
                         {
@@ -5610,7 +5575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫大丈夫～"
+                                "It's okay, it's okay~"
                             ]
                         },
                         {
@@ -5627,7 +5592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日は誰も残ってない日だから"
+                                "Today is a day when no one is left."
                             ]
                         },
                         {
@@ -5644,7 +5609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んっ…でもぉ…"
+                                "Mmm... but..."
                             ]
                         },
                         {
@@ -5661,7 +5626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これホント恥ずかしいんだからね"
+                                "This is really embarrassing, you know."
                             ]
                         },
                         {
@@ -5814,7 +5779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すげぇ…あんな爆乳初めて見たぜ"
+                                "Wow... I've never seen such huge breasts before."
                             ]
                         },
                         {
@@ -5838,7 +5803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "顔が良く見えないけどネットのあの子だよな…？"
+                                "I can't see her face clearly, but isn't she that girl from\nthe internet...?"
                             ]
                         },
                         {
@@ -5855,7 +5820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "生で見たらマジでエロイな…"
+                                "If I saw them in person, they would be seriously erotic..."
                             ]
                         },
                         {
@@ -5879,7 +5844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マンコが丸見えだぁ…"
+                                "Her pussy is completely exposed..."
                             ]
                         },
                         {
@@ -5903,7 +5868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クソォ…羨ましいぜ"
+                                "Damn... I'm so jealous."
                             ]
                         },
                         {
@@ -5920,7 +5885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "俺もあの女犯してやりてえよぉ…"
+                                "I also want to have sex with that woman..."
                             ]
                         },
                         {
@@ -5998,7 +5963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほら人前だからって我慢してねえで"
+                                "Hey, don't hold back just because we're in public."
                             ]
                         },
                         {
@@ -6015,7 +5980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いつもみたいに気持ちよくなっちまえよ"
+                                "Let's feel good like we always do."
                             ]
                         },
                         {
@@ -6032,7 +5997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぁ…んぁ………あん…"
+                                "Ah...ngh...ahn..."
                             ]
                         },
                         {
@@ -6049,7 +6014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あんっ<K♥>……あんっ<K♥>"
+                                "......Ahn...<K♥>......Ahn...<K♥>"
                             ]
                         },
                         {
@@ -6066,7 +6031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへ…<K♥>"
+                                "Hehe... <K♥>"
                             ]
                         },
                         {
@@ -6083,7 +6048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんっ<K♥>あっんっ<K♥>んぁもっとぉ<K♥>"
+                                "Ahn<K♥> Ahn<K♥> Ngh, more<K♥>"
                             ]
                         },
                         {

@@ -2101,28 +2101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女子生徒>「え～！明輝卒業したら彼氏と結婚するの？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Female student> Eh~! If Aki graduates, will she get\nmarried to her boyfriend?"
                             ]
                         },
                         {
@@ -2173,28 +2152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「ちょっと声大きいって！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Hey, keep your voice down!"
                             ]
                         },
                         {
@@ -2211,28 +2169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女子生徒>「だってだって…びっくりだったから」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Female student> Because, because... I was surprised,\nthat's why."
                             ]
                         },
                         {
@@ -2249,28 +2186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女子生徒>「なんか明輝が大人になっちゃったみたいで寂しいなぁ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Female student> It feels like Aki has grown up and it's\na bit lonely."
                             ]
                         },
                         {
@@ -2303,28 +2219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「変わんないって～」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> I haven't changed, you know~"
                             ]
                         },
                         {
@@ -2341,28 +2236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子生徒>「くそぉ…聞きたくなかったぜ…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Male student> Damn it... I didn't want to hear that..."
                             ]
                         },
                         {
@@ -2379,28 +2253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女子生徒>「でもさ～意外だったなぁ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Female student> But, you know~ I was surprised."
                             ]
                         },
                         {
@@ -2417,28 +2270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女子生徒>「私はてっきり太郎と付き合うものかと」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Female student> I thought you were dating Taro, you\nknow."
                             ]
                         },
                         {
@@ -2471,28 +2303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「アハハ～…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Ahaha~..."
                             ]
                         },
                         {
@@ -2509,28 +2320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女子生徒>「何その表情～！意味深～！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Female student> What's with that expression~! So\nmysterious~!"
                             ]
                         },
                         {
@@ -2547,28 +2337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女子生徒>「でも明輝が幸せそうでよかった」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Female student> But I'm glad that Aki seems happy."
                             ]
                         },
                         {
@@ -2585,28 +2354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女子生徒>「卒業してもちゃんと連絡してよ～」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Female student> Make sure to keep in touch even after\ngraduation~"
                             ]
                         },
                         {
@@ -2623,28 +2371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「勿論だよ！絶対連絡する！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Of course! I'll definitely keep in touch!"
                             ]
                         },
                         {
@@ -2661,28 +2388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「じゃあ彼氏が…ううん」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Well, as for having a boyfriend... umm..."
                             ]
                         },
                         {
@@ -2699,7 +2405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「旦那が待ってるから、もう行くね」"
+                                "\\N<Hinata Aki> My husband is waiting, so I have to go now."
                             ]
                         },
                         {
@@ -2851,7 +2557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「…」"
+                                "\\N<Hinata Aki>「...」"
                             ]
                         },
                         {
@@ -2868,7 +2574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「元気でね」"
+                                "<Hinata Aki> Take care and stay well."
                             ]
                         },
                         {
@@ -3007,28 +2713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -3045,28 +2730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -3090,28 +2754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -3128,7 +2771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "......"
                             ]
                         },
                         {
@@ -3152,28 +2795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -3190,7 +2812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "......"
                             ]
                         },
                         {
@@ -3207,7 +2829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…数か月後"
+                                "...Several months later."
                             ]
                         },
                         {

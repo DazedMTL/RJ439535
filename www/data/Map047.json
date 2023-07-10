@@ -4419,28 +4419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -4457,28 +4436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -4495,28 +4453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -4533,28 +4470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -4571,28 +4487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -4609,7 +4504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "......"
                             ]
                         },
                         {
@@ -4918,7 +4813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「へぇ…本当に来るとはな」"
+                                "\\N<Forest road> Wow... So you really came, huh?"
                             ]
                         },
                         {
@@ -4969,28 +4864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「あぁちょっとお前に頼みたい事があってな」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Omura> Ah, there's something I want to ask you."
                             ]
                         },
                         {
@@ -5007,28 +4881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「頼みたい事？俺に？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> Something you want to ask? Me?"
                             ]
                         },
                         {
@@ -5045,14 +4898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「アンタあんまり良い噂聞かないぜ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなアンタが俺に頼み事って何だよ」"
+                                "\\N<Forest road> I don't hear many good rumors about you,\nyou know? What kind of favor do you want from me?"
                             ]
                         },
                         {
@@ -5069,28 +4915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「へへ…まあこれを見てくれよ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Omura> Hehe... Well, take a look at this."
                             ]
                         },
                         {
@@ -5273,28 +5098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「ッ…こいつは…明輝…？いやまさかそんなわけが…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> Huh... is this... Aki...? No way, it can't\nbe..."
                             ]
                         },
                         {
@@ -5345,28 +5149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「さすが同じ部活の先輩だ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Omura> As expected of my senpai from the same club."
                             ]
                         },
                         {
@@ -5383,14 +5166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「マジで明輝なのか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…アンタこんなのどうやって撮ったんだよ！？」"
+                                "\\N<Forest road> Is this really Aki!? ...How did you manage\nto take a picture like this!?"
                             ]
                         },
                         {
@@ -5407,14 +5183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「まぁ成り行きでな…だがまだ完全に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺の女になったわけじゃねえ」"
+                                "\\N<Omura> Well, it happened naturally... but she hasn't\ncompletely become my woman yet."
                             ]
                         },
                         {
@@ -5431,28 +5200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「…それで？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> ...And then?"
                             ]
                         },
                         {
@@ -5469,28 +5217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「俺の女にするにはもっと信用が必要なんだ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Omura> To make her mine, I need more trust."
                             ]
                         },
                         {
@@ -5507,7 +5234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「その為に林道…お前明輝に無理やり迫ってくれないか？」"
+                                "\\N<Omura> For that reason, Forest road... can't you\nforcefully approach Aki?"
                             ]
                         },
                         {
@@ -5524,14 +5251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「ふ～んなるほどね…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあアンタがしたい事は分かったけどよ」"
+                                "\\N<Forest road> Hmm, I see... Well, I understand what you\nwant to do."
                             ]
                         },
                         {
@@ -5548,28 +5268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「俺が協力する理由がねえな」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> I don't have a reason to cooperate with\nyou."
                             ]
                         },
                         {
@@ -5586,28 +5285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「勿論タダで頼もうって訳じゃないさ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Omura> Of course, I don't mean to ask for your help for\nfree."
                             ]
                         },
                         {
@@ -5624,7 +5302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「協力してくれればお前がやってる悪事を見逃してやる」"
+                                "\\N<Omura> If you cooperate, I'll overlook the misdeeds\nyou're involved in."
                             ]
                         },
                         {
@@ -5641,28 +5319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「へぇ…だが俺が何かやってる証拠はねえだろ？？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> Hmm... But there's no evidence that I'm\ndoing anything, right??"
                             ]
                         },
                         {
@@ -5679,28 +5336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「良い噂を聞かないのはお前も同じだ…林道」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Omura> You haven't heard any good rumors either...\nForest road."
                             ]
                         },
                         {
@@ -5717,28 +5353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「俺が何も証拠を持たずこんな事言うわけないだろ？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Omura> I wouldn't say something like this without any\nevidence, right?"
                             ]
                         },
                         {
@@ -5755,28 +5370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「こういう時の為に黙認してやってたんだよ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Omura> I've been turning a blind eye for times like\nthis."
                             ]
                         },
                         {
@@ -5793,28 +5387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「っ…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> Huh..."
                             ]
                         },
                         {
@@ -5831,14 +5404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「まあ安心しろ、頼みさえ聞いてくれれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前には今まで通り好き放題させてやるって言ってるんだ」"
+                                "\\N<Omura> Well, rest assured. I'm saying that if you just\nlisten to my request, I'll let you continue doing as you\nplease."
                             ]
                         },
                         {
@@ -5855,28 +5421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「ったく分かったよっ…!無理やり迫ればいいんだな？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> Fine, I get it...! I just have to force my\nway through, right?"
                             ]
                         },
                         {
@@ -5893,7 +5438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「その後上手くいかなくたって俺の責任じゃねえからな？」"
+                                "\\N<Forest road> Even if things don't go well afterwards,\nit's not my responsibility, right?"
                             ]
                         },
                         {
@@ -5910,28 +5455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「ッチ…噂通りろくでもねえ野郎だ…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> Tch... Just as the rumors say, he's a\nuseless bastard..."
                             ]
                         },
                         {
@@ -5948,28 +5472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「物分かりの良い教え子で助かるよ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Omura> You're a good student who understands things\nwell. I'm grateful."
                             ]
                         },
                         {
@@ -6069,28 +5572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -6107,28 +5589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -6145,28 +5606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -6183,28 +5623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -6221,28 +5640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -6259,28 +5657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {

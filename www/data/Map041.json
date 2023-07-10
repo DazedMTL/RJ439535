@@ -1493,7 +1493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「よかった～部室の鍵空いてて…」"
+                                "\\N<Hinata Aki> Phew, I'm glad... the clubroom's door was\nunlocked..."
                             ]
                         },
                         {
@@ -1510,7 +1510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「早くスマホ見つけないと…」"
+                                "\\N<Hinata Aki> I need to find my smartphone quickly..."
                             ]
                         },
                         {
@@ -1527,7 +1527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「スマホ・・・スマホっと」"
+                                "\\N<Hinata Aki> Smartphone... I need to find my smartphone."
                             ]
                         },
                         {
@@ -1833,7 +1833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「あったぁ～…!!」"
+                                "\\N<Hinata Aki> There it is~!!"
                             ]
                         },
                         {
@@ -2043,7 +2043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「スマホもあった事だし急いで帰らないと」"
+                                "\\N<Hinata Aki> Now that I found my smartphone, I need to\nhurry and go back."
                             ]
                         },
                         {
@@ -2203,7 +2203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「やばぁ…誰か来る…」"
+                                "\\N<Hinata Aki> Uh-oh... someone's coming..."
                             ]
                         },
                         {
@@ -2220,14 +2220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「見回りの人かな…黙って入ったのバレたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対怒られる……」"
+                                "\\N<Hinata Aki> Is it the patrol person... If they find out\nI entered without making a sound, they'll definitely get\nangry..."
                             ]
                         },
                         {
@@ -2244,7 +2237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「えっと…えっと…」"
+                                "\\N<Hinata Aki> Um... um..."
                             ]
                         },
                         {
@@ -2563,7 +2556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(…はぁはぁ)"
+                                "\\N<Hinata Aki>(...huff...huff)"
                             ]
                         },
                         {
@@ -2580,7 +2573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(これならバレないよね…？)"
+                                "<Hinata Aki>(I hope this won't be discovered...?)"
                             ]
                         },
                         {
@@ -2670,7 +2663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(入ってきた…誰だろ…)"
+                                "\\N<Hinata Aki>(Someone came in... I wonder who it is...)"
                             ]
                         },
                         {
@@ -2945,7 +2938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「・・・」"
+                                "\\N<Forest road>「...」"
                             ]
                         },
                         {
@@ -2962,7 +2955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「部室から音がした気がしたんだが…」"
+                                "\\N<Forest road> I thought I heard a sound coming from the\nclub room..."
                             ]
                         },
                         {
@@ -2979,7 +2972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「…気のせいか」"
+                                "\\N<Forest road> ...Is it just my imagination?"
                             ]
                         },
                         {
@@ -3021,7 +3014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(隙間からちょっと見えるかな・・・)"
+                                "\\N<Hinata Aki>(I wonder if I can see a little through the\ngap...)"
                             ]
                         },
                         {
@@ -3047,28 +3040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(・・・あれ)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>(...Huh)"
                             ]
                         },
                         {
@@ -3085,7 +3057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(林道先輩だ・・・)"
+                                "\\N<Hinata Aki>(It's Hayamichi-senpai...)"
                             ]
                         },
                         {
@@ -3102,7 +3074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(何でこんな時間に林道先輩が・・・)"
+                                "\\N<Hinata Aki>(Why is Hayamichi-senpai here at this time...)"
                             ]
                         },
                         {
@@ -3119,7 +3091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(絡まれたら面倒だし・・・早く出て行ってっ～！)"
+                                "\\N<Hinata Aki>(It would be troublesome if I got involved...\nI better leave quickly~!)"
                             ]
                         },
                         {
@@ -3179,7 +3151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「よし・・・」"
+                                "\\N<Forest road>Alright..."
                             ]
                         },
                         {
@@ -3227,7 +3199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「入ってきていいぞ」"
+                                "\\N<Forest road> You can come in."
                             ]
                         },
                         {
@@ -3337,7 +3309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「…」"
+                                "\\N<Hanaguri Shiori>「...」"
                             ]
                         },
                         {
@@ -3480,7 +3452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(・・・？)"
+                                "\\N<Hinata Aki>(...？)"
                             ]
                         },
                         {
@@ -3497,28 +3469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(また誰か入ってきた・・・)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>(Someone else came in again...)"
                             ]
                         },
                         {
@@ -3535,7 +3486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「へへ・・・相変わらずでけえ乳だよ」"
+                                "\\N<Forest road> Hehe... Your boobs are still huge, as\nalways."
                             ]
                         },
                         {
@@ -3552,7 +3503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「…っ」"
+                                "\\N<Hanaguri Shiori> ...!"
                             ]
                         },
                         {
@@ -3586,28 +3537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(よく見えない・・・)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>(I can't see well...)"
                             ]
                         },
                         {
@@ -3624,7 +3554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(でも・・・女の子っぽいかも・・・？)"
+                                "\\N<Hinata Aki>(But... maybe she looks like a girl...?)"
                             ]
                         },
                         {
@@ -3641,7 +3571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「ここなら誰にも見られねえ」"
+                                "\\N<Forest road>No one can see us here."
                             ]
                         },
                         {
@@ -3658,7 +3588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「ほらいつものやってくれよ『花栗』」"
+                                "\\N<Forest road> Come on, do your usual thing, 'Hanaguri'."
                             ]
                         },
                         {
@@ -3675,28 +3605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(え・・・)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Hinata Aki>(Huh...)"
                             ]
                         },
                         {
@@ -3713,7 +3622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(花栗って・・・同じクラスの・・・？)"
+                                "\\N<Hinata Aki>(Hanaguri... is she from the same class...?)"
                             ]
                         },
                         {
@@ -3730,7 +3639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「…はい」"
+                                "\\N<Hanaguri Shiori> ...Yes"
                             ]
                         },
                         {
@@ -3773,7 +3682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(えっ…林道先輩ズボン…)"
+                                "\\N<Hinata Aki>(Huh... Forest road senpai's pants...)"
                             ]
                         },
                         {
@@ -3838,7 +3747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゅっぼ…じゅっぼ…"
+                                "Squeeze... squeeze..."
                             ]
                         },
                         {
@@ -3855,7 +3764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「んっ・・・んっ・・・」"
+                                "\\N<Hanaguri Shiori> Hmm... hmm..."
                             ]
                         },
                         {
@@ -3872,7 +3781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「前より上手くなったな」"
+                                "\\N<Forest road> You've gotten better than before."
                             ]
                         },
                         {
@@ -3889,7 +3798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(ウソ・・・二人ってそういう関係だったの・・・)"
+                                "\\N<Hinata Aki>(No way... So they have that kind of\nrelationship...)"
                             ]
                         },
                         {
@@ -3906,7 +3815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「まあそりゃそうかぁ～俺が仕込んだんだもんなぁ？」"
+                                "\\N<Forest road> Well, I guess that's how it is~ I'm the one\nwho taught her, after all."
                             ]
                         },
                         {
@@ -3930,7 +3839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「んっ…ちゅぱ…れろ…れろ…」"
+                                "\\N<Hanaguri Shiori> Mmm... slurp... lick... lick..."
                             ]
                         },
                         {
@@ -3947,7 +3856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「…いいぞ～その不服そうな顔」"
+                                "\\N<Forest road> ...Good job~ That dissatisfied face of\nyours."
                             ]
                         },
                         {
@@ -3964,7 +3873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「へへ…言いたい事があるなら言ってもいいんだぜ？」"
+                                "\\N<Forest road> Hehe... If you have something you want to\nsay, you can say it, you know?"
                             ]
                         },
                         {
@@ -3981,7 +3890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「じゅっぼ…じゅっぼ…れろ……ありません」"
+                                "\\N<Hanaguri Shiori> Squeeze... squeeze... lick... lick...\nit's not there."
                             ]
                         },
                         {
@@ -3998,7 +3907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「たまらねえなぁ…」"
+                                "\\N<Forest road> I can't resist..."
                             ]
                         },
                         {
@@ -4015,7 +3924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゅっぼじゅっぼ…"
+                                "Squeeze... squeeze..."
                             ]
                         },
                         {
@@ -4032,7 +3941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(え…え…なにこれ…)"
+                                "\\N<Hinata Aki>(Eh... eh... what is this...)"
                             ]
                         },
                         {
@@ -4049,7 +3958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(とんでもないものを見ちゃった…)"
+                                "\\N<Hinata Aki>(I saw something unbelievable...)"
                             ]
                         },
                         {
@@ -4078,28 +3987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -4116,28 +4004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -4161,28 +4028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -4199,7 +4045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "......"
                             ]
                         },
                         {
@@ -4223,28 +4069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -4261,7 +4086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "......"
                             ]
                         },
                         {
@@ -4333,7 +4158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぱんっ…<K♥>ぱんっ…<K♥>"
+                                "Pant... <K♥> Pant... <K♥>"
                             ]
                         },
                         {
@@ -4350,7 +4175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "にゅぽっ<K♥>くちゅっ<K♥>"
+                                "Nyu-po <K♥> Kuchu <K♥>"
                             ]
                         },
                         {
@@ -4372,28 +4197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「んっ…んっ…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hanaguri Shiori> Hmm... hmm..."
                             ]
                         },
                         {
@@ -4410,28 +4214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「んぁ…あっ…やっ…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hanaguri Shiori> Ngh... Ah... Y-yes..."
                             ]
                         },
                         {
@@ -4448,28 +4231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(これって…えっ…え…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>(What is this... Huh... Huh...)"
                             ]
                         },
                         {
@@ -4486,28 +4248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(…エッチ…だよね？)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>(...Is this... sexual?)"
                             ]
                         },
                         {
@@ -4524,7 +4265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(初めて見た………変な感じ…)"
+                                "\\N<Hinata Aki>(I've never seen this before... It feels\nstrange...)"
                             ]
                         },
                         {
@@ -4541,28 +4282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「へへ…花栗はやっぱ脱ぐとすげえな…<K♥>」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> Hehe... Hanaguri looks amazing when she\ntakes her clothes off... <K♥>"
                             ]
                         },
                         {
@@ -4586,28 +4306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「っ…ああぁ\"」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hanaguri Shiori> Ah... Ahh..."
                             ]
                         },
                         {
@@ -4624,28 +4323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「ここ最近の女の中じゃダントツでエロい体してるぜ？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> She has by far the sexiest body among all\nthe girls lately, don't you think?"
                             ]
                         },
                         {
@@ -4662,28 +4340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「突く度揺れるそのデケェ乳がマジでエロイわ～<K♥>」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> Her huge breasts that sway every time I\nthrust are seriously erotic~ <K♥>"
                             ]
                         },
                         {
@@ -4700,28 +4357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「おまけに俺に抱かれるまで処女だったわけだしなぁ？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> And on top of that, she was a virgin until\nI took her, right?"
                             ]
                         },
                         {
@@ -4738,28 +4374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「ホント花栗はアタリだわ<K♥>」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> Hanaguri is really a hit, isn't she? <K♥>"
                             ]
                         },
                         {
@@ -4776,28 +4391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(ずっと見てるとおかしくなりそう…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>(If I keep watching this, I feel like I'll go\ncrazy...)"
                             ]
                         },
                         {
@@ -4814,28 +4408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(それにしてもこの二人どういう関係なんだろ…？)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>(I wonder what kind of relationship these two\nhave...?)"
                             ]
                         },
                         {
@@ -4852,28 +4425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(恋人……っぽくはないよね…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>(It doesn't seem like they're lovers, right?)"
                             ]
                         },
                         {
@@ -4890,28 +4442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「うぉ…<K♥>こいつ締め付けてきやがった<K♥>」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> Woah... <K♥> This person is tightening up\n<K♥>"
                             ]
                         },
                         {
@@ -4928,28 +4459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「不機嫌そうにしながら感じてやがったんだな？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> You're feeling it even though you look so\ndispleased, huh?"
                             ]
                         },
                         {
@@ -4966,28 +4476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「そんな事っ…あんっ…ないです…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hanaguri Shiori> Th-that's not... ahh... true..."
                             ]
                         },
                         {
@@ -5004,28 +4493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「早く…終わらせてっ…んっ…くださいっ…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hanaguri Shiori> Please... finish... it quickly...\nngh..."
                             ]
                         },
                         {
@@ -5042,14 +4510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「へへ…そう言うなよ<K♥>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カフェのトイレでオナニーしちゃう花栗さんよぉ～？」"
+                                "\\N<Forest road> Hehe... don't say that <K♥> Hanaguri-san,\nwho masturbates in the cafe restroom~?"
                             ]
                         },
                         {
@@ -5066,28 +4527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(えっ…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>(Huh...)"
                             ]
                         },
                         {
@@ -5111,28 +4551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「ああぁ\"っ…だからっ…それは林道先輩が…媚薬を…っ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hanaguri Shiori> Ahh... that's why... it's because\nHayamichi- senpai... gave me an aphrodisiac..."
                             ]
                         },
                         {
@@ -5149,28 +4568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「あぁ～？聞こえねえよ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> Huh? I can't hear you."
                             ]
                         },
                         {
@@ -5194,28 +4592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パンッパンッ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Panppan!!"
                             ]
                         },
                         {
@@ -5232,28 +4609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「やっ…あんっあぁっ…んっんっ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hanaguri Shiori> Y-... Ahh... Ahh... Nn... Nn..."
                             ]
                         },
                         {
@@ -5270,28 +4626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「だめっ…激しすぎッ…ますっ…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hanaguri Shiori> No... It's too intense... I'm...\ncoming..."
                             ]
                         },
                         {
@@ -5308,28 +4643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「ほらこっちこいっ!!」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> Come over here!!"
                             ]
                         },
                         {
@@ -5382,28 +4696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パンッパンッ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Panppan!!"
                             ]
                         },
                         {
@@ -5420,28 +4713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐっちょぐちょっ<K♥>ぐっちょぐちょっ<K♥>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Squishy squishy <K♥> squishy squishy <K♥>"
                             ]
                         },
                         {
@@ -5465,28 +4737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「おっ…んっおぉっ…んぉ\"」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hanaguri Shiori> Oh... ah... ohh..."
                             ]
                         },
                         {
@@ -5503,28 +4754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「生意気な事言ってねえでしっかり気持ちよくしろっ<K♥>」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> Stop being so cheeky and make me feel good\nproperly <K♥>"
                             ]
                         },
                         {
@@ -5577,28 +4807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「あぁっんっ…お\"ぉっ…っ…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hanaguri Shiori> Ahh... ohh..."
                             ]
                         },
                         {
@@ -5622,28 +4831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「ごぉわれちゃうっ…んぐぉ…んっ…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hanaguri Shiori> I'm... I'm going to... ah... ah...\nngh..."
                             ]
                         },
                         {
@@ -5660,28 +4848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(ッ…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>(Huh...)"
                             ]
                         },
                         {
@@ -5698,28 +4865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「へへ…<K♥>チンポに吸いついて離してくれねえ…<K♥>」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> Hehe... <K♥> You won't let go after sucking\non this dick... <K♥>"
                             ]
                         },
                         {
@@ -5736,28 +4882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「素直になっちまった方が楽だろうよ？なぁ？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> Wouldn't it be easier if you just became\nhonest? Huh?"
                             ]
                         },
                         {
@@ -5781,28 +4906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「やっ…あ\"んっ…もぉむり…ですっ…んっ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hanaguri Shiori> Ah... ah... I... I can't... anymore...\nngh"
                             ]
                         },
                         {
@@ -5819,28 +4923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぱんっぱんっ<K♥>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Panppan!!"
                             ]
                         },
                         {
@@ -5857,28 +4940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(こんなの見続けたら…変な気持ちになっちゃう…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>(If I keep watching this... I'll start feeling\nweird...)"
                             ]
                         },
                         {
@@ -5895,28 +4957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(ダメ…もう見るのやめよう…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>(No... I should stop watching...)"
                             ]
                         },
                         {
@@ -5952,28 +4993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -5990,28 +5010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -6035,28 +5034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -6073,28 +5051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -6118,28 +5075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -6156,28 +5092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -6237,28 +5152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>(...)"
                             ]
                         },
                         {
@@ -6275,28 +5169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(……行ったのかな)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Hinata Aki>(...I wonder where they went)"
                             ]
                         },
                         {
@@ -6313,28 +5186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -6351,28 +5203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -6389,28 +5220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -6427,28 +5237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -6465,28 +5254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -6503,28 +5271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -6541,14 +5288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "恋人が出来るといつか…<Kそういう事>をするって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞いた事はあったけど"
+                                "I've heard that when you have a lover... you eventually do\n<those kinds of things>."
                             ]
                         },
                         {
@@ -6565,14 +5305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "想像していた何倍も生々しくて激しくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…まるで獣みたいだった"
+                                "It was much more vivid and intense than I had imagined... It\nwas like we were animals."
                             ]
                         },
                         {
@@ -6589,28 +5322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "性欲…？…そういうのを満たす為だけに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Sexual desire...?...Just for the purpose of fulfilling that\nkind of thing."
                             ]
                         },
                         {
@@ -6627,14 +5339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "交わってる二人を思い出すと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体が熱くなって頭がボーっとしてきた"
+                                "When I think about the two of them being intimate, my body\ngets hot and my head feels dizzy."
                             ]
                         },
                         {
@@ -6651,28 +5356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さらにロッカー越しにでも伝わる生臭い匂いと熱気…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "The strong, pungent smell and heat that could be felt even\nthrough the locker..."
                             ]
                         },
                         {
@@ -6689,28 +5373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(さっきまで二人はここで……)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>(Until just now, the two of them were here...)"
                             ]
                         },
                         {
@@ -6727,28 +5390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -6765,28 +5407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -6803,28 +5424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -6841,28 +5441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -6879,28 +5458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -6917,28 +5475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -6967,28 +5504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くちゅ…くちゅ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "*Smooch... smooch...*"
                             ]
                         },
                         {
@@ -7005,28 +5521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んっ…あっ…んっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Mmm... Ahh... Mmm..."
                             ]
                         },
                         {
@@ -7048,28 +5543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「あっ…ん…きもち…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Ah...n...feels good..."
                             ]
                         },
                         {
@@ -7086,28 +5560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「はぁ…あぁっ…んっ…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Hinata Aki> Haah... Ahh... Nn..."
                             ]
                         },
                         {
@@ -7124,28 +5577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「あんなにっ…えっちって…激しいんだ…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> It's so... intense... to be that...\nintimate..."
                             ]
                         },
                         {
@@ -7162,28 +5594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「アタシも…いつか…あんっ…しちゃうの…かなっ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> I wonder if... someday... I'll... do that\ntoo..."
                             ]
                         },
                         {
@@ -7200,28 +5611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「……」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>「......」"
                             ]
                         },
                         {
@@ -7238,28 +5628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くちゅっ…くちゅっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "*Smooch... smooch...*"
                             ]
                         },
                         {
@@ -7276,28 +5645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くちゅっくちゅ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "*Smooch... smooch...*"
                             ]
                         },
                         {
@@ -7314,7 +5662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「んっ…あっ……太郎っ…」"
+                                "\\N<Hinata Aki> Mmm... Ahh... Taro..."
                             ]
                         },
                         {
@@ -7516,28 +5864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -7554,28 +5881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -7592,28 +5898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -7630,28 +5915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -7668,28 +5932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -7706,28 +5949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -7854,28 +6076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「……ったく」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> ... Geez."
                             ]
                         },
                         {
@@ -7892,7 +6093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「花栗とのハメ撮り用に置いてたスマホ回収し忘れてたわ」"
+                                "\\N<Forest road> I forgot to collect the smartphone that was\nleft for taking pictures with Hanaguri."
                             ]
                         },
                         {
@@ -8078,7 +6279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「確かこのロッカーの裏に…」"
+                                "\\N<Forest road> I think it's behind this locker..."
                             ]
                         },
                         {
@@ -8095,7 +6296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「あったあった…」"
+                                "\\N<Forest road> There it is, there it is..."
                             ]
                         },
                         {
@@ -8112,14 +6313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「一応中身確認しとくか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁ…1時間も無駄に撮影しちまってるじゃねえか…」"
+                                "\\N<Forest road> I guess I should check the contents...\nAh... I wasted a whole hour on the shoot..."
                             ]
                         },
                         {
@@ -8136,28 +6330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「……あぁ？…なんだこりゃあ…？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> ...Huh?... What is this...?"
                             ]
                         },
                         {
@@ -8174,7 +6347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「明輝…？…ん！？」"
+                                "\\N<Forest road> Aki...? ...Huh!?"
                             ]
                         },
                         {
@@ -8253,7 +6426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>『あっ…ん…きもち…』"
+                                "\\N<Hinata Aki> Ah...n...feels good..."
                             ]
                         },
                         {
@@ -8270,7 +6443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>『はぁ…あぁっ…んっ…』"
+                                "\\N<Hinata Aki> Haah... Ahh... Nn..."
                             ]
                         },
                         {
@@ -8287,28 +6460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>『あんなにっ…えっちって…激しいんだ…』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> It's so... intense... to be that...\nintimate..."
                             ]
                         },
                         {
@@ -8325,7 +6477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>『アタシも…いつか…あんっ…しちゃうの…かなっ』"
+                                "\\N<Hinata Aki> I wonder if... someday... I'll... do that\ntoo..."
                             ]
                         },
                         {
@@ -8342,7 +6494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>『……』"
+                                "\\N<Hinata Aki>『......』"
                             ]
                         },
                         {
@@ -8359,7 +6511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>『んっ…あっ……太郎っ…』"
+                                "\\N<Hinata Aki> Nn... Ah... Taro..."
                             ]
                         },
                         {
@@ -8444,28 +6596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「……<K♥>」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road>「......<K♥>」"
                             ]
                         },
                         {
@@ -8482,7 +6613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「…へへ<K♥>すげぇもん撮れちまった…<K♥>」"
+                                "\\N<Forest road> ...Hehe, I managed to capture an amazing\nshot..."
                             ]
                         },
                         {
@@ -8499,14 +6630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「こいつロッカーに隠れて俺達のを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見てやがったんだな…」"
+                                "\\N<Forest road> This guy was hiding in the locker and\nwatching us, huh..."
                             ]
                         },
                         {
@@ -8523,14 +6647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「それで我慢できずにオナニーしちまったのか…<K♥>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へへ…ツイてるぜ…」"
+                                "\\N<Forest road> So you couldn't resist and ended up\nmasturbating... <K♥> Hehe... You're lucky..."
                             ]
                         },
                         {
@@ -8547,14 +6664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「明輝…<K♥>…この動画を見たらどんな顔"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しちまうんだろうなぁ<K♥>」"
+                                "\\N<Forest road> Aki... <K♥>... I wonder what kind of\nexpression you'll make when you see this video... <K♥>"
                             ]
                         },
                         {

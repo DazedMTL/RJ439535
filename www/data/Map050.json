@@ -1356,28 +1356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「いやっ…ちょっとはなしてっ…!」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> No... talk to me for a bit...!"
                             ]
                         },
                         {
@@ -1428,28 +1407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「へへ…手ェ…震えてるぜ？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> Hehe... Your hands... are trembling, huh?"
                             ]
                         },
                         {
@@ -1466,28 +1424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道のツレA>「ホントだ足も手も震えてるなぁ？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest Road's Friend A> Wow, your legs and hands are\nreally trembling, huh?"
                             ]
                         },
                         {
@@ -1504,28 +1441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道のツレB>「必死に抵抗してるけど怖くて仕方ねえってか!へへへ…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest Road's Friend B> You're desperately resisting,\nbut you're scared, huh? Hehehe..."
                             ]
                         },
                         {
@@ -1542,14 +1458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「俺はずっと優しく口説いてやってたのによ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前が冷たい事ばっか言うから」"
+                                "\\N<Forest road> I've been trying to sweet-talk you all this\ntime, but you keep saying cold things."
                             ]
                         },
                         {
@@ -1566,28 +1475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「こんな事になっちまったんだぜ？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> How did it end up like this?"
                             ]
                         },
                         {
@@ -1604,28 +1492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「ッ…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Huh..."
                             ]
                         },
                         {
@@ -1642,14 +1509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「そういえば…お前といつも一緒にいるやつ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎だっけか」"
+                                "\\N<Forest road> Come to think of it... that person who's\nalways with you... is it Taro?"
                             ]
                         },
                         {
@@ -1682,28 +1542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(……!)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>(......!)"
                             ]
                         },
                         {
@@ -1720,28 +1559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「アイツ校門の前でお前を待ってたみたいだけどよぉ～」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> It seems like that person was waiting for\nyou in front of the school gate, you know~"
                             ]
                         },
                         {
@@ -1758,28 +1576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「太郎…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Taro..."
                             ]
                         },
                         {
@@ -1796,14 +1593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「俺らがちょっと構ってやったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ビビッて逃げていきやがったよ」"
+                                "\\N<Forest road> When we tried to pay a little attention to\nthem, they got scared and ran away."
                             ]
                         },
                         {
@@ -1836,28 +1626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「っ…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Hinata Aki> Tch..."
                             ]
                         },
                         {
@@ -1874,28 +1643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「まったく情けねぇ野郎だよアイツはよぉ…へへ…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> That guy is completely heartless...\nhehe..."
                             ]
                         },
                         {
@@ -1912,14 +1660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「そんな野郎より俺の女になる…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その方が良いっていい加減分かったろ？」"
+                                "\\N<Forest road> You should become my woman instead of that\nguy... Don't you understand that it would be better?"
                             ]
                         },
                         {
@@ -1936,14 +1677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「沢山可愛がってやるからよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんまり抵抗するんじゃねえぞ？」"
+                                "\\N<Forest road> I'll treat you with lots of love, so don't\nresist too much, okay?"
                             ]
                         },
                         {
@@ -1960,28 +1694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(ダメだ…さすがに3人相手に抵抗しても振りほどけない…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>(No... I can't break free even if I resist\nagainst three people...)"
                             ]
                         },
                         {
@@ -1998,14 +1711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道のツレA>「俺ァ…こんなに乳のデケェ女初めてで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "興奮が抑えられねえよぉ…」"
+                                "\\N<Forest road's Friend A> Man... this is the first time\nI've seen such huge breasts. I can't control my\nexcitement..."
                             ]
                         },
                         {
@@ -2022,28 +1728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>(...)"
                             ]
                         },
                         {
@@ -2060,14 +1745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道のツレB>「あぁ俺もだぁ…なあ姉ちゃんそのデケェので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺のを挟んでくれよぉ」"
+                                "\\N<Forest road's Friend B> Oh, me too... Hey sis, can you\nsandwich mine with that huge one?"
                             ]
                         },
                         {
@@ -2084,28 +1762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(……太郎…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>(......Taro...)"
                             ]
                         },
                         {
@@ -2122,14 +1779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「へへ…お前らすぐ壊すんじゃねえぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺の可愛い後輩だからな？」"
+                                "\\N<Forest road> Hehe... don't break her so easily, okay?\nShe's my cute underclassman, you know?"
                             ]
                         },
                         {
@@ -2146,28 +1796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(……助けて…)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>(......Help me...)"
                             ]
                         },
                         {
@@ -2203,28 +1832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{バアンッ!!!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "*Baang!*"
                             ]
                         },
                         {
@@ -2432,28 +2040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「あぁ…？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> Ah...?"
                             ]
                         },
                         {
@@ -2504,28 +2091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「……太郎?」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> ...Taro?"
                             ]
                         },
                         {
@@ -2688,28 +2254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「ッチ…大村…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> Tch... Omura..."
                             ]
                         },
                         {
@@ -2760,28 +2305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「おい林道…お前明輝を囲んで何してんだ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Omura> Hey, Hayamichi... What are you doing surrounding\nAki?"
                             ]
                         },
                         {
@@ -2798,28 +2322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「別に…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> It's nothing..."
                             ]
                         },
                         {
@@ -2836,28 +2339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「それにそこの二人は部外者だな～」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Omura> And those two over there are outsiders, huh~"
                             ]
                         },
                         {
@@ -2874,28 +2356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道のツレA＆B>「ッ……」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road's Friend A&B> Huh..."
                             ]
                         },
                         {
@@ -2912,14 +2373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「男3人で部室に連れ込まないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話せない事ってのはなんだ？」"
+                                "\\N<Omura> What's the matter that you can't talk unless you\nbring three guys into the club room?"
                             ]
                         },
                         {
@@ -2936,28 +2390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「っ…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> Tch..."
                             ]
                         },
                         {
@@ -2974,28 +2407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道のツレA＆B>「そっそれは……」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road's Friend A&B> W-Well..."
                             ]
                         },
                         {
@@ -3012,7 +2424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道のツレA＆B>「……」"
+                                "\\N<Forest road's Friend A&B> ..."
                             ]
                         },
                         {
@@ -3029,7 +2441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「…」"
+                                "\\N<Forest road>「...」"
                             ]
                         },
                         {
@@ -3046,14 +2458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「…まあいい今回は見逃してやるが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二度とこんな事するんじゃないぞ」"
+                                "\\N<Omura> ...Well, I'll let it slide this time, but don't\nyou dare do something like this again."
                             ]
                         },
                         {
@@ -3070,28 +2475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「あぁ…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> Ah..."
                             ]
                         },
                         {
@@ -3108,28 +2492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道のツレA＆B>「……」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road's Friend A&B> ..."
                             ]
                         },
                         {
@@ -3146,7 +2509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>(ったく…下手糞な芝居に付き合わせやがって…)"
+                                "\\N<Forest road>(Jeez... making me go along with such a\ncrappy act...)"
                             ]
                         },
                         {
@@ -3691,7 +3054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(あれ…こんなあっさり…)"
+                                "\\N<Hinata Aki>(Huh... That was surprisingly easy...)"
                             ]
                         },
                         {
@@ -3742,28 +3105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「明輝大丈夫か？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Omura> Aki, are you okay?"
                             ]
                         },
                         {
@@ -3796,28 +3138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「……あっ…はい…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> ...Ah... Yes..."
                             ]
                         },
                         {
@@ -3834,28 +3155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「大丈夫俺がいるからな…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Omura> Don't worry, I'm here..."
                             ]
                         },
                         {
@@ -3872,7 +3172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「……はい」"
+                                "\\N<Hinata Aki> ...Yes"
                             ]
                         },
                         {

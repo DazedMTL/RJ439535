@@ -1639,7 +1639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "親の寝室には特に用はない・・・。"
+                                "I have no particular reason to go into my parents'\nbedroom..."
                             ]
                         },
                         {
@@ -1747,7 +1747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "親の寝室には特に用はない・・・。"
+                                "I have no particular reason to go into my parents'\nbedroom..."
                             ]
                         },
                         {
@@ -2047,7 +2047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれからどれだけの時間が経っただろう"
+                                "How much time has passed since then?"
                             ]
                         },
                         {
@@ -2123,28 +2123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<母>「今日も学校行かないの…？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Mother> Are you not going to school today...?"
                             ]
                         },
                         {
@@ -2161,28 +2140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<母>「最近明輝ちゃんも迎えに来ないし…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Mother> Lately, Aki-chan hasn't been coming to pick you\nup either..."
                             ]
                         },
                         {
@@ -2199,28 +2157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<母>「喧嘩でもしちゃった？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Mother> Did you two have a fight?"
                             ]
                         },
                         {
@@ -2253,28 +2190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<母>「…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Mother>「...」"
                             ]
                         },
                         {
@@ -2291,28 +2207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<母>「はぁ…じゃあお母さん仕事行くから」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Mother> Sigh... Well, I'm going to work then."
                             ]
                         },
                         {
@@ -2329,7 +2224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<母>「遅刻しても良いから行きなよ？」"
+                                "<Mother> Even if you're going to be late, go to school,\nokay?"
                             ]
                         },
                         {
@@ -2533,28 +2428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -2571,28 +2445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -2616,28 +2469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -2654,28 +2486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -2699,28 +2510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -2737,28 +2527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -2794,7 +2563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "数年後"
+                                "Several years later."
                             ]
                         },
                         {
@@ -2823,28 +2592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<母>「…そろそろバイトでもしてみたら？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Mother> ...How about trying to get a part-time job\nsoon?"
                             ]
                         },
                         {
@@ -2861,28 +2609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<母>「…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Mother>「...」"
                             ]
                         },
                         {
@@ -2899,28 +2626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<母>「……明輝ちゃんは街出て就職したよ？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Mother> ......Has Aki-chan moved to the city and found a\njob?"
                             ]
                         },
                         {
@@ -2937,7 +2643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<母>「…」"
+                                "\\N<Mother>「...」"
                             ]
                         },
                         {
@@ -4116,7 +3822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "明日に備えて寝よう…。"
+                                "Let's get some rest to prepare for tomorrow..."
                             ]
                         },
                         {
@@ -4576,7 +4282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "明輝を誘い行こう"
+                                "Let's invite Aki and go."
                             ]
                         },
                         {
@@ -5662,7 +5368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夏休み中に見た夢をこの日記帳に書き記します。"
+                                "I will write down the dream I had during summer vacation in\nthis diary."
                             ]
                         },
                         {
@@ -5742,7 +5448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何日の夢日記を読みますか？"
+                                "Which day's dream diary would you like to read?"
                             ]
                         },
                         {
@@ -7737,7 +7443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何日の夢日記を読みますか？"
+                                "Which day's dream diary would you like to read?"
                             ]
                         },
                         {
@@ -10025,7 +9731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何日の夢日記を読みますか？"
+                                "Which day's dream diary would you like to read?"
                             ]
                         },
                         {
@@ -12148,7 +11854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何日の夢日記を読みますか？"
+                                "Which day's dream diary would you like to read?"
                             ]
                         },
                         {
@@ -14271,7 +13977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何日の夢日記を読みますか？"
+                                "Which day's dream diary would you like to read?"
                             ]
                         },
                         {

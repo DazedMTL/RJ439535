@@ -4363,28 +4363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「あれ…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Huh..."
                             ]
                         },
                         {
@@ -4401,28 +4380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「……太郎？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> ...Taro?"
                             ]
                         },
                         {
@@ -4507,7 +4465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「…帰省してたんだね…久しぶり」"
+                                "\\N<Hinata Aki> ...So you were back home... It's been a\nwhile."
                             ]
                         },
                         {
@@ -4524,7 +4482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「ホント…本当に…久しぶりだ…」"
+                                "\\N<Hinata Aki> Wow... It's really been a long time..."
                             ]
                         },
                         {
@@ -4541,14 +4499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「…太郎卒業してすぐ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この街出て行っちゃったもんね」"
+                                "\\N<Hinata Aki> ...Taro, you left this town right after\ngraduating."
                             ]
                         },
                         {
@@ -4565,7 +4516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「…あっちの生活には慣れた？」"
+                                "\\N<Hinata Aki> ...Have you gotten used to life over there?"
                             ]
                         },
                         {
@@ -4629,7 +4580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「ど…どうせ部屋散らかってるんでしょ～！」"
+                                "\\N<Hinata Aki> Y-You...your room is probably a mess,\nright?!"
                             ]
                         },
                         {
@@ -4646,7 +4597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「太郎は昔から掃除苦手でいつもアタシが…」"
+                                "\\N<Hinata Aki> Taro has always been bad at cleaning, so I\nalways..."
                             ]
                         },
                         {
@@ -4731,7 +4682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「…」"
+                                "\\N<Hinata Aki>「...」"
                             ]
                         },
                         {
@@ -4748,7 +4699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「……そういう話は…いっか…」"
+                                "\\N<Hinata Aki> ...I guess it's fine to talk about that..."
                             ]
                         },
                         {
@@ -4765,7 +4716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「……」"
+                                "\\N<Hinata Aki>「......」"
                             ]
                         },
                         {
@@ -4782,14 +4733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「……せっかく帰ってきたんだしさ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゆっくりしていきなよ」"
+                                "\\N<Hinata Aki> ...Since you've finally come back, why don't\nyou take it easy?"
                             ]
                         },
                         {
@@ -4822,7 +4766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「相変わらず何も無い街だけどね～アハハ……」"
+                                "\\N<Hinata Aki> It's still the same old town with nothing\nmuch happening, huh~ Ahaha..."
                             ]
                         },
                         {
@@ -4839,7 +4783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「アハハ……ハハ…」"
+                                "<Hinata Aki> Ahaha... Haha..."
                             ]
                         },
                         {
@@ -4924,7 +4868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「…」"
+                                "\\N<Hinata Aki>「...」"
                             ]
                         },
                         {
@@ -4941,7 +4885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「……そろそろアタシ家に帰らなきゃ」"
+                                "\\N<Hinata Aki> ...I should probably go back home soon."
                             ]
                         },
                         {
@@ -4958,7 +4902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「旦那が心配してる…」"
+                                "\\N<Hinata Aki> My husband is worried..."
                             ]
                         },
                         {
@@ -4975,7 +4919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「……じゃあね」"
+                                "\\N<Hinata Aki> ...Well then, see you later."
                             ]
                         },
                         {
@@ -4992,7 +4936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「……」"
+                                "\\N<Hinata Aki>「......」"
                             ]
                         },
                         {
@@ -6004,7 +5948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<野良猫>にゃ～ん"
+                                "\\N<Stray cat> Meow~"
                             ]
                         },
                         {
@@ -6419,7 +6363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんな遅くにお邪魔するのは迷惑だ・・・"
+                                "It's a bother to come over this late..."
                             ]
                         },
                         {

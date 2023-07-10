@@ -1609,7 +1609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「全部の想い出を開放する？」"
+                                "\\N<Hinata Aki> Are you going to unlock all of the\nmemories?"
                             ]
                         },
                         {
@@ -1765,7 +1765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「想い出は全部開放したよ」"
+                                "\\N<Hinata Aki> I've opened up all of my memories."
                             ]
                         },
                         {
@@ -2407,7 +2407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ソウタ『8月4日』を見ますか？"
+                                "Souta: Do you want to watch 'August 4th'?"
                             ]
                         },
                         {
@@ -2758,7 +2758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "林道『8月5日』を見ますか？"
+                                "Do you want to watch the movie 'Lin Road: August 5th'?"
                             ]
                         },
                         {
@@ -3042,7 +3042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "林道『8月8日』を見ますか？"
+                                "Do you want to watch the movie 'Forest Path: August 8th'?"
                             ]
                         },
                         {
@@ -3326,7 +3326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "林道『8月12日』を見ますか？"
+                                "Do you want to watch the forest road 'August 12th'?"
                             ]
                         },
                         {
@@ -3610,7 +3610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "林道『8月2日』を見ますか？"
+                                "Do you want to watch the movie 'Forest Path: August 2nd'?"
                             ]
                         },
                         {
@@ -3894,7 +3894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "林道『8月15日』を見ますか？"
+                                "Do you want to watch the movie 'Lin Road: August 15th'?"
                             ]
                         },
                         {
@@ -4178,7 +4178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "林道『8月18日』を見ますか？"
+                                "Do you want to watch the movie 'Forest Path: August 18th'?"
                             ]
                         },
                         {
@@ -4462,7 +4462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "林道『END』を見ますか？"
+                                "Do you want to watch the 'Forest Path: END'?"
                             ]
                         },
                         {
@@ -4712,7 +4712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大村『8月5日』を見ますか？"
+                                "Do you want to watch 'August 5th', Omura?"
                             ]
                         },
                         {
@@ -5000,7 +5000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ソウタ『8月7日』を見ますか？"
+                                "Souta: Do you want to watch 'August 7th'?"
                             ]
                         },
                         {
@@ -5284,7 +5284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『ハッピーエンド』を見ますか？"
+                                "Do you want to see the 'Happy End'?"
                             ]
                         },
                         {
@@ -5550,7 +5550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ソウタ『8月10日』を見ますか？"
+                                "Souta: Do you want to watch 'August 10th'?"
                             ]
                         },
                         {
@@ -5834,7 +5834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ソウタ『8月13日』を見ますか？"
+                                "Souta: Do you want to watch 'August 13th'?"
                             ]
                         },
                         {
@@ -6118,7 +6118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ソウタ『END』を見ますか？"
+                                "Would you like to see the END for Souta?"
                             ]
                         },
                         {
@@ -6384,7 +6384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ソウタ『8月16日』を見ますか？"
+                                "Souta: Do you want to watch 'August 16th'?"
                             ]
                         },
                         {
@@ -6668,7 +6668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大村『8月8日』を見ますか？"
+                                "Do you want to watch 'August 8th', Omura?"
                             ]
                         },
                         {
@@ -6963,7 +6963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大村『8月13日』を見ますか？"
+                                "Do you want to see 'August 13th', Omura?"
                             ]
                         },
                         {
@@ -7258,7 +7258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大村『8月17日』を見ますか？"
+                                "Do you want to see 'August 17th', Omura?"
                             ]
                         },
                         {
@@ -7553,7 +7553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大村『END』を見ますか？"
+                                "Do you want to see the Oomura 'END'?"
                             ]
                         },
                         {
@@ -7830,7 +7830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大村『8月21日』を見ますか？"
+                                "Do you want to see 'August 21st', Omura?"
                             ]
                         },
                         {
@@ -8125,7 +8125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "佐山『8月6日』を見ますか？"
+                                "SAYAMA: Will you watch 'August 6th'?"
                             ]
                         },
                         {
@@ -8409,7 +8409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "佐山『8月9日』を見ますか？"
+                                "SAYAMA: Will you watch 'August 9th'?"
                             ]
                         },
                         {
@@ -8693,7 +8693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "佐山『8月11日』を見ますか？"
+                                "SAYAMA: Will you watch 'August 11th'?"
                             ]
                         },
                         {
@@ -8977,7 +8977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "佐山『8月14日』を見ますか？"
+                                "SAYAMA: Will you watch 'August 14th'?"
                             ]
                         },
                         {
@@ -9261,7 +9261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "佐山『8月17日』を見ますか？"
+                                "SAYAMA: Will you watch 'August 17th'?"
                             ]
                         },
                         {
@@ -9545,7 +9545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "佐山『END』を見ますか？"
+                                "Do you want to see the END by Sayama?"
                             ]
                         },
                         {
@@ -9811,7 +9811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中野『8月5日』を見ますか？"
+                                "Nakano, will you watch 'August 5th'?"
                             ]
                         },
                         {
@@ -10088,7 +10088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中野『8月8日』を見ますか？"
+                                "Nakano, will you watch 'August 8th'?"
                             ]
                         },
                         {
@@ -10365,7 +10365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大村『8月1日』を見ますか？"
+                                "Do you want to see 'August 1st', Omura?"
                             ]
                         },
                         {
@@ -10654,7 +10654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中野『8月12日』を見ますか？"
+                                "Nakano, do you want to watch 'August 12th'?"
                             ]
                         },
                         {
@@ -10931,7 +10931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中野『8月16日』を見ますか？"
+                                "Nakano, do you want to watch 'August 16th'?"
                             ]
                         },
                         {
@@ -11208,7 +11208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中野『8月20日』を見ますか？"
+                                "Nakano, do you want to see 'August 20th'?"
                             ]
                         },
                         {
@@ -11485,7 +11485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中野『END』を見ますか？"
+                                "Do you want to watch Nakano 'END'?"
                             ]
                         },
                         {
@@ -11753,7 +11753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中野『8月2日』を見ますか？"
+                                "Nakano, do you want to watch 'August 2nd'?"
                             ]
                         },
                         {
@@ -12030,7 +12030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "佐山『8月3日』を見ますか？"
+                                "SAYAMA: Will you watch 'August 3rd'?"
                             ]
                         },
                         {
@@ -12481,7 +12481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ソウタ『8月1日』を見ますか？"
+                                "Souta: Do you want to watch 'August 1st'?"
                             ]
                         },
                         {

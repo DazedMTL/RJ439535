@@ -3880,28 +3880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -3918,28 +3897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -3963,28 +3921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -4001,28 +3938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -4046,28 +3962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -4084,28 +3979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -4153,28 +4027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明輝の母>「あら～<N太郎>じゃない」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Aki's mother> Oh, it's Taro."
                             ]
                         },
                         {
@@ -4191,28 +4044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明輝の母>「明輝なら出かけちゃったわよ？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Aki's mother> Aki has already gone out, you know?"
                             ]
                         },
                         {
@@ -4229,14 +4061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明輝の母>「最近夜帰ってくるのが遅かったり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "連絡もなしに泊まってきたりするのよ？」"
+                                "\\N<Aki's mother> Lately, you've been coming home late at\nnight and even staying over without any notice, you know?"
                             ]
                         },
                         {
@@ -4253,28 +4078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明輝の母>「<N太郎>何か知らないかしら…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Aki's mother> I wonder if Taro knows something..."
                             ]
                         },
                         {
@@ -4300,7 +4104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明輝の母>「そうなのね…」"
+                                "<Aki's mother> Is that so..."
                             ]
                         },
                         {
@@ -4350,28 +4154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -4388,28 +4171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -4433,28 +4195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -4471,28 +4212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -4516,28 +4236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -4554,28 +4253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -4604,7 +4282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう一度明輝を誘いに行こう"
+                                "Let's go invite Aki again."
                             ]
                         },
                         {
@@ -4649,28 +4327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明輝の母>「あら…まだ会えてなかったの？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Aki's mother> Oh... we still haven't met?"
                             ]
                         },
                         {
@@ -4687,14 +4344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明輝の母>「夕方頃帰ってきたと思ったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また出て行っちゃったわよ？」"
+                                "\\N<Aki's mother> Just when I thought you came back in the\nevening, you went out again?"
                             ]
                         },
                         {
@@ -4711,14 +4361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明輝の母>「今なら走って追いかければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "追いつけるんじゃないかな」"
+                                "\\N<Aki's mother> If you run now, maybe you can catch up\nwith them."
                             ]
                         },
                         {
@@ -4735,7 +4378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明輝の母>「まったくあの子…最近なにしてるのかしら…」"
+                                "\\N<Aki's mother> I wonder what that child has been up to\nlately..."
                             ]
                         },
                         {
@@ -5115,7 +4758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<野良猫>にゃ～ん"
+                                "\\N<Stray cat> Meow~"
                             ]
                         },
                         {
@@ -5673,7 +5316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が閉まっている"
+                                "The key is locked."
                             ]
                         },
                         {
@@ -5753,7 +5396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵が閉まっている"
+                                "The key is locked."
                             ]
                         },
                         {

@@ -1639,7 +1639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "親の寝室には特に用はない・・・。"
+                                "I have no particular reason to go into my parents'\nbedroom..."
                             ]
                         },
                         {
@@ -1747,7 +1747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "親の寝室には特に用はない・・・。"
+                                "I have no particular reason to go into my parents'\nbedroom..."
                             ]
                         },
                         {
@@ -2238,7 +2238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>\\{「お～い！！太郎！！」"
+                                "\\N<Hinata Aki>\\{ Hey, Taro!"
                             ]
                         },
                         {
@@ -2255,7 +2255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<太郎>・・・"
+                                "\\N<Taro>..."
                             ]
                         },
                         {
@@ -2300,7 +2300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>\\{「お！き！ろ！」"
+                                "\\N Hinata Aki: Oh! Ki! Ro!"
                             ]
                         },
                         {
@@ -2326,7 +2326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<太郎>「・・・・・！」"
+                                "\\N<Taro>「.....！」"
                             ]
                         },
                         {
@@ -2343,7 +2343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「太郎いつまで寝てるの？」"
+                                "\\N<Hinata Aki> Taro, how long are you going to sleep?"
                             ]
                         },
                         {
@@ -2360,21 +2360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『日向明輝(ひなたあき)』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男勝りな幼馴染　勉強は苦手だが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "運動神経抜群で学校では男女問わず人気がある"
+                                "'Hinata Aki' A tomboyish childhood friend who is not good at\nstudying but excels in physical abilities. She is popular\namong both boys and girls at school."
                             ]
                         },
                         {
@@ -2391,28 +2377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "世話焼きな一面もあり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よく朝起こしに来てくれる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "She has a caring side and often comes to wake me up in the\nmorning."
                             ]
                         },
                         {
@@ -2429,14 +2394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな明輝に小さい頃から片思いをしているが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日まで告白できずにいる"
+                                "I have had a one-sided crush on Aki since we were little,\nbut I haven't been able to confess my feelings until today."
                             ]
                         },
                         {
@@ -2469,7 +2427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「もうこんな時間だよ？」"
+                                "<Hinata Aki> It's already this late, you know?"
                             ]
                         },
                         {
@@ -2486,14 +2444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「夏休みが近いからって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう夏休み気分なんじゃない？」"
+                                "\\N<Hinata Aki> Don't you already feel like it's summer\nvacation because it's almost here?"
                             ]
                         },
                         {
@@ -2557,14 +2508,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「呆れた～・・・本当アタシがいないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "太郎はダメだね～」"
+                                "<Hinata Aki> I'm so exasperated... Taro really can't\nfunction without me, huh~"
                             ]
                         },
                         {
@@ -2619,7 +2563,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「え・・・あっ・・・うん・・・」"
+                                "\\N<Hinata Aki> Eh... Ah... Yeah..."
                             ]
                         },
                         {
@@ -2636,7 +2580,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「今日はやけに素直じゃん・・・」"
+                                "\\N<Hinata Aki> You're unusually honest today..."
                             ]
                         },
                         {
@@ -2653,7 +2597,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「・・・」"
+                                "\\N<Hinata Aki>「...」"
                             ]
                         },
                         {
@@ -2670,7 +2614,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「・・・・・」"
+                                "\\N<Hinata Aki>「.....」"
                             ]
                         },
                         {
@@ -2713,14 +2657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「・・・とにかく！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く準備しないと学校遅れるから！」"
+                                "\\N<Hinata Aki> ...Anyway! Hurry up and get ready or we'll\nbe late for school!"
                             ]
                         },
                         {
@@ -2737,7 +2674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「さっさと顔洗ってきなよ！」"
+                                "\\N<Hinata Aki> Hurry up and wash your face!"
                             ]
                         },
                         {
@@ -2754,7 +2691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「アタシ外で待ってるから！」"
+                                "\\N<Hinata Aki> I'll be waiting outside!"
                             ]
                         },
                         {
@@ -2771,7 +2708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「あんまり遅れないでよ？遅かったら先行くからね」"
+                                "\\N<Hinata Aki> Don't be too late, okay? If you're late,\nI'll go ahead without you."
                             ]
                         },
                         {
@@ -3102,7 +3039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "明日に備えて寝る事にしよう…。"
+                                "Let's go to sleep to prepare for tomorrow..."
                             ]
                         },
                         {
@@ -3359,28 +3296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「\\{太郎おはよ～！！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Good morning, Taro~!"
                             ]
                         },
                         {
@@ -3397,7 +3313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「今日のテスト頑張ったら<N夏休み>だよ！」"
+                                "\\N<Hinata Aki> If you do your best on today's test, it'll\nbe summer vacation!"
                             ]
                         },
                         {
@@ -3414,28 +3330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「赤点回避頑張ろう～～！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Let's do our best to avoid failing grades~!"
                             ]
                         },
                         {
@@ -3452,7 +3347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「ほらっ学校行くよっ！」"
+                                "\\N<Hinata Aki> Come on, let's go to school!"
                             ]
                         },
                         {
@@ -3695,7 +3590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "身だしなみを整えた"
+                                "Groomed oneself"
                             ]
                         },
                         {
@@ -3891,7 +3786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "顔を洗わないと明輝に怒られる"
+                                "Aki will get angry if you don't wash your face."
                             ]
                         },
                         {
@@ -4411,7 +4306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "明日に備えて寝よう…。"
+                                "Let's go to sleep to prepare for tomorrow..."
                             ]
                         },
                         {
@@ -4871,7 +4766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "明輝を誘い行こう"
+                                "Let's invite Aki and go."
                             ]
                         },
                         {
@@ -5985,7 +5880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日はもう寝ますか？"
+                                "Are you going to sleep already today?"
                             ]
                         },
                         {
@@ -6272,7 +6167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日はもう寝ますか？"
+                                "Are you going to sleep already today?"
                             ]
                         },
                         {
@@ -6553,7 +6448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日はもう寝ますか？"
+                                "Are you going to sleep already today?"
                             ]
                         },
                         {
@@ -6893,7 +6788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたには今日から<I7月31日>まで自由に行動してもらいます。"
+                                "You are free to do as you please from today until <July\n31st>."
                             ]
                         },
                         {
@@ -6910,14 +6805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<I7月31日>までの行動次第で<K日向明輝>との"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今後の関係が決まってしまいます。"
+                                "Depending on your actions until <July 31st>, your future\nrelationship with <Hinata Aki> will be determined."
                             ]
                         },
                         {
@@ -6934,7 +6822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自由行動の前に簡単な説明をさせていただきます。"
+                                "Before you start your free activities, let me give you a\nbrief explanation."
                             ]
                         },
                         {
@@ -6974,28 +6862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダッシュ＝『<NShift＋方向キー>』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "1時間スキップ＝『<NT>』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "テキストスキップ＝『<NCtrl>』or『<NAlt>』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メニュー呼び出し＝『<Nマウス右クリック>』or『<NESC>』"
+                                "Dash = '<NShift + Direction Key>' 1-hour skip = '<NT>' Text\nskip = '<NCtrl>' or '<NAlt>' Menu call = '<NRight Click>' or\n'<NESC>'"
                             ]
                         },
                         {
@@ -7012,14 +6879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "更にテキストメッセージ表示中に『<N右クリック>』を押す事で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メッセージウィンドウを消す事が出来ます。"
+                                "You can hide the message window by pressing '<NRight Click>'\nwhile a text message is being displayed."
                             ]
                         },
                         {
@@ -7043,7 +6903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次にイベントについてです。"
+                                "Next, let's talk about the events."
                             ]
                         },
                         {
@@ -7076,7 +6936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "街や学校から出るとフィールドマップが現れます。"
+                                "When you leave the town or school, a field map will appear."
                             ]
                         },
                         {
@@ -7109,14 +6969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フィールマップには明輝を狙う男たちのフキダシアイコンが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "各エリアに表示されています。"
+                                "On the field map, speech bubble icons of men targeting Aki\nare displayed in each area."
                             ]
                         },
                         {
@@ -7133,14 +6986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "不用意に近づくと明輝と男達の関係が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "深くなっていきますので注意してください。"
+                                "Please be careful not to approach carelessly, as it will\ndeepen the relationship between Aki and the men."
                             ]
                         },
                         {
@@ -7171,7 +7017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "説明は以上です。"
+                                "That's all for the explanation."
                             ]
                         },
                         {
@@ -7746,7 +7592,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "テスト当日"
+                                "Test day"
                             ]
                         },
                         {
@@ -7763,7 +7609,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いつも起こしに来るはずの明輝は来ない"
+                                "Aki, who is supposed to always come to wake me up, isn't\nhere."
                             ]
                         },
                         {
@@ -7780,7 +7626,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この数日明輝との距離は離れていくばかりだった"
+                                "These past few days, the distance between Aki and me has\nonly been growing."
                             ]
                         },
                         {
@@ -7797,7 +7643,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・"
+                                "..."
                             ]
                         },
                         {
@@ -7814,7 +7660,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・・・・"
+                                "......"
                             ]
                         },
                         {
@@ -7831,7 +7677,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あれから数年後・・・"
+                                "Several years later..."
                             ]
                         },
                         {
@@ -7979,28 +7825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何年も勇気が出ず気持ちを隠してきた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I've been hiding my feelings without mustering the courage\nfor many years."
                             ]
                         },
                         {
@@ -8017,28 +7842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな自分に嫌気がさし覚悟を決めた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I became fed up with myself like that and made up my mind."
                             ]
                         },
                         {
@@ -8055,28 +7859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -8093,28 +7876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -8131,28 +7893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今年の夏こそは必ず<K日向明輝>に告白する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "This summer, I will definitely confess to <Hinata Aki>."
                             ]
                         },
                         {
@@ -8169,28 +7910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -8207,28 +7927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -8245,28 +7944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -8283,28 +7961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -8321,28 +7978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -8359,28 +7995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -8397,28 +8012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今年の夏祭り…一緒に行こう」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Let's go to the summer festival together this year."
                             ]
                         },
                         {
@@ -8435,28 +8029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -8473,28 +8046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -8511,28 +8063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -8549,28 +8080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -8587,28 +8097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「え？う、うん」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Huh? Y-yeah."
                             ]
                         },
                         {
@@ -8625,14 +8114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「毎年一緒に行ってるじゃん…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしたの改まって誘うなんて…」"
+                                "<Hinata Aki> We go together every year... What's the\nmatter? Inviting me so formally..."
                             ]
                         },
                         {
@@ -8649,28 +8131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「……<N太郎>？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> ...<N Taro>?"
                             ]
                         },
                         {
@@ -8687,28 +8148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -8725,28 +8165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -8763,28 +8182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -8801,7 +8199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "......"
                             ]
                         },
                         {
@@ -9341,7 +8739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "栞から誘いの連絡だ"
+                                "Invitation message from Kanade."
                             ]
                         },
                         {
@@ -9358,7 +8756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日は予定も無いので栞に会いに行こう"
+                                "Since I don't have any plans today, let's go meet Shiori."
                             ]
                         },
                         {
@@ -9556,7 +8954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日は旅館でバイトをする日だ"
+                                "Today is the day I will work part-time at the inn."
                             ]
                         },
                         {
@@ -9573,7 +8971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遅刻しないよう旅館へ向かおう"
+                                "Let's head to the inn so we don't be late."
                             ]
                         },
                         {
@@ -9780,7 +9178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夏休みも残りわずか"
+                                "Summer vacation is almost over."
                             ]
                         },
                         {
@@ -9797,7 +9195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "明日25日に行われる<K祭>に明輝を誘いましょう"
+                                "Let's invite Aki to the <K Festival> that will be held\ntomorrow, on the 25th."
                             ]
                         },
                         {
@@ -9955,7 +9353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日は<K祭>当日"
+                                "Today is the day of the <K Festival>."
                             ]
                         },
                         {
@@ -9972,7 +9370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<K明輝>に告白をする<N最後のチャンス>です。"
+                                "This is <Hinata Aki>'s <N last chance> to confess."
                             ]
                         },
                         {
@@ -10147,7 +9545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夏休み中に見た夢をこの日記帳に書き記します。"
+                                "I will write down the dream I had during summer vacation in\nthis diary."
                             ]
                         },
                         {
@@ -10227,7 +9625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何日の夢日記を読みますか？"
+                                "Which day's dream diary would you like to read?"
                             ]
                         },
                         {
@@ -12402,7 +11800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何日の夢日記を読みますか？"
+                                "Which day's dream diary would you like to read?"
                             ]
                         },
                         {
@@ -14789,7 +14187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何日の夢日記を読みますか？"
+                                "Which day's dream diary would you like to read?"
                             ]
                         },
                         {
@@ -16912,7 +16310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何日の夢日記を読みますか？"
+                                "Which day's dream diary would you like to read?"
                             ]
                         },
                         {
@@ -19035,7 +18433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何日の夢日記を読みますか？"
+                                "Which day's dream diary would you like to read?"
                             ]
                         },
                         {
@@ -21959,7 +21357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "......"
                             ]
                         },
                         {
@@ -22185,7 +21583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夏休みも残りわずか"
+                                "Summer vacation is almost over."
                             ]
                         },
                         {
@@ -22202,7 +21600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "明日行われる<K祭>に明輝を誘いましょう"
+                                "Let's invite Aki to the <K Festival> that will be held\ntomorrow."
                             ]
                         },
                         {
@@ -22240,7 +21638,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "明輝を誘いに行こう"
+                                "Let's go invite Aki."
                             ]
                         },
                         {
@@ -22456,7 +21854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夏休みも残りわずか"
+                                "Summer vacation is almost over."
                             ]
                         },
                         {
@@ -22473,7 +21871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "明日25日に行われる<K祭>に明輝を誘いましょう"
+                                "Let's invite Aki to the <K Festival> that will be held\ntomorrow, on the 25th."
                             ]
                         },
                         {
@@ -22649,28 +22047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "近々行われる<K夏祭り>が行われます"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "The upcoming <K Summer Festival> will be held soon."
                             ]
                         },
                         {
@@ -22687,7 +22064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<K夏祭り>に明輝を誘いましょう。"
+                                "Let's invite Aki to the <K Summer Festival>."
                             ]
                         },
                         {
@@ -22896,7 +22273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明るい生徒>「お～い…太郎～いるかぁ？」"
+                                "\\N<Bright student> Heeey... Taro~ are you there?"
                             ]
                         },
                         {
@@ -22961,28 +22338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明るい生徒>「わりぃな急に来ちまってよ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Bright student> Sorry for coming over so suddenly."
                             ]
                         },
                         {
@@ -22999,28 +22355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明るい生徒>「実はお願いがあって来たんだけどよ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Bright student> Actually, I came here with a favor to\nask."
                             ]
                         },
                         {
@@ -23037,14 +22372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明るい生徒>「近々神社で祭があるだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その設営のバイトを俺やる予定なんだけどさ」"
+                                "\\N<Bright student> There's a festival at the shrine soon,\nright? I'm planning to do part-time work for the setup."
                             ]
                         },
                         {
@@ -23061,14 +22389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明るい生徒>「急遽他のバイトが来れなくなったんだよ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それで…太郎に頼めねえかなぁって…」"
+                                "\\N<Bright student> Suddenly, one of the other part-time\nworkers couldn't make it... So... I was wondering if I could\nask Taro for a favor..."
                             ]
                         },
                         {
@@ -23085,14 +22406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明るい生徒>「他にも色んな奴に頼んで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…<K明輝>と近所の男の子が来てくれる事になったんだが」"
+                                "\\N<Bright student> I asked various people, and it turns out\nthat <K Aki> and a boy from the neighborhood will be\ncoming."
                             ]
                         },
                         {
@@ -23109,7 +22423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明るい生徒>「あと一人は欲しいんだよ…な？頼むよ…！」"
+                                "\\N<Bright student> I need one more person... right?\nPlease...!"
                             ]
                         },
                         {
@@ -23135,14 +22449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明るい生徒>「マジか！ありがとう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…じゃあさっそく神社に行こうぜ！」"
+                                "\\N<Bright student> Seriously! Thank you! ...Then let's go\nto the shrine right away!"
                             ]
                         },
                         {
@@ -23443,28 +22750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "近々行われる<K夏祭り>が行われます"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "The upcoming <K Summer Festival> will be held soon."
                             ]
                         },
                         {
@@ -23481,7 +22767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<K夏祭り>に明輝を誘いましょう。"
+                                "Let's invite Aki to the <K Summer Festival>."
                             ]
                         },
                         {

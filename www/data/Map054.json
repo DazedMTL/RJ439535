@@ -2126,28 +2126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -2164,7 +2143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "......"
                             ]
                         },
                         {
@@ -2188,28 +2167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -2226,7 +2184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "......"
                             ]
                         },
                         {
@@ -2250,28 +2208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -2288,7 +2225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "......"
                             ]
                         },
                         {
@@ -2354,28 +2291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>「まさか本当に着て帰ってくれるとは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思わなかったぜ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Male> I never thought you would actually wear it and\ncome back."
                             ]
                         },
                         {
@@ -2392,7 +2308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>「軽い冗談のつもりだったのによ」"
+                                "\\N<Male> I meant it as a light joke, you know."
                             ]
                         },
                         {
@@ -2409,7 +2325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女>「冗談ッ！？」"
+                                "\\N<Female> Is this a joke!?"
                             ]
                         },
                         {
@@ -2433,7 +2349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この角度からだとよく見えない"
+                                "It's hard to see from this angle."
                             ]
                         },
                         {
@@ -2450,7 +2366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "別の角度から…"
+                                "From a different angle..."
                             ]
                         },
                         {
@@ -2467,7 +2383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -2524,7 +2440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "明輝…？……大村…？"
+                                "Aki...?... Omura...?"
                             ]
                         },
                         {
@@ -2541,14 +2457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「アタシがどれだけ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恥ずかしかったと思ってるの！」"
+                                "\\N<Hinata Aki> Do you have any idea how embarrassed I\nwas?!"
                             ]
                         },
                         {
@@ -2565,14 +2474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「もう街中の人から変な目で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見られて変態扱いだよ！」"
+                                "\\N<Hinata Aki> I'm already being seen by people in town\nwith weird looks, treating me like a pervert!"
                             ]
                         },
                         {
@@ -2589,14 +2491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「知り合いの人もいて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バレそうになったんだからっ」"
+                                "\\N<Hinata Aki> There were even people I know, and I almost\ngot caught!"
                             ]
                         },
                         {
@@ -2613,7 +2508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「まぁまぁいいじゃねえかバレなかったんだからよ」"
+                                "\\N<Omura> Well, it's fine since you didn't get caught,\nright?"
                             ]
                         },
                         {
@@ -2630,28 +2525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「………それでどうなの」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> ...So, what's the deal?"
                             ]
                         },
                         {
@@ -2668,28 +2542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「ん…？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Omura> Huh...?"
                             ]
                         },
                         {
@@ -2706,28 +2559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「っ……‼」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Huh...?!"
                             ]
                         },
                         {
@@ -2744,28 +2576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「…似合ってるのかって事！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> ...Is it because it suits me?!"
                             ]
                         },
                         {
@@ -2782,28 +2593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「～<K♥>」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Omura>「～<K♥>」"
                             ]
                         },
                         {
@@ -2820,28 +2610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「似合ってるよ<K♥>」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Omura> It suits you, you know <K♥>"
                             ]
                         },
                         {
@@ -2858,7 +2627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「……<K♥>」"
+                                "\\N<Hinata Aki>「......<K♥>」"
                             ]
                         },
                         {
@@ -2922,7 +2691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「え……？」"
+                                "\\N<Hinata Aki> Huh...?"
                             ]
                         },
                         {
@@ -2979,7 +2748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「…？…どうかしたか？」"
+                                "\\N<Omura> ...?...Is something wrong?"
                             ]
                         },
                         {
@@ -3001,7 +2770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「…ん～ん」"
+                                "\\N<Hinata Aki> ...Hmm"
                             ]
                         },
                         {
@@ -3018,14 +2787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「一瞬外に誰かいた気がしたけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……気のせいかな？」"
+                                "\\N<Hinata Aki> I felt like someone was outside for a\nmoment... Maybe it was just my imagination?"
                             ]
                         },
                         {
@@ -3042,7 +2804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「気のせいだろ」"
+                                "\\N<Omura> It's probably just your imagination."
                             ]
                         },
                         {
@@ -3073,28 +2835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -3111,7 +2852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "......"
                             ]
                         },
                         {
@@ -3135,28 +2876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -3173,7 +2893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "......"
                             ]
                         },
                         {
@@ -3197,28 +2917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -3235,7 +2934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "......"
                             ]
                         },
                         {

@@ -2376,7 +2376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子トイレから話し声が聞こえます"
+                                "Voices can be heard from the women's restroom."
                             ]
                         },
                         {
@@ -2393,14 +2393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗み聞きしますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ソウタイベントが進みます)"
+                                "Do you want to eavesdrop? (The event will progress)"
                             ]
                         },
                         {
@@ -2453,28 +2446,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<女性>「はぁ・・・ホントはダメなんだよこんな事」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "\\N<Female> Sigh... This is really not right."
                             ]
                         },
                         {
@@ -2491,28 +2463,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<???>「うん・・・でも今日怖い夢見ちゃって・・・」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "\\N<???> Yeah... but I had a scary dream today..."
                             ]
                         },
                         {
@@ -2529,28 +2480,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<???>「一人でトイレ行ったらお化けが出ちゃうかもしれないよ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "\\N<???> If you go to the restroom alone, a ghost might come\nout."
                             ]
                         },
                         {
@@ -2567,28 +2497,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<女性>「う～ん・・・お化け出ちゃうかなぁ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "\\N<Female> Hmm... I wonder if a ghost will come out."
                             ]
                         },
                         {
@@ -2605,28 +2514,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<???>「うん怖いよ・・・！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "\\N <???> 'Yeah, it's scary...!'"
                             ]
                         },
                         {
@@ -2643,28 +2531,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<女性>「あぁ～もう分かったから！早く済ませちゃお」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "\\N<Female> Ugh, I get it already! Let's just finish up\nquickly."
                             ]
                         },
                         {
@@ -2681,7 +2548,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<???>「うん・・・」"
+                                "\\N <???> 'Yeah...'"
                             ]
                         },
                         {
@@ -2710,28 +2577,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<女性>「ホント今日だけだからね」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "\\N<Female> It's only for today, okay?"
                             ]
                         },
                         {
@@ -2748,28 +2594,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<???>「うん・・・」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "\\N <???> 'Yeah...'"
                             ]
                         },
                         {
@@ -2786,7 +2611,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<女性>「出るとこ見られたらまずいからアタシ先に出て見てくるから」"
+                                "\\N<Female> It would be bad if someone saw me, so I'll go\nout first and check."
                             ]
                         },
                         {
@@ -2803,28 +2628,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<女性>「その後出てくるんだよ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "\\N<Female> I'll go out first and check."
                             ]
                         },
                         {
@@ -2841,7 +2645,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<女性>「・・・はぁ何やってんだろアタシ」"
+                                "\\N<Female> Haa... What am I doing?"
                             ]
                         },
                         {
@@ -2865,7 +2669,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "盗み聞きがバレる前にトイレから出よう"
+                                "Let's leave the restroom before our eavesdropping is\ndiscovered."
                             ]
                         },
                         {
@@ -2901,7 +2705,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "別視点を見ますか？"
+                                "Do you want to see a different perspective?"
                             ]
                         },
                         {
@@ -3196,7 +3000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゅぼっ…じゅっぼ………"
+                                "*Squish...squish...*"
                             ]
                         },
                         {
@@ -3213,7 +3017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んぉ…それいいな…もっと続けろ"
+                                "Mmm... that feels good... keep going."
                             ]
                         },
                         {
@@ -3230,7 +3034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "???…最初よりうまくなったんじゃねえか？"
+                                "Huh... You've gotten better since the beginning, haven't\nyou?"
                             ]
                         },
                         {
@@ -3247,7 +3051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "俺のチンポが喜ぶトコ分かってきたんだな"
+                                "You've come to understand the places that make my penis\nhappy, haven't you?"
                             ]
                         },
                         {
@@ -3264,7 +3068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んっ…じゅぼ…まぁ…少しは"
+                                "Mmm... slurp... well... you've improved a bit..."
                             ]
                         },
                         {
@@ -3281,7 +3085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへ…その舌で裏筋を舐めるのもっとしてくれよ"
+                                "Hehe... please continue licking the underside with your\ntongue."
                             ]
                         },
                         {
@@ -3298,7 +3102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…いつもよりギンギンだろ？"
+                                "...You're harder than usual, aren't you?"
                             ]
                         },
                         {
@@ -3315,7 +3119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んっ…まぁ…大きいです…"
+                                "Mmm... well... it's big..."
                             ]
                         },
                         {
@@ -3492,7 +3296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ\"<K♥>奥におちんちん来てるっ…"
+                                "Ahh, <K♥> a penis is coming inside me..."
                             ]
                         },
                         {
@@ -3509,7 +3313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんなに凄いんだっ…エッチって…"
+                                "It's so amazing... Sex is... "
                             ]
                         },
                         {
@@ -3526,7 +3330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "俺のこのデカチンだから気持ちいいんだぞ"
+                                "It feels good because of my big dick."
                             ]
                         },
                         {
@@ -3543,7 +3347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "俺以外の奴とやっても満足出来ねえだろうなぁ"
+                                "I don't think you'll be satisfied unless it's with someone\nother than me."
                             ]
                         },
                         {
@@ -3560,7 +3364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んっ…先輩のおっきくて…おかしくなりそう<K♥>"
+                                "Ngh... Senpai's big... it feels so good<K♥>"
                             ]
                         },
                         {
@@ -3737,7 +3541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん…ん…ちょっと…吸い過ぎ"
+                                "Hmm... hmm... wait... you're sucking too much."
                             ]
                         },
                         {
@@ -3754,7 +3558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんなに乳首固くしてよく言うぜ<K♥>"
+                                "You're saying that with your nipples so hard <K♥>"
                             ]
                         },
                         {
@@ -3771,7 +3575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "感じてんだろ…？俺に吸われて気持ちいいんだろ？"
+                                "You're feeling it, right...? It feels good to be sucked by\nme, doesn't it?"
                             ]
                         },
                         {
@@ -3788,7 +3592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っ…これ以上…やめよ…？"
+                                "S... Stop... any more than this...?"
                             ]
                         },
                         {
@@ -3965,7 +3769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やぁ…だめ…だめぇ…あんっ…!!"
+                                "Hi... no... nooo... ahn...!!"
                             ]
                         },
                         {
@@ -3982,7 +3786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほらぁ●●ッ!ここが気持ちいいんだろぉ!!"
+                                "Here... ah... here feels good, right?!"
                             ]
                         },
                         {
@@ -3999,7 +3803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほらっ！！ここだろっ！！●●！！"
+                                "There!! Right here!! ●●!!"
                             ]
                         },
                         {
@@ -4016,7 +3820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぁ…あ\"っ…そこ…やめてっ…"
+                                "Ah... ah... there... stop..."
                             ]
                         },
                         {
@@ -4033,7 +3837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぁ…へんになるっ…そこへんになるからぁ…"
+                                "Ah... it's getting strange... it's getting strange\nthere..."
                             ]
                         },
                         {
@@ -4050,7 +3854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…ぁ…●●っ…これマジやべぇ…<K♥>"
+                                "Haa... ah... ●●... this is seriously amazing... <K♥>"
                             ]
                         },
                         {
@@ -4410,28 +4214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「ソウタ！ここ女子トイレだよ！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Souta! This is the girls' restroom, you\nknow!"
                             ]
                         },
                         {
@@ -4448,28 +4231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「ダメだよ入ってきちゃ！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> No, you can't come in!"
                             ]
                         },
                         {
@@ -4520,28 +4282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ソウタ>「明輝姉ちゃん！俺一人でトイレに行けないよ！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Sota> Aki-nee-chan! I can't go to the bathroom alone!"
                             ]
                         },
                         {
@@ -4558,28 +4299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「えぇ～～！？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Eh~!?"
                             ]
                         },
                         {
@@ -4596,28 +4316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「だってソウタいつも一人で行ってたじゃん」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Hinata Aki> But Sota, you always went by yourself, didn't\nyou?"
                             ]
                         },
                         {
@@ -4650,28 +4349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「どうしちゃったのもう」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> What's wrong with you?"
                             ]
                         },
                         {
@@ -4688,28 +4366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ソウタ>「お願いだよ一緒にいてよ！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Sota> Please, stay with me!"
                             ]
                         },
                         {
@@ -4726,7 +4383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「はぁ・・・」"
+                                "\\N<Hinata Aki> Sigh..."
                             ]
                         },
                         {
@@ -4743,7 +4400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ソウタ>(へへ・・・俺のち〇こみたらどんな顔するかな・・・)"
+                                "\\N<Sota>(Hehe... I wonder what kind of expression she'll\nmake when she sees my... you know...)"
                             ]
                         },
                         {
@@ -4760,7 +4417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ソウタ>(たっぷり見せつけてやろうっ)"
+                                "\\N<Sota>(I'll show her plenty)"
                             ]
                         },
                         {

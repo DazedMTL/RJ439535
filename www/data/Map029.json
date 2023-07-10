@@ -3214,28 +3214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>「...」"
                             ]
                         },
                         {
@@ -3252,28 +3231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「人多いね…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> There are a lot of people..."
                             ]
                         },
                         {
@@ -3290,28 +3248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>「...」"
                             ]
                         },
                         {
@@ -3328,7 +3265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「屋台見に行こっか」"
+                                "\\N<Hinata Aki> Shall we go see the food stalls?"
                             ]
                         },
                         {
@@ -3496,28 +3433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「昔はいつも一緒に祭行ってたよね」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> We used to always go to the festival\ntogether, didn't we?"
                             ]
                         },
                         {
@@ -3534,14 +3450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「太郎が金魚取り過ぎて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎のお母さんに怒られてた」"
+                                "\\N<Hinata Aki> Taro caught too many goldfish and got\nscolded by Taro's mother."
                             ]
                         },
                         {
@@ -3558,14 +3467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「それでアタシの家でも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何匹か飼う事にしたんだよね」"
+                                "\\N<Hinata Aki> So we decided to keep a few at my house\ntoo."
                             ]
                         },
                         {
@@ -3591,28 +3493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「アハハ…懐かしいね」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Ahaha... It's nostalgic, isn't it?"
                             ]
                         },
                         {
@@ -3748,7 +3629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「ここの焼き鳥美味しいんだよね」"
+                                "\\N<Hinata Aki> The yakitori here is delicious, isn't it?"
                             ]
                         },
                         {
@@ -3765,7 +3646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「焼き鳥屋のおばあちゃんずっと元気で凄いなぁ…」"
+                                "\\N<Hinata Aki> The old ladies at the yakitori shop are\nalways so energetic, it's amazing..."
                             ]
                         },
                         {
@@ -3791,7 +3672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「うん…やっぱり美味しい」"
+                                "\\N<Hinata Aki> Yeah... it's delicious after all."
                             ]
                         },
                         {
@@ -3808,14 +3689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「そういえば太郎は塩派だったね…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対タレの方が美味しいのに」"
+                                "\\N<Hinata Aki> By the way, Taro used to prefer salt,\nright... Even though sauce is definitely more delicious."
                             ]
                         },
                         {
@@ -3863,7 +3737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「え？塩食べるかって…？」"
+                                "\\N<Hinata Aki> Huh? You eat salt...?"
                             ]
                         },
                         {
@@ -3880,7 +3754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「じゃあ一口っ…」"
+                                "\\N<Hinata Aki> Then, one bite..."
                             ]
                         },
                         {
@@ -3897,7 +3771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「んっ…おっ!」"
+                                "\\N<Hinata Aki> Hmm... Oh!"
                             ]
                         },
                         {
@@ -3914,7 +3788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「あれ…タレより美味しいかも…」"
+                                "\\N<Hinata Aki> Hmm... It might be even more delicious than\nthe sauce..."
                             ]
                         },
                         {
@@ -4052,14 +3926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「お面ってお祭りの定番だけど一度も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "買ったことないなぁ」"
+                                "\\N<Hinata Aki> Masks are a staple at festivals, but I've\nnever bought one before."
                             ]
                         },
                         {
@@ -4076,7 +3943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「え？買ってみるって？」"
+                                "\\N<Hinata Aki> Huh? You want to try buying one?"
                             ]
                         },
                         {
@@ -4093,7 +3960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「アハハちょっと恥ずかしいよ」"
+                                "\\N<Hinata Aki> Ahaha, it's a little embarrassing."
                             ]
                         },
                         {
@@ -4110,7 +3977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「…」"
+                                "\\N<Hinata Aki>「...」"
                             ]
                         },
                         {
@@ -4127,7 +3994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「……」"
+                                "\\N<Hinata Aki>「......」"
                             ]
                         },
                         {
@@ -4256,7 +4123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「色々回ったね」"
+                                "\\N<Hinata Aki> We've been through a lot, haven't we?"
                             ]
                         },
                         {
@@ -4273,7 +4140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「やっぱアタシお祭りの雰囲気好きだなぁ～」"
+                                "\\N<Hinata Aki> I really do love the atmosphere of\nfestivals~"
                             ]
                         },
                         {
@@ -4290,7 +4157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「太郎は楽しかった？」"
+                                "\\N<Hinata Aki> Did Taro have fun?"
                             ]
                         },
                         {
@@ -4338,7 +4205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「そっか…」"
+                                "\\N<Hinata Aki> I see..."
                             ]
                         },
                         {
@@ -4355,7 +4222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「じゃあそろそろアタシは…」"
+                                "\\N<Hinata Aki> Well then, I guess it's about time for me\nto..."
                             ]
                         },
                         {
@@ -4403,7 +4270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「え？何？」"
+                                "\\N<Hinata Aki> Huh? What?"
                             ]
                         },
                         {
@@ -4445,7 +4312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「…？」"
+                                "\\N<Hinata Aki>「...？」"
                             ]
                         },
                         {
@@ -4462,7 +4329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「もしかしてここじゃ言い難い事？」"
+                                "\\N<Hinata Aki> Is it something that's difficult to say\nhere?"
                             ]
                         },
                         {
@@ -4510,7 +4377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「そっか…」"
+                                "\\N<Hinata Aki> I see..."
                             ]
                         },
                         {
@@ -4527,7 +4394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「うん…わかった…」"
+                                "\\N<Hinata Aki> Yeah... I understand..."
                             ]
                         },
                         {
@@ -4544,7 +4411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「じゃあ場所変えよっか」"
+                                "\\N<Hinata Aki> Shall we change locations?"
                             ]
                         },
                         {

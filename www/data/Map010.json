@@ -751,14 +751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<眠そうな浮浪者>「勝手に入ってくるんじゃねえよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まったく・・・最近のガキは・・・・」"
+                                "\\N<Sleepy-looking vagrant> Don't just come in here without\npermission, seriously... Kids these days..."
                             ]
                         },
                         {

@@ -1881,28 +1881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -1919,28 +1898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -1957,28 +1915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -1995,28 +1932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -2033,28 +1949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -2307,7 +2202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<国語教師>「え～……突然の報告になるが」"
+                                "\\N<National Language Teacher> Um... I have a sudden\nannouncement."
                             ]
                         },
                         {
@@ -2324,14 +2219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<国語教師>「今日からこのクラスの担任は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大村先生から俺になった」"
+                                "\\N<National Language Teacher> Starting today, I will be\ntaking over as the homeroom teacher for this class from Mr.\nOmura."
                             ]
                         },
                         {
@@ -2348,14 +2236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<国語教師>「色々と事情があるらしく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "教師を続けられなくなったとの事だ」"
+                                "\\N<National Language Teacher> It seems that there are\nvarious circumstances, and he can no longer continue as a\nteacher."
                             ]
                         },
                         {
@@ -2516,28 +2397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女生徒>「やっぱりあれが原因だよね…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Female student> That's definitely the cause, right...?"
                             ]
                         },
                         {
@@ -2554,28 +2414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男生徒>「絶対にあれだな…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Male student> It must be that, right...?"
                             ]
                         },
                         {
@@ -2592,28 +2431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<国語教師>「静かにしないか」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<National Language Teacher> Could you please be quiet?"
                             ]
                         },
                         {
@@ -2630,28 +2448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<国語教師>「それともう一つ……」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<National Language Teacher> And one more thing..."
                             ]
                         },
                         {
@@ -2668,14 +2465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<国語教師>「同じクラスメイトの<K日向明輝>が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "学校をやめる事になった」"
+                                "\\N<National Language Teacher> One of our classmates, <K\nHinata Aki>, will be leaving school."
                             ]
                         },
                         {
@@ -2845,28 +2635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<国語教師>「家庭の事情との事だ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<National Language Teacher> It's due to family\ncircumstances."
                             ]
                         },
                         {
@@ -2883,28 +2652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男生徒>「おいおい…それってつまり…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Male student> Hey hey... does that mean...?"
                             ]
                         },
                         {
@@ -2921,14 +2669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女生徒>「私…噂で聞いたんだけど実はもう…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "<Kデキちゃってる>らしい…‼」"
+                                "\\N<Female student> I... I heard a rumor, but it seems that\nshe's actually... <Kpregnant>...‼"
                             ]
                         },
                         {
@@ -2945,28 +2686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<生徒達>\\{「え～～！！？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Students>\\{ Ehhhh!?"
                             ]
                         },
                         {
@@ -2983,28 +2703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男徒達>「マジかよ日向って結構軽かったんだな！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Male student> Seriously, Hinata was quite promiscuous,\nhuh!"
                             ]
                         },
                         {
@@ -3021,28 +2720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女徒達>「家庭の事情でって大村と明輝の家庭って事？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Female student> Is it because of family circumstances,\nlike with Omura and Aki's families?"
                             ]
                         },
                         {
@@ -3059,28 +2737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男徒達>「うわ絶対そうじゃん！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Male students> Wow, it's definitely true, right!"
                             ]
                         },
                         {
@@ -3097,28 +2754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<国語教師>「お前ら静かにしろ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<National Language Teacher> You all, be quiet."
                             ]
                         },
                         {
@@ -3135,14 +2771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<国語教師>「報告はこれで終わりだから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっさと教科書用意しろ～」"
+                                "<National Language Teacher> That's the end of the report,\nso hurry up and prepare your textbooks~"
                             ]
                         },
                         {
@@ -3178,28 +2807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -3216,28 +2824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -3254,28 +2841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -3292,28 +2858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -3330,7 +2875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -3347,7 +2892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれから数年後"
+                                "Several years later"
                             ]
                         },
                         {
@@ -3987,7 +3532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明るい生徒>「どっちが良い点数取れるか勝負しようぜ」"
+                                "\\N<Bright student> Let's compete to see who can get a\nbetter score."
                             ]
                         },
                         {
@@ -4184,7 +3729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<眠そうな生徒>「Zzz...Zzz...っ・・・！寝てないぞ！」"
+                                "\\N<Sleepy student> Zzz...Zzz...Huh...! I'm not sleeping!"
                             ]
                         },
                         {
@@ -4382,7 +3927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<尻の軽い生徒>「ねぇ太郎～勉強教えてよ～」"
+                                "\\N<A student with a loose moral compass> Hey Taro~ Can you\nteach me how to study?"
                             ]
                         },
                         {
@@ -4399,14 +3944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<尻の軽い生徒>「あ～でも明輝と付き合ってるんだっけ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ悪いかぁ～」"
+                                "\\N<A student with a loose moral compass> Oh, but aren't you\ndating Aki? Well, I guess it's fine then~"
                             ]
                         },
                         {
@@ -4423,7 +3961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<尻の軽い生徒>「えっ！あれで付き合ってないの！？ヤバ～」"
+                                "\\N<A student with a loose moral compass> Huh! You're not\ndating Aki!? That's dangerous~"
                             ]
                         },
                         {

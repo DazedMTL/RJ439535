@@ -2511,7 +2511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「うちの学校はバイト禁止だって知ってるよな」"
+                                "\\N<Omura> You know that part-time jobs are prohibited at\nour school, right?"
                             ]
                         },
                         {
@@ -2587,7 +2587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「・・・はい」"
+                                "\\N<Hinata Aki> ...Yes"
                             ]
                         },
                         {
@@ -2604,7 +2604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(何でよりによって大村に見つかるかなぁ・・・)"
+                                "\\N<Hinata Aki>(Why did it have to be Omura who found out...)"
                             ]
                         },
                         {
@@ -2680,14 +2680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「それにお前は成績だって決して良くはない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もし赤点なんて取ったら校則違反のバイトと合わせて」"
+                                "\\N<Omura> Besides, your grades aren't exactly good either.\nIf you were to get a failing grade, it would be a violation\nof school rules along with the part-time job."
                             ]
                         },
                         {
@@ -2704,14 +2697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「最悪停学・・・いや退学だってありえるんだぞ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・それに部にも迷惑がかかる」"
+                                "\\N<Omura> The worst case scenario is suspension... no, even\nexpulsion is possible... And it would also cause trouble for\nthe club."
                             ]
                         },
                         {
@@ -2796,7 +2782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「てっ・・・」"
+                                "\\N<Hinata Aki> Ugh..."
                             ]
                         },
                         {
@@ -2813,7 +2799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「\\{停学っ！？退学っ！？」"
+                                "\\N<Hinata Aki> Suspension!? Expulsion!?"
                             ]
                         },
                         {
@@ -2830,7 +2816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「そんな・・・」"
+                                "\\N<Hinata Aki> No way..."
                             ]
                         },
                         {
@@ -2906,7 +2892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「はぁ・・・当たり前だろ・・・」"
+                                "\\N<Omura> Sigh... It's only natural..."
                             ]
                         },
                         {
@@ -2923,7 +2909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「まったく・・・世話の焼ける生徒だよ・・・」"
+                                "\\N<Omura> Geez... Such a troublesome student..."
                             ]
                         },
                         {
@@ -2940,14 +2926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「そういえば明輝どうしてお金なんか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "必要だったんだ？」"
+                                "\\N<Omura> By the way, why did you need money, Aki?"
                             ]
                         },
                         {
@@ -3023,14 +3002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「部活で使うシューズが寿命来ちゃったから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お店に買いに行ったらちょっとお金が足りなくて・・・」"
+                                "\\N<Hinata Aki> The shoes I use for club activities have\nreached their limit, so when I went to buy new ones at the\nstore, I found myself a little short on money..."
                             ]
                         },
                         {
@@ -3106,7 +3078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「なるほど・・・そういう事だったのか」"
+                                "\\N<Omura> I see... So that's what it was."
                             ]
                         },
                         {
@@ -3123,21 +3095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「お前が部活に熱を入れてるのは先生も知ってる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからこそ困ったことがあったなら周りの大人に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相談してほしかったよ」"
+                                "\\N<Omura> The teacher knows that you're passionate about\nthe club activities, so if you had any problems, I wish you\nwould have consulted the adults around you."
                             ]
                         },
                         {
@@ -3154,28 +3112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Omura>..."
                             ]
                         },
                         {
@@ -3192,28 +3129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>・・・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Omura>......"
                             ]
                         },
                         {
@@ -3230,14 +3146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「よし分かった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回の事は見なかった事にする」"
+                                "\\N<Omura> Alright, I understand! I'll pretend I didn't see\nwhat happened this time."
                             ]
                         },
                         {
@@ -3313,7 +3222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「えっ・・・」"
+                                "\\N<Hinata Aki> Huh..."
                             ]
                         },
                         {
@@ -3330,7 +3239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「いいんですか・・・！」"
+                                "\\N<Hinata Aki> Is it really okay...?"
                             ]
                         },
                         {
@@ -3406,7 +3315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「あぁ・・・だがバイトはやめるんだぞ」"
+                                "\\N<Omura> Ah... but I'm quitting my part-time job."
                             ]
                         },
                         {
@@ -3423,14 +3332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「流石に他の生徒や教師から報告があったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先生も見て見ぬふりする訳にはいかないからな」"
+                                "\\N<Omura> If there were reports from other students or\nteachers, the teacher wouldn't be able to turn a blind eye."
                             ]
                         },
                         {
@@ -3447,14 +3349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「・・・とは言え"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "明輝の学力面と金銭面の問題はまったく解決してないよな」"
+                                "\\N<Omura> ...That being said, Aki's academic and financial\nissues are still unresolved, aren't they?"
                             ]
                         },
                         {
@@ -3471,14 +3366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「そこで先生から一つ提案なんだが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "明輝お前・・・」"
+                                "\\NOmura: So, I have a suggestion from the teacher... Aki,\nyou..."
                             ]
                         },
                         {
@@ -3495,7 +3383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「先生の家に勉強しに来るのはどうだ？」"
+                                "\\N<Omura> How about coming to the teacher's house to\nstudy?"
                             ]
                         },
                         {
@@ -3512,14 +3400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「それに先生の簡単なお願いを聞いてくれるなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バイト代だってやる」"
+                                "\\N<Omura> And if you're willing to listen to a simple\nrequest from the teacher, I'll even pay you for your part-\ntime job."
                             ]
                         },
                         {
@@ -3595,7 +3476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>（えー・・・勉強かぁ・・・）"
+                                "<Hinata Aki> (Eh... studying, huh...)"
                             ]
                         },
                         {
@@ -3612,7 +3493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(でも・・・結構いい条件だよねこれ・・・)"
+                                "\\N<Hinata Aki>(But... this is actually a pretty good deal,\nisn't it...)"
                             ]
                         },
                         {
@@ -3629,14 +3510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(バイトの事見逃してくれた上に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勉強とお金両方解決するし・・・)"
+                                "\\N<Hinata Aki>(Not only did they overlook my part-time job,\nbut this will also solve both my study and financial\nissues...)"
                             ]
                         },
                         {
@@ -3653,7 +3527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(・・・)"
+                                "\\N<Hinata Aki>(...)"
                             ]
                         },
                         {
@@ -3686,7 +3560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(・・・・・・よし)"
+                                "\\N<Hinata Aki>(... Alright)"
                             ]
                         },
                         {
@@ -3703,7 +3577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「アタシやるよ！先生！」"
+                                "\\N<Hinata Aki> I'll do it, Sensei!"
                             ]
                         },
                         {
@@ -3779,7 +3653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「本当か！あの明輝が勉強を！！」"
+                                "\\N<Omura> Is that true?! Hinata Aki studying?!"
                             ]
                         },
                         {
@@ -3796,14 +3670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「よ～し！善は急げだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっそく小テストで苦手な範囲を把握しよう！」"
+                                "\\N<Omura> Alright! Good deeds must be done quickly. Let's\nimmediately assess the areas you're weak in with a small\ntest!"
                             ]
                         },
                         {
@@ -3888,7 +3755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>\\{(今からっ！？)"
+                                "\\N<Hinata Aki>\\{(Right now?!?)"
                             ]
                         },
                         {
@@ -3905,7 +3772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(やっぱりやめたほうがよかったかな・・・)"
+                                "\\N<Hinata Aki>(Maybe I should have just quit after all...)"
                             ]
                         },
                         {
@@ -4057,7 +3924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「\\{はぁ～～！！」"
+                                "\\N<Hinata Aki> Haa~!"
                             ]
                         },
                         {
@@ -4074,7 +3941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「\\{やっと終わったぁ～～！」"
+                                "\\N<Hinata Aki> Finally finished~!"
                             ]
                         },
                         {
@@ -4091,14 +3958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「こんなに勉強したの初めて～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "明日には全部忘れてそ～～！」"
+                                "\\N<Hinata Aki> I've never studied this much before~ I'll\nprobably forget everything by tomorrow~!"
                             ]
                         },
                         {
@@ -4174,7 +4034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「おいおい・・・」"
+                                "\\N<Omura> Hey hey..."
                             ]
                         },
                         {
@@ -4250,14 +4110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「てか先生って意外といい人だったんですね～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アタシてっきり嫌な先生かと！」"
+                                "\\N<Hinata Aki> Wow, turns out the teacher is actually a\nnice person~ I thought they would be a mean teacher!"
                             ]
                         },
                         {
@@ -4333,7 +4186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「お前なぁ・・・」"
+                                "\\N<Omura> Hey, you know..."
                             ]
                         },
                         {
@@ -4350,14 +4203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「まったくなんて失礼な生徒だ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなに生徒思いな先生他にいないぞ？」"
+                                "\\N<Omura> What a rude student. There's no other teacher who\ncares about the students as much as this one, right?"
                             ]
                         },
                         {
@@ -4433,7 +4279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「アハハッ～ごめんなさい～」"
+                                "\\N<Hinata Aki> Ahaha~ I'm sorry~"
                             ]
                         },
                         {
@@ -4450,14 +4296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「そういえば簡単なお願いって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何なんですか？」"
+                                "\\N<Hinata Aki> By the way, what is the simple request you\nmentioned?"
                             ]
                         },
                         {
@@ -4533,7 +4372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「あぁそうそう先生の友達に画家がいてなぁ」"
+                                "\\N<Omura> Oh, by the way, the teacher has a friend who is a\npainter."
                             ]
                         },
                         {
@@ -4550,7 +4389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「その友達が描く作品が先生とても好きなんだ」"
+                                "\\N<Omura> The teacher really likes the works that their\nfriend paints."
                             ]
                         },
                         {
@@ -4567,14 +4406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「でも最近その友達が良い被写体がいないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嘆いていたんだ・・・」"
+                                "\\N<Omura> But recently, that friend has been lamenting\nabout not having a good subject to paint..."
                             ]
                         },
                         {
@@ -4591,7 +4423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「先生としても彼の作品を見れないのは悲しい・・・」"
+                                "\\N<Omura> It's sad that even as a teacher, they can't see\nhis works..."
                             ]
                         },
                         {
@@ -4608,14 +4440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「だから・・・何か協力できる事はないかと聞いたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良い被写体の女性がいたら写真を送ってほしいと言われてな」"
+                                "\\N<Omura> So... when I asked if there was anything I could\ndo to help, they said they wanted me to send them a photo of\na good subject, preferably a female."
                             ]
                         },
                         {
@@ -4632,14 +4457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「そこで明輝なんてどうかなと思ったんだよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前運動してるからシュッとしてるしな」"
+                                "\\N<Omura> So I thought, how about using Aki? You're active\nin sports, so you have a slim figure."
                             ]
                         },
                         {
@@ -4715,7 +4533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「絵の被写体って・・・もしかして」"
+                                "\\N<Hinata Aki> Speaking of subjects for paintings... could\nit be..."
                             ]
                         },
                         {
@@ -4732,7 +4550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「ぬっ・・・ヌードとか・・・！？」"
+                                "\\N<Hinata Aki> N-Nude...!?"
                             ]
                         },
                         {
@@ -4808,7 +4626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「ハハハ！違う違う！」"
+                                "\\N<Omura> Hahaha! No, no!"
                             ]
                         },
                         {
@@ -4825,7 +4643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「教え子に裸になれなんて言う訳ないだろ？」"
+                                "\\N<Omura> There's no way I would tell my student to get\nnaked, right?"
                             ]
                         },
                         {
@@ -4901,7 +4719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「じゃあどんな写真なんですか？」"
+                                "\\N<Hinata Aki> So, what kind of photo is it?"
                             ]
                         },
                         {
@@ -4948,7 +4766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「簡単だよ野菜を少し舐めるだけだ」"
+                                "\\N Omura: It's easy, just lick the vegetables a little."
                             ]
                         },
                         {
@@ -4965,14 +4783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「野菜を舐める・・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなの絵にするんですか？」"
+                                "\\N<Hinata Aki> Lick the vegetables...? Are you going to\nmake a painting out of that?"
                             ]
                         },
                         {
@@ -4989,7 +4800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「あぁそうだ芸術家ってのは変人が多いからなぁ～」"
+                                "\\N<Omura> Oh yeah, artists tend to be eccentric, you know~"
                             ]
                         },
                         {
@@ -5006,7 +4817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「凡人の俺達には理解できない事もあるさ」"
+                                "\\N<Omura> There are things that us ordinary people can't\nunderstand."
                             ]
                         },
                         {
@@ -5023,7 +4834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「ふーん・・・そういうもんなんだぁ」"
+                                "\\N<Hinata Aki> Hmm... so that's how it is."
                             ]
                         },
                         {
@@ -5116,7 +4927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「カメラの位置はこれでいいかな・・・」"
+                                "\\N<Omura> Is this camera position okay...?"
                             ]
                         },
                         {
@@ -5133,7 +4944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(なんか緊張しちゃうなぁ)"
+                                "\\N<Hinata Aki>(I'm getting nervous for some reason)"
                             ]
                         },
                         {
@@ -5150,7 +4961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「それにしても何でアイマスク・・・？」"
+                                "\\N<Hinata Aki> By the way, why the blindfold...?"
                             ]
                         },
                         {
@@ -5167,14 +4978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「彼曰く顔の一部を隠す事で想像力が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "掻き立てられるらしく」"
+                                "\\N<Omura> He said that by hiding a part of the face, it\nstimulates the imagination."
                             ]
                         },
                         {
@@ -5191,14 +4995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「なるべく被写体の目は隠してほしいと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言われているんだ」"
+                                "\\N<Omura> He said that he wants the subject's eyes to be\nhidden as much as possible."
                             ]
                         },
                         {
@@ -5215,14 +5012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「へぇ～～・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か分かんないけどこだわり凄いなぁ・・・」"
+                                "\\N<Hinata Aki> Wow... I don't really understand, but he's\nreally particular about it..."
                             ]
                         },
                         {
@@ -5239,7 +5029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「これでいいですか？」"
+                                "\\N<Hinata Aki> Is this okay?"
                             ]
                         },
                         {
@@ -5256,7 +5046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「うんばっちりだよ」"
+                                "\\N<Omura> You're doing great."
                             ]
                         },
                         {
@@ -5273,7 +5063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「じゃあさっそくきゅうりを舐めてもらうよ」"
+                                "\\N<Omura> Then, let's have you lick the cucumber right\naway."
                             ]
                         },
                         {
@@ -5290,28 +5080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(何かよく分かんないけど)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>(I don't really understand what's going on)"
                             ]
                         },
                         {
@@ -5328,28 +5097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(これでお金もらえるならいっか)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Hinata Aki>(If I can get money from this, I guess it's\nfine)"
                             ]
                         },
                         {
@@ -5366,7 +5114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(ヌードデッサンとかじゃないしね)"
+                                "\\N<Hinata Aki>(It's not like it's a nude drawing or\nanything)"
                             ]
                         },
                         {
@@ -5383,7 +5131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「はぁ～い！」"
+                                "\\N<Hinata Aki> Haaai!"
                             ]
                         },
                         {
@@ -5448,28 +5196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「んっ・・・ちゅ・・・」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Mmm...chu..."
                             ]
                         },
                         {
@@ -5486,28 +5213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「こんな・・・んちゅ・・・感じ？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Is this... mmm... the right feeling?"
                             ]
                         },
                         {
@@ -5524,28 +5230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「あぁいいぞ・・・良い感じだ・・・」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Omura> Ah, that's good... It feels nice..."
                             ]
                         },
                         {
@@ -5562,28 +5247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「ほらもっと深くまで・・・」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Omura> Come on, go deeper..."
                             ]
                         },
                         {
@@ -5600,7 +5264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「んっ・・・」"
+                                "\\N<Hinata Aki> Mmm..."
                             ]
                         },
                         {
@@ -5660,7 +5324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「くるしっ・・・んっ・・・」"
+                                "\\N<Hinata Aki> It's... difficult... ngh..."
                             ]
                         },
                         {
@@ -5677,7 +5341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>(明輝のこんな姿が撮れるなんて・・・)"
+                                "\\N<Omura>(I can't believe I can capture Hinata Aki in this\nstate...)"
                             ]
                         },
                         {
@@ -5694,7 +5358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>(これは上手くいけば・・・)"
+                                "\\N<Omura>(If this goes well...)"
                             ]
                         },
                         {
@@ -5737,7 +5401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・"
+                                "..."
                             ]
                         },
                         {
@@ -5754,7 +5418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・"
+                                "......"
                             ]
                         },
                         {
@@ -6006,28 +5670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「またこの問題間違えてるじゃないか」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Omura> You got this question wrong again, didn't you?"
                             ]
                         },
                         {
@@ -6112,28 +5755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「あっれ～おかしいなぁ・・・」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Huh... that's strange..."
                             ]
                         },
                         {
@@ -6184,28 +5806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「暗記科目なんだから覚えれば点取れるんだぞ？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Omura> It's a subject that requires memorization, so if\nyou remember it, you can get points, you know?"
                             ]
                         },
                         {
@@ -6238,28 +5839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「暗記するの苦手なんですよ～右から左に流れてく感じですよ！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> I'm not good at memorizing~ It feels like\neverything just goes in one ear and out the other!"
                             ]
                         },
                         {
@@ -6276,28 +5856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「全部苦手の間違いだろ・・・」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Omura> It's all just mistakes because you're not good at\nit..."
                             ]
                         },
                         {
@@ -6330,7 +5889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「アハハハ・・・痛いとこ突きますね～・・・・」"
+                                "<Hinata Aki> Ahahaha... you really know how to hit where it\nhurts, don't you~..."
                             ]
                         },
                         {
@@ -6347,14 +5906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「でもでも！大村先生の教えがいいのか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "過去問の点数上がってきてるよ！」"
+                                "\\N<Hinata Aki> But but! Thanks to Mr. Omura's teachings, my\nscores on the past exams have been improving!"
                             ]
                         },
                         {
@@ -6371,14 +5923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「確かに少しずつだが上がってきているな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まったく・・・やれば出来るんだから日頃からやっておくんだぞ」"
+                                "\\N<Omura> Indeed, your scores have been gradually\nimproving. But really... if you put in the effort, you can\ndo it, so make sure to study regularly."
                             ]
                         },
                         {
@@ -6395,7 +5940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「日頃からは勘弁・・・」"
+                                "<Hinata Aki> Please go easy on me in my daily life..."
                             ]
                         },
                         {
@@ -6428,14 +5973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「そうだ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大村先生のおかげでシューズ買えたよ！」"
+                                "\\N<Hinata Aki> That's right...! Thanks to Mr. Omura, I was\nable to buy new shoes!"
                             ]
                         },
                         {
@@ -6452,7 +5990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「おぉそれはよかった！画家の友達も凄く喜んでくれていたよ」"
+                                "\\N<Omura> Oh, that's great! My artist friend was really\nhappy about it too."
                             ]
                         },
                         {
@@ -6469,7 +6007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「それでだが・・・また被写体になってほしいと言われてな」"
+                                "\\N<Omura> By the way... I was asked to be a subject again."
                             ]
                         },
                         {
@@ -6486,7 +6024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「もし明輝がよかったら・・・どうかなと・・・」"
+                                "\\N<Omura> If it's okay with you, Hinata Aki... what do you\nthink?"
                             ]
                         },
                         {
@@ -6519,14 +6057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「ん～全然いいですよ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "前回もすぐ終わりましたし～」"
+                                "\\N<Hinata Aki> Hmm~ It's totally fine~ It ended quickly\nlast time too~"
                             ]
                         },
                         {
@@ -6543,7 +6074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「へへじゃあ・・・さっそく・・・」"
+                                "\\N<Omura> Hehe, then... let's get started right away..."
                             ]
                         },
                         {
@@ -6634,7 +6165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「ん～っ・・・んっ・・・・<S♥>」"
+                                "\\N Hinata Aki: Hmm~... Mmm... <S♥>"
                             ]
                         },
                         {
@@ -6651,14 +6182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>(この画像をネットに公開すれば金も手に入る・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに明輝も少しずつ俺に心を開き始めてる・・・)"
+                                "\\N<Omura> If I were to upload this image to the internet, I\ncould earn some money... And Aki is slowly starting to open\nup to me as well..."
                             ]
                         },
                         {
@@ -6675,7 +6199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>(焦らず少しずつ・・・堕としてやるからな・・・)"
+                                "\\N<Omura> (Don't rush, little by little... I'll make you\nfall...)"
                             ]
                         },
                         {

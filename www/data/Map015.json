@@ -4148,7 +4148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男女の話し声が聞こえる"
+                                "I can hear the voices of a man and a woman."
                             ]
                         },
                         {
@@ -4165,14 +4165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗み聞きしますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(林道イベントが進みます)"
+                                "Do you want to eavesdrop? (The forest road event will\nprogress)"
                             ]
                         },
                         {
@@ -4248,14 +4241,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<女子生徒?>「昨日も言いましたけどアタシ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "--先輩タイプじゃないので付き合えないです」"
+                                "\\N<Female Student?> I mentioned it yesterday as well, but I\ncan't date you because you're not my type of senpai."
                             ]
                         },
                         {
@@ -4272,7 +4258,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<女子生徒?>「もういいですかっ？アタシ練習したいんで！」"
+                                "\\N<Female Student?> Are you done? I want to practice!"
                             ]
                         },
                         {
@@ -4289,7 +4275,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<男子生徒?>「そんな爆乳揺らしといて今更ガードが固いアピールか？」"
+                                "\\N<Male Student?> You're flaunting your huge breasts like\nthat and now you're acting all guarded?"
                             ]
                         },
                         {
@@ -4306,7 +4292,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<男子生徒?>「どうせ遊びまくってるんだろ？」"
+                                "\\N<Male Student?> You're probably just fooling around,\nright?"
                             ]
                         },
                         {
@@ -4323,28 +4309,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<男子生徒?>「俺のも気持ちよくしてくれよ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　"
+                                "\\N<Male Student?> Make me feel good too."
                             ]
                         },
                         {
@@ -4361,7 +4326,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<女子生徒?>「っ・・・・！」"
+                                "\\N<Female Student?> Huh...!"
                             ]
                         },
                         {
@@ -4378,7 +4343,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<女子生徒?>「アタシ遊んだりしてないっすから！！」"
+                                "\\N<Female Student?> I'm not playing around, okay?!"
                             ]
                         },
                         {
@@ -4402,7 +4367,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんだか揉めているようだ"
+                                "It seems like they're having a dispute."
                             ]
                         },
                         {
@@ -4419,7 +4384,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "巻き込まれる前に去ろう"
+                                "Let's leave before we get involved."
                             ]
                         },
                         {
@@ -4455,7 +4420,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "別視点を見ますか？"
+                                "Do you want to see a different perspective?"
                             ]
                         },
                         {
@@ -4776,14 +4741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子生徒>「ったくよぉ…こんなに乳首立たせて…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "興奮してるのバレバレなんだよ」"
+                                "\\N<Male student> Geez... You're making your nipples so\nhard... It's obvious that you're turned on."
                             ]
                         },
                         {
@@ -4800,28 +4758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女子生徒>「んぁっ…あんっ…やっ…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Female student> Nngh... Ahh... Y-Yes..."
                             ]
                         },
                         {
@@ -4838,14 +4775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子生徒>「ちょっと乳首いじめただけで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな声出ちまうのかよ」"
+                                "\\N<Male student> Just by teasing your nipples a little,\nyou're making such sounds?"
                             ]
                         },
                         {
@@ -4862,14 +4792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子生徒>「???～お前日頃から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "乳首いじってオナニーしてんだろ？」"
+                                "\\N<Male student> ???~ You've been playing with your nipples\nand masturbating, haven't you?"
                             ]
                         },
                         {
@@ -4886,28 +4809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女子生徒>「そんな事…ないです…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Female student> That's not... true..."
                             ]
                         },
                         {
@@ -4924,7 +4826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女子生徒>「んぁっ…やっ…やぁ…」"
+                                "\\N<Female student> Ngh... Y-Yes... There..."
                             ]
                         },
                         {
@@ -4941,28 +4843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女子生徒>「あんっ…ぁ…ぁ\"\"」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Female student> Ah... Ahh..."
                             ]
                         },
                         {
@@ -4979,14 +4860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子生徒>「ハハ！こりゃいい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら???～しっかり舌使って気持ちよくしろ」"
+                                "\\N<Male student> Haha! This is great! Come on, use your\ntongue properly and make me feel good."
                             ]
                         },
                         {
@@ -5003,7 +4877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子生徒>「気持ちよく出来るたびに乳首いじってやるからよ」"
+                                "\\N<Male student> I'll keep teasing your nipples every time\nyou feel good."
                             ]
                         },
                         {
@@ -5147,28 +5021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子生徒>「あぁいいぞ…そこ…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Male student> Ah, that's good... right there..."
                             ]
                         },
                         {
@@ -5185,28 +5038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子生徒>「フェラは全然だったがパイズリは最高だな」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Male student> The blowjob was nothing special, but the\ntitjob was amazing."
                             ]
                         },
                         {
@@ -5223,28 +5055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女子生徒>「…嬉しくないです」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Female student> I'm not happy..."
                             ]
                         },
                         {
@@ -5261,14 +5072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子生徒>「そう言うなよ、???のデカ乳を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "褒めてんだからよ～少しは喜んでもいいんじゃねえか」"
+                                "\\N<Male student> Don't say that, I'm complimenting your big\nbreasts~ You should be happy about it, shouldn't you?"
                             ]
                         },
                         {
@@ -5285,14 +5089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男子生徒>「ホントに初めてかぁ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなに気持ちいいパイズリは初めてだぞ」"
+                                "\\N<Male student> Is this really your first time? This\ntitjob feels so good, it's my first time experiencing\nsomething like this."
                             ]
                         },
                         {
@@ -5309,14 +5106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女子生徒>「…さっき言ったじゃないですか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…初めてですよ……」"
+                                "\\N<Female student> ...Didn't I just say it earlier... It's\nmy first time..."
                             ]
                         },
                         {
@@ -5593,14 +5383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ストイックな生徒>「ごめん今アップ中だから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後で話しかけて！」"
+                                "\\N<Stoic student> Sorry, I'm in the middle of warming up\nright now. Can you talk to me later?"
                             ]
                         },
                         {
@@ -5967,7 +5750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ストイックな生徒>「君いつも来てるけど陸上部入らないの？」"
+                                "\\N<Stoic student> You're always here, but why don't you\njoin the track and field club?"
                             ]
                         },
                         {
@@ -6283,7 +6066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ストイックな生徒>「変な噂で部員達が集中できてないっ…」"
+                                "\\N<Stoic student> The club members can't concentrate\nbecause of strange rumors..."
                             ]
                         },
                         {
@@ -6300,7 +6083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ストイックな生徒>「こんな時だからこそ頑張らなきゃ」"
+                                "\\N<Stoic student> We have to do our best especially at\ntimes like this."
                             ]
                         },
                         {
@@ -6317,7 +6100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ストイックな生徒>「日向に勝つチャンスだもんっ」"
+                                "\\N<Stoic student> This is our chance to defeat Hinata!"
                             ]
                         },
                         {
@@ -6693,7 +6476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<やる気のない生徒>「もっと揺らして走れ～！・・・へへ」"
+                                "\\N<Unmotivated student> Shake it more and run~! ...hehe"
                             ]
                         },
                         {
@@ -6761,7 +6544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<やる気のない生徒>「夏で暑いんだしもっと薄着で走ってくれねえかな」"
+                                "\\N<Unmotivated student> It's hot in the summer, so I wish\nyou would run in lighter clothes."
                             ]
                         },
                         {
@@ -6829,7 +6612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<やる気のない生徒>「へへ…本人かどうかなんてどっちでもいい」"
+                                "\\N<Unmotivated student> Hehe... It doesn't really matter if\nit's the person themselves or not."
                             ]
                         },
                         {
@@ -6846,7 +6629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<やる気のない生徒>「こんなそっくりなんだ…」"
+                                "\\N<Unmotivated student> They look so similar..."
                             ]
                         },
                         {
@@ -6863,7 +6646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<やる気のない生徒>「もっと沢山ハメ撮り更新してくれよぉ…」"
+                                "\\N<Unmotivated student> Please update with more\nH-scenes..."
                             ]
                         },
                         {
@@ -6991,7 +6774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<悩む生徒>「なんでタイムが伸びないんだろう・・・」"
+                                "\\N<Troubled student> I wonder why my time isn't\nextending..."
                             ]
                         },
                         {
@@ -7171,7 +6954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<悩む生徒>「最近タイムが伸びてきたんだ♪」"
+                                "\\N<Troubled student> Lately, my study time has been\nincreasing♪"
                             ]
                         },
                         {
@@ -7188,7 +6971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<悩む生徒>「夏休み中にもっと伸ばすぞ～♪」"
+                                "\\N<Troubled student> I'm going to extend my study time even\nmore during summer vacation~♪"
                             ]
                         },
                         {
@@ -7368,7 +7151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<悩む生徒>「明輝…嘘だよね…」"
+                                "\\N<Troubled student> Aki... this can't be true, right?"
                             ]
                         },
                         {
@@ -7385,7 +7168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<悩む生徒>「……ダメダメっ」"
+                                "\\N<Troubled student> ...No, no..."
                             ]
                         },
                         {
@@ -7402,7 +7185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<悩む生徒>「明輝があんな奴と付き合うわけない…‼」"
+                                "\\N<Troubled student> There's no way Aki would be dating\nsomeone like that...‼"
                             ]
                         },
                         {
@@ -7642,14 +7425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<気弱な生徒>「はぁ・・・胸ばかり見られて走るのが辛い・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はっきり言えればなぁ・・・」"
+                                "\\N<Timid student> Sigh... It's tough running when all they\ndo is stare at my chest... I wish I could just speak up..."
                             ]
                         },
                         {
@@ -7717,7 +7493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<気弱な生徒>「最近また胸が大きくなってきた気が…」"
+                                "\\N<Timid student> Lately, I feel like my breasts have been\ngetting bigger again..."
                             ]
                         },
                         {
@@ -7734,14 +7510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<気弱な生徒>「これ以上いやらしい目で見られるなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "陸上部やめようかな…」"
+                                "\\N<Timid student> If I keep getting looked at with such\nlewd eyes, maybe I should quit the track and field club..."
                             ]
                         },
                         {
@@ -7809,7 +7578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<気弱な生徒>「あぁ君…確か…」"
+                                "\\N<Timid student> Ah, you... I remember..."
                             ]
                         },
                         {
@@ -7826,7 +7595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<気弱な生徒>「明輝の…元カレだっけ…？」"
+                                "\\N<Timid student> Aki... Were you my ex-boyfriend...?"
                             ]
                         },
                         {
@@ -8867,14 +8636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "明輝に話しかけますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(林道イベントが進みます)"
+                                "Do you talk to Aki? (The forest road event will progress)"
                             ]
                         },
                         {
@@ -8961,7 +8723,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「おっ太郎じゃん」"
+                                "\\N<Hinata Aki> Oh, it's Taro!"
                             ]
                         },
                         {
@@ -8978,7 +8740,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「待っててくれたの？」"
+                                "\\N<Hinata Aki> Did you wait for me?"
                             ]
                         },
                         {
@@ -8995,7 +8757,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「それとも見学～？もう入部しちゃう？」"
+                                "\\N<Hinata Aki> Or are you here to observe? Are you joining\nthe club already?"
                             ]
                         },
                         {
@@ -9028,14 +8790,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「キツイよぉ～うちの部活！運動不足の太郎は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "初日で全身筋肉痛になって動けなくなるかもね！」"
+                                "\\N<Hinata Aki> It's tough, you know~ Our club activities!\nTaro, who lacks exercise, might end up with muscle soreness\nall over his body and not be able to move after the first\nday!"
                             ]
                         },
                         {
@@ -9120,7 +8875,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<日向明輝>「え～？」"
+                                "\\N<Hinata Aki> Eh~?"
                             ]
                         },
                         {
@@ -9137,7 +8892,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<日向明輝>「・・・・・・ホントだ！あんな所で何してるんだろ」"
+                                "\\N<Hinata Aki> ......It's true! I wonder what he's doing in\na place like that."
                             ]
                         },
                         {
@@ -9170,7 +8925,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<日向明輝>「誰かと話してる・・・のかな？」"
+                                "\\N<Hinata Aki> I wonder if he's talking to someone..."
                             ]
                         },
                         {
@@ -9234,7 +8989,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<日向明輝>「取り込み中っぽいし話しかけない方がいいかもね」"
+                                "\\N<Hinata Aki> He seems busy, so maybe it's better not to\ntalk to him."
                             ]
                         },
                         {
@@ -9251,7 +9006,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<日向明輝>「もうすぐ部活終わるし校門で待っててよ」"
+                                "\\N<Hinata Aki> I'll be done with club activities soon, so\nwait for me at the school gate."
                             ]
                         },
                         {
@@ -9284,7 +9039,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<日向明輝>「一緒に帰ろ」"
+                                "\\N<Hinata Aki> Let's go home together."
                             ]
                         },
                         {
@@ -9338,7 +9093,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "別視点を見ますか？"
+                                "Do you want to see a different perspective?"
                             ]
                         },
                         {
@@ -9472,7 +9227,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<花栗栞>「えっと・・・何ですか・・・林道先輩・・・」"
+                                "\\N<Hanaguri Shiori> Um... what is it... Senpai\nHayashimichi..."
                             ]
                         },
                         {
@@ -9523,7 +9278,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「あぁ俺の名前知ってるんだな」"
+                                "\\N<Forest road> Ah, so you know my name."
                             ]
                         },
                         {
@@ -9540,7 +9295,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<花栗栞>「えぇ・・・まぁ・・・」"
+                                "\\N<Hanaguri Shiori> Um... well..."
                             ]
                         },
                         {
@@ -9557,28 +9312,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<花栗栞>(悪い噂しか聞かないし・・・)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
+                                "\\N<Hanaguri Shiori> (I only hear bad rumors about him...)"
                             ]
                         },
                         {
@@ -9595,7 +9329,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<花栗栞>「それで・・・何で私呼び出されたんですか？」"
+                                "\\N<Hanaguri Shiori> So... why did you call me out?"
                             ]
                         },
                         {
@@ -9612,7 +9346,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「お前・・・俺の<K彼女>にならねえか？」"
+                                "\\N<Forest road> Hey... would you become my girlfriend?"
                             ]
                         },
                         {
@@ -9645,7 +9379,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<花栗栞>「ふぇっ・・・！？」"
+                                "\\N<Hanaguri Shiori> Huh...!?"
                             ]
                         },
                         {
@@ -9662,7 +9396,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<花栗栞>「かっ・・・彼女ですか・・・！？」"
+                                "\\N<Hanaguri Shiori> W-... A girlfriend...!?"
                             ]
                         },
                         {
@@ -9679,7 +9413,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<花栗栞>「無理です無理です！」"
+                                "\\N<Hanaguri Shiori> It's impossible, it's impossible!"
                             ]
                         },
                         {
@@ -9712,28 +9446,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<花栗栞>(林道先輩と付き合ったら何されるか・・・)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
+                                "\\N<Hanaguri Shiori>(What would happen if I dated Senpai\nHayashimichi...)"
                             ]
                         },
                         {
@@ -9750,7 +9463,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「今彼氏とかいないんだろ？」"
+                                "\\N<Forest road> You don't have a boyfriend, right?"
                             ]
                         },
                         {
@@ -9767,7 +9480,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<花栗栞>「まぁ・・・そうですけど」"
+                                "\\N<Hanaguri Shiori> Well... yes, but..."
                             ]
                         },
                         {
@@ -9784,7 +9497,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<花栗栞>「でも無理です！」"
+                                "<Hanaguri Shiori> But it's impossible!"
                             ]
                         },
                         {
@@ -9801,7 +9514,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<花栗栞>「私話してても面白くないし・・・人付き合い苦手だし・・・」"
+                                "\\N<Hanaguri Shiori> I'm not good at socializing and it's\nnot interesting to talk privately..."
                             ]
                         },
                         {
@@ -9818,28 +9531,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<花栗栞>(お願い・・・諦めて・・・)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
+                                "\\N<Hanaguri Shiori>(Please... give up...)"
                             ]
                         },
                         {
@@ -9856,7 +9548,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<花栗栞>「林道先輩には釣り合わないですよ！」"
+                                "\\N<Hanaguri Shiori> I'm not a good match for Hayashimichi-\nsenpai!"
                             ]
                         },
                         {
@@ -9873,7 +9565,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<花栗栞>「それに私・・・」"
+                                "\\N<Hanaguri Shiori> And besides, I..."
                             ]
                         },
                         {
@@ -9906,7 +9598,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<花栗栞>「<K好きな人>いるんで・・・！」"
+                                "\\N<Hanaguri Shiori> I have someone I like...!"
                             ]
                         },
                         {
@@ -9923,28 +9615,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<花栗栞>(あっ・・・言っちゃった)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
+                                "\\N<Hanaguri Shiori>(Ah... I said it)"
                             ]
                         },
                         {
@@ -9961,7 +9632,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「ッチ・・・」(どいつもこいつも・・・)"
+                                "\\N<Forest road> Tch... (These guys...)"
                             ]
                         },
                         {
@@ -9978,7 +9649,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「・・・」"
+                                "\\N<Forest road>「...」"
                             ]
                         },
                         {
@@ -9995,7 +9666,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「・・・・・・！」"
+                                "\\N<Forest road>「......！」"
                             ]
                         },
                         {
@@ -10012,7 +9683,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「そうか好きなやつがいるのか」"
+                                "\\N<Forest road> So, you have someone you like?"
                             ]
                         },
                         {
@@ -10029,7 +9700,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「そりゃあ残念だ・・・」"
+                                "\\N<Forest road> Well, that's unfortunate..."
                             ]
                         },
                         {
@@ -10046,14 +9717,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「・・・・・・まあでも花栗が好きな人と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "付き合うのは無理だろうな」"
+                                "\\N<Forest road> Well... but it would be impossible for me\nto date someone Hanaguri likes."
                             ]
                         },
                         {
@@ -10086,7 +9750,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<花栗栞>「えっ」"
+                                "\\N<Hanaguri Shiori> Huh?"
                             ]
                         },
                         {
@@ -10103,7 +9767,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「こんな事言いたくはねえけどよ」"
+                                "\\N<Forest road> I don't really want to say this, but..."
                             ]
                         },
                         {
@@ -10120,14 +9784,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「自分でもさっき言ってたが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "お前は人付き合いも苦手だし話も面白くねえ」"
+                                "\\N<Forest road> I just said it earlier, but you're not good\nat socializing and your conversations aren't interesting\neither."
                             ]
                         },
                         {
@@ -10144,14 +9801,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「そんなオドオドして積極性に欠ける奴が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "好きな奴と付き合えると思うか？」"
+                                "\\N<Forest road> Do you think someone who is timid and lacks\nassertiveness can date someone they like?"
                             ]
                         },
                         {
@@ -10168,7 +9818,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<花栗栞>「・・・それはそうですけど」"
+                                "\\N<Hanaguri Shiori> ...That may be true, but..."
                             ]
                         },
                         {
@@ -10185,7 +9835,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「でも俺は可愛い後輩が失恋する姿は見たくねえ」"
+                                "\\N<Forest road> But I don't want to see my cute\nunderclassman getting heartbroken."
                             ]
                         },
                         {
@@ -10202,14 +9852,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「断られたとは言え一度好きになった女だ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "力になってやりたい」"
+                                "\\N<Forest road> Even though I was rejected, she's a girl I\nonce liked. I want to be of help to her."
                             ]
                         },
                         {
@@ -10226,7 +9869,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「だからさ俺とデートして男慣れするのはどうだ？」"
+                                "\\N<Forest road> So, how about going on a date with me to\nget used to being with a guy?"
                             ]
                         },
                         {
@@ -10243,7 +9886,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「勿論本当に付き合うって訳じゃねえ」"
+                                "\\N<Forest road> Of course, it doesn't mean we're really\ngoing out."
                             ]
                         },
                         {
@@ -10260,14 +9903,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「男がどういうものか知るにはいい機会だと思うんだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "・・・・・どうだ？」"
+                                "\\N<Forest road> I think it's a good opportunity for you to\nunderstand what guys are like... What do you think?"
                             ]
                         },
                         {
@@ -10284,7 +9920,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<花栗栞>「ん～・・・・」"
+                                "\\N<Hanaguri Shiori> Hmm..."
                             ]
                         },
                         {
@@ -10301,7 +9937,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<花栗栞>(林道先輩ってもしかしていい人なのかな)"
+                                "\\N<Hanaguri Shiori>(I wonder if Forest road senpai is\nactually a good person)"
                             ]
                         },
                         {
@@ -10318,28 +9954,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<花栗栞>(・・・・・・)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
+                                "\\N<Hanaguri Shiori>(......)"
                             ]
                         },
                         {
@@ -10356,7 +9971,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<花栗栞>「・・・一回だけなら」"
+                                "\\N<Hanaguri Shiori> ...If it's just once."
                             ]
                         },
                         {
@@ -10373,7 +9988,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「そうかそうか！」"
+                                "\\N<Forest road> I see, I see!"
                             ]
                         },
                         {
@@ -10390,7 +10005,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「楽しみにしてるよ」"
+                                "\\N<Forest road> I'm looking forward to it."
                             ]
                         },
                         {
@@ -10407,7 +10022,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「ちなみに花栗が好きな奴の名前は？」"
+                                "\\N<Forest road> By the way, what's the name of the person\nyou like, Hanaguri?"
                             ]
                         },
                         {
@@ -10440,7 +10055,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<花栗栞>「・・・・・・同じクラスの<N太郎>君です」"
+                                "\\N<Hanaguri Shiori> ...It's <Taro> kun, who is in the same\nclass as me."
                             ]
                         },
                         {
@@ -10457,7 +10072,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「・・・」"
+                                "\\N<Forest road>「...」"
                             ]
                         },
                         {
@@ -10474,7 +10089,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「・・・・・・」"
+                                "\\N<Forest road>「......」"
                             ]
                         },
                         {
@@ -10491,7 +10106,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「あぁ・・・そうなんだ」"
+                                "\\N<Forest road> Ah... I see."
                             ]
                         },
                         {
@@ -10508,7 +10123,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「初めて聞く名前だわ」"
+                                "\\N<Forest road> That's the first time I've heard that\nname."
                             ]
                         },
                         {
@@ -10525,14 +10140,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<花栗栞>「太郎君部活とか入ってないですからね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "先輩達は知らないかもです」"
+                                "\\N<Hanaguri Shiori> Since Taro-kun isn't in any club\nactivities, the upperclassmen might not know him."
                             ]
                         },
                         {
@@ -10565,7 +10173,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<花栗栞>「じゃあ・・・私そろそろ行きます」"
+                                "\\N<Hanaguri Shiori> Well then... I'll be going soon."
                             ]
                         },
                         {
@@ -10582,7 +10190,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<花栗栞>「日程は後ほどお願いします」"
+                                "\\N<Hanaguri Shiori> Please let me know the schedule later."
                             ]
                         },
                         {
@@ -10599,7 +10207,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「あぁ・・・」"
+                                "\\N<Forest road> Ah..."
                             ]
                         },
                         {
@@ -10816,7 +10424,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「また<N太郎>か・・・」"
+                                "\\N<Forest road> Taro-kun again, huh..."
                             ]
                         },
                         {
@@ -10833,7 +10441,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「ぜってぇ許さねえ・・・」"
+                                "\\N<Forest road> I won't forgive you for sure..."
                             ]
                         },
                         {
@@ -10850,7 +10458,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「どんな手使ってでも<K花栗>と<K明輝>は俺の女にしてやる」"
+                                "\\N<Forest road> No matter what it takes, I will make\nHanaguri and Hinata mine."
                             ]
                         },
                         {
@@ -10867,7 +10475,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<林道>「楽しみだ・・・<N太郎>に見せつけるのがよぉ・・・」"
+                                "\\N<Forest road> I'm looking forward to it... Showing off to\nTaro..."
                             ]
                         },
                         {
@@ -11302,7 +10910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「大会が近いから夏休みもみっちり練習するんだ」"
+                                "\\N<Hinata Aki> Since the tournament is coming up, I'm going\nto practice hard during summer vacation."
                             ]
                         },
                         {
@@ -11319,7 +10927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「最近タイムも伸びてきたし頑張るぞ～！」"
+                                "\\N<Hinata Aki> Lately, my time has been improving, so I'm\ngoing to do my best!"
                             ]
                         },
                         {
@@ -11671,7 +11279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「太郎～！わざわざ部活見に来たの？」"
+                                "\\N<Hinata Aki> Taro~! Did you come all the way here to\nwatch the club activities?"
                             ]
                         },
                         {
@@ -11688,7 +11296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「もうすぐ部活終わるから校門で待っててよ！」"
+                                "\\N<Hinata Aki> I'll be done with club activities soon, so\nwait for me at the school gate!"
                             ]
                         },
                         {
@@ -11705,7 +11313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「着替えてすぐ行くからさ一緒に帰ろっ♪」"
+                                "\\N<Hinata Aki> I'll change and be right there, so let's go\nhome together♪"
                             ]
                         },
                         {
@@ -11886,28 +11494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「はっ…はっ…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Haa... haa..."
                             ]
                         },
                         {
@@ -11924,7 +11511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「あれっ…はぁ…太郎じゃん…はぁ」"
+                                "\\N<Hinata Aki> Huh... haa... It's Taro... haa"
                             ]
                         },
                         {
@@ -11941,7 +11528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「今日は遅くなるから先に帰ってていいよ！」"
+                                "\\N<Hinata Aki> I'll be late today, so you can go home\nfirst!"
                             ]
                         },
                         {
@@ -12316,7 +11903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「はぁ…はぁ…あれ太郎じゃん」"
+                                "\\N<Hinata Aki> Haa... haa... Oh, it's Taro."
                             ]
                         },
                         {
@@ -12333,7 +11920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「太郎も一緒に走る？」"
+                                "\\N<Hinata Aki> Taro, do you want to run together?"
                             ]
                         },
                         {
@@ -12350,7 +11937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「アタシのペースについてこれるかな？」"
+                                "\\N<Hinata Aki> I wonder if you can keep up with my pace?"
                             ]
                         },
                         {
@@ -13069,7 +12656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<軽そうな生徒>「すげえもんが手に入ったって言ってたけど」"
+                                "\\N<Light-looking student> I heard they got something\namazing."
                             ]
                         },
                         {
@@ -13086,7 +12673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<軽そうな生徒>「明輝を口説き落とせるものなのかな…」"
+                                "\\N<Light-looking student> I wonder if it's something that\ncan make Aki fall for me..."
                             ]
                         },
                         {
@@ -13163,14 +12750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<悪そうな生徒>「中でお楽しみかよ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺も混ぜてくれねえかな」"
+                                "\\N<Suspicious-looking student> Are you having fun\ninside...? I wish I could join too."
                             ]
                         },
                         {
@@ -13298,7 +12878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<軽そうな生徒>「また明輝と二人で部室こもってるよ…」"
+                                "\\N<Light-looking student> Aki and Taro are alone in the\nclub room again..."
                             ]
                         },
                         {
@@ -13315,7 +12895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<軽そうな生徒>「今覗いたら明輝とのセックスが見れるかもなぁ」"
+                                "\\N<Light-looking student> If I peek now, I might be able to\nsee Aki and Taro having sex."
                             ]
                         },
                         {
@@ -13443,7 +13023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<悪そうな生徒>「ッチ…最近マジで明輝と一緒に居るなぁ」"
+                                "\\N<Suspicious-looking student> Hmm... Lately, Taro has been\nhanging out with Aki a lot."
                             ]
                         },
                         {
@@ -13460,7 +13040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<悪そうな生徒>「明輝も結局林道の女になっちまったのかな」"
+                                "\\N<Troublesome student> I wonder if Aki has also become one\nof Taro's girls in the end."
                             ]
                         },
                         {

@@ -7279,14 +7279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<美人な警官>「暗くなる前に帰るんだよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃないとお姉さん食べちゃうかも<K♥>」"
+                                "\\N<Beautiful police officer> You should go home before it\ngets dark, okay? Otherwise, big sister might eat you up\n<K♥>"
                             ]
                         },
                         {
@@ -7303,7 +7296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<美人な警官>「・・・なんてね」"
+                                "\\N<Beautiful police officer> ...just kidding."
                             ]
                         },
                         {
@@ -7371,7 +7364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<美人な警官>「夏休み～？<K♥>あんまりハメ外しちゃだめだよ」"
+                                "\\N<Beautiful police officer> Summer vacation~? <K♥> You\nshouldn't go too wild and let loose."
                             ]
                         },
                         {
@@ -7672,7 +7665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "栞の財布は街の中にあるはずだ"
+                                "Shiori's wallet should be somewhere in the town."
                             ]
                         },
                         {
@@ -7771,7 +7764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "栞に財布を届けよう"
+                                "I will deliver the wallet to Kanade."
                             ]
                         },
                         {
@@ -7879,7 +7872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "表札には『<N大村>』と書いてある"
+                                "The nameplate says <N Omura>."
                             ]
                         },
                         {
@@ -7947,7 +7940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男女の話し声が聞こえます"
+                                "I can hear the voices of a man and a woman."
                             ]
                         },
                         {
@@ -7964,14 +7957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗み聞きしますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(<S♥大村ルートが確定します>)"
+                                "Are you eavesdropping? (♥ The Oomura route is confirmed)"
                             ]
                         },
                         {
@@ -8035,28 +8021,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<男>「またこの問題間違えてるじゃないか」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "\\N<Male> You got this question wrong again, didn't you?"
                             ]
                         },
                         {
@@ -8073,28 +8038,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<女>「あっれ～おかしいなぁ・・・」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "\\N<Female> Huh... that's strange..."
                             ]
                         },
                         {
@@ -8111,28 +8055,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<男>「暗記科目なんだから覚えれば点取れるんだぞ？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "\\N<Male> It's a subject that you can score points on if you\nmemorize it, you know?"
                             ]
                         },
                         {
@@ -8149,28 +8072,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<女>「暗記するの苦手なんですよ～右から左に流れてく感じですよ！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "\\N<Female> I'm not good at memorizing~ It feels like it\ngoes in one ear and out the other!"
                             ]
                         },
                         {
@@ -8187,7 +8089,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<男>「全部苦手の間違いだろ・・・」"
+                                "\\N<Male> It's all mistakes that I'm bad at..."
                             ]
                         },
                         {
@@ -8204,7 +8106,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<女>「アハハハ・・・痛いとこ突きますね～・・・・」"
+                                "\\N<Female> Ahahaha... you really hit where it hurts~..."
                             ]
                         },
                         {
@@ -8230,7 +8132,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "男女で勉強をしているようだ"
+                                "It seems like they are studying together, a man and a woman."
                             ]
                         },
                         {
@@ -8247,7 +8149,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・"
+                                "..."
                             ]
                         },
                         {
@@ -8264,7 +8166,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・・・・"
+                                "......"
                             ]
                         },
                         {
@@ -8300,7 +8202,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "友人からだ・・・"
+                                "It's from a friend..."
                             ]
                         },
                         {
@@ -8317,14 +8219,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<友人>「偶々見つけたんだけどこの子・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "明輝ちゃんに似てないか？」"
+                                "\\N<Friend> I happened to come across this girl... doesn't\nshe look like Aki-chan?"
                             ]
                         },
                         {
@@ -8375,7 +8270,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・"
+                                "..."
                             ]
                         },
                         {
@@ -8392,7 +8287,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・・・・"
+                                "......"
                             ]
                         },
                         {
@@ -8446,7 +8341,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "別視点を見ますか？"
+                                "Do you want to see a different perspective?"
                             ]
                         },
                         {
@@ -8759,7 +8654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<鋭い目の中年>『冷やかしなら帰ってくれ』"
+                                "\\N<Sharp-eyed middle-aged person> If you're just here to\nmess around, then please leave."
                             ]
                         },
                         {
@@ -8947,28 +8842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -8985,28 +8859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -9023,28 +8876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -9061,28 +8893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -9099,28 +8910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -9137,28 +8927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何だか…勢いで凄い事しちゃった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Somehow... I ended up doing something incredible in the\nheat of the moment."
                             ]
                         },
                         {
@@ -9175,28 +8944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "知り合ったばかりのおじさんと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "With a man I just met..."
                             ]
                         },
                         {
@@ -9213,7 +8961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "隙間から涼しい風が入ってくる狭いテントで…"
+                                "In a small tent where a cool breeze enters through the\ngaps..."
                             ]
                         },
                         {
@@ -9299,28 +9047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明輝の友達A>「ねぇ明輝～最近付き合い悪いよ～」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Aki's Friend A> Hey Aki, you've been distant lately~"
                             ]
                         },
                         {
@@ -9371,28 +9098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「そうかな…？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Is that so...?"
                             ]
                         },
                         {
@@ -9409,28 +9115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明輝の友達B>「そうだよ～！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Aki's Friend B> That's right~!"
                             ]
                         },
                         {
@@ -9447,28 +9132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明輝の友達B>「まだ時間あるしカラオケとか行っちゃう？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Aki's Friend B> We still have time, so how about going\nto karaoke?"
                             ]
                         },
                         {
@@ -9485,28 +9149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明輝の友達A>「いいね～！カラオケ行っちゃお！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Aki's Friend A> Sounds great! Let's go to karaoke!"
                             ]
                         },
                         {
@@ -9755,28 +9398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<佐山>「あ…!明輝ちゃん！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Sayama> Ah...! Aki-chan!"
                             ]
                         },
                         {
@@ -9793,28 +9415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<佐山>「今日は友達と一緒なのかぁ！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Sayama> Are you with your friends today?"
                             ]
                         },
                         {
@@ -9959,28 +9560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「あ…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Ah..."
                             ]
                         },
                         {
@@ -9997,28 +9577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明輝の友達B>「え？今あの人…明輝の名前呼んだ？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Aki's Friend B> Huh? Did that person just call Aki's\nname?"
                             ]
                         },
                         {
@@ -10035,28 +9594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明輝の友達A>「明輝の知り合い…？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Aki's Friend A> Aki's acquaintance...?"
                             ]
                         },
                         {
@@ -10073,14 +9611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明輝の友達A>「…あの人ってテントがいっぱいある場所に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "住んでる人じゃない？」"
+                                "\\N<Aki's Friend A> Isn't that person the one who lives in a\nplace with lots of tents?"
                             ]
                         },
                         {
@@ -10097,14 +9628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明輝の友達B>「…ねぇ行こ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ニヤニヤしててなんか怖いし…」"
+                                "\\N<Aki's Friend B> Hey, let's go? It's kind of scary when\nyou're grinning like that..."
                             ]
                         },
                         {
@@ -10459,28 +9983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「え…ぁ……」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Eh... ah..."
                             ]
                         },
                         {
@@ -10497,28 +10000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>「...」"
                             ]
                         },
                         {
@@ -10535,7 +10017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「……」"
+                                "\\N<Hinata Aki>「......」"
                             ]
                         },
                         {
@@ -10736,7 +10218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "栞の財布は街の中にあるはずだ"
+                                "The wallet should be somewhere in the town."
                             ]
                         },
                         {
@@ -10835,7 +10317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "栞に財布を届けよう"
+                                "I will deliver the wallet to Kanade."
                             ]
                         },
                         {
@@ -11018,7 +10500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "栞の財布は街の中にあるはずだ"
+                                "Shiori's wallet should be somewhere in the town."
                             ]
                         },
                         {
@@ -11117,7 +10599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "栞に財布を届けよう"
+                                "I will deliver the wallet to Kanade."
                             ]
                         },
                         {
@@ -11300,7 +10782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "栞の財布は街の中にあるはずだ"
+                                "The wallet should be somewhere in the town."
                             ]
                         },
                         {
@@ -11399,7 +10881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "栞に財布を届けよう"
+                                "I will deliver the wallet to Kanade."
                             ]
                         },
                         {
@@ -11582,7 +11064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "栞の財布は街の中にあるはずだ"
+                                "Shiori's wallet should be somewhere in the town."
                             ]
                         },
                         {
@@ -11681,7 +11163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "栞に財布を届けよう"
+                                "I will deliver the wallet to Kanade."
                             ]
                         },
                         {
@@ -11864,7 +11346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "栞の財布は街の中にあるはずだ"
+                                "Shiori's wallet should be somewhere in the town."
                             ]
                         },
                         {
@@ -11963,7 +11445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "栞に財布を届けよう"
+                                "I will deliver the wallet to Kanade."
                             ]
                         },
                         {

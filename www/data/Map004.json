@@ -4010,7 +4010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「ん～…ここの問題は…」"
+                                "\\N<Hinata Aki> Hmm... the problem here is..."
                             ]
                         },
                         {
@@ -4027,7 +4027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「あれ…どの公式を使うんだっけ…？」"
+                                "\\N<Hinata Aki> Hmm... which formula do I use again...?"
                             ]
                         },
                         {
@@ -4044,14 +4044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「\\{あぁ～もぉ～！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全然分かんないよ！！\\}」"
+                                "\\N<Hinata Aki> Ugh... I just don't get it at all!!"
                             ]
                         },
                         {
@@ -4144,7 +4137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "明輝が何か悩んでいます"
+                                "Aki seems to be troubled about something."
                             ]
                         },
                         {
@@ -4161,14 +4154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "話を聞いてみますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(大村イベントが進みます)"
+                                "Shall I listen to your story? (The Omura event will\nprogress)"
                             ]
                         },
                         {
@@ -4273,28 +4259,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「う～ん・・・どうしよう・・・」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Hmm... What should I do..."
                             ]
                         },
                         {
@@ -4311,28 +4276,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「でもなぁ・・・うーん・・・」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> But... hmm..."
                             ]
                         },
                         {
@@ -4403,7 +4347,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「・・・！あっ太郎！」"
+                                "\\N<Hinata Aki> ...! Oh, Taro!"
                             ]
                         },
                         {
@@ -4441,28 +4385,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<日向明輝>「うーん実はさ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "買ったばかりのシューズが壊れちゃって・・・」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Hmm, actually, the shoes I just bought got\nbroken..."
                             ]
                         },
                         {
@@ -4479,28 +4402,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<日向明輝>「履けない事も無いんだけどケガとか怖いんだよね」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> I can still wear them, but I'm afraid of\ngetting injured."
                             ]
                         },
                         {
@@ -4517,28 +4419,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<日向明輝>「でも最近買ったばかりでまた買ってなんて言えないし・・・」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> But I can't say that I bought them recently\nand ask to buy another pair..."
                             ]
                         },
                         {
@@ -4555,28 +4436,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<日向明輝>「あー！！もう！どうしようかなぁ～！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Ahh!! Geez! What should I do~!"
                             ]
                         },
                         {
@@ -4593,14 +4453,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<日向明輝>「くぅ～・・・お小遣い貯めてなかった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "過去のアタシ恨むぞぉ・・・」"
+                                "\\N<Hinata Aki> Ugh... I regret not saving up my allowance\nin the past..."
                             ]
                         },
                         {
@@ -4668,7 +4521,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "どうやら力になれる事は無い様だ・・・"
+                                "It seems like there's nothing I can do to help..."
                             ]
                         },
                         {
@@ -4685,7 +4538,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "別視点を見ますか？"
+                                "Do you want to see a different perspective?"
                             ]
                         },
                         {
@@ -4999,7 +4852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「はぁ～…勉強したのに補習だぁ…」"
+                                "\\N<Hinata Aki> Sigh... Even though I studied, I have to go\nto supplementary lessons..."
                             ]
                         },
                         {
@@ -5016,7 +4869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「太郎は補習じゃないのに学校来たの？」"
+                                "\\N<Hinata Aki> Taro, why did you come to school if you\ndon't have supplementary lessons?"
                             ]
                         },
                         {
@@ -5033,7 +4886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「もしかしてアタシにでも会いに来たのかなぁ？」"
+                                "\\N<Hinata Aki> Did you come to see me or something?"
                             ]
                         },
                         {
@@ -5160,28 +5013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「なに～からかいに来たの～？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> What~ did you come to tease me about?"
                             ]
                         },
                         {
@@ -5198,14 +5030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「はぁ…あと数点あれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "補習なんて無かったのに…！」"
+                                "\\N<Hinata Aki> Sigh... If only I had a few more points, I\nwouldn't have to take supplementary lessons!"
                             ]
                         },
                         {
@@ -5222,7 +5047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「もっと勉強しておけばよかったぁ…うぅ…」"
+                                "\\N<Hinata Aki> I should have studied more... Ugh..."
                             ]
                         },
                         {
@@ -5571,7 +5396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「～であるからして・・・」"
+                                "\\N<Omura> Because of that..."
                             ]
                         },
                         {
@@ -5588,7 +5413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「～となるわけだ」"
+                                "\\N<Omura> So that's how it is."
                             ]
                         },
                         {
@@ -5605,21 +5430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "担任の大村"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "噂で女子生徒に陰でセクハラをしていると聞いた事がある"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "噂は噂でしかないのであまり信じてはいない"
+                                "I've heard rumors that my homeroom teacher, Omura, has been\nsexually harassing female students behind the scenes.\nHowever, since rumors are just rumors, I don't believe them\ntoo much."
                             ]
                         },
                         {
@@ -5655,7 +5466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「おっとそろそろ時間だな日直～挨拶！」"
+                                "\\N<Omura> Oh, it's about time for the class representative\nduty. Greetings!"
                             ]
                         },
                         {
@@ -5672,7 +5483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日直>「きり～っつ・・・礼～」"
+                                "\\N<Nitchoku> Kirii~... Thank you~"
                             ]
                         },
                         {
@@ -5689,7 +5500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日直>「ありがとうございました～」"
+                                "\\N<Nitchoku> Thank you very much~"
                             ]
                         },
                         {
@@ -5706,7 +5517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<全員>\\{「ありがとうございました～」"
+                                "\\N<Everyone>\\{ Thank you very much~"
                             ]
                         },
                         {
@@ -5723,7 +5534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「あーそうだ」"
+                                "\\N<Omura> Oh, that's right."
                             ]
                         },
                         {
@@ -5740,14 +5551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「そろそろテストが近いからな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前らしっかりテスト範囲の復習しておくんだぞ」"
+                                "\\N<Omura> The tests are coming up soon, so make sure you\nreview the material thoroughly."
                             ]
                         },
                         {
@@ -5764,7 +5568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>\\{「特に明輝～！」"
+                                "\\N<Omura>\\{ Especially Aki~!"
                             ]
                         },
                         {
@@ -5856,7 +5660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>\\{「うっ・・・」"
+                                "\\N<Hinata Aki>\\{Ugh...}"
                             ]
                         },
                         {
@@ -5948,7 +5752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「赤点取ったらどうなるか・・・」"
+                                "\\N<Omura> What will happen if you fail?"
                             ]
                         },
                         {
@@ -5965,7 +5769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「分かってるよな・・・？」"
+                                "\\N<Omura> You understand, right...?"
                             ]
                         },
                         {
@@ -5982,14 +5786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「・・・まあいい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石にテスト勉強しないなんて事は無いだろうからな」"
+                                "\\N<Omura> ...Well, it's fine. I'm sure you won't neglect\nstudying for the tests."
                             ]
                         },
                         {
@@ -6006,7 +5803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<大村>「じゃあ全員勉強頑張るように～」"
+                                "\\N<Omura> Well then, let's all do our best in studying~"
                             ]
                         },
                         {
@@ -6168,14 +5965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「やばいよぉ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎～今回のテスト範囲ってどこだっけ～」"
+                                "\\N<Hinata Aki> Oh no~ Taro~ Where was the test material for\nthis time?"
                             ]
                         },
                         {
@@ -6223,7 +6013,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>\\{「ケチッ！！」"
+                                "\\N<Hinata Aki> How stingy!!"
                             ]
                         },
                         {
@@ -6240,7 +6030,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「アタシが赤点取っても良いのか！薄情者！！」"
+                                "\\N<Hinata Aki> Is it okay for me to get a failing grade?!\nHow heartless!!"
                             ]
                         },
                         {
@@ -6344,7 +6134,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>\\{「助かる～～！！」"
+                                "\\N<Hinata Aki> Thank goodness~!!"
                             ]
                         },
                         {
@@ -6361,7 +6151,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「やっぱ持つべきものは幼馴染様だね！」"
+                                "\\N<Hinata Aki> As expected, my childhood friend is the one\nI should rely on!"
                             ]
                         },
                         {
@@ -6551,7 +6341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<???>「あっあの・・・」"
+                                "\\N <???> Ah, um..."
                             ]
                         },
                         {
@@ -6643,7 +6433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「あっ花栗さん」"
+                                "\\N<Hinata Aki> Ah, Hanaguri-san."
                             ]
                         },
                         {
@@ -6735,7 +6525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「わ・・・私もテスト範囲教えてほしいな・・・」"
+                                "\\N<Hanaguri Shiori> Umm... I also want you to tell me the\ntest material..."
                             ]
                         },
                         {
@@ -6768,7 +6558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「だめ・・・かな？太郎君・・・」"
+                                "\\N<Hanaguri Shiori> Is it... no good, Taro-kun...?"
                             ]
                         },
                         {
@@ -6806,7 +6596,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<花栗栞>「ホント・・！？やった！」"
+                                "\\N<Hanaguri Shiori> Really...!? Yay!"
                             ]
                         },
                         {
@@ -6898,7 +6688,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「ちょっと！アタシには教えないって言ったのに！」"
+                                "\\N<Hinata Aki> Hey! I told you not to tell me!"
                             ]
                         },
                         {
@@ -6915,7 +6705,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「いいもん覗くから！」"
+                                "\\N<Hinata Aki> I'm just taking a peek, okay!"
                             ]
                         },
                         {
@@ -7007,7 +6797,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<花栗栞>「やっぱり太郎君優しい・・・ね」"
+                                "\\N<Hanaguri Shiori> Taro-kun is really kind... right?"
                             ]
                         },
                         {
@@ -7099,7 +6889,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>(・・・ばか)"
+                                "\\N<Hinata Aki>(...idiot)"
                             ]
                         },
                         {
@@ -7142,7 +6932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「でも意外だな～」"
+                                "<Hinata Aki> But it's surprising, isn't it~"
                             ]
                         },
                         {
@@ -7159,14 +6949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「花栗さん成績良いしテスト範囲なんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "当然メモしてるのかと思った」"
+                                "\\N<Hinata Aki> Hanaguri-san, your grades are good, so I\nthought you would naturally have notes on the test\nmaterial."
                             ]
                         },
                         {
@@ -7183,7 +6966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「もしかしてうっかりさん？」"
+                                "<Hinata Aki> Could it be that you're absent-minded?"
                             ]
                         },
                         {
@@ -7275,7 +7058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「えっ・・・あっ・・・」"
+                                "\\N<Hanaguri Shiori> Huh... Ah..."
                             ]
                         },
                         {
@@ -7292,14 +7075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「・・・そうなの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぼーっとしてたらメモし忘れちゃったの」"
+                                "\\N<Hanaguri Shiori> Is that so! I was spacing out and\nforgot to take notes."
                             ]
                         },
                         {
@@ -7332,7 +7108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「だから凄い助かったよ太郎君本当にありがと」"
+                                "\\N<Hanaguri Shiori> That's why I'm really grateful, Taro-\nkun. Thank you so much."
                             ]
                         },
                         {
@@ -7424,28 +7200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(太郎・・・なに顔赤くしてんの・・・)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>(Taro... why is your face turning red...)"
                             ]
                         },
                         {
@@ -7462,7 +7217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(・・・)"
+                                "\\N<Hinata Aki>(...)"
                             ]
                         },
                         {
@@ -7495,28 +7250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(って何考えてんだろアタシっ！)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Hinata Aki>(What is he thinking...!)"
                             ]
                         },
                         {
@@ -7533,14 +7267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「そっ・・・そろそろ帰ろうっか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねっ・・・太郎？」"
+                                "\\N<Hinata Aki> Sh-Shall we... Shall we go home soon, Taro?"
                             ]
                         },
                         {
@@ -7573,7 +7300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「花栗さんまた明日～！お互い勉強頑張ろうね！！」"
+                                "\\N<Hinata Aki> See you tomorrow, Hanaguri-san~! Let's both\ndo our best in studying!!"
                             ]
                         },
                         {
@@ -7665,7 +7392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「うんまた明日っじゃあね日向さん太郎君」"
+                                "\\N<Hanaguri Shiori> Yeah, see you tomorrow, Hinata-san,\nTaro- kun."
                             ]
                         },
                         {
@@ -7878,7 +7605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<???>「あっあの・・・」"
+                                "\\N <???> Ah, um..."
                             ]
                         },
                         {
@@ -7970,7 +7697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「あっ花栗さん」"
+                                "\\N<Hinata Aki> Ah, Hanaguri-san."
                             ]
                         },
                         {
@@ -8062,7 +7789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「わ・・・私もテスト範囲教えてほしいな・・・」"
+                                "\\N<Hanaguri Shiori> Umm... I also want you to tell me the\ntest material..."
                             ]
                         },
                         {
@@ -8095,7 +7822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「だめ・・・かな？太郎君・・・」"
+                                "\\N<Hanaguri Shiori> Is it... no good, Taro-kun...?"
                             ]
                         },
                         {
@@ -8133,7 +7860,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<花栗栞>「ホント・・！？やった！」"
+                                "\\N<Hanaguri Shiori> Really...!? Yay!"
                             ]
                         },
                         {
@@ -8150,7 +7877,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<花栗栞>「やっぱり太郎君優しい・・・ね」"
+                                "\\N<Hanaguri Shiori> Taro-kun is really kind... isn't he?"
                             ]
                         },
                         {
@@ -8234,7 +7961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「でも意外だな～」"
+                                "\\N<Hinata Aki> But it's surprising, isn't it~"
                             ]
                         },
                         {
@@ -8251,14 +7978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「花栗さん成績良いしテスト範囲なんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "当然メモしてるのかと思った」"
+                                "\\N<Hinata Aki> Hanaguri-san, your grades are good, so I\nthought you would naturally have the test material\nmemorized."
                             ]
                         },
                         {
@@ -8275,7 +7995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「もしかしてうっかりさん？」"
+                                "<Hinata Aki> Could it be that you're absent-minded?"
                             ]
                         },
                         {
@@ -8367,7 +8087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「えっ・・・あっ・・・」"
+                                "\\N<Hanaguri Shiori> Huh... Ah..."
                             ]
                         },
                         {
@@ -8384,14 +8104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「・・・そうなの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぼーっとしてたらメモし忘れちゃったの」"
+                                "\\N<Hanaguri Shiori> Oh... Yeah! I was spacing out and\nforgot to take notes."
                             ]
                         },
                         {
@@ -8424,7 +8137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「だから凄い助かったよ太郎君本当にありがと」"
+                                "\\N<Hanaguri Shiori> That's why I'm really grateful, Taro-\nkun. Thank you so much."
                             ]
                         },
                         {
@@ -8516,28 +8229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(太郎・・・なに顔赤くしてんの・・・)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>(Taro... why are you blushing...)"
                             ]
                         },
                         {
@@ -8554,7 +8246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(・・・)"
+                                "\\N<Hinata Aki>(...)"
                             ]
                         },
                         {
@@ -8587,28 +8279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>(って何考えてんだろアタシっ！)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>(What is he thinking...?)"
                             ]
                         },
                         {
@@ -8625,14 +8296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「そっ・・・そろそろ帰ろうっか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねっ・・・太郎？」"
+                                "<Hinata Aki> Sh-Shall we... start heading home soon, Taro?"
                             ]
                         },
                         {
@@ -8665,7 +8329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「花栗さんまた明日～！お互い勉強頑張ろうね！！」"
+                                "\\N<Hinata Aki> See you tomorrow, Hanaguri-san! Let's both\ndo our best in studying!!"
                             ]
                         },
                         {
@@ -8757,7 +8421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<花栗栞>「うんまた明日っじゃあね日向さん太郎君」"
+                                "\\N<Hanaguri Shiori> Yeah, see you tomorrow, Hinata-san,\nTaro- kun."
                             ]
                         },
                         {
@@ -9116,28 +8780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「やっと終わった・・・」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Finally finished..."
                             ]
                         },
                         {
@@ -9154,28 +8797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「もう1教科目から頭がクラクラして倒れそうだった・・・」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> I felt so dizzy and almost collapsed after\ndealing with another subject..."
                             ]
                         },
                         {
@@ -9208,28 +8830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「でもこれで夏休み！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> But now it's finally summer vacation!"
                             ]
                         },
                         {
@@ -9246,28 +8847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「色々やるぞぉ～～！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> I'm going to do various things~!"
                             ]
                         },
                         {
@@ -9284,7 +8864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「海行ったり夏祭り行ったり・・・！」"
+                                "\\N<Hinata Aki> Going to the beach and attending summer\nfestivals...!"
                             ]
                         },
                         {
@@ -9390,28 +8970,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「・・・」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>「...」"
                             ]
                         },
                         {
@@ -9428,28 +8987,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「・・・・・・」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>「......」"
                             ]
                         },
                         {
@@ -9466,28 +9004,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「・・・ハハ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> ...Haha"
                             ]
                         },
                         {
@@ -9504,28 +9021,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「まっ・・・まあまあ？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> W-Well, well?"
                             ]
                         },
                         {
@@ -9542,28 +9038,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「うん・・・アタシにしてはよくやった方だね」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Hmm... I did pretty well, considering it's\nme."
                             ]
                         },
                         {
@@ -9596,28 +9071,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「・・・・・・もう過ぎた事を考えても仕方ない！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> ...There's no point in dwelling on the\npast!"
                             ]
                         },
                         {
@@ -9650,7 +9104,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「早く帰ろっ！夏休みが待ってる！」"
+                                "\\N<Hinata Aki> Let's go home quickly! Summer vacation is\nwaiting!"
                             ]
                         },
                         {
@@ -9773,7 +9227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日から夏休みが始まります"
+                                "Summer vacation starts today."
                             ]
                         },
                         {
@@ -9790,14 +9244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "<K明輝>との距離を縮めて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "25日に行われる<K祭>に誘い告白しましょう"
+                                "Let's close the distance between Hinata Aki and invite her\nto the <K Festival> that will be held on the 25th and\nconfess our feelings."
                             ]
                         },
                         {
@@ -10817,7 +10264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっちは女子トイレだ"
+                                "This is the women's restroom."
                             ]
                         },
                         {
@@ -11258,7 +10705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明るい生徒>「どっちが良い点数取れるか勝負しようぜ」"
+                                "\\N<Bright student> Let's compete to see who can get a\nbetter score."
                             ]
                         },
                         {
@@ -11326,14 +10773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明るい生徒>「家にいても暇だからわざと赤点にして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "補習受けてるんだ」"
+                                "\\N<Bright student> I purposely get low grades and attend\nsupplementary classes because I'm bored even when I'm at\nhome."
                             ]
                         },
                         {
@@ -11350,7 +10790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明るい生徒>「・・・ホントだからな！」"
+                                "\\N<Bright student> ...I'm serious, you know!"
                             ]
                         },
                         {
@@ -11418,7 +10858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明るい生徒>「よぉ…太郎」"
+                                "\\N<Bright student> Hey... Taro"
                             ]
                         },
                         {
@@ -11435,7 +10875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明るい生徒>「お前温泉とか興味あるか？」"
+                                "\\N<Bright student> Are you interested in hot springs?"
                             ]
                         },
                         {
@@ -11452,14 +10892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明るい生徒>「実は明日親戚の旅館でバイトする"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "予定だったんだが」"
+                                "\\N<Bright student> Actually, I was planning to work part-\ntime at a relative's inn tomorrow."
                             ]
                         },
                         {
@@ -11476,7 +10909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明るい生徒>「補習受けなきゃいけなくてよ…」"
+                                "\\N<Bright student> I have to take supplementary lessons..."
                             ]
                         },
                         {
@@ -11493,7 +10926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明るい生徒>「代わりにバイト行ってくれねえか？」"
+                                "\\N<Bright student> Can you go work part-time in my place?"
                             ]
                         },
                         {
@@ -11510,14 +10943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明るい生徒>「泊まり込みだが温泉も入れるし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "客室に泊まれるんだ」"
+                                "\\N<Bright student> It's an overnight stay, but you can also\nenjoy the hot springs and stay in one of the guest rooms."
                             ]
                         },
                         {
@@ -11534,7 +10960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明るい生徒>「どうせ夏休み暇なんだろ？頼むよ…」"
+                                "\\N<Bright student> You're probably free during summer\nvacation anyway, right? Please, I'm begging you..."
                             ]
                         },
                         {
@@ -11551,7 +10977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明るい生徒>「代わりの奴用意しないと怒られるんだ」"
+                                "\\N<Bright student> I'll get scolded if I don't find a\nreplacement."
                             ]
                         },
                         {
@@ -11568,7 +10994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "旅館でバイトをしますか？"
+                                "Will you work part-time at the inn?"
                             ]
                         },
                         {
@@ -11607,7 +11033,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<明るい生徒>「ホントか！」"
+                                "\\N<Bright student> Really?"
                             ]
                         },
                         {
@@ -11624,7 +11050,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<明るい生徒>「やっぱ持つべきものは友達だな！」"
+                                "\\N<Bright student> Friends are really important after all!"
                             ]
                         },
                         {
@@ -11641,7 +11067,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<明るい生徒>「後で詳細は連絡するから頼むな！」"
+                                "\\N<Bright student> I'll contact you later with the details,\nso please rely on me!"
                             ]
                         },
                         {
@@ -11688,7 +11114,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<明るい生徒>「気が変わったら言えよ」"
+                                "\\N <Bright student> Let me know if you change your mind."
                             ]
                         },
                         {
@@ -11705,7 +11131,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<明るい生徒>「19時まで待つからよ」"
+                                "\\N Bright student: I'll wait until 7 p.m., so please come."
                             ]
                         },
                         {
@@ -11791,7 +11217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明るい生徒>「バイトしてくれる気になったか？」"
+                                "\\N<Bright student> Have you decided to take the part-time\njob?"
                             ]
                         },
                         {
@@ -11808,7 +11234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "旅館でバイトをしますか？"
+                                "Will you work part-time at the inn?"
                             ]
                         },
                         {
@@ -11847,7 +11273,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<明るい生徒>「ホントか！」"
+                                "\\N<Bright student> Really?"
                             ]
                         },
                         {
@@ -11864,7 +11290,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<明るい生徒>「やっぱ持つべきものは友達だな！」"
+                                "\\N<Bright student> As expected, friends are the most\nimportant!"
                             ]
                         },
                         {
@@ -11881,7 +11307,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<明るい生徒>「後で詳細は連絡するから頼むな！」"
+                                "<Bright student> I'll contact you later with the details,\nso please rely on me!"
                             ]
                         },
                         {
@@ -11928,7 +11354,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<明るい生徒>「気が変わったら言えよ」"
+                                "\\N<Bright student> If you change your mind, let me know."
                             ]
                         },
                         {
@@ -11945,7 +11371,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<明るい生徒>「19時まで待つからよ」"
+                                "<Bright student> I'll wait until 7 p.m., so please take\nyour time."
                             ]
                         },
                         {
@@ -12023,7 +11449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明るい生徒>「後で詳細は連絡するから頼むな！」"
+                                "\\N<Bright student> I'll contact you later with the details,\nso please rely on me!"
                             ]
                         },
                         {
@@ -12091,7 +11517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明るい生徒>「なんか教室の空気変なんだよなぁ」"
+                                "\\N<Bright student> The atmosphere in the classroom feels\nstrange, doesn't it?"
                             ]
                         },
                         {
@@ -12108,7 +11534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明るい生徒>「ってか…お前も暗いぞ…？」"
+                                "\\N<Bright student> By the way... you're also gloomy, aren't\nyou...?"
                             ]
                         },
                         {
@@ -12125,7 +11551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<明るい生徒>「はぁ～…何が起きてんだか」"
+                                "\\N<Bright student> Sigh... I wonder what's happening."
                             ]
                         },
                         {
@@ -12424,7 +11850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<眠そうな生徒>「Zzz...Zzz...っ・・・！寝てないぞ！」"
+                                "\\N<Sleepy student> Zzz...Zzz...Huh...! I'm not sleeping!"
                             ]
                         },
                         {
@@ -12552,7 +11978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<真面目そうな生徒>「大村先生教えるの下手なんだよね～」"
+                                "\\N<Serious-looking student> Mr. Omura is not good at\nteaching, you know~"
                             ]
                         },
                         {
@@ -12569,14 +11995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<気の強そうな生徒>「分かる分かる～視線もやらしいし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホント苦手だわ～」"
+                                "\\N<Strong-willed student> I understand, I understand~ His\ngaze is so lewd, he's really not good at it~"
                             ]
                         },
                         {
@@ -12644,7 +12063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<真面目そうな生徒>「まさか明輝がねぇ～…」"
+                                "\\N<Serious-looking student> I can't believe Aki is\nabsent..."
                             ]
                         },
                         {
@@ -12661,7 +12080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<気の強そうな生徒>「ホント…あんなの奴のどこがいいんだか…」"
+                                "\\N<Strong-willed student> Seriously... What's so good about\nthat person..."
                             ]
                         },
                         {
@@ -12678,7 +12097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<真面目そうな生徒>「ちょっとね…趣味が悪いっていうか…」"
+                                "\\N<Serious-looking student> Seriously... It's more like\ntheir taste is bad..."
                             ]
                         },
                         {
@@ -12866,7 +12285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<委員長>「テスト勉強頑張らなきゃだね」"
+                                "\\N<Committee Chairperson> We have to study hard for the\ntest, don't we?"
                             ]
                         },
                         {
@@ -12934,7 +12353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<委員長>「太郎補習だっけ？」"
+                                "\\N<Committee Chairperson> Is it Taro's supplementary\nlessons?"
                             ]
                         },
                         {
@@ -12951,7 +12370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<委員長>「私？私は部活で来てるんだよ」"
+                                "\\N<Committee Chairperson> Me? I'm here for club\nactivities."
                             ]
                         },
                         {
@@ -13019,7 +12438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<委員長>「太郎……」"
+                                "\\N<Committee Chairperson> Taro..."
                             ]
                         },
                         {
@@ -13036,7 +12455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<委員長>「まぁ…ショックだろうけど…」"
+                                "\\N<Committee Chairperson> Well... I know it's shocking,\nbut..."
                             ]
                         },
                         {
@@ -13053,7 +12472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<委員長>「辛い事があったら何でも相談してよ？」"
+                                "\\NCommittee Chairperson: If you have any difficulties, feel\nfree to consult with me, okay?"
                             ]
                         },
                         {
@@ -13130,7 +12549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<尻の軽い生徒>「ねぇ太郎～勉強教えてよ～」"
+                                "\\N<A student with a loose moral compass> Hey Taro~ Can you\nteach me how to study?"
                             ]
                         },
                         {
@@ -13147,14 +12566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<尻の軽い生徒>「あ～でも明輝と付き合ってるんだっけ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ悪いかぁ～」"
+                                "\\N<A student with a loose moral compass> Oh, but aren't you\ndating Aki? Well, I guess it's fine then~"
                             ]
                         },
                         {
@@ -13171,7 +12583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<尻の軽い生徒>「えっ！あれで付き合ってないの！？ヤバ～」"
+                                "\\N<A student with a loose moral compass> Huh! You're not\ndating Aki!? That's dangerous~"
                             ]
                         },
                         {
@@ -13239,7 +12651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<尻の軽い生徒>「案の定補習～・・・だる～」"
+                                "\\N<A student with a loose moral compass> As expected,\nsupplementary lessons... so boring~"
                             ]
                         },
                         {
@@ -13256,7 +12668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<尻の軽い生徒>「ってか太郎は補習無いでしょ」"
+                                "\\N<A student with a loose moral compass> But Taro, you\ndon't have any supplementary lessons, right?"
                             ]
                         },
                         {
@@ -13273,7 +12685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<尻の軽い生徒>「夏休みなのに暇なの～？遊んであげよっか？」"
+                                "\\N<A student with a loose moral compass> Are you bored even\nthough it's summer vacation? Shall I play with you?"
                             ]
                         },
                         {
@@ -13290,7 +12702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<尻の軽い生徒>「って冗談！明輝に悪いしね」"
+                                "\\N<A student with a loose moral compass> Just kidding! It\nwouldn't be fair to Hinata Aki."
                             ]
                         },
                         {
@@ -13358,7 +12770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<尻の軽い生徒>「明輝と大村が付き合ってるらしいじゃん」"
+                                "\\N<A student with a loose moral compass> I heard that Aki\nand Taro are dating."
                             ]
                         },
                         {
@@ -13375,14 +12787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<尻の軽い生徒>「明輝は…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "太郎の事が好きなんだと思ってたけどなぁ」"
+                                "\\N<A student with a loose moral compass> I thought Aki...\nliked Taro, though."
                             ]
                         },
                         {
@@ -13399,7 +12804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<尻の軽い生徒>「まぁ～元気だしなよ～」"
+                                "\\N<A student with a loose moral compass> Well, cheer up,\nokay?"
                             ]
                         },
                         {
@@ -13416,7 +12821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<尻の軽い生徒>「私が明輝の事忘れさせてあげよっか？」"
+                                "\\N<A student with a loose moral compass> Shall I help you\nforget about Aki?"
                             ]
                         },
                         {
@@ -13544,7 +12949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<スケベな生徒>「夏服は明輝の胸が強調されるからいいよな」"
+                                "\\N<Perverted student> Summer uniforms really emphasize\nAki's chest, don't they?"
                             ]
                         },
                         {
@@ -13561,7 +12966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<スケベな生徒>「って・・・お前は見慣れてるか・・・」"
+                                "\\N<Perverted student> Hey... are you used to seeing it..."
                             ]
                         },
                         {
@@ -13629,7 +13034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<スケベな生徒>「はぁ・・・補習面倒だな・・・」"
+                                "\\N<Perverted student> Sigh... supplementary lessons are\nsuch a hassle..."
                             ]
                         },
                         {
@@ -13697,7 +13102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<スケベな生徒>「よぉ～太郎～…」"
+                                "\\N<Perverted student> Hey~ Taro~..."
                             ]
                         },
                         {
@@ -13714,7 +13119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<スケベな生徒>「なんだか変な噂が流れているみてえだな」"
+                                "\\N<Perverted student> It seems like there's some strange\nrumor going around."
                             ]
                         },
                         {
@@ -13731,14 +13136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<スケベな生徒>「まぁ…俺は信じてねえよ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "明輝と大村が付き合ってるなんてよ」"
+                                "\\N<Perverted student> Well... I don't believe it... that\nHinata Aki and Taro are dating."
                             ]
                         },
                         {
@@ -13815,7 +13213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<根暗な生徒>「ふぅ・・・花栗も日向も刺激が強すぎる・・・」"
+                                "\\N<Introverted student> Phew... both Hanaguri and Hinata\nare too stimulating..."
                             ]
                         },
                         {
@@ -13832,7 +13230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだかイカ臭い"
+                                "It smells kind of fishy."
                             ]
                         },
                         {
@@ -13900,7 +13298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<根暗な生徒>「ふぅ・・・夏休みに一人で慰めてる人生って・・・」"
+                                "\\N<Introverted student> Sigh... Spending the summer\nvacation alone, consoling myself... life can be tough."
                             ]
                         },
                         {
@@ -13917,7 +13315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだかイカ臭い"
+                                "It smells kind of fishy."
                             ]
                         },
                         {
@@ -13985,7 +13383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<根暗な生徒>「見ちまった…あれは絶対明輝と大村だ…」"
+                                "\\N<Introverted student> I saw it... That's definitely Aki\nHinata and Taro Omura..."
                             ]
                         },
                         {
@@ -14002,7 +13400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<根暗な生徒>「夜のグラウンドでセックスしやがって…」"
+                                "\\N<Introverted student> They were having sex on the school\ngrounds at night..."
                             ]
                         },
                         {
@@ -14019,7 +13417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだかイカ臭い"
+                                "It smells fishy."
                             ]
                         },
                         {
@@ -14096,14 +13494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<不真面目な生徒>「テスト勉強なんてしてねえよ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回も赤点かなぁ・・・」"
+                                "\\N<Unserious student> I didn't study for the test... I'll\nprobably get a failing grade again..."
                             ]
                         },
                         {
@@ -14171,7 +13562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<不真面目な生徒>「案の定補習だよ」"
+                                "\\N<Unserious student> As expected, it's supplementary\nlessons."
                             ]
                         },
                         {
@@ -14239,7 +13630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<不真面目な生徒>「なぁお前知ってるか？」"
+                                "\\N<Unserious student> Hey, do you know?"
                             ]
                         },
                         {
@@ -14256,7 +13647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<不真面目な生徒>「明輝と大村が付き合ってるって噂」"
+                                "\\N<Unserious student> I heard a rumor that Aki and Taro are\ndating."
                             ]
                         },
                         {
@@ -14273,7 +13664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<不真面目な生徒>「夜のグラウンドでセックスしてたとか…」"
+                                "\\N<Unserious student> I heard a rumor that Aki and Taro\nwere having sex on the school grounds at night..."
                             ]
                         },
                         {
@@ -14350,7 +13741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<真面目そうな生徒>「大村先生教えるの下手なんだよね～」"
+                                "\\N<Serious-looking student> Mr. Omura is not good at\nteaching, you know~"
                             ]
                         },
                         {
@@ -14367,14 +13758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<気の強そうな生徒>「分かる分かる～視線もやらしいし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホント苦手だわ～」"
+                                "\\N<Strong-willed student> I know, I know~ His gaze is so\nlewd, he's really not good at it~"
                             ]
                         },
                         {
@@ -14442,7 +13826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<真面目そうな生徒>「まさか明輝がねぇ～…」"
+                                "\\N<Serious-looking student> I can't believe Aki is\nabsent..."
                             ]
                         },
                         {
@@ -14459,7 +13843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<気の強そうな生徒>「ホント…あんなの奴のどこがいいんだか…」"
+                                "\\N<Strong-willed student> Seriously... What's so good about\nthat person..."
                             ]
                         },
                         {
@@ -14476,7 +13860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<真面目そうな生徒>「ちょっとね…趣味が悪いっていうか…」"
+                                "\\N<Serious-looking student> Seriously... It's more like\ntheir taste is bad..."
                             ]
                         },
                         {
@@ -14553,7 +13937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<機嫌の悪い生徒>「あんたどうやって入ってきたのよッ！」"
+                                "\\N<Disgruntled student> How did you even get in here?!"
                             ]
                         },
                         {
@@ -14570,7 +13954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<機嫌の悪い生徒>「変態ッ！」"
+                                "\\N<Disgruntled student> Pervert!"
                             ]
                         },
                         {
@@ -15989,7 +15373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<機嫌の悪い生徒>「はぁ…」"
+                                "\\N<Disgruntled student> Sigh..."
                             ]
                         },
                         {
@@ -16006,7 +15390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<機嫌の悪い生徒>「誰かがトイレでヤッてるぽいのよね…」"
+                                "\\N<Disgruntled student> Someone seems to be doing it in the\nbathroom..."
                             ]
                         },
                         {
@@ -16023,7 +15407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<機嫌の悪い生徒>「これじゃあトイレ使えないよ…」"
+                                "\\N<Disgruntled student> I can't use the bathroom like\nthis..."
                             ]
                         },
                         {
@@ -16091,7 +15475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<機嫌の悪い生徒>「はぁ…」"
+                                "\\N<Disgruntled student> Sigh..."
                             ]
                         },
                         {
@@ -16108,7 +15492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<機嫌の悪い生徒>「誰かがトイレでヤッてるぽいのよね…」"
+                                "\\N<Disgruntled student> Someone seems to be doing it in the\nbathroom..."
                             ]
                         },
                         {
@@ -16125,7 +15509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<機嫌の悪い生徒>「これじゃあトイレ使えないよ…」"
+                                "\\N<Disgruntled student> I can't use the bathroom like\nthis..."
                             ]
                         },
                         {
@@ -16310,7 +15694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日はアタシの家で沢山するんだから…"
+                                "Today, we're going to do a lot at my house..."
                             ]
                         },
                         {
@@ -16327,7 +15711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "1回だけだよ…？<K♥>"
+                                "Just once...? <K♥>"
                             ]
                         },
                         {
@@ -16344,7 +15728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日は家に誰もいないんだったな"
+                                "There's no one at home today."
                             ]
                         },
                         {
@@ -16361,7 +15745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん…<K♥>……んちゅ…じゅぼっ…"
+                                "Yeah... <K♥>... Nchu... Jubo..."
                             ]
                         },
                         {
@@ -16378,7 +15762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んっ…ちゅ…ぱ…"
+                                "Nn...chu...pa..."
                             ]
                         },
                         {
@@ -16395,7 +15779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゅっぱっ…ちゅっぱ…"
+                                "Chu-pa... chu-pa..."
                             ]
                         },
                         {
@@ -16412,7 +15796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せんせぇの今日も元気だね…<K♥>"
+                                "Sensei, you're energetic today too... <K♥>"
                             ]
                         },
                         {
@@ -16429,7 +15813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへ…もっと激しくしてくれよ<K♥>"
+                                "Hehe... Please be more intense <K♥>"
                             ]
                         },
                         {
@@ -16446,7 +15830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んっ～…<K♥>こぉ…？"
+                                "Mmm... <K♥> Like this...?"
                             ]
                         },
                         {
@@ -16463,7 +15847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぉ…その顔たまんねえぇ<K♥>"
+                                "Woah... that face is irresistible <K♥>"
                             ]
                         },
                         {
@@ -16511,7 +15895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もぉ～…また撮ってる…<K♥>"
+                                "Moo~... You're taking pictures again... <K♥>"
                             ]
                         },
                         {
@@ -16528,7 +15912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "咥えてる顔なんて変でしょ…？"
+                                "Isn't the face while being bitten strange...?"
                             ]
                         },
                         {
@@ -16673,28 +16057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<尻の軽い生徒>「ねぇ明輝～太郎とまだ付き合ってないの？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<A student with a loose moral compass> Hey Aki, are you\nstill not dating Taro?"
                             ]
                         },
                         {
@@ -16745,28 +16108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「え？ぁ…まだとかそういうのじゃないし…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Huh? Ah... it's not like that, you know..."
                             ]
                         },
                         {
@@ -16783,14 +16125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<尻の軽い生徒>「ふ～ん…じゃあ私が狙ってもいい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…太郎<K♥>」"
+                                "\\N<A student with a loose moral compass> Hmm... then, can I\ngo after him? ...Taro <K♥>"
                             ]
                         },
                         {
@@ -16807,28 +16142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「え！？……うぅ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Eh!?... Ugh"
                             ]
                         },
                         {
@@ -16845,28 +16159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<尻の軽い生徒>「ふふ…冗談だよ♪」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<A student with a loose moral compass> Hehe... just\nkidding♪"
                             ]
                         },
                         {
@@ -16883,28 +16176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<尻の軽い生徒>「…って太郎いるじゃん！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<A student with a loose moral compass> ...But Taro is\nhere, right!"
                             ]
                         },
                         {
@@ -16921,28 +16193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<尻の軽い生徒>「ふふ…明輝ったらさぁ～…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<A student with a loose moral compass> Hehe... Aki, you\nknow..."
                             ]
                         },
                         {
@@ -16975,7 +16226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「\\{わぁあああ!!!!!!\\}」"
+                                "\\N<Hinata Aki> Whaaat!!!!!!"
                             ]
                         },
                         {
@@ -17077,28 +16328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<尻の軽い生徒>「ねぇ明輝～太郎とまだ付き合ってないの？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<A student with a loose moral compass> Hey Aki, are you\nstill not dating Taro?"
                             ]
                         },
                         {
@@ -17149,28 +16379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「え？ぁ…まだとかそういうのじゃないし…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Huh? Ah... it's not like that, you know..."
                             ]
                         },
                         {
@@ -17187,14 +16396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<尻の軽い生徒>「ふ～ん…じゃあ私が狙ってもいい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…太郎<K♥>」"
+                                "\\N<A student with a loose moral compass> Hmm... then, can I\ngo after him? ...Taro <K♥>"
                             ]
                         },
                         {
@@ -17211,28 +16413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「え！？……うぅ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Eh!?... Ugh"
                             ]
                         },
                         {
@@ -17249,28 +16430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<尻の軽い生徒>「ふふ…冗談だよ♪」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<A student with a loose moral compass> Hehe... just\nkidding♪"
                             ]
                         },
                         {
@@ -17287,28 +16447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<尻の軽い生徒>「…って太郎いるじゃん！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<A student with a loose moral compass> ...But Taro is\nhere, right!"
                             ]
                         },
                         {
@@ -17325,28 +16464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<尻の軽い生徒>「ふふ…明輝ったらさぁ～…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<A student with a loose moral compass> Hehe... Aki, you\nknow..."
                             ]
                         },
                         {
@@ -17379,7 +16497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「\\{わぁあああ!!!!!!\\}」"
+                                "\\N<Hinata Aki> Whaaat!!!!!!"
                             ]
                         },
                         {

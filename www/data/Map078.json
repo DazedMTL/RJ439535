@@ -1519,28 +1519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<同僚>「なんだよ～もう帰っちまうのか？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Colleague> What? Are you already leaving?"
                             ]
                         },
                         {
@@ -1557,28 +1536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<同僚>「これから焼き鳥の美味しい店行こうと思ったのによ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Colleague> I was thinking of going to a delicious\nyakitori restaurant from now on, you know."
                             ]
                         },
                         {
@@ -1595,7 +1553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<同僚>「そっかぁ～…じゃあまたね太郎君」"
+                                "\\N<Colleague> I see... Well then, see you later, Taro-kun."
                             ]
                         },
                         {
@@ -2194,28 +2152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「何だ？人の顔ジロジロ見やがってよ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> What? You're staring at people's faces."
                             ]
                         },
                         {
@@ -2232,28 +2169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「…！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road>「...！」"
                             ]
                         },
                         {
@@ -2270,28 +2186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「お前……租チン野郎じゃねえか」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> You... you're a damn pervert, aren't you?"
                             ]
                         },
                         {
@@ -2308,28 +2203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<横の女>「知り合い～？ねぇ～早くホテル行こうよ～?」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Woman next to me> Do you know each other~? Hey~ let's go\nto the hotel quickly~?"
                             ]
                         },
                         {
@@ -2346,28 +2220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -2384,28 +2237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -2422,28 +2254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「明輝はどうしたのかって？あぁ…あいつか」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> What happened to Aki? Ah... that guy."
                             ]
                         },
                         {
@@ -2460,28 +2271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「……最近飽きちまって抱いてねえな」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> ...I haven't been satisfied lately, haven't\nhad anyone to hold me."
                             ]
                         },
                         {
@@ -2498,14 +2288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「まぁでも俺が紹介した店で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "毎日毎日風呂場で汚ねえおっさんのチンポを奉仕してるよ」"
+                                "\\N<Forest road> Well, but I've been serving the dirty old\nman's dick in the bathroom every day at the restaurant I\nintroduced."
                             ]
                         },
                         {
@@ -2522,28 +2305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「興味があるなら紹介してやろうか？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> If you're interested, should I introduce\nyou?"
                             ]
                         },
                         {
@@ -2567,28 +2329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「…ッチ……無視かよ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Forest road> ...Tch... Ignoring me, huh?"
                             ]
                         },
                         {
@@ -2605,28 +2346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<横の女>「ねぇ～もう終わった？早く行こうよ～」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Woman next to me> Hey~ Are you done already? Let's go\nquickly~"
                             ]
                         },
                         {
@@ -2643,7 +2363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<林道>「あぁそうだな」"
+                                "\\N<Forest road> Ah, yeah, that's right."
                             ]
                         },
                         {
@@ -3046,28 +2766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -3084,7 +2783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "......"
                             ]
                         },
                         {
@@ -3108,28 +2807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -3146,7 +2824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "......"
                             ]
                         },
                         {
@@ -3170,28 +2848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -3208,7 +2865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "......"
                             ]
                         },
                         {
@@ -3232,28 +2889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬちゅ…ぬちょ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Nuchu... Nuchyo..."
                             ]
                         },
                         {
@@ -3287,28 +2923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おっさん>「へへ…噂には聞いてたがこりゃ上玉だぁ…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Old man> Hehe... I've heard the rumors, but this is top-\nnotch..."
                             ]
                         },
                         {
@@ -3325,28 +2940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おっさん>「こんなにデッケエ乳見たことねえぞ？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Old man> I've never seen such huge breasts before, you\nknow?"
                             ]
                         },
                         {
@@ -3363,28 +2957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「お客さんがっつきすぎ～」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> The customer is being too aggressive~"
                             ]
                         },
                         {
@@ -3401,14 +2974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おっさん>「だってよぉ～姉ちゃんの乳もマンコも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最高なんだぜ？」"
+                                "\\N<Old man> Because, you know~ My sister's breasts and\npussy are the best, you know?"
                             ]
                         },
                         {
@@ -3425,28 +2991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おっさん>「これで格安なんだから驚きだぁ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Old man> I'm surprised that it's so cheap."
                             ]
                         },
                         {
@@ -3463,28 +3008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おっさん>「ほ～らチンポ動かすぞぉ～<K♥>」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Old man> Here, I'm moving my penis~ <K♥>"
                             ]
                         },
                         {
@@ -3566,28 +3090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬちょっぬちょ<K♥>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Nuchu... Nuchyo <K♥>"
                             ]
                         },
                         {
@@ -3604,28 +3107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「んっ…んんっ…<K♥>」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Mmm... Ahh... <K♥>"
                             ]
                         },
                         {
@@ -3642,28 +3124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おっさん>「おぉっ\"<K♥>マンコすげぇ<K♥>」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Old man> Ohh, your pussy is amazing!"
                             ]
                         },
                         {
@@ -3680,28 +3141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「お客さんのも凄いよ？<K♥>」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Your thing is amazing too, you know? <K♥>"
                             ]
                         },
                         {
@@ -3718,28 +3158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もうここで何十人…何百人とエッチしてきたけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I've already had sex with dozens... hundreds of people\nhere."
                             ]
                         },
                         {
@@ -3756,7 +3175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ご主人様とのセックスを上書きしてくれる人はまだいない…"
+                                "No one has been able to overwrite the sex with my master\nyet..."
                             ]
                         },
                         {
@@ -3773,28 +3192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この人もそう…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "This person too..."
                             ]
                         },
                         {
@@ -3811,14 +3209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でもここで働いてればいつかご主人様が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アタシを抱いてくれるって約束してくれたから…"
+                                "But because I'm working here, my master promised me that\nsomeday he will embrace me..."
                             ]
                         },
                         {
@@ -3888,14 +3279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「おちんぽおっきぃ～<K♥>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなに大きいおちんぽ初めてかも…<K♥>」"
+                                "\\N<Hinata Aki> Your penis is so big~ <K♥> This might be the\nfirst time I've seen such a big penis... <K♥>"
                             ]
                         },
                         {
@@ -3912,28 +3296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おっさん>「へへ…そうだろ？オラ結構チンポには自信あんだよ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Old man> Hehe... That's right, you know? I have quite a\nbit of confidence in my penis."
                             ]
                         },
                         {
@@ -3950,28 +3313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「うんうんっ…癖になっちゃうデカチンポだよ？<K♥>」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Mmm... It's a big dick that becomes\naddictive, you know? <K♥>"
                             ]
                         },
                         {
@@ -3988,14 +3330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おっさん>「じゃあ毎日通っちゃおうかな<K♥>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "姉ちゃんもちっせえチンポじゃ満足できねえべ？」"
+                                "\\N<Old man> Then should we meet every day <K♥> Big sis,\naren't you unsatisfied with a small dick?"
                             ]
                         },
                         {
@@ -4012,21 +3347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「ホント～？うれしっ<K♥>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ毎日通いたくなるぐらい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おちんぽ気持ちよくしてあげる<K♥>」"
+                                "\\N<Hinata Aki> Really~? I'm so happy <K♥> Then, I'll make\nyour penis feel so good that you'll want to come every day\n<K♥>"
                             ]
                         },
                         {
@@ -4096,28 +3417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぎゅっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "*Squeeze...*"
                             ]
                         },
                         {
@@ -4134,28 +3434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おっさん>「ぉ…おぉ\"…<K♥>すんげえぇ締め付けだぁ<K♥>」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Old man> O... Oh... <K♥> It's such a tight squeeze <K♥>"
                             ]
                         },
                         {
@@ -4172,28 +3451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おっさん>「我慢できねぇ…姉ちゃん舌出してくれや」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Old man> I can't hold it in... Sis, stick out your\ntongue for me."
                             ]
                         },
                         {
@@ -4210,28 +3468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「は～い<K♥>あぁ～ん…<K♥>」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Here you go <K♥> Ahhh... <K♥>"
                             ]
                         },
                         {
@@ -4313,28 +3550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "れろぉ…れろぉ…<K♥>くちゅ<K♥>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Lick... lick... <K♥> Smooch <K♥>"
                             ]
                         },
                         {
@@ -4351,28 +3567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「もぉ～すっごい唾液…クラクラしちゃう<K♥>」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Wow~ Such amazing saliva... It's making me\ndizzy <K♥>"
                             ]
                         },
                         {
@@ -4389,28 +3584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おっさん>「俺にハマっちまったかぁ？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Old man> Have you fallen for me?"
                             ]
                         },
                         {
@@ -4427,14 +3601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「うんっ…<K♥>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アタシお客さんとのエッチにハマっちゃったぁ<K♥>」"
+                                "\\N<Hinata Aki> Mmm... <K♥> I've become addicted to having\nsex with customers <K♥>"
                             ]
                         },
                         {
@@ -4451,28 +3618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おっさん>「じゃあオラ頑張っちまうぞ……<K♥>」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Old man> Alright, then I'll do my best... <K♥>"
                             ]
                         },
                         {
@@ -4542,28 +3688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パンッパンッ…<K♥>パンッ…<K♥>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "*Slap...* *Slap...*"
                             ]
                         },
                         {
@@ -4580,28 +3705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「あっ<K♥>あぁっ…<K♥>」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Ah <K♥> Ahh... <K♥>"
                             ]
                         },
                         {
@@ -4618,14 +3722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「おまんこ越しでもおちんぽが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヒクヒクしてるの分かるっ<K♥>」"
+                                "\\N<Hinata Aki> Even through my pussy, I can feel your cock\nthrobbing <K♥>"
                             ]
                         },
                         {
@@ -4659,14 +3756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「お客さん…出したいんでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アタシにザーメンぴゅっぴゅしたいんでしょ？」"
+                                "\\N<Hinata Aki> You want to release, don't you? You want to\nshoot your semen all over me, right?"
                             ]
                         },
                         {
@@ -4683,28 +3773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おっさん>「あぁ出ちまう<K♥>中に出してもいいかぁ？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Old man> Ah, I'm going to cum <K♥> Can I cum inside?"
                             ]
                         },
                         {
@@ -4721,14 +3790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「中はだめ…<K♥>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中は…もっといっぱい来てくれたら…ね？」"
+                                "\\N<Hinata Aki> Inside is not allowed... <K♥> If only you\ncould come more inside... right?"
                             ]
                         },
                         {
@@ -4745,28 +3807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おっさん>「お…おぉ…!!いっぱい通うべ！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Old man> Oh... Ohh...!! I want to go in a lot!"
                             ]
                         },
                         {
@@ -4800,28 +3841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パンッパンッ…<K♥>パンッ…<K♥>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "*Slap...* *Slap...*"
                             ]
                         },
                         {
@@ -4838,14 +3858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「お”ぉ…おおぉ…<K♥>はげしっ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出るんだね？精子込み上げて来てるんだね？」"
+                                "\\N<Hinata Aki> Oh... Ohh... <K♥> It's intense... You're\ngoing to cum, right? Your semen is surging up, isn't it?"
                             ]
                         },
                         {
@@ -4862,28 +3875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おっさん>「イクッ…イグべっ<K♥>」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Old man> I'm cumming... I'm cumming <K♥>"
                             ]
                         },
                         {
@@ -4933,28 +3925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "びゅ…びゅるるるぅ……<K♥>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Byu... byurururuu... <K♥>"
                             ]
                         },
                         {
@@ -5007,28 +3978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「はぁ…はぁ…<K♥>」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Haa... haa... <K♥>"
                             ]
                         },
                         {
@@ -5045,28 +3995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おっさん>「すんげぇ～出ちまった…<K♥>」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Old man> I came so hard... <K♥>"
                             ]
                         },
                         {
@@ -5083,14 +4012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おっさん>「なぁ姉ちゃんまだ時間余ってるよなぁ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だったら…」"
+                                "\\N<Old man> Hey, sis, if we still have some time left...\nthen..."
                             ]
                         },
                         {
@@ -5107,7 +4029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「うん…もう一回しよっか…<K♥>」"
+                                "\\N<Hinata Aki> Yeah... Shall we do it one more time...\n<K♥>"
                             ]
                         },
                         {
@@ -5150,28 +4072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -5188,7 +4089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "......"
                             ]
                         },
                         {
@@ -5212,28 +4113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -5250,7 +4130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "......"
                             ]
                         },
                         {
@@ -5274,28 +4154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -5312,7 +4171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "......"
                             ]
                         },
                         {
@@ -5329,28 +4188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "初めてご主人様以外の人とエッチした時は凄く驚いた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I was really surprised the first time I had sex with\nsomeone other than my master."
                             ]
                         },
                         {
@@ -5367,14 +4205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんなに優しくてゆっくりと弱弱しいセックスじゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アタシ満足できない"
+                                "I can't be satisfied with such gentle, slow, and weak sex\nlike this."
                             ]
                         },
                         {
@@ -5391,28 +4222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの獣の様に本能でするセックスをしたい…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I want to have sex like that beast, driven by instinct..."
                             ]
                         },
                         {
@@ -5429,14 +4239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "腰を打ち付けられる度に女らしさを捨てた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下品で汚い声が漏れてしまうセックス…"
+                                "Every time my waist is pounded, I lose my femininity and\nlet out vulgar, dirty voices during sex..."
                             ]
                         },
                         {
@@ -5453,14 +4256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このお店でいっぱい頑張れば…いつかまたアタシを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "抱いてくれるよね…ご主人様…<K♥>"
+                                "If I work hard at this shop... someday, my master will\nembrace me again... won't you, my master... <K♥>"
                             ]
                         },
                         {
@@ -5524,7 +4320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "林道END"
+                                "Forest Path END"
                             ]
                         },
                         {
@@ -5684,14 +4480,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "セーブしますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "<N※回想部屋にイベントが反映されます>"
+                                "Do you want to save? <N※Events will be reflected in the\nflashback room>"
                             ]
                         },
                         {

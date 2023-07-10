@@ -4885,7 +4885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "閉まっていて入ることはできない。"
+                                "It's closed and you can't enter."
                             ]
                         },
                         {
@@ -5059,7 +5059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "閉まっていて入ることはできない。"
+                                "It's closed and you can't enter."
                             ]
                         },
                         {
@@ -9909,7 +9909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "閉まっていて入ることはできない。"
+                                "It's closed and I can't enter."
                             ]
                         },
                         {
@@ -10083,7 +10083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "閉まっていて入ることはできない。"
+                                "It's closed and I can't enter."
                             ]
                         },
                         {

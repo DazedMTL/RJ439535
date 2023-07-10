@@ -2678,7 +2678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<楽しそうな子>「やっぱりブランコが一番楽しいやっ」"
+                                "\\N<Happy-looking child> Swings are definitely the most\nfun!"
                             ]
                         },
                         {
@@ -2755,7 +2755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ソウタの友達>「さっきカブトムシ見つけたぜ！いいだろ！」"
+                                "\\N<Sota's friend> I found a stag beetle earlier! Isn't it\ncool!"
                             ]
                         },
                         {
@@ -2832,7 +2832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<落ち着いた子>「お兄ちゃん幸薄そうだね」"
+                                "\\N<Calm child> Big brother, you seem unlucky."
                             ]
                         },
                         {
@@ -2909,7 +2909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<泥だらけの子>「頑張って逆上がりできるようになるんだっ！」"
+                                "\\N<Muddy child> I'm going to work hard and learn how to do\na backflip!"
                             ]
                         },
                         {
@@ -3037,7 +3037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "明輝と話している"
+                                "Talking with Aki"
                             ]
                         },
                         {
@@ -3216,7 +3216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "明輝とソウタが話しています"
+                                "Aki and Souta are talking."
                             ]
                         },
                         {
@@ -3233,14 +3233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "話しかけますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ソウタイベントが進みます)"
+                                "Shall I start a conversation? (Souta's event will\nprogress)"
                             ]
                         },
                         {
@@ -3336,7 +3329,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「逆上がりなんて簡単だよ」"
+                                "\\N<Hinata Aki> Doing a backflip is so easy!"
                             ]
                         },
                         {
@@ -3623,28 +3616,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「こうだよこう！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Like this, like this!"
                             ]
                         },
                         {
@@ -3661,7 +3633,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「どう～？簡単でしょ！」"
+                                "\\N<Hinata Aki> How about this? It's easy, right!"
                             ]
                         },
                         {
@@ -3721,7 +3693,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ソウタ>「んっ！！」"
+                                "\\N<Souta> Hmm!"
                             ]
                         },
                         {
@@ -4058,7 +4030,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ソウタ>「出来た・・・！」"
+                                "\\N<Souta> I did it...!"
                             ]
                         },
                         {
@@ -4109,28 +4081,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「お～うまいうまい！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Oh~ It's delicious!"
                             ]
                         },
                         {
@@ -4163,28 +4114,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「やればできるじゃん！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> You can do it if you try!"
                             ]
                         },
                         {
@@ -4201,7 +4131,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ソウタ>「明輝姉ちゃんのおかげだよ！」"
+                                "\\N<Souta> Thanks to Aki-neechan!"
                             ]
                         },
                         {
@@ -4218,7 +4148,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「へへ～まあね～アタシは指導の天才だから！」"
+                                "\\N<Hinata Aki> Hehe~ Well, you know~ I'm a genius at\nteaching!"
                             ]
                         },
                         {
@@ -4289,7 +4219,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「あれ太郎じゃん居たんだ」"
+                                "\\N<Hinata Aki> Oh, it's Taro! I didn't realize you were\nhere."
                             ]
                         },
                         {
@@ -4306,7 +4236,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ソウタ>「・・・」"
+                                "\\N<Sota>「...」"
                             ]
                         },
                         {
@@ -4323,7 +4253,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「ソウタに逆上がり教えてた所なんだ～」"
+                                "\\N<Hinata Aki> I was teaching Sota how to do a backflip~"
                             ]
                         },
                         {
@@ -4340,7 +4270,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「そういえば太郎は小さい頃から逆上がり出来なかったよね」"
+                                "<Hinata Aki> By the way, Taro couldn't do a backflip since\nhe was little, right?"
                             ]
                         },
                         {
@@ -4357,7 +4287,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「ソウタに先越されちゃってやんの～」"
+                                "<Hinata Aki> Sota surpassed me~"
                             ]
                         },
                         {
@@ -4374,7 +4304,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ソウタ>「へぇ～太郎兄ちゃんは出来ないんだ」"
+                                "\\N<Sota> Oh~ Taro-niichan can't do it, huh?"
                             ]
                         },
                         {
@@ -4391,7 +4321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ソウタ>「ちょっと頑張ればすぐできたけどなぁ」"
+                                "\\N<Sota> I could do it right away if I tried a little\nharder."
                             ]
                         },
                         {
@@ -4408,7 +4338,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<日向明輝>「アハハ～言われてるぞ～」"
+                                "<Hinata Aki> Ahaha~ I'm being talked about~"
                             ]
                         },
                         {
@@ -4475,7 +4405,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・"
+                                "..."
                             ]
                         },
                         {
@@ -4492,7 +4422,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・・・・"
+                                "......"
                             ]
                         },
                         {
@@ -5369,28 +5299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「あれ～…ここでもないかぁ～」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Huh... It's not here either, huh~"
                             ]
                         },
                         {
@@ -5407,28 +5316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「う～ん…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Hmm..."
                             ]
                         },
                         {
@@ -5445,28 +5333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>「...」"
                             ]
                         },
                         {
@@ -5483,28 +5350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「…！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki>「...！」"
                             ]
                         },
                         {
@@ -5537,28 +5383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「太郎～！アタシのスマホ知らない～？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Taro~! Do you know where my phone is?"
                             ]
                         },
                         {
@@ -5575,28 +5400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「気づいたら無くなってたんだよね」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> I noticed that it was gone."
                             ]
                         },
                         {
@@ -5644,28 +5448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「そっかぁ…そうだよね～…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> I see... That's right, huh~..."
                             ]
                         },
                         {
@@ -5713,28 +5496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「心当たりはね…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> I don't have any idea..."
                             ]
                         },
                         {
@@ -5751,14 +5513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「教室で補習受けたでしょ～…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その後部活行ったでしょ～…？」"
+                                "\\N<Hinata Aki> You took supplementary lessons in the\nclassroom, right~? And then you went to club activities,\nright~?"
                             ]
                         },
                         {
@@ -5775,14 +5530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「最後に公園で遊んだから…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この3つの何処かだと思うんだよね」"
+                                "\\N<Hinata Aki> We played at the park last, so I think it's\nsomewhere among these three."
                             ]
                         },
                         {
@@ -5846,14 +5594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「大丈夫大丈夫！アタシが無くしたんだし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アタシが探すよ！」"
+                                "\\N<Hinata Aki> It's okay, it's okay! Since I'm the one who\nlost it, I'll be the one to look for it!"
                             ]
                         },
                         {
@@ -5870,7 +5611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「よ～しっ！頑張って探すぞ～！！」"
+                                "\\N<Hinata Aki> Alrighty! I'll do my best to search for\nit~!!"
                             ]
                         },
                         {
@@ -6077,28 +5818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「あれ～…ここでもないかぁ～」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Huh... It's not here either, huh~"
                             ]
                         },
                         {
@@ -6115,28 +5835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「う～ん…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Hmm..."
                             ]
                         },
                         {
@@ -6470,28 +6169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -6508,7 +6186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "......"
                             ]
                         },
                         {
@@ -6525,28 +6203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -6563,7 +6220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "......"
                             ]
                         },
                         {
@@ -6580,28 +6237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -6618,7 +6254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "......"
                             ]
                         },
                         {
@@ -6709,28 +6345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「ソウタ～！！今日は沢山遊ぶぞ～！！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Souta~!! Today, we're going to play a\nlot~!!"
                             ]
                         },
                         {
@@ -6781,7 +6396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ソウタ>「いいの…！？やったぁ！」"
+                                "\\N<Sota> Is it okay...!? Yay!"
                             ]
                         },
                         {
@@ -6798,14 +6413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ソウタ>「…でも明輝姉ちゃんホシュウってやつ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だったんじゃないの？」"
+                                "\\N<Sota> ...But, wasn't it Hinata-neechan who wanted to go\nstargazing?"
                             ]
                         },
                         {
@@ -6922,28 +6530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「んぐっ…補習はもう受けてきたの！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Ugh... I've already taken my supplementary\nlessons!"
                             ]
                         },
                         {
@@ -6960,14 +6547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「今日は部活も無いし遊んでやろうと思ったのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "可愛くないなぁ～」"
+                                "\\N<Hinata Aki> I thought we could play today since we don't\nhave club activities, but you're not being cute at all~"
                             ]
                         },
                         {
@@ -7018,14 +6598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ソウタ>「ふ～んじゃあ今日明輝姉ちゃんの家に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "泊まりに行ってもいい？」"
+                                "\\N<Sota> Hmm, then is it okay if I stay over at Aki-\nneechan's house today?"
                             ]
                         },
                         {
@@ -7058,14 +6631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「…今日？ん～…良いけど一応お母さんに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確認しないとだよ」"
+                                "<Hinata Aki> ...Today? Hmm... It's fine, but I should check\nwith my mom just in case."
                             ]
                         },
                         {
@@ -7082,14 +6648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ソウタ>「それなら大丈夫！明輝姉ちゃんのお母さんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良いよって言ってた！」"
+                                "\\N<Sota> If that's the case, it's fine! Aki-neechan's mom\nsaid it's okay!"
                             ]
                         },
                         {
@@ -7106,28 +6665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「そうなの？いつのまに…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "<Hinata Aki> Is that so? Since when..."
                             ]
                         },
                         {
@@ -7144,14 +6682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「じゃあ暗くなるまでサッカーでもしよっか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずっとテスト勉強で一緒に出来なかったからね」"
+                                "\\N<Hinata Aki> Then, how about playing soccer until it gets\ndark? We haven't been able to do it together because of\nstudying for tests."
                             ]
                         },
                         {
@@ -7168,7 +6699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ソウタ>「やった〜！」"
+                                "\\N<Sota> Yay~!"
                             ]
                         },
                         {
@@ -7514,7 +7045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ソウタ>「俺マジでうまくなったぜ？」"
+                                "\\N<Sota> I seriously got better, you know?"
                             ]
                         },
                         {
@@ -7531,28 +7062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ソウタ>「明輝姉ちゃんにはもう負けねえから！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Sota> I won't lose to Aki-neechan anymore!"
                             ]
                         },
                         {
@@ -7603,28 +7113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「生意気言うようになったねソウタ！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> You've become quite cheeky, Sota!"
                             ]
                         },
                         {
@@ -7641,28 +7130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「アタシとソウタの実力差は太陽と亀だよ！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> The difference in skill between me and Sota\nis like the sun and a turtle!"
                             ]
                         },
                         {
@@ -7679,28 +7147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ソウタ>「明輝姉ちゃんそれを言うなら月とスッポンだよ…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Sota> If you say that, Aki-neechan, then it's like the\nmoon and a turtle..."
                             ]
                         },
                         {
@@ -7733,28 +7180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「う、うるさい！！そんなに変わらないよ！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> S-Stop it! It's not that different!"
                             ]
                         },
                         {
@@ -7771,28 +7197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「あんまり生意気言うと手加減してあげないからね」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> If you get too cheeky, I won't go easy on\nyou, you know?"
                             ]
                         },
                         {
@@ -7825,28 +7230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「よ～し…じゃあさっそく…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N Hinata Aki: Alright... then let's get started..."
                             ]
                         },
                         {
@@ -7863,28 +7247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ソウタ>「あれ～明輝姉ちゃんのスカートに砂ついてるよ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Sota> Hey~ Aki-neechan, there's sand on your skirt."
                             ]
                         },
                         {
@@ -8017,28 +7380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「え？そう？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Huh? Is that so?"
                             ]
                         },
                         {
@@ -8055,28 +7397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ソウタ>「うん～ほらここっ！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Sota> Yeah~ Look here!"
                             ]
                         },
                         {
@@ -8148,28 +7469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サスッ…<K♥>サスッ…<K♥>"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Sasu... <K♥> Sasu... <K♥>"
                             ]
                         },
                         {
@@ -8195,28 +7495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「わっ…！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Ah...!"
                             ]
                         },
                         {
@@ -8233,28 +7512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ソウタ>「あれ～…うまく取れないなぁ…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Sota> Hmm... I can't seem to get it right..."
                             ]
                         },
                         {
@@ -8271,28 +7529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ソウタ>(明輝姉ちゃんの尻でけ～<K♥>)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Sota>(Aki-neechan's butt is big~<K♥>)"
                             ]
                         },
                         {
@@ -8309,28 +7546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ソウタ>(生で見て～なぁ～<K♥>)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Sota> I wish I could see it live~<K♥>"
                             ]
                         },
                         {
@@ -8347,28 +7563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「んっ…と、とれた？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Hmm... Did I get it?"
                             ]
                         },
                         {
@@ -8404,28 +7599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ソウタ>「ん～もう少しかな…<K♥>」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Sota> Hmm... just a little more... <K♥>"
                             ]
                         },
                         {
@@ -8442,28 +7616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「うぅ…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Ugh..."
                             ]
                         },
                         {
@@ -8480,28 +7633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ソウタ>「へへ…<K♥>取れた取れた<K♥>」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Sota> Hehe... <K♥> I got it, I got it! <K♥>"
                             ]
                         },
                         {
@@ -8577,28 +7709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<日向明輝>「ん…あ、ありがと」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Hinata Aki> Hmm... Ah, thank you."
                             ]
                         },
                         {
@@ -8649,28 +7760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ソウタ>「じゃあサッカーしようか<K♥>」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "\\N<Sota> Shall we play soccer? <K♥>"
                             ]
                         },
                         {
@@ -8756,28 +7846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -8794,28 +7863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -8832,28 +7880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -8870,28 +7897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "......"
                             ]
                         },
                         {
@@ -8908,28 +7914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "..."
                             ]
                         },
                         {
@@ -8946,7 +7931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "......"
                             ]
                         },
                         {
